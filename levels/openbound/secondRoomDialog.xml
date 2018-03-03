@@ -1,7 +1,7 @@
 <sburb><classes>
-<action class='araneaDialog1' name='Talk to Aranea.' command='talk'><args>
-      @aranea_happier ARANEA: There you are! 
-      @aranea_happy:#Everyone-has-missed-you! ARANEA: Haven't seen much of you since you joined us in the afterlife. I know you are "royalty" and all, 8ut it isn't very socia8le of you to lock yourself in your lavish moon hive forever.
+<action class='araneaDialog1' name='Parle à Aranea.' command='talk'><args>
+      @aranea_happier ARANEA: Te voilà ! 
+      @aranea_happy:#Tu as manqué à tout le monde! ARANEA: On ne t’a pas 8eaucoup vue depuis que tu nous as rejoints dans l’audelà.Je sais que tu fais partie de la "royauté" et tout, mais ce n’est pas très poli de ta part de t’enfermer dans ton somptueux nid lunaire pour toujours. 
       @meenah_talk MEENAH: well im here now arent i
       @aranea_talk:#Wordplay#8-letter-words#Oh-yes ARANEA: Yes. And it's good thing you are. I was just a8out to come find you, so we could discuss the recent... Calamity. Out in the a8yss.
       @meenah_creepytalk:#splosions MEENAH: yeah!!! so you saw it too huh
