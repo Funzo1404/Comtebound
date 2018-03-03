@@ -1,36 +1,36 @@
 <sburb><classes>
 <action class='araneaDialog1' name='Parle à Aranea.' command='talk'><args>
       @aranea_happier ARANEA: Te voilà ! 
-      @aranea_happy:#Tu-as-manqué-à-tout-le-monde! ARANEA: On ne t’a pas 8eaucoup vue depuis que tu nous as rejoints dans l’audelà.Je sais que tu fais partie de la "royauté" et tout, mais ce n’est pas très poli de ta part de t’enfermer dans ton somptueux nid lunaire pour toujours. 
-      @meenah_talk MEENAH: well im here now arent i
-      @aranea_talk:#Wordplay#8-letter-words#Oh-yes ARANEA: Yes. And it's good thing you are. I was just a8out to come find you, so we could discuss the recent... Calamity. Out in the a8yss.
-      @meenah_creepytalk:#splosions MEENAH: yeah!!! so you saw it too huh
-      @meenah_happytalk:#skull-guy#laser-breath MEENAH: that was the guy right
-      @meenah_idle:#uh MEENAH: lord somefin
-      @meenah_talk MEENAH: clamiborn? whatd you say his shit was again
-      @aranea_annoyedtalk:#8ad-juju ARANEA: I'd try to avoid saying his true name.
-      @meenah_annoyed MEENAH: whats it matter
-      @meenah_talk:#heheh MEENAH: hes already here aint he
-      @aranea_madtalk:#Ghost-murder#Second-death#Soulicide ARANEA: I guess. 8ut yes, the Lord of Time was responsi8le for the destruction of that dream 8u88le, and the murder of all those innocent ghosts.
-      @meenah_idle:#... MEENAH: innocent ghosts
-      @meenah_annoyedtalk:#dumb MEENAH: killin ghosts as a thing that can happen is seriously the dumbest shit i ever heard 
-      @aranea_happytalk:#Like-you ARANEA: I don't make the rules, Meenah. I merely o8serve them, and explain them thoroughly to anyone who will listen.
-      @meenah_fish MEENAH: yeah 
-      @meenah_talk:#fishpuns#2xcombo#booyeah MEENAH: last thing i need is anemonemore of your lobstervations
-      @meenah_creepy MEENAH: anyway that explosion kicked ass
-      @meenah_creepylaugh:#like-school-of-fishes-i-mean#38D#38D#38D MEENAH: splosions rule the school!!! 38D 
-      @aranea_talk:#Um........ ARANEA: I agree that it's more excitement than we've seen here for millenia. 8ut all of us here in the afterlife are in serious danger of 8eing extermin8ed!!!!!!!!
-      @aranea_think:#!!!!!!!! ARANEA: Again.
-      @meenah_idle MEENAH: yeah i got that
-      @meenah_happytalk:#this-time-i-might-not-even-blow-yall-up-w-a-bomb MEENAH: i figured id have to be the heroe and bail you suckas out again
-      @aranea_surprised ARANEA: Oh really?
-      @aranea_happier:#I'm-very-curious! ARANEA: What exactly is your plan?
-      @meenah_angrytalk:#duh MEENAH: to get all us ghosts here to team up and kill that asshole
-      @aranea_angry ARANEA: What!
-      @aranea_facepalmtalk:#Poor-death-choices ARANEA: Oh, Meenah. That is such a terri8le idea.
-      @meenah_idle MEENAH: yeah right
-      @meenah_happy MEENAH: like you have a better idea
-      @aranea_happy ARANEA: As a matter of fact, I do! ::::)
+      @aranea_happy:#Tu-as-manqué-à-tout-le-monde! ARANEA: On ne t’a pas 8eaucoup vue depuis que tu nous as rejoints dans l’au-delà. Je sais que tu fais partie de la "royauté" et tout, mais ce n’est pas très poli de ta part de t’enfermer dans ton somptueux nid lunaire pour toujours. 
+      @meenah_talk MEENAH: ben je suis la maintenant hein
+      @aranea_talk:#Jeu-de-mots #Mots-en-8-lettres #Oh-oui ARANEA:  Et c’est une 8onne chose que tu le sois. Je m’apprêtais à venir te voir, afin de discuter de cette récente... calamité. En li8erté dans l’a8ysse.
+      @meenah_creepytalk:#splosions MEENAH: ouais !!! donc tu las vu aussi hein
+      @meenah_happytalk:#le-mec-au-crane #souffle-laser MEENAH: cetait lui pas vrai
+      @meenah_idle:#uh MEENAH: lord marin truc
+      @meenah_talk MEENAH: calhuitreborn ? ctait quoi son nom deja 
+      @aranea_annoyedtalk:#Mauvais-juju ARANEA: J’aimerais éviter d’avoir à dire son vrai nom.
+      @meenah_annoyed MEENAH: cest quoi le probleme
+      @meenah_talk:#heheh MEENAH: il est deja la cest ca
+      @aranea_madtalk:#Meurtre-fantôme #Seconde-mort #Espricide ARANEA:  J’imagine. Néanmoins, oui, le Seigneur du Temps était 8ien le responsa8le de la destruction de cette 8ulle onirique, ainsi que du meurtre de tous ces fantômes innocents.
+      @meenah_idle:#... MEENAH: fantomes innocents
+      @meenah_annoyedtalk:#stupide MEENAH: tuer des fantomes en tant que chose qui puisse arriver est lune des conneries les plus stupides que jai jamais entendues 
+      @aranea_happytalk:#Comme toi ARANEA: Ce n’est pas moi qui décide des règles, Meenah. Je me contente de les o8server, et de les expliquer en détail aux personnes prêtes à écouter.
+      @meenah_fish MEENAH: ouais 
+      @meenah_talk:#combo-jeux-de-mots-marins-x2 #booyeah MEENAH: la derniere chose dont jai besoin est ancre plus de rhomardques venant de toi
+      @meenah_creepy MEENAH: quoi quil en soit cette explosion etait mortelle
+      @meenah_creepylaugh:#vive les explosions #38D #38D #38D MEENAH:  bardel quest ce que cest cool !!! 38D 
+      @aranea_talk:#Um........ ARANEA: J’admets que tout cela est 8ien plus excitant que tout ce que nous avons pu voir ici depuis des millénaires. Mais tous ceux résidant dans l’au-delà sont en danger de mort !!!!!!!!
+      @aranea_think:#!!!!!!!! ARANEA: Une fois de plus.
+      @meenah_idle MEENAH: ouais jai pige
+      @meenah_happytalk:#ptetre-meme-que-cette-fois-je-le-ferai-sans-vous-faire-peter-une-bombe-dans-la-tronche MEENAH: donc jen deduis quil va falloir que je joue les heroines pour sauver vos culs une fois de plus
+      @aranea_surprised ARANEA: Oh vraiment?
+      @aranea_happier:#J’aimerais-8ien-le-savoir! ARANEA: En quoi consiste ton plan exactement?
+      @meenah_angrytalk:#duh MEENAH: rassembler tous les fantomes ici pour faire une equipe et tuer ce trou du cul
+      @aranea_angry ARANEA: Quoi?!
+      @aranea_facepalmtalk:#Triste-façon-de-mourir ARANEA: Oh, Meenah. C’est une si mauvaise idée.
+      @meenah_idle MEENAH: ouais cest ca
+      @meenah_happy MEENAH: comme si tavais un meilleur plan
+      @aranea_happy ARANEA: Il se pourrait 8ien qu’en fait, oui ! ::::)
       <!--  -->
 </args></action>
 
