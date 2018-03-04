@@ -77,73 +77,73 @@
       <!--  -->
 </args></action>
 
-<action class='roseDialog1' name='Talk to Rose.' command='talk'><args>
+<action class='roseDialog1' name='Parle à Rose.' command='talk'><args>
       @meenah_creepy MEENAH: hey!!!!
-      @rose_idle ROSE: Hello.
-      @meenah_annoyed MEENAH: its uh
-      @meenah_happier MEENAH: YOU
-      @rose_idle ROSE: Yes.
-      @meenah_wut:#where-da-horns-at#so-weird MEENAH: human right
-      @rose_talk ROSE: That's right.
-      @rose_talk ROSE: Rose, more specifically.
-      @meenah_talk MEENAH: who cares listen human girl wanna ask ya somefin
-      @rose_concern ROSE: You're not very good at this, are you?
-      @meenah_wut2 MEENAH: wut
-      @rose_annoyedtalk ROSE: Talking to people.
-      @meenah_wut2 MEENAH: hey eff you
-      @rose_happytalk:#I-can-kind-of-relate,-actually. ROSE: It's ok that you are. I'm not trying to criticize.
-      @rose_concern:#Beforan-moon ROSE: I've heard some things about you. That pink rocky environment back there. That's a memory of your home, right?
+      @rose_idle ROSE: Bonjour.
+      @meenah_annoyed MEENAH: cest uh
+      @meenah_happier MEENAH: TOI
+      @rose_idle ROSE: Oui.
+      @meenah_wut:#sont-ou-les-cornes#trop-zarb lhumaine hein
+      @rose_talk ROSE: C’est bien ça.
+      @rose_talk ROSE: Rose, plus spécifiquement.
+      @meenah_talk MEENAH: osef ecoute fille humaine jvoudrais te demander un truc
+      @rose_concern ROSE: Tu n’es pas très douée pour ça, pas vrai ?
+      @meenah_wut2 MEENAH: hein
+      @rose_annoyedtalk ROSE: Parler aux gens.
+      @meenah_wut2 MEENAH: hey va te faire
+      @rose_happytalk:#Je-suis-un-peu-pareille,-pour-être-honnête. Ce n’est pas un problème en soi. Je ne suis pas là pour critiquer.
+      @rose_concern:#Lune-beforienne ROSE: J’ai entendu des choses sur toi. Le paysage rocailleux rose là-bas. C’est un souvenir de ta maison, je me trompe ?
       @meenah_annoyed:#... MEENAH: 
-      @rose_talk ROSE: You renounced the throne and ran away to the moon, didn't you? And then you lived there completely alone for... how many years?
-      @meenah_wut2 MEENAH: what are years
-      @rose_happytalk:#Abyss-madness#Meteor-fever ROSE: I think I'm starting to lose track of what a year is myself. That seems to be what happens when you spend enough time out here.
-      @meenah_annoyed MEENAH: uh
-      @rose_coytalk:#Also,-I-like-your-braids. ROSE: I'm just curious about you. You seem like an interesting person who probably has a lot of stories to tell.
-      @rose_concern ROSE: From what I understand, you discovered something on the moon which originally contained your copy of the game? Is that true?
-      @meenah_idle:#dot#dot#dot MEENAH: ...
-      @rose_happytalk ROSE: Maybe we could spend some time together and get to know each other? When you have the chance, of course.
-      @meenah_annoyed MEENAH: man
-      @meenah_annoyedtalk MEENAH: youre like an alien windfang
-      @meenah_talk:#altpun-=#discernabubble MEENAH: all wordy and nosy and nice to me for no fishcernible reason
-      @meenah_happytalk:#goddamn-ugly MEENAH: you even have the same cod tier jammies on
-      @meenah_creepylaugh:#fuchsia-blows-orange-out-of-the-water MEENAH: just another bright orange blubbermouth
-      @meenah_annoyed MEENAH: lets just forget i said anyfin kay
+      @rose_talk ROSE: Tu t’es enfuie sur cette lune après avoir refusé le trône, c’est ça ? Et ensuite tu as vécu là-bas complètement seule pendant... combien d’années déjà ?
+      @meenah_wut2 MEENAH: cest quoi des annees
+      @rose_happytalk:#Folie-de-l’abîme#Fièvre-du-météore ROSE: Je pense que je suis moi-même en train de perdre la notion de ce qu’est une année. On dirait que c’est ce qui arrive quand on passe trop de temps par ici.
+      @meenah_annoyed MEENAH: heu
+      @rose_coytalk:#Aussi,-j’adore-tes-nattes ROSE: Je suis juste curieuse à ton sujet. Tu m’as l’air d’être une personne intéressante qui a beaucoup de choses à raconter.
+      @rose_concern ROSE: De ce que j’ai compris, tu as découvert quelque chose sur la lune qui contenait ta copie du jeu. Est-ce que c’est vrai ?
+      @meenah_idle:#point#point#point MEENAH: ...
+      @rose_happytalk ROSE: Peut-être pourrait-on passer un peu de temps ensemble afin de mieux se connaître ? Quand tu auras le temps, bien sûr.
+      @meenah_annoyed MEENAH: mon dieu
+      @meenah_annoyedtalk MEENAH: tes comme blablafang en alien
+      @meenah_talk:#alternativement-=#appatrente MEENAH: toute bavarde et fouineuse et gentille avec moi sans aucune raison discernabulle
+      @meenah_happytalk:#affreusement-moche MEENAH: tas meme le pyjama de tirant divin qui va avec
+      @meenah_creepylaugh:#le-fuschia-demonte-completement-lorange MEENAH: juste une autre pipelette en orange vif
+      @meenah_annoyed MEENAH: oublie que je tai parle kay
       <!--  -->
 </args></action>
 
-<action class='roseDialog2' name='Ask Rose to join.' command='talk'><args>
-      @meenah_fish MEENAH: sooooo
-      @meenah_fishtalk MEENAH: extra talky human
-      @meenah_happytalk:#suuup MEENAH: its me again
-      @rose_happy:#:) ROSE: Hey!
-      @meenah_talk MEENAH: got a porpoisition for ya
-      @meenah_talk MEENAH: you know that bad guy
-      @meenah_happytalk:#rainbow-barfer MEENAH: just wrecked the sky and killed some dead mofos
-      @rose_annoyed ROSE: Lord English?
-      @rose_sad ROSE: Yes, I know of him.
-      @meenah_creepytalk MEENAH: wanna team up with me and kill him or...
-      @rose_idle ROSE: Absolutely.
-      @meenah_happier:#word MEENAH: yay!!!! 38D
-      @rose_happy:#Much-later,-really. ROSE: But later. 
-      @meenah_wut2:#ugh MEENAH: gfd
-      @rose_talk:#Troll-Isaac-Newton ROSE: We can't interrupt the plan which has been put into inexorable motion. Or for that matter, the meteor we're traveling on, which has been similarly propelled.
-      @rose_talk:#Alpha-players#Teen-guardians#Fun ROSE: We have to rendezvous with our rebooted "ancestors," as it were, and help them win their game.
-      @rose_happytalk:#Additional-fun ROSE: In the process, we will ideally become stronger and more experienced. Only then will we be ready to help you defeat him.
-      @meenah_talk:#blahblahblahblahblah MEENAH: oh my glub you really are serketting the fuck outta this
-      @meenah_annoyedtalk MEENAH: come on stop overplanning lets all just fly away together and wreck his shit
-      @meenah_happytalk:#BILLIONS#i-mean#probably MEENAH: there are like billions a ghosts out here right we got numbers on our side
-      @rose_annoyedtalk ROSE: Yes. But even if I agreed, I couldn't just fly away with you now.
-      @rose_concern:#Kind-of-like-a-hologram,-I-guess? ROSE: I'm not even standing here. I'm asleep on our meteor. This is a dream projection you're talking to.
-      @meenah_annoyed:#wut MEENAH: wut
-      @rose_laugh ROSE: You're new to dream bubbles, aren't you.
-      @rose_coytalk ROSE: I would be more than happy to explain to you how they work in extensive detail.
-      @meenah_angry MEENAH: ugh
-      @meenah_angrytalk MEENAH: LIG)(T PLAY-ERS
-      @meenah_annoyedtalk MEENAH: later rosefang
+<action class='roseDialog2' name='Demande à Rose de se joindre à toi.' command='talk'><args>
+      @meenah_fish MEENAH: dooooonc
+      @meenah_fishtalk MEENAH: humaine super bavarde
+      @meenah_happytalk:#saluuut MEENAH: cest encore moi
+      @rose_happy:#:) ROSE: Salut !
+      @meenah_talk MEENAH: jai une propoissonsition pour toi
+      @meenah_talk MEENAH: tu sais le mechant la
+      @meenah_happytalk:#degueuleur-darcs-en-ciel MEENAH: qua juste demoli le ciel et tue quelques bonhommes
+      @rose_annoyed ROSE: Lord English ?
+      @rose_sad ROSE: Oui, je le connais.
+      @meenah_creepytalk MEENAH: ca te tenterait de faire equipe avec moi pour le tuer ou bien...
+      @rose_idle ROSE: Absolument.
+      @meenah_happier:#check-ca MEENAH: ouais !!!! 38D
+      @rose_happy:#Beaucoup-plus-tard,-en-fait ROSE: Mais plus tard. 
+      @meenah_wut2:#arg MEENAH: putain de merde
+      @rose_talk:#Troll-Isaac-Newton ROSE: Nous ne pouvons freiner l’opération qui s’est inexorablement mise en marche. Pas plus, puisqu’on en parle, que le météore sur lequel nous voyageons, qui s’est ébranlé de manière similaire.
+      @rose_talk:#Joueurs-alphas#Gardiens-adolescents#Fun ROSE: Nous avons rendez-vous avec nos "ancêtres" scratchés, afin de les aider à réussir leur session.
+      @rose_happytalk:#Fun-additionnel ROSE: Au travers de ce processus, nous deviendrons idéalement plus forts et expérimentés. Ce sera seulement à ce moment-là que nous serons prêts à t’aider.
+      @meenah_talk:#blahblahblahblahblah MEENAH: oh mon glub tes en train de serketter tout ca a un point
+      @meenah_annoyedtalk MEENAH: allez arrete de tout planifier on na qua juste senvoilier au loin ensemble et ruiner son bordel
+      @meenah_happytalk:#D-ES-MILLIARDS#enfin#probablement MEENAH: il y a genre des milliards de fantomes aux alentours on a lavantage du nombre
+      @rose_annoyedtalk ROSE: Certes. Mais même si je le voulais, je ne pourrais pas juste m’envoler au loin avec toi.
+      @rose_concern:#Comme-une-sorte-d’hologramme,-je-suppose-? ROSE: Je ne suis même pas présente en ces lieux. Je suis endormie sur notre météore. Tu parles actuellement avec une projection onirique de moi-même.
+      @meenah_annoyed:#hein MEENAH: hein
+      @rose_laugh ROSE: Tu débutes dans les bulles oniriques, à ce que je vois.
+      @rose_coytalk ROSE: Je serais plus qu’heureuse de t’expliquer leur fonctionnement de manière détaillée.
+      @meenah_angry MEENAH: urgh
+      @meenah_angrytalk MEENAH: L-ES JOU-EURS D-E LA LUMI-ER-E
+      @meenah_annoyedtalk MEENAH: a plus rosefang
       <!--  -->
 </args></action>
 
-<action class='kanayaDialog1' name='Talk to Kanaya.' command='talk'><args>
+<action class='kanayaDialog1' name='Parle à Kanaya.' command='talk'><args>
       @meenah_talk MEENAH: oh hey the maryam looking girl
       @meenah_talk MEENAH: what is the deal with you
       @kanaya_bored:#The-Deal-With-Things#The-Topic-Of-Wonder#People-Looking-People KANAYA: The Deal With The Maryam Looking Girl Is That She Is Wondering What The Deal Is With The Peixes Looking Girl And Specifically Why The Former Has Piqued The Latters Curiosity
