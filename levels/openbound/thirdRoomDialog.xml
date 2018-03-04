@@ -25,45 +25,45 @@
 		</args></action>
 		<action class='latulaTalk1' sprite='meenah' command='Talk' name='Parle à Latula.'><args>
       @latula_happier LATULA: d4mn grrrrl!!!!
-      @latula_happytalk:#>8D LATULA: you f1n4lly m4d3 1t! h1gh f1v3!!!
-      @meenah_happy MEENAH: you know it
-      @meenah_happytalk:#oOoOoO MEENAH: i am so fuckin ghostly now
-      @latula_happy LATULA: r1ght on grl!!!! dr34m bubz rul3!
+      @latula_happytalk:#>8D LATULA: tu 3s 3nf1n 4rr1v33 ! t4p3 m3n c1nq !!!
+      @meenah_happy MEENAH: tas vu
+      @meenah_happytalk:#oOoOoO MEENAH: je suis tellement putain de fantomatique maintenant
+      @latula_happy LATULA: c3st c4 grl !!! l3s bullz on1r1qu3s 3ll3s d3ch1r3nt !
       @latula_shades1 LATULA: 4-l1f3 4LYF3!!!
-      @meenah_annoyed MEENAH: wha
-      @latula_shine:#spok3n-qu1rk-confus1on LATULA: 4h4h4 y34h. th4t should h4v3 sound3d l1k3 "4 l1f3 for lyf3" l1k3 'A' 4s 1n 4ft3r, but spok3n 4s 4 numb3r, th3n '4' 4s 4 homonym for th3 pr3pos1t1on 4nd stuff!!!!
-      @latula_idle2 LATULA: you know how 1t 1s. 4 grlz gott4 s4cr1f1c3 und3rst4nd4b1l1ty for th3 s4k3 of r4dn3ss som3t1m3z.
-      @meenah_talk MEENAH: preach1n to the group of coral s1ngers pyrope
-      @latula_talk LATULA: cor4l s1ng3rs? oh you m34n cho1r, 1 g3t 1t!!! but cor4l 4s 1n th3 funky sh1t und3rw4t3r 1nst34d, h4h4h?
-      @latula_happytalk:#punz#k1nd-of-l4m3 LATULA: st1ll rock1ng th3 f1sh punz 1 s33. w3ll th4ts not r34lly th3 k1nd of r4dn3ss 1 w4s t4lk1ng 4bout, but 1ll l3t 1t sl1d3.
-      @meenah_angry MEENAH: hey fuck you!
-      @meenah_annoyedtalk MEENAH: cant B-ELI-EV-E yall go shitting on my fish puns right outta the blowhole like that
-      @meenah_annoyedtalk:#or-should-i-say#(s)word(fish)play?#nah-that-sux MEENAH: as if your numbers bs and jacking zees on the end a words is any more rad than my baller wordplay
-      @meenah_talk MEENAH: i mean your skating and stunts are objectively rad ill give you that 
-      @meenah_annoyedtalk MEENAH: but you need to get off your high seahorse because practically NOFIN else about you is especially radder than average
-      @latula_happier LATULA: oh ch1ll AX3, p4ych3ck!!! 1 4m so j3rk1ng your fork!
-      @latula_happytalk:#tow1ng-lo4ds-h4rsh3s-my-gr1nds LATULA: 1 know w3v3 h4d our 1ssu3z b3for3. but 1 could 4lw4ys s33 you h4d tru r4dgrl cr3d. you dont 3v3n know how h4rd 1t w4s tow1ng th3 R4D LO4D 4ll by mys3lf w1th you gon3 for so long!!!!
-      @latula_angry LATULA: do you 3v3n know how l4m3 of 4 sc3n3 1t 1s b31ng th3 only l3g1t 1n your f4c3 pow3rg4m1ng grl 1n 4 bunch of bubbl3s full of brut4l pos3rz???
-      @latula_happier:#H1-F1V3 LATULA: wh4t 1m s4y1ng 1s, 1m psych3d to h4v3 you b4ck mp. h3y h1t m3 up top!
-      @meenah_idle MEENAH: uh sure
-      @meenah_talk MEENAH: still wearing out the highfives i sea even after like what
-      @meenah_annoyed:#still-dont-know-how-time-works-here MEENAH: eternity?
-      @latula_happy LATULA: fuck y34h grl.
+      @meenah_annoyed MEENAH: hein
+      @latula_shine:#qu1rks-confus-4-lor4l LATULA: c4 4ur41t du sonn3r comm3 "4 l1f3 for l1f3" g3nr3 l4 l3ttr3 "A" comm3 pour "4ft3r", 4v3c l3 "4" d1t p4s comm3 l3 nombr3, 3t 3nsu1t3 "4" comm3 homonym3 pour l4 propos1t1on 4ngl41s3 "for" 3t tout !!!!
+      @latula_idle2 LATULA: tu s41s c3 qu3 c3st. un3 grl do1t s4cr1f13r l1nt3ll1g1b1l1t3 4u nom d3 l4 r4d1c4l1t3 p4rfo1s.
+      @meenah_talk MEENAH: on est albacore sur ce point pyrope
+      @latula_talk LATULA: 4lb4cor3 ? oh tu voul41s d1r3 d4ccord, j41 compr1s !!! m41s 4lb4cor3 comm3 l3 gros po1sson trop d3l1r3 sous l34u, h4h4h ?
+      @latula_happytalk:#j3ux-d3-mots#plutot-n4z LATULA: toujours 4 fond sur l3s j3ux d3 mots m4r1ns 4 c3 qu3 j3 vo1s. c3st p4s l3 g3nr3 d3 r4d1tud3 4uqu3l j3 p3ns41s, m41s j3 v41s l41ss3r p4ss3r pour c3tt3 fo1s.
+      @meenah_angry MEENAH: hey va te faire foutre !
+      @meenah_annoyedtalk MEENAH: jarrive pas a CROIR-E que vous continuez tous a chier sur mes jeux de mots poissoneux direct comme ca
+      @meenah_annoyedtalk:#ou-devrais-je-dire#de-filet-?#nan-ca-pue MEENAH: comme si tes conneries avec les nombres et tes z a la fin des mots pouvaient etre plus rads que mes jeux de mots de folie
+      @meenah_talk MEENAH: a la limite tes talents en skate et tes tricks sont plutot rads je te le conchede 
+      @meenah_annoyedtalk MEENAH: mais tu devrais areter tes grands airs marins parce que a part sar RI-EN a propos de toi est particulierement plus rad que la moyenne
+      @latula_happier LATULA: oh du C4RP3, p3p3t3s !!! j3t41s just3 3n tr41n d3 t3 t4qu1n3r !
+      @latula_happytalk:m3-tr1mb4ll3r-d3s-ch4rg3s-pourr1t-m3s-gr1ndz LATULA: on 4 3u nos probl3mz d4ns l3 p4ss3. m41s j41 toujours pu vo1r qu3 d4ns l3 fond tu 3t41s un3 vr413 r4dgrl. tu n4s p4s l4 mo1ndr3 1d33 d4 qu3l po1nt c3t41t dur d3 m3 colt1n3r l4 r3spons4b1l1t3 du r4d tout3 s3ul3 4v3c to1 4bs3nt3 p3nd4nt s1 longt3mps !!!
+      @latula_angry LATULA: 4s tu l4 mo1ndr3 1d33 d4 qu3l po1nt c4 cr41nt d3tr3 l4 s3ul3 h4rdcor3 g4m3uz conf1rm33 3t s4ch4nt s1mpos3r d4ns un p4qu3t d3 bullz r3mpl13s d3 fr1m3urs stup1d3s ???
+      @latula_happier:#H1-F1V3 LATULA: tout c3 qu3 j3 voul41s d1r3, c3st qu3 c3st cool d3 t4vo1r d3 nouv34u p4rm1 nous mp. h3y t4p3 m3n c1nq !
+      @meenah_idle MEENAH: heu ok
+      @meenah_talk MEENAH: toujours pas lassee des high fives a ce que je vois meme apres genre
+      @meenah_annoyed:#je-sais-toujours-pas-comment-le-temps-marche-ici MEENAH: une eternite ?
+      @latula_happy LATULA: put41n d3 ou41s grl.
       @latula_angry LATULA: OH!!!!
-      @latula_laugh:#k1ll3d-th3-SH1T-out-of-us LATULA: n3v3r 3v3n got to congr4tul4t3 you on how W1CK3D your r4d su1c1d3 bomb pl4n w4s! >8D
-      @latula_tongue LATULA: n3v3r s4w 1t com1ng!!!! sur3 n3v3r sm3ll3d 1t com1ng, h3h. 
-      @latula_happytalk:#not-th4t-th4t-r34lly-3v3n-n33d3d-3xpl41n1ng? LATULA: w4y sm4rt. t1m1ng 1t just b3for3 th3 scr4tch, so th4t god t13rz d1dnt h4v3 4 ch4nc3 to r3v1v3 b3for3 th3 r3s3t, thus 1ron1c4lly l34v1ng th3m to b3 3r4s3d from 3x1st3nc3.
-      @latula_happytalk LATULA: th4t JUST occurr3d to m3 r3c3ntly. wuz op3n1ng th3 m34l v4ult to m4k3 4 fr34k1n ghost sn4ck wh3n 1 wuz l1k3. SH1T!!!! 
-      @latula_angry LATULA: P444444YCH3CK!!! 1 s41d, 4ll sh4k1ng my f1st.
-      @latula_happier:#H1-F1V3 LATULA: h4h4h4, dont l34v3 m3 h4ng1n grl. >8D
-      @meenah_annoyed MEENAH: k one more pyrope but thats it
-      @meenah_wut:#hi5-fatigue MEENAH: i dig a good highfive as much as the next badgirl but my cod
-      @meenah_talk MEENAH: got this fresh pimp ghost bod looking fine as fuck i dont need to callous up my palms already
-      @meenah_happytalk MEENAH: havent you heard an empress needs hands so soft you can use em to polish gold with???
+      @latula_laugh:#c3t41t-PUT41N-d3-MORT3L LATULA: j41 j4m41s pu t3 d1r3 4 qu3l po1nt ton pl4n d3 su1c1d3 4 l4 bomb3 3t41t D3M3NT13L >8D
+      @latula_tongue LATULA: j3 l41 j4m41s vu v3n1r !!! j4m41s r13n s3nt1 v3n1r non plus, h3h. 
+      @latula_happytalk:#m41s-c3t41t-plutot-3v1d3nt-? LATULA: sup3r m4l1n. l4 f41r3 3xplos3r just3 4v4nt l3 scr4tch, pour qu3 l3s t13rz d1v1ns n3 pu1ss3nt p4s r3v1vr3 4v4nt l3 r3s3t, l3s 3ff4c4nt 1ron1qu3m3nt d3 l3x1st3nc3.
+      @latula_happytalk LATULA: j3 m3n su1s r3ndu3 compt3 SUP3R r3c3mm3nt. jouvr41s l4 c4v3 4 r3p4s pour m3 f41r3 un put41n d3nc4s f4ntom3 3t l4 tout dun coup j3t41s g3nr3. M3RD3 !!!! 
+      @latula_angry LATULA: P3P333333T3S !!! j41 cr13, tout 3n 4g1t4nt mon po1ng 3n l41r.
+      @latula_happier:#H1-F1V3 LATULA: h4h4h4, m3 l41ss3 p4s tomb3r comm3 c4 grl. >8D
+      @meenah_annoyed MEENAH: k pour cette fois pyrope mais apres cest fini
+      @meenah_wut:#hi5-fatigue MEENAH: en tant que fille badass je sais apprecier un bon high five quand il se doit mais mon dieu
+      @meenah_talk MEENAH: mon corps de pimp fantome a lair en putain de bon etat jai pas envie de finir avec les paumes toute calleuses
+      @meenah_happytalk MEENAH: tu sais au moins quune imperatrice doit avoir des mains assez douces pour pouvoir polir de lor avec ???
       <!--  -->
 </args></action>
 
-<action class='latulaTalk2' sprite='meenah' command='talk' name='Ask Latula to join.'><args>
+<action class='latulaTalk2' sprite='meenah' command='talk' name='Demande à Latula de te rejoindre.'><args>
       @meenah_idle MEENAH: question
       @latula_idle LATULA: shoot b4b3z.
       @meenah_talk MEENAH: seeing as what a hot shit gamer gurl you have a reputation for and all
