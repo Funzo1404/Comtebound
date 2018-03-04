@@ -192,12 +192,12 @@
   			</action>
   		</trigger>
   		<trigger detonate='true'>inBox,char,1450,3332,180,36
-  			<action command='talk'>
+  			<action command='Parler'>
   				<args>
-  				@! Wait. You hear something nearby.
-				  @! Is...
-				  @! Is that...
-				  @!:#???? Sobbing?
+  				@! Attendez. Vous entendez quelque chose non loin.
+				  @! Se...
+				  @! Serait-ce...
+				  @!:#???? Des sanglots ?
 				  </args>
   			</action>
   			
