@@ -65,76 +65,76 @@
 
 <action class='latulaTalk2' sprite='meenah' command='talk' name='Demande à Latula de te rejoindre.'><args>
       @meenah_idle MEENAH: question
-      @latula_idle LATULA: shoot b4b3z.
-      @meenah_talk MEENAH: seeing as what a hot shit gamer gurl you have a reputation for and all
-      @meenah_talk MEENAH: i figured you would be a lock to join my party
-      @meenah_creepy:#lord-of-clams MEENAH: to go fuck up clamilord or whoever
-      @latula_huh LATULA: w41t. who???
-      @meenah_annoyed MEENAH: skull guy
-      @meenah_annoyed MEENAH: kills ghosts
-      @latula_idle2 LATULA: 3rrr nop3. h3lp m3 out p4ymon3y.
-      @meenah_wut2:#current-like-water-current-yessss MEENAH: dont you keep up with current events
-      @latula_talk LATULA: tchhh, your3 r3m1nd1ng m3 why 1 thought you w3r3 cr4zy mp. just fr34k1n sp1ll 1t.
-      @meenah_annoyed MEENAH: the shit in the sky
-      @meenah_annoyed MEENAH: it cracked 
-      @meenah_annoyed MEENAH: a monster did that
-      @meenah_angrytalk MEENAH: DO YOU WANT TO GO )(-ELP M-E KILL T)(-E BAD GUY???????
-      @latula_happytalk LATULA: oh why d1dnt you s4y so!!!
-      @latula_talk LATULA: sounds l1k3 4 r4d pl4n 4nd you know how 1 f33l 4bout th3 r4dpl4nz....
-      @meenah_idle MEENAH: but??
-      @latula_idle2 LATULA: h4t3 to b3 4 buzzk1ll but... 1ts b33n wh4t.
-      @latula_annoyedtalk LATULA: 4pprox1m4t3ly H3LLA y34rz s1nc3 1 d1d 4ny f1ght1ng????
-      @latula_talk:#tw#h3mophob1c-slurs LATULA: k1nd of rusty. sh1t dont l3t kk know 1 s41d rusty, 4h4h4.
-      @meenah_annoyed MEENAH: so
-      @latula_happytalk LATULA: so 1m s4y1ng 1 h4d SCADZ of t1m3 to p3rf3ct th1s K1LL3R HAND PLANT!!! >8D
-      @latula_stunt LATULA: w4nn4 s3333?
-      @meenah_annoyedtalk MEENAH: no pretty sure dont give much a shit about a trick you do on your four wheel device
-      @meenah_idle MEENAH: tho i will say
-      @meenah_fishtalk MEENAH: "scads" is actually a fish pun you made probly on accident
-      @meenah_fishtalk:#fish-puns-are#my-one-weakness-:( MEENAH: which kind of makes me want to give you a hug so it balances out your dumb shit answer
-      @latula_annoyedtalk:#tho-m4yb3-you-l1k3-w3t-snuggl3pl4n3s?#s1nc3-you-c4n-l1v3-und3r-w4t3r? LATULA: 1m sorry mp. 1 r34lly 4m!!! f33l l1k3 such 4 w3t snuggl3pl4n3 b41l1ng on you l1k3 th1s.
-      @latula_idle3 LATULA: 1 should prob4bly run 1t by mt. s33 wh4t h3 th1nks.
-      @meenah_talk MEENAH: oh shit you and captor
-      @meenah_talk MEENAH: thats still a thing after all this pseudotime or
-      @latula_idle LATULA: h4h4 y3444h.
-      @meenah_idle:#38o MEENAH: still red??????
+      @latula_idle LATULA: v4s y b4by.
+      @meenah_talk MEENAH: je vois quen tant que gameuse sexy tu tes fait une reputation et tout
+      @meenah_talk MEENAH: je me suis dit que cetait capital que tu rejoignes mon equipe
+      @meenah_creepy:#seigneur-des-huitres MEENAH: pour aller defoncer calhuitrelord ou jsais pas qui
+      @latula_huh LATULA: 4tt3nds. qu1 ???
+      @meenah_annoyed MEENAH: le mec au crane
+      @meenah_annoyed MEENAH: qui tue des fantomes
+      @latula_idle2 LATULA: h3uuu j3 vo1s p4s. 3cl41r3 mo1 m4 p3p3t3.
+      @meenah_wut2:#au-courant-comme-un-courant-marin-yeeessss MEENAH: ca tarrive de te mettre au courant parfois
+      @latula_talk LATULA: tchhh, m41nt3n4nt j3 m3 souv13ns pourquo1 j3 t3 trouv41s t4r33 mp. r4cont3.
+      @meenah_annoyed MEENAH: le bordel dans le ciel
+      @meenah_annoyed MEENAH: tout casse 
+      @meenah_annoyed MEENAH: un monstre a fait ca
+      @meenah_angrytalk MEENAH: -EST C-E QU-E TU V-EUX V-ENIR AV-EC MOI POUR BUT-ER L-E M-EC)(ANT ???????
+      @latula_happytalk LATULA: oh pourquo1 tu l4s p4s d1s comm3 c4 !!!
+      @latula_talk LATULA: on d1r41t b13n un r4dpl4n 3t tu s41s c3 qu3 j3 p3ns3 d3s r4dpl4nz...
+      @meenah_idle MEENAH: et ??
+      @latula_idle2 LATULA: j41m3 p4s g4ch3r l4mb14nc3 m41s... c4 f41t quo1.
+      @latula_annoyedtalk LATULA: 4pprox1v3m3nt UN3 TONN3 d4nn33z qu3 j41 p4s f41t un s3ul comb4t ????
+      @latula_talk:#4t#1njur3s-h3mophob1qu3s LATULA: j3 su1s un p3u rou1ll33. m3rd3 d1s p4s 4 kk qu3 j41 d1s rou1ll33, 4h4h4.
+      @meenah_annoyed MEENAH: et donc
+      @latula_happytalk LATULA: 3t donc j3 d1s qu3 j41 3u v4gu3m3nt un3 TONN3 d3 t3mps pour p4rf41r3 c3 H4NDPL4NT D3 L4 MORT !!! >8D
+      @latula_stunt LATULA: tu v3ux vo1111r ?
+      @meenah_annoyedtalk MEENAH: non jen ai rien a foutre des tricks que tu sais faire sur ton vehicule a quatre roues
+      @meenah_idle MEENAH: par contre
+      @meenah_fishtalk MEENAH: "vaguement" est probablement un jeu de mot marin accidentel
+      @meenah_fishtalk:#les-jeux-de-mots-de-poissons-sont#ma-seule-faiblesse-:( MEENAH: ce qui me donne a moitie envie de te faire un calin donc ca sauve ta reponse merdique
+      @latula_annoyedtalk:#m41s-p3ut-3tr3-qu3-tu-41m3s-l3s-b3t3s-4-plumz-mou1ll33s-?#comm3-tu-v1s-sous-l34u-3t-tout LATULA: j3 su1s d3sol33 mp. vr41m3nt !!! j41 l1mpr3ss1on d3tr3 un3 gross3 b3t3 4 plum3s mou1ll33 4 t4b4ndonn3r comm3 c4.
+      @latula_idle3 LATULA: j3 d3vr41s 3n p4rl3r 4 mt. vo1r c3 qu1l 3n p3ns3.
+      @meenah_talk MEENAH: oh merde toi et captor
+      @meenah_talk MEENAH: cest toujours quelque chose apres tout ce pseudotemps ou bien
+      @latula_idle LATULA: h4h4 ou4111s.
+      @meenah_idle:#38o MEENAH: toujours rouge ?????? [#38o]
       @latula_idle LATULA: uh huh. >8]
-      @meenah_idle MEENAH: mother glubber
-      @meenah_talk MEENAH: seriously didnt think T)(ATD last
-      @latula_happytalk LATULA: 1dk, th3r3z w4y mor3 to h1m th4n. w3ll, 4ll th3 t3rr1bl3 4nd stup1d sh1t h3 s4ys 4ll th3 t1m3.
-      @latula_talk LATULA: 4nd 1ts 4lw4yz f3lt l1k3 h3 n33ds m3 1f th4t m4k3s s3ns3, 3v3n 4ft3r dy1ng. so th3r3z th4t!!!!
-      @meenah_annoyed MEENAH: fuckin afterlife
-      @meenah_annoyedtalk MEENAH: i know im new here but
-      @meenah_annoyedtalk MEENAH: almost seems like
-      @meenah_annoyedtalk MEENAH: you die and nothing means anyfin and then you date forever
-      @meenah_happytalk:maybe-in-a-nice-way-tho?? MEENAH: sort of makes me want to puke
+      @meenah_idle MEENAH: fils de glub
+      @meenah_talk MEENAH: je mattendais pas a ce que CA dure
+      @latula_happytalk LATULA: js41s p4s, 1l y 4 t3ll3m3nt plus 3n lu1 qu3. b3n, tout3s l3s stup1d3s 3t horr1bl3s conn3r13z qu1l r4cont3 3n p3rm4n3nc3.
+      @latula_talk LATULA: 3t j41 toujours 3u l1mpr3ss1on qu1l 4v41t b3so1n d3 mo1 s1 tu vo1s c3 qu3 j3 v3ux d1r3, m3m3 4pr3s s4 mort. donc vo1l4 !!!!
+      @meenah_annoyed MEENAH: putain deau dela
+      @meenah_annoyedtalk MEENAH: je sais que je suis nouvelle ici mais
+      @meenah_annoyedtalk MEENAH: on dirait presque que
+      @meenah_annoyedtalk MEENAH: vous clamsez mais peu importe vous resterez toujours ensemble pour leternhuitre
+      @meenah_happytalk:#mais-dans-le-bon-sens-peut-etre-? MEENAH: ca me donne envie de vomir
       @latula_happier LATULA: >;D
-      @meenah_annoyedtalk:#anemone-waaay... MEENAH: couldnt see that wink behind your radspex fyi
-      @meenah_talk MEENAH: if you change your mind
-      @meenah_happy MEENAH: just lemminnow
+      @meenah_annoyedtalk:#quoi-quil-anchoiiis... MEENAH: jai pas pu voir ton clin doeil derriere tes radlunettes tu sais
+      @meenah_talk MEENAH: si jamais tu changes davis
+      @meenah_happy MEENAH: fais moi savoir
       <!--  -->
 </args></action>
 
-<action class='latulaTalk3' command='talk' sprite='meenah' name='Be Latula.'><args>
-      @latula_bored LATULA: grl, who DO3SNT w4nt to b3 m3???
-      @latula_angry LATULA: you th1nk you c4n just w4ltz 1nto th1s bubbl3 4nd st4rt b31ng 4ny r4d g4m3r grl you cross p4thz w1th????
-      @latula_happytalk:#cr4dz#tm LATULA: chy34h, R1GHT! you h4v3 4 long, LONG w4y to go b3for3 you 34rn 3nough r4d-cr3dz to b3 M3. or 4s 1 l1k3 to c4ll th3m, CRADZ.
-      @meenah_annoyed MEENAH: latula shut up and just tell me what horseshit thing you want me to do
-      @latula_idle LATULA: 1ts gonn4 cost y4!
-      @latula_talk:#th3-numb3r-413#not-'AIE' LATULA: you h4v3 to 'l1k3' 4ll my r4dd3st m3mor13z, 4nd th3n r3bubbl3 4t l34st 413 of th3m.
-      @meenah_wut MEENAH: you can NOT be serious
+<action class='latulaTalk3' command='talk' sprite='meenah' name='Deviens Latula.'><args>
+      @latula_bored LATULA: grl, qu1 n3 v3ut P4S 3tr3 mo1 ???
+      @latula_angry LATULA: tu p3ns3s vr41m3nt pouvo1r just3 d3b4rqu3r d4ns c3tt3 bull3 3t d3v3n1r n1mport3 qu3ll3 g4m3uz r4d qu3 tu cro1z ???
+      @latula_happytalk:#cr4dz#tm LATULA: pfou41s, C3ST C4 ! tu 4s un long, LONG ch3m1n 4 f41r3 4v4nt dobt3n1r 4ss3z d3 r4d cr3d1tz pour 3tr3 MO1. ou comm3 j3 l3s 4pp3ll3, CR4DZ.
+      @meenah_annoyed MEENAH: latula la ferme dis moi juste quelles conneries il faut que je fasse
+      @latula_idle LATULA: v4 f4llo1r y m3ttr3 du t13n !
+      @latula_talk:#l3-nombr3-413#pas-'AIE' LATULA: tu v4s d3vo1r l1k3r tous m3s souv3n1rz l3s plus r4dz, 3t 3nsu1t3 l3s r3bull3r 4u mo1ns 413 fo1s.
+      @meenah_wut MEENAH: S-ERI-EUS-EM-ENT
       @latula_laugh:#psych3 LATULA: H4H4H4H4H4H4!
-      @meenah_idle MEENAH: kay tules im outtie
-      @latula_annoyed:#hmzzz... LATULA: w41t! dont b3 l1k3 th4t, w3 c4n st1ll cut 4 d34l, l3mm3 th1nk.
-      @latula_talk LATULA: 4lr1ght, k1d. t3ll you wh4t. s1nc3 1 d1g your styl3, 1ll g1v3 you 4 shot.
-      @latula_talk LATULA: you m4y th1nk you rul3, wh3r34z most oth3rs drool, but wh4t 1 w4nt to know 1s, how b4d c4n you THR4SH stuff?
-      @latula_talk LATULA: just n33d to scop3 your k1ckfl1p chopz, m4k3 sur3 3v3ryth1ng ch3cks out. s33 1f your t3chn1qu3s 4r3 wh3r3 th3y n33dz to b3 4t.
-      @meenah_wut2:#sdlkjlkjfs MEENAH: kickflip chops
-      @latula_laugh LATULA: y34h grl. show m3 y3r stuntz. m4yb3 som3th1ng 1n 4 h4ndpl4nt. ooh, know wh4t sh1t would b3 W1CK3D M4L1C1OUS?
-      @latula_angry:#Y3AH!!!#hold-pol3s LATULA: gr1nd1ng down 4 R41L1NG!!!!
-      @latula_happytalk:#'4'-1s-4-homonym-4g41n-yo LATULA: th4t ought to b3 fl4gr4nt 3nough to prov3 your r4dn3ss 4 SHOR3.
-      @latula_happytalk LATULA: so wh4t4y4 s4y, p4ych3ck? you r34dy to st4rt r1pp1ng up so m4ny h3ll4c3ous shr3ds th4t th1s f13rc3sh1tty b1zn4sty w1ll st4rt g3tt1ng so d3l1r1ously rud3br4z3n 1t... 
-      @meenah_angry MEENAH: just gimme the board pyrope
+      @meenah_idle MEENAH: okay tula jme casse
+      @latula_annoyed:#hmzzz... LATULA: 4tt3nds ! so1s p4s comm3 c4, on p3ut toujours f41r3 un d34l, j3 r3fl3ch1s.
+      @latula_talk LATULA:ok, g4m1n3. tu s41s quo1. p4rc3 qu3 j3 k1ff3 ton styl3, j3 v41s t3 donn3r un3 ch4nc3.
+      @latula_talk LATULA: tu p3ux p3ns3r qu3 pour to1 tout b41gn3, l4 ou l3s 4utrz cr41gn3nt, m41s c3 qu3 j3 v3ux s4vo1r c3st 4 qu3l po1nt tu p3ux FOUTR3 L4 M3RD3 ?
+      @latula_talk LATULA: montr3 mo1 g3nr3 un k1ckfl1p, f41s 3n sort3 d3 m3ttr3 l3 p4qu3t. voyons s1 tu 4s l4 t3chn1qu3.
+      @meenah_wut2:#sdlkjlkjfs MEENAH: un kickflip
+      @latula_laugh LATULA: ou41s grl. montr3 mo1 t3s f1gurz. p3ut 3tr3 qu3lqu3 chos3 4v3c un h4ndpl4nt. ooh, tu s41s qu3ll3 m3rd3 s3r41t V1C13US3M3NT D3M3NT3 ?
+      @latula_angry:#Y3AH-!!!#po1nts-d3xcl4m4t1on LATULA: f41r3 un gr1nd l3 long DUN3 R4MP3 !!!!
+      @latula_happytalk:#4-3st-3ncor3-un-homonym3-yo LATULA:c4 d3vr41t 3tr3 4ss3z cl4ss3 pour prouv3r t4 r4d1tud3 4 3V3R. 
+      @latula_happytalk LATULA: donc t3n d1s quo1, p3p3t3s ? t3s pr3t3 4 4rr4ch3r t3ll3m3nt d4b4tt1s d3l1r4nts 3n loop1ngn4nt 1nt3ns3m3nt, tr1bul4nt tr1p3m3nt 3n un rythm3 fr4c4ss4nt ? 
+      @meenah_angry MEENAH: file moi juste la planche pyrope
       <!--  -->
 </args></action>
 
