@@ -20,7 +20,7 @@
 				<action class='eavesdrop'>
 
 				</action>
-				<action command='Fermer' name='Non.'>
+				<action command='Cancel' name='No.'>
 						<!-- nothing -->
 				</action>
 			</args>
