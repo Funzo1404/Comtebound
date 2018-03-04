@@ -131,7 +131,7 @@
       @rose_happytalk:#Fun-additionnel ROSE: Au travers de ce processus, nous deviendrons idéalement plus forts et expérimentés. Ce sera seulement à ce moment-là que nous serons prêts à t’aider.
       @meenah_talk:#blahblahblahblahblah MEENAH: oh mon glub tes en train de serketter tout ca a un point
       @meenah_annoyedtalk MEENAH: allez arrete de tout planifier on na qua juste senvoilier au loin ensemble et ruiner son bordel
-      @meenah_happytalk:#D-ES-MILLIARDS#enfin#probablement MEENAH: il y a genre des milliards de fantomes aux alentours on a lavantage du nombre
+      @meenah_happytalk:#D---ES-MILLIARDS#enfin#probablement MEENAH: il y a genre des milliards de fantomes aux alentours on a lavantage du nombre
       @rose_annoyedtalk ROSE: Certes. Mais même si je le voulais, je ne pourrais pas juste m’envoler au loin avec toi.
       @rose_concern:#Comme-une-sorte-d’hologramme,-je-suppose-? ROSE: Je ne suis même pas présente en ces lieux. Je suis endormie sur notre météore. Tu parles actuellement avec une projection onirique de moi-même.
       @meenah_annoyed:#hein MEENAH: hein
@@ -209,7 +209,7 @@
 </args></action>
 <action class='daveDialog1' name='Parle à Dave.' command='talk'><args>
       @meenah_talk MEENAH: hey le mec avec la cape
-      @meenah_annoyed MEENAH: tes uh
+      @meenah_annoyed MEENAH: tes heu
       @meenah_talk:#avec-les-lunettes MEENAH: lhumain truc muche avec sa carpe
       @dave_talk:#voir-aussi#shaggy-2-cape DAVE: cest totalement mon nom
       @dave_smug DAVE: tout le monde se borne a mappeller dave par contre
@@ -228,7 +228,7 @@
       @meenah_creepylaugh:#vantas-se-fache MEENAH: le gamin ronchon et cool qui a pete son cable avant de se barrer
       @dave_idle DAVE: oh karkat tu veux dire
       @dave_talk DAVE: je sais pas il doit pas etre loin
-      @dave_talk:#ou-bien-uh#en-train-de-lecouter-parler DAVE: je lai vu en train de parler avec son ancetre
+      @dave_talk:#ou-bien-heu#en-train-de-lecouter-parler DAVE: je lai vu en train de parler avec son ancetre
       @dave_smug:#rassemblement-de-cretins#hilarant DAVE: je crois pas quil laime beaucoup
       @meenah_wut MEENAH: quoi
       @meenah_annoyedtalk MEENAH: chonchon devrait pas rester pres de ce glub dabruti
@@ -240,7 +240,7 @@
       @dave_huh DAVE: je sais pas
       @dave_madtalk DAVE: davoir cet etrange pouvoir sur toi
       @dave_concern:#kanaya#destabilisee#ouais DAVE: enfin regarde kanaya elle est completement destabilisee quand on lui parle de la sienne
-      @dave_concern:#mec-viens-prends-la-regle DAVE: du genre sans aucune raison tu ressens le besoin de te mesurer a eux
+      @dave_concern:#mec-viens-prendre-la-regle DAVE: du genre sans aucune raison tu ressens le besoin de te mesurer a eux
       @dave_talk DAVE: et meme si ils sont probablement pas si faramineux que ca tu psychotes un peu tu vois
       @meenah_idle MEENAH: nan
       @meenah_talk MEENAH: mon ancetre etait une putain de naze
@@ -276,7 +276,7 @@
       @meenah_wut MEENAH: bordeeel
       @meenah_annoyedtalk:#stupide-perte-de-temps MEENAH: je sais que cest un peu la misere de ton cote gamin mais tout ca ma juste lair detre une stupide perte de temps
       @meenah_talk MEENAH: allez maintenant viens on va demonter du cherubin
-      @dave_idle:#ouais-allons-y#je-deconne#non-DAVE:-non
+      @dave_idle:#ouais-allons-y#je-deconne#non DAVE: non
       @dave_huh DAVE: enfin
       @dave_huhtalk:#guillemets DAVE: je pense que je suis "suppose" le tuer de toute facon
       @dave_madtalk:#tu-te-rappelles-cette-connerie-avec-le-pimp-dans-le-crib-?#hahaha-oh-mon-dieu DAVE: jai cette impression en tout cas avec tous les indices que jai pu voir sur ma route
@@ -293,10 +293,10 @@
 </args></action>
 
 <action class='daveDialog3' name='Deviens Dave.' command='talk'><args>
-      @dave_huh:#uh#w#t#f DAVE: attends
+      @dave_huh:#heu#w#t#f DAVE: attends
       @dave_huhtalk:#guillemets DAVE: tu veux "devenir moi"
       @meenah_idle MEENAH: ouais pourquoi pas
-      @dave_madtalk:#un-front-qui-est-actuellement-en-train-detre-facepalme DAVE: ok daccord on va eviter de saventurer a expliquer oh combien cettedemande est absurde prise de front
+      @dave_madtalk:#un-front-qui-est-actuellement-en-train-detre-facepalme DAVE: ok daccord on va eviter de saventurer a expliquer oh combien cette demande est absurde prise de front
       @dave_mad DAVE: juste non
       @dave_talk DAVE: je veux dire pas encore pas aussi tot dans ta petite quete de bulle onirique que tu fais la
       @meenah_talk:#parler-aux-potos-comme-un-koolkid#peut-etre-jouer-une-bande-son-differente MEENAH: ta gueule mec laisse moi juste marcher en etant toi et tout
