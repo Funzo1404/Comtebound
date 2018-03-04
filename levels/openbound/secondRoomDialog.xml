@@ -7,7 +7,7 @@
       @meenah_creepytalk:#splosions MEENAH: ouais !!! donc tu las vu aussi hein
       @meenah_happytalk:#le-mec-au-crane#souffle-laser MEENAH: cetait lui pas vrai
       @meenah_idle:#uh MEENAH: lord marin truc
-      @meenah_talk MEENAH: calhuitreborn? ctait quoi son nom deja 
+      @meenah_talk MEENAH: calhuitreborn ? ctait quoi son nom deja 
       @aranea_annoyedtalk:#Mauvais-juju ARANEA: J’aimerais éviter d’avoir à dire son vrai nom.
       @meenah_annoyed MEENAH: cest quoi le probleme
       @meenah_talk:#heheh MEENAH: il est deja la cest ca
@@ -22,11 +22,11 @@
       @aranea_talk:#Um........ ARANEA: J’admets que tout cela est 8ien plus excitant que tout ce que nous avons pu voir ici depuis des millénaires. Mais tous ceux résidant dans l’au-delà sont en danger de mort !!!!!!!!
       @aranea_think:#!!!!!!!! ARANEA: Une fois de plus.
       @meenah_idle MEENAH: ouais jai pige
-      @meenah_happytalk:#ptetre-meme-que-cette-fois-je-le-ferai-sans-vous-faire-peter-une-bombe-dans-la-tronche MEENAH: donc jen deduis quil va falloir que je joue les heroines pour sauver vos culs une fois de plus
-      @aranea_surprised ARANEA: Oh vraiment?
-      @aranea_happier:#J’aimerais-8ien-le-savoir! ARANEA: En quoi consiste ton plan exactement?
+      @meenah_happytalk:#ptetre-meme-que-cette-fois-je-le-ferai-sans-vous-faire-exploser-la-tronche MEENAH: donc jen deduis quil va falloir que je joue les heroines pour sauver vos culs une fois de plus
+      @aranea_surprised ARANEA: Oh vraiment ?
+      @aranea_happier:#J’aimerais-8ien-le-savoir! ARANEA: En quoi consiste ton plan exactement ?
       @meenah_angrytalk:#duh MEENAH: rassembler tous les fantomes ici pour faire une equipe et tuer ce trou du cul
-      @aranea_angry ARANEA: Quoi?!
+      @aranea_angry ARANEA: Quoi ?!
       @aranea_facepalmtalk:#Triste-façon-de-mourir ARANEA: Oh, Meenah. C’est une si mauvaise idée.
       @meenah_idle MEENAH: ouais cest ca
       @meenah_happy MEENAH: comme si tavais un meilleur plan
@@ -34,46 +34,45 @@
       <!--  -->
 </args></action>
 
-<action class='araneaDialog2' name='Ask about friends.' command='talk'><args>
-      @meenah_talk:#dead-fronds#ghostbros#haunt-pals#idk MEENAH: so where is everymoby i wanna talk to them bout somefin
-      @aranea_talk ARANEA: I 8elieve most of our friends have gathered in this dream 8u88le.
-      @aranea_think ARANEA: You should 8e a8le to find them if you explore a 8it.
-      @aranea_happytalk ARANEA: What do you want to talk to them a8out?
-      @meenah_creepy:#alpha-troll-reunion-yo MEENAH: gotta get the gang back together
-      @meenah_wink MEENAH: take down the douche of time
-      @meenah_happytalk:#losers#losing-experts#lossmasters#failpros MEENAH: you say hes invincible but i think thats exactly the kind of loser bs that made us lose like a bunch of fuckin losers in the first losin place
-      @meenah_talk MEENAH: we can do it if we all like
-      @meenah_wut:#teamfork#lol MEENAH: work together and shit
-      @meenah_happy:#or-maybe... MEENAH: if we build an army
-      @meenah_happier MEENAH: a G)(OST army 38D
-      @meenah_ohyes:#so-sick MEENAH: think a how glubbin sick would that be
-      @aranea_madtalk ARANEA: Sick, perhaps. 8ut not a very good strategy!
-      @aranea_annoyedtalk ARANEA: You will just 8e leading everyone into permanent o8livion. At least you will without coming up with a 8etter plan first.
-      @meenah_fish MEENAH: then whats your awesome idea
-      @aranea_happy:#Patience#Peixes#Alliterative-assonance ARANEA: To 8e a little more patient. 
-      @aranea_happytalk ARANEA: I have 8een following clues regarding the wherea8outs of a secret weapon that may 8e the key to defeating him. 
-      @meenah_idle MEENAH: oh reely
-      @meenah_annoyed MEENAH: whats the weaprawn
-      @aranea_annoyedtalk:#Weaprawn?#Really,-Meenah? ARANEA: The weaprawn........ weapon, I mean, is not a what, 8ut a who.
-      @aranea_happytalk:#Aliens ARANEA: She is the other cheru8. The Lord's female counterpart, who once occupied the same 8ody.
-      @aranea_talk:#Xeno8iologically-fascinating-species ARANEA: 8ut when they reached maturity, his personality dominated the host, assuming complete control. 
-      @aranea_talk:#Or-so-the-legend-goes ARANEA: She technically died that day, and now her spirit presuma8ly roams somewhere out here in the Furthest Ring.
-      @aranea_madtalk ARANEA: We need to find her 8efore he does. He will surely want to finish her off.
-      @meenah_annoyed:#uh MEENAH: cherub
-      @meenah_wut2 MEENAH: what
-      @meenah_annoyedtalk MEENAH: ok i didnt really follow any of that junk so uh
-      @meenah_annoyedtalk MEENAH: you go right ahead and find your cherub girl
-      @meenah_creepytalk:#ghost-army#beeyotch#fyeah MEENAH: ima be right here building my ghost army B--E-EYOTC)(
-      @aranea_happytalk ARANEA: Very well. 8est of luck with that!
-      @aranea_talk:#Like,-almost-eternity ARANEA: 8ut try to remem8er it has 8een a very long time since any of our friends have done anything important at all.
-      @aranea_talk:#I-hope-you-like-frustrating-conversations ARANEA: It may 8e more difficult to find recruits for your army than you think.
-      @meenah_annoyed MEENAH: please
-      @meenah_talk:#chumps#shame-globes#chumpiness#globage MEENAH: ok i admit that mosta them were chumpy as globes when we was tryin to win our game
-      @meenah_happytalk MEENAH: but this time when im through with em they will be the loyal murderous mob of cherubfucking fury our people were always supposed to be
-      @meenah_creepylaugh:#batterwitch#waterbitch#omfg#yes#yes#yes#yes MEENAH: and if you dont think i can do that then N-E-ED I R-EMIND YOU who i grew up to be in some another dimension or whatever
-      @aranea_happytalk ARANEA: You needn't remind me at all, Your Condescension.
-      @aranea_happy:#::::) ARANEA: I 8elieve you were hatched to 8e a tyrant, and I pray that your campaign of 8ullying and intimidation goes swimmingly. 
-      @meenah_fishtalk MEENAH: aw youre tha best serket cmere 38*
+<action class='araneaDialog2' name='Demande-lui pour tes amis.' command='talk'><args>
+      @meenah_talk:#amis-morts#frangins-fantomes-#copains-spectraux#jsais-pas MEENAH: donc ou sont passes tous les potos jai besoin de leur parler de quelque chose
+      @aranea_talk ARANEA: Je pense que la plupart de nos amis se sont rassem8lés dans cette 8ulle onirique.
+      @aranea_think ARANEA: Tu devrais pouvoir les trouver en cherchant un peu.
+      @aranea_happytalk ARANEA: De quoi veux-tu leur parler ?
+      @meenah_creepy:#reunion-des-trolls-alpha-yo MEENAH: jdois re assembler notre gang
+      @meenah_wink MEENAH: faut eliminer le connard du temps
+      @meenah_happytalk:#losers#experts-en-lose#losermasters#pros-de-lechec MEENAH: tu dis quil est invincible mais cest justement le genre de conneries de loser qui nous fout la lose comme une putain de bande de losers
+      @meenah_talk MEENAH: on peut le faire si genre
+      @meenah_wut:#travail-depique#lol MEENAH: on se met a travailler ensemble et tout
+      @meenah_happy:#ou-bien... MEENAH: si on cree une armee
+      @meenah_happier MEENAH: une armee FANTOM-E 38D
+      @meenah_ohyes:#trop-dement MEENAH:  imagine a quel point ce serait glubain de dement
+      @aranea_madtalk ARANEA: Dément, peut-être. Mais pas très stratégique !
+      @aranea_annoyedtalk ARANEA: Tu vas juste entrainer tout le monde dans l’ou8li éternel. Du moins si tu ne mets pas au point un meilleur plan entre-temps.
+      @meenah_fish MEENAH: alors cest quoi ton idee geniale
+      @aranea_happy:#Patience#Peixes#Assonance-allitérative ARANEA: Être un peu plus patients. 
+      @aranea_happytalk ARANEA:  Je suis sur la piste d’une arme secrète qui pourrait 8ien être la clé pour faire pencher les chances en notre faveur face à lui. 
+      @meenah_idle MEENAH: oh vraiemanta
+      @meenah_annoyed MEENAH: et cest quoi cette lame
+      @aranea_annoyedtalk:#Lame?#Vraiment,-Meenah? ARANEA: La lame........ l’arme, je veux dire, n’est pas un quoi, mais un qui.
+      @aranea_happytalk:#Aliens ARANEA:  Il s’agit de l’autre chéru8in. L’équivalent féminin du Seigneur, avec qui il partageait autrefois le même corps.
+      @aranea_talk:#Espèce-xéno8iologiquement-fascinante ARANEA:  Mais lorsqu’ils atteignirent leur maturité, sa personnalité domina l’hôte, lui assurant un contrôle complet.
+      @aranea_talk:#Du-moins-d’après-la-légende ARANEA:  Elle est techniquement morte ce jour-là, et son esprit doit actuellement être en train d’errer quelque part dans le Cercle Extérieur.
+      @aranea_madtalk ARANEA: Nous devons la retrouver avant lui. Il va sûrement essayer del’achever pour de 8on.
+      @meenah_annoyed:#uh MEENAH: cherubin
+      @meenah_wut2 MEENAH: quoi
+      @meenah_annoyedtalk MEENAH: ok jai absolument rien suivi de cette merde donc uh
+      @meenah_annoyedtalk MEENAH: va trouver ta fille cherubin
+      @meenah_creepytalk:#armee-fantome#peythasse-#ptain-ouais MEENAH: je srai la en train de construire mon armee fantome 
+      @aranea_happytalk ARANEA: Très 8ien. 8onne chance avec tout ça !
+      @aranea_talk:#Voire-même-une-éternité ARANEA: Mais tâche de te souvenir que cela fait très longtemps qu’un seul de nos amis a fait quoi que ce soit d’important.
+      @aranea_talk:#J’espère-que-tu-aimes-les-conversations-frustrantes ARANEA: Trouver des recrues pour ton armée risque 8ien d’être plus dur que tu ne le penses.
+      @meenah_talk:#ballots#globes-honteux#ballotitude#globage MEENAH: ok jadmets que la plupart dentre eux etaient ballots comme des globes quand on essayait de gagner notre partie
+      @meenah_happytalk MEENAH: mais lorsque jen aurais fini avec eux ils seront enfin devenus la machine enculeuse de cherubins que notre peuple a toujours ete cense etre
+      @meenah_creepylaugh:#sorciere-atissiere#tyran-des-mers#omfg#yes#yes#yes#yes MEENAH:  et si tu men crois pas capable D-EVRAIS-JE T-E RAPP-EL-ER qui je suis devenue dans une dimension alternative ou un truc du genre
+      @aranea_happytalk ARANEA: Nul 8esoin de me le rappeler, Votre Condescendance.
+      @aranea_happy:#::::) ARANEA: Je sais que vous avez été élevée dans l’optique de devenir une despote, et je prie afin que tout 8aigne pour votre campagne de harcèlement et d’intimidation. 
+      @meenah_fishtalk MEENAH: aw tes la meilleure serket viens la 38*
       <!--  -->
 </args></action>
 
