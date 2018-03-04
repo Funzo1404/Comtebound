@@ -10,7 +10,7 @@
 	<animation class='porrim-dialog' frameInterval='6' x='-180' y='-444'/>
 	<animation class='latula-dialog' frameInterval='6' x='-200' y='-524'/>
   
-  <action class='snoop' sprite='meenah' command='talk' name='Talk.'>
+  <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
 		<args>
 		@! Hey, c’est Chonchon ! Mais on dirait qu’il est sérieusement engagé dans une très grosse discussion avec le Vantas de votre équipe. Vous n’avez vraiment pas envie de vous retrouver impliquée.
 		@!:#écouter-aux-portes#malpoli Écouter la conversation ?
@@ -20,7 +20,7 @@
 				<action class='eavesdrop'>
 
 				</action>
-				<action command='Cancel' name='No.'>
+				<action command='Cancel' name='Non.'>
 						<!-- nothing -->
 				</action>
 			</args>
