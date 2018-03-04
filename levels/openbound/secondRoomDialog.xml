@@ -80,7 +80,7 @@
 <action class='roseDialog1' name='Parle à Rose.' command='talk'><args>
       @meenah_creepy MEENAH: hey!!!!
       @rose_idle ROSE: Bonjour.
-      @meenah_annoyed MEENAH: cest uh
+      @meenah_annoyed MEENAH: cest heu
       @meenah_happier MEENAH: TOI
       @rose_idle ROSE: Oui.
       @meenah_wut:#sont-ou-les-cornes#trop-zarb lhumaine hein
@@ -262,7 +262,7 @@
       @dave_concern:#monstres-mourants#fantomes-mourants#affreux-problemes DAVE: et jai ecoute et jai entendu des cris et des meurtres et tout
       @dave_mad DAVE: jarrive pas a bien dormir depuis
       @dave_smug:#oh-ouais#javais-oublie DAVE: enfin bon jimagine que je suis endormi la maintenant
-      @dave_talk:#anatomie-troll#obscene#peut-etre ? DAVE: parce que je suis la dans la bulle en train de te parler mais ouais de maniere generale mon rythme de sommeil sest fait saillir par levacuation proteique
+      @dave_talk:#anatomie-troll#obscene#peut-etre? DAVE: parce que je suis la dans la bulle en train de te parler mais ouais de maniere generale mon rythme de sommeil sest fait saillir par levacuation proteique
       @dave_talk:#projets-geniaux DAVE: me garder occupe avec des projets geniaux aide un peu je suppose
       @meenah_creepy MEENAH: alors tu dois vouloir tuer ce mec encore plus que moi
       @meenah_creepytalk:#a-quoi-donc-sert-une-cape#si-tu-ne-tenvoiles-pas-au-loin-pour-casser-du-mechant MEENAH: pourquoi tu me rejoindrais pas on pourrait senvoilier au loin et lui defoncer la gueule ensemble 38D
@@ -315,11 +315,11 @@
       @dave_talk DAVE: peut etre quune fois que tu auras retrouve tes potes tu pourras devenir certains dentre eux
       @dave_smug DAVE: merde peut etre meme quapres que peu importe ce que tu essaies de faire savere etre un echec total et cuisant tu pourras devenir lun dentre nous
       @dave_talk DAVE: mais ca se fera dans une zone differente
-      @meenah_fish:#quoi-?#tes-maboul MEENAH: quelle zone
+      @meenah_fish:#quoi?#tes-maboul MEENAH: quelle zone
       @dave_talk DAVE: bulle
       @dave_talk DAVE: comme les souvenirs dune putain de foret magique ou bien un village natal ou une merde du genre
       @dave_talk DAVE: je sais pas juste a un autre putain dendroit
-      @dave_mad:#et-sur-ce#nen-parlons-plus-jamais#deviens-dave-?#dans-tes-reves DAVE: maintenant barre toi
+      @dave_mad:#et-sur-ce#nen-parlons-plus-jamais#deviens-dave?#dans-tes-reves DAVE: maintenant barre toi
       @meenah_wut2 MEENAH: SI TU INSIST-ES
       <!--  -->
 </args></action>
