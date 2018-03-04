@@ -10,7 +10,7 @@
 	<animation class='porrim-dialog' frameInterval='6' x='-180' y='-444'/>
 	<animation class='latula-dialog' frameInterval='6' x='-200' y='-524'/>
   
-  <action class='snoop' sprite='meenah' command='talk' name='Talk.'>
+  <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
 		<args>
 		@! Hey, it's shouty! But it looks like he's severely embroiled in a really heavy discussion with your team's Vantas. You really don't feel like getting involved.
 		@!:#eavesdropping#rude Listen in on conversation?
@@ -20,7 +20,7 @@
 				<action class='eavesdrop'>
 
 				</action>
-				<action command='cancel' name='No.'>
+				<action command='cancel' name='Non.'>
 						<!-- nothing -->
 				</action>
 			</args>
@@ -400,7 +400,7 @@
   											<args> @! Do a sick grind down the railing?</args>
 												<action command='presentActions'>
 													<args>
-														<action command='waitFor' name='Yes.'>
+														<action command='waitFor' name='Oui.'>
 															<args>time,40</args>
 															<action command='becomeNPC' noWait='true'>
 																<args></args>
@@ -425,7 +425,7 @@
 																										<args>stairEventSwitch,0,-100</args>
 																										<action command='addActions' noWait='true'>
 																											<args>latula,
-																												<action command='changeChar' name='Be Latula.'>
+																												<action command='changeChar' name='Deviens Latula.'>
 																													<args>latula</args>
 																													<action command='playSong'>
 																														<args>gameGlare,18.19</args>
@@ -446,7 +446,7 @@
 																</action>
 															</action>
 														</action>
-														<action command='cancel' name='No.'>
+														<action command='cancel' name='Non.'>
 																<!-- Nothing -->
 														</action>
 													</args>
@@ -507,7 +507,7 @@
 					<action command='playAnimation'>
 						<args>latula,walkFront</args>
 						<action command='removeAction'>
-							<args>latula,Be Latula.</args>	
+							<args>latula,Deviens Latula.</args>	
 						</action>
 					</action>
 				</action>
@@ -543,7 +543,7 @@
     
     <sprite name='memoryBubble' x='2220' y='1200' width='20' height='20' depthing='1' collidable='true'>
   		<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
-  		<action command='talk' sprite='porrim' name='Examine bubble.'>
+  		<action command='talk' sprite='porrim' name='Examine la bulle.'>
 				<args>
 					@! It's a little dream bubble, containing one of your memories. You look inside.
 					@! The memory is from right here, on Prospit. You spent a great deal of time there during the long sweeps of your session. You remember this little precipice well.
@@ -568,7 +568,7 @@
 					</action>
 				</action>
 			</action>
-    	<action command='talk' sprite='!porrim' name='Examine bubble.'>
+    	<action command='talk' sprite='!porrim' name='Examine la bulle.'>
     		<args>
 			  @!:#sorry It's a little dream bubble. But it does not contain your memory. Only Porrim can see what's inside.
 				</args>
