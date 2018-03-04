@@ -12,15 +12,15 @@
   
   <action class='snoop' sprite='meenah' command='talk' name='Talk.'>
 		<args>
-		@! Hey, it's shouty! But it looks like he's severely embroiled in a really heavy discussion with your team's Vantas. You really don't feel like getting involved.
-		@!:#eavesdropping#rude Listen in on conversation?
+		@! Hey, c’est Chonchon ! Mais on dirait qu’il est sérieusement engagé dans une très grosse discussion avec le Vantas de votre équipe. Vous n’avez vraiment pas envie de vous retrouver impliquée.
+		@!:#écouter-aux-portes#malpoli Écouter la conversation ?
 		</args>
 		<action command='presentActions'>
 			<args>
 				<action class='eavesdrop'>
 
 				</action>
-				<action command='cancel' name='No.'>
+				<action command='Fermer' name='Non.'>
 						<!-- nothing -->
 				</action>
 			</args>
