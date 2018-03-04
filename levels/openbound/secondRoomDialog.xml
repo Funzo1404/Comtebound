@@ -256,7 +256,7 @@
 
 <action class='daveDialog2' name='Demande à Dave de te rejoindre.' command='talk'><args>
       @dave_idle DAVE: ouais jai vu ca
-      @dave_talk:#les-passe-temps-secrets-de-dave#homard-rouge-de-letrange#buffet-de-fruits-de-mer-bon-marche#je-mennuyais DAVE: jetais en train de regarder lespace faire de la contemplation de monstres tout ca
+      @dave_talk:#passe-temps-secrets-de-dave#etrange-homard#buffet-de-crustacés-bon-marche#ennuyant DAVE: jetais en train de regarder lespace faire de la contemplation de monstres tout ca
       @dave_huhtalk:#ben-stiller-a-failli-faire-une-putain-de-tornade-dans-sa-tombe DAVE: quand tout a coup jai cru que mes lunettes venaient de se peter
       @dave_huhtalk:#putain-de-soulagement#elles-viennent-de-mon-meilleur-frangin DAVE: mais cetait pas les lunettes en fait cetait lespace lui meme qui sest fissure
       @dave_concern:#monstres-mourants#fantomes-mourants#affreux-problemes DAVE: et jai ecoute et jai entendu des cris et des meurtres et tout
@@ -265,7 +265,7 @@
       @dave_talk:#anatomie-troll#obscene#peut-etre? DAVE: parce que je suis la dans la bulle en train de te parler mais ouais de maniere generale mon rythme de sommeil sest fait saillir par levacuation proteique
       @dave_talk:#projets-geniaux DAVE: me garder occupe avec des projets geniaux aide un peu je suppose
       @meenah_creepy MEENAH: alors tu dois vouloir tuer ce mec encore plus que moi
-      @meenah_creepytalk:#a-quoi-donc-sert-une-cape#si-tu-ne-tenvoiles-pas-au-loin-pour-casser-du-mechant MEENAH: pourquoi tu me rejoindrais pas on pourrait senvoilier au loin et lui defoncer la gueule ensemble 38D
+      @meenah_creepytalk:#a-quoi-sert-une-cape#si-tu-ne-tenvoiles-pas-au-loin-pour-casser-du-mechant MEENAH: pourquoi tu me rejoindrais pas on pourrait senvoilier au loin et lui defoncer la gueule ensemble 38D
       @dave_idle:#non DAVE: nope
       @dave_talk:#dave_ebubbles DAVE: japprecie la proposition mais je vais juste rester concentre et bosser sur mes ebubbles
       @meenah_wut2 MEENAH: e quoi
@@ -283,7 +283,7 @@
       @dave_madtalk:#on-dit-quil-a-une-dent-en-or#vous-etes-serieux-putain DAVE: alors si je suis LE MEC qui est cense le descendre ok je le ferai et je me retrouverai embarque dans un grand affrontement final contre une espece de pimp vert de lespace ou peu importe ce quil est
       @dave_huhtalk:#je-me-debrouille-mieux-avec-les-comics DAVE: je sais pas je suis pas vraiment fait pour le truc du heros reticent
       @dave_huhtalk:#reticent-avant-que-ca-soit-cool#et-avant-que-jen-ai-envie DAVE: genre toute la scene est tellement evidente et banale que jarrive meme pas a dire si ma reticence est ironique ou si je suis serieux
-      @dave_concern:#il-faut-VRAIMENT-etre-completement-RETICENT-pour-FAIRE-un-truc-comme-ca-etc-etc#sbahj DAVE: genre je serais la a me demander si je suis assez reticent pour ce boulot ou bien si je suis juste reticent detre reticent
+      @dave_concern:#il-faut-VRAIMENT-etre-RETICENT-pour-FAIRE-un-truc-comme-ca-etc-etc#sbahj DAVE: genre je serais la a me demander si je suis assez reticent pour ce boulot ou bien si je suis juste reticent detre reticent
       @dave_concern:#je-pense-aux-poupees-aussi-parfois...#aucun-rapport DAVE: et ca devient de la meta reticence et alors la seule chose que je suis capable de penser est a quel point tout ca est putain de stupide
       @dave_talk:#auto-apitoiement-ironique DAVE: je crois que je me connais trop bien pour ces conneries heroiques donc pas la peine de perdre ton temps avec moi
       @meenah_idle MEENAH: wow
