@@ -111,7 +111,7 @@
       <!--  -->
 </args></action>
 
-<action class='roseDialog2' name='Demande à Rose de se joindre à toi.' command='talk'><args>
+<action class='roseDialog2' name='Demande à Rose de te rejoindre.' command='talk'><args>
       @meenah_fish MEENAH: dooooonc
       @meenah_fishtalk MEENAH: humaine super bavarde
       @meenah_happytalk:#saluuut MEENAH: cest encore moi
@@ -144,117 +144,117 @@
 </args></action>
 
 <action class='kanayaDialog1' name='Parle à Kanaya.' command='talk'><args>
-      @meenah_talk MEENAH: oh hey the maryam looking girl
-      @meenah_talk MEENAH: what is the deal with you
-      @kanaya_bored:#The-Deal-With-Things#The-Topic-Of-Wonder#People-Looking-People KANAYA: The Deal With The Maryam Looking Girl Is That She Is Wondering What The Deal Is With The Peixes Looking Girl And Specifically Why The Former Has Piqued The Latters Curiosity
-      @meenah_idle MEENAH: why
-      @meenah_annoyed MEENAH: dunno
-      @meenah_annoyedtalk:#i-mean#two-captors-id-undersand MEENAH: seams to me two maryams is overdoin it a bit
-      @meenah_happy MEENAH: one was more than enough 
-      @kanaya_smirktalk KANAYA: The Same Thing Occurred To Me
-      @meenah_talk:#u-talk-weird MEENAH: you arent much like the one we had
-      @meenah_happytalk MEENAH: kind of a tough act to follow to be fair though
-       @kanaya_facepalm:#Things-That-Are-The-Same#And-How-They-Occur-To-People KANAYA: The Same Thing Occurred To Me Yet Again
-      @meenah_happytalk:#damn#ur-blindin-me-girl#the-goggles-do-nofin MEENAH: looks like you got the rainbow drinker thing going on too
-      @kanaya_happy KANAYA: I Suppose
-      @meenah_idle MEENAH: so
-      @meenah_talk MEENAH: you go around lookin like that all the time or
-      @kanaya_idle:#Kind-Of-Personal? KANAYA: To My Knowledge Yes
+      @meenah_talk MEENAH: oh hey cest la fille maryamesque
+      @meenah_talk MEENAH: cest quoi ton probleme
+      @kanaya_bored:#Le-Problème-Avec-Les-Choses#Bon-Sujet-De-Questionnement#Personnes-Personnesques KANAYA: Le Problème Avec La Fille Maryamesque Est Quelle Se Demande Quel Est Le Problème Avec La Fille Peixesienne Et En Particulier Pourquoi Cette Dernière Se Montre Si Curieuse
+      @meenah_idle MEENAH: pourquoi
+      @meenah_annoyed MEENAH: chais pas
+      @meenah_annoyedtalk:#enfin#deux-captors-jcomprendrais MEENAH: jai colinpression que deux maryam cest un peu trop
+      @meenah_happy MEENAH: une etait largement suffisante 
+      @kanaya_smirktalk KANAYA: Je Pense De Même
+      @meenah_talk:#tu-parles-zarbi MEENAH: tu ressembles pas trop a celle quon avait
+      @meenah_happytalk MEENAH: pas tres simple de lui succeder anemonetemment
+       @kanaya_facepalm:#Les-Choses-Qui-Sont-Les-Mêmes#Et-Comment-Les-Gens-Y-Pensent KANAYA: Je Pense De Même Une Fois De Plus
+      @meenah_happytalk:#wah#tes-eblouissante-ma-fille#les-lunettes-ny-font-rien MEENAH: on dirait bien que tas le truc du buveur darc en ciel toi aussi
+      @kanaya_happy KANAYA: Je Suppose
+      @meenah_idle MEENAH: et donc
+      @meenah_talk MEENAH: tu te balades comme ca tout le temps ou bien
+      @kanaya_idle:#Ce-Sont-Mes-Affaires-? KANAYA: À Ma Connaissance Oui
       @meenah_creepy MEENAH: heh
-      @kanaya_talk KANAYA: Is There An Alternative Degree Of Auto Luminescence I Should Be Aware Of
-      @kanaya_bored:#On-A-Scale-Of-One-To-Idiot KANAYA: And If So How Foolish Should I Feel For Only Learning About It Now
-      @meenah_talk MEENAH: im no drinker buff but yeah our maryam figured out how to control it
-      @kanaya_facepalm KANAYA: Really
-      @meenah_talk MEENAH: she probably had more time to figure it out than you
-      @meenah_happytalk MEENAH: when youre stuck in a busted session for three sweeps without much to do you figure some stuff out about yourself
-      @meenah_annoyedtalk:#buzzbugs#bzzzzz#hehe MEENAH: not my buzzbug wax but maybe you should axe her
-      @kanaya_idle KANAYA: I Dont Think So
-      @meenah_idle MEENAH: why not
-      @kanaya_happy KANAYA: Id Like To
-      @kanaya_smirktalk KANAYA: But I Cant Get Up The Nerve
-      @meenah_happy:#you-check-out-her-ink-yet#fucken-dope MEENAH: aw come on shes cool
-      @kanaya_idle KANAYA: Yes
-      @kanaya_bored KANAYA: She Is An Amazing Person
-      @kanaya_cry KANAYA: And It Is Very Intimidating
-      @kanaya_facepalm KANAYA: I Had The Same Feelings Of Trepidation The Last Time I Encountered Someone I Admired
-      @meenah_idle MEENAH: oh yeah who was that
+      @kanaya_talk KANAYA: Y Aurait Il Un Degré Alternatif Dauto Luminescence Dont Je Devrais Être Au Courant
+      @kanaya_bored:#Sur-Une-Échelle-De-Un-À-Idiote KANAYA: Et Si Oui À Quel Point Devrais Je Me Sentir Bête De Ne Lapprendre Que Maintenant
+      @meenah_talk MEENAH: jai pas le bonus buveur mais ouais notre maryam a trouve comment le controler
+      @kanaya_facepalm KANAYA: Vraiment
+      @meenah_talk MEENAH: en meme temps elle a probablement eu plus de temps pour trouver que toi
+      @meenah_happytalk MEENAH: quand tes coincee dans une session bousillee pendant trois revolutions sans avoir grand chose a faire tu decouvres pas mal de choses sur toi meme
+      @meenah_annoyedtalk:#oignons#popote#hehe MEENAH: cest pas mes oignons mais peut etre que tu devrais lui en parler
+      @kanaya_idle KANAYA: Je Ne Pense Pas
+      @meenah_idle MEENAH: pourquoi pas
+      @kanaya_happy KANAYA: Jaimerais Bien
+      @kanaya_smirktalk KANAYA: Mais Je Nen Ai Pas Le Courage
+      @meenah_happy:#tas-vu-ses-tatouages-ou-pas-encore#enorme MEENAH: oh allez elle est cool
+      @kanaya_idle KANAYA: Oui
+      @kanaya_bored KANAYA: Elle Est Incroyable
+      @kanaya_cry KANAYA: Et Cela Est Très Intimidant
+      @kanaya_facepalm KANAYA: Jai Eu Le Même Sentiment Trépidant En La Voyant Que La Fois Où Jai Rencontré Une Personne Que Jadmire
+      @meenah_idle MEENAH: ah ouais et cetait qui
       @kanaya_happy:#- KANAYA: ...
       @meenah_idle MEENAH: huh
-      @meenah_happy MEENAH: you mean
-      @meenah_wink MEENAH: her over there
-      @meenah_happytalk:#her?? MEENAH: talky girl in the orange nighty jams
+      @meenah_happy MEENAH: tu parles de
+      @meenah_wink MEENAH: delle la bas
+      @meenah_happytalk:#elle-?? MEENAH: le moulin a paroles en pyjama orange
       @kanaya_smirklaugh:#-#- KANAYA: ...
-      @meenah_wink MEENAH: i seaaa
-      @meenah_happytalk MEENAH: saw you two hangin together last time
-      @meenah_happytalk MEENAH: she your g frond
-      @meenah_wink MEENAH: the red sort i mean
+      @meenah_wink MEENAH: je voiiis
+      @meenah_happytalk MEENAH: jvous ai vu trainer ensemble la derniere fois
+      @meenah_happytalk MEENAH: cest ta copine
+      @meenah_wink MEENAH: dans le rouge je veux dire
       @kanaya_smirklaugh:#-#-#- KANAYA: ...
-      @kanaya_smirktalk:#-#-#-#-#Additional-Bashfully-Blank-Hash-Tags KANAYA: Maybe
-      @meenah_idle MEENAH: thats adorbs yo
+      @kanaya_smirktalk:#-#-#-#-#Encore-Quelques-Hash-Tags-Vides-Et-Pudiques KANAYA: Peut Être
+      @meenah_idle MEENAH: cest trop mignon yo
       <!--  -->
 </args></action>
-<action class='kanayaDialog2' name='Ask Kanaya to join.' command='talk'><args>
-      @meenah_creepytalk MEENAH: hey maryam lookalike lets go kick the fuck outa skullzilla
-      @kanaya_talk KANAYA: I Was About To Respond Favorably
-      @kanaya_talk KANAYA: But Then I Glanced Over At Rose
-      @kanaya_bored:#The-Limitless-Mysteries-Of-Her-Wisdom-Know-No-Bounds#Human-Sarcasm KANAYA: And She Was Just Shaking Her Head At Me Very Slowly And Kind Of Knowingly
-      @meenah_annoyedtalk MEENAH: no u silly drinker shes just fucking with you
-      @kanaya_happytalk KANAYA: Oh Probably
-      @kanaya_talk:#Bad-Plan KANAYA: But Lets Be Realistic Here The Answer Was Probably Going To Be No Anyway
-      @meenah_talk MEENAH: aight well guess im going to drink skull guys blood all by my shellf then
-      @kanaya_bored:#Gross-Monster-Blood KANAYA: I Bet It Tastes Really Bad
-      @meenah_happytalk MEENAH: haha yeah
-      @meenah_annoyed MEENAH: well later
+<action class='kanayaDialog2' name='Demande à Kanaya de te rejoindre.' command='talk'><args>
+      @meenah_creepytalk MEENAH: hhey maryam junior viens on va defoncer la gueule a cranezilla
+      @kanaya_talk KANAYA: Jétais Sur Le Point De Répondre Favorablement
+      @kanaya_talk KANAYA: Cest Alors Que Je Regardai En Direction De Rose
+      @kanaya_bored:#Les-Mystères-Éternels-De-Sa-Sagesse-Sont-Sans-Fin#Sarcasme-Humain KANAYA: Et Elle Était Juste Là En Train De Me Faire Non De La Tête Dune Manière Très Lente Et Entendue
+      @meenah_annoyedtalk MEENAH: non stupide buveuse elle est juste en train de te faire tourner en bourrique
+      @kanaya_happytalk KANAYA: Oh Probablement
+      @kanaya_talk:#Mauvais-Plan KANAYA: Mais Soyons Réalistes La Réponse Allait Sûrement Être Non De Toute Façon
+      @meenah_talk MEENAH: ok dac bon je suppose que je vais devoir boire le sang du mec au crane toute sole alors
+      @kanaya_bored:#Dégoûtant-Sang-De-Monstre KANAYA: Je Parie Que Ça A Vraiment Mauvais Goût
+      @meenah_happytalk MEENAH: haha ouais
+      @meenah_annoyed MEENAH: bon a plus
       <!--  -->
 </args></action>
-<action class='daveDialog1' name='Talk to Dave.' command='talk'><args>
-      @meenah_talk MEENAH: hey cape guy
-      @meenah_annoyed MEENAH: youre uh
-      @meenah_talk:#with-the-shades MEENAH: human whats his cape
-      @dave_talk:#see-also#shaggy-2-cape DAVE: thats exactly my name
-      @dave_smug DAVE: everyone stupidly insists on calling me dave though
-      @meenah_idle MEENAH: so davecape
-      @meenah_happy MEENAH: wheres your bro
-      @dave_huh DAVE: my bro
-      @dave_huhtalk:#like#the-ghostless-kind-of-dead-i-think DAVE: hes dead
-      @dave_talk:#kid-bro#wtf DAVE: unless you mean the kid version as in the guy we both saw with the pointy shades
-      @dave_madtalk:#thats-sorta-what-he-does#just-vanishes-like-a-mysterious-motherfucker DAVE: remember he grabbed my sleeping teen mom and flew away and that was the last i saw of him
-      @meenah_idle MEENAH: no no
-      @meenah_idle MEENAH: not that guy
-      @meenah_happytalk:#one-of-the-best-hi-5s-eva#dudes-a-pro MEENAH: actually i gave him a sweet high five a little while ago but thats not who i mean
-      @dave_huhtalk DAVE: what when did you give him a high five
-      @dave_madtalk:#not-cool DAVE: why wasnt i informed of this high five that took place
-      @meenah_talk MEENAH: who cares im talking about your other bro
-      @meenah_creepylaugh:#madvantas MEENAH: the cool shouty kid who got po'd and went to clamscray the f out
-      @dave_idle DAVE: oh karkat you mean
-      @dave_talk DAVE: i dunno hes around
-      @dave_talk:#or-uh#being-talked-too DAVE: i saw him talking to his ancestor a while ago
-      @dave_smug:#hilarious-toolparty DAVE: dont think he likes him very much
-      @meenah_wut MEENAH: what
-      @meenah_annoyedtalk MEENAH: shouty shouldnt be hanging out with that glubbin dork
-      @dave_smug:#ancestors#you-know-how-it-is DAVE: i doubt he actually wants to but you know how it is with ancestors
+<action class='daveDialog1' name='Parle à Dave.' command='talk'><args>
+      @meenah_talk MEENAH: hey le mec avec la cape
+      @meenah_annoyed MEENAH: tes uh
+      @meenah_talk:#avec-les-lunettes MEENAH: lhumain truc muche avec sa carpe
+      @dave_talk:#voir-aussi#shaggy-2-cape DAVE: cest totalement mon nom
+      @dave_smug DAVE: tout le monde se borne a mappeller dave par contre
+      @meenah_idle MEENAH: donc davecarpe
+      @meenah_happy MEENAH: ou est ton frangin
+      @dave_huh DAVE: mon frangin
+      @dave_huhtalk:#comme#le-genre-de-mort-sans-fantome-je-crois DAVE: il est mort
+      @dave_talk:#frangin-jeune#wtf DAVE: a moins que tu parles de sa version ado qui est le gars aux lunettes pointues quon a vu tous les deux
+      @dave_madtalk:#cest-ce-quil-fait#juste-disparaitre-comme-un-mysterieux-fils-de-pute DAVE: tu te souviens il a attrape ma mere adolescente pendant quelle dormait puis il sest envole au loin et cest la derniere chose que jai vu de lui
+      @meenah_idle MEENAH: non non
+      @meenah_idle MEENAH: pas lui
+      @meenah_happytalk:#meilleur-topage-de-tous-les-temps#ce-mec-est-un-pro MEENAH: en fait je lui ai fait un high five y a pas longtemps mais cest pas de lui que je parle
+      @dave_huhtalk DAVE: hein quoi quand est ce que tu lui as fait un high five
+      @dave_madtalk:#pas-cool DAVE: pourquoi personne ma rien dit a propos de ce high five
+      @meenah_talk MEENAH: osef je parle de ton autre frangin
+      @meenah_creepylaugh:#vantas-se-fache MEENAH: le gamin ronchon et cool qui a pete son cable avant de se barrer
+      @dave_idle DAVE: oh karkat tu veux dire
+      @dave_talk DAVE: je sais pas il doit pas etre loin
+      @dave_talk:#ou-bien-uh#en-train-de-lecouter-parler DAVE: je lai vu en train de parler avec son ancetre
+      @dave_smug:#rassemblement-de-cretins#hilarant DAVE: je crois pas quil laime beaucoup
+      @meenah_wut MEENAH: quoi
+      @meenah_annoyedtalk MEENAH: chonchon devrait pas rester pres de ce glub dabruti
+      @dave_smug:#les-ancetres#tu-sais-ce-que-cest DAVE: je doute quil en ait vraiment envie mais tu sais comment cest avec les ancetres
       @meenah_idle MEENAH: ...
-      @dave_huhtalk DAVE: ok maybe you dont since i guess youre actually an ancestor yourself
-      @dave_talk:#i-think-her-name-was-fieri-or-something DAVE: or you were to some dead girl i never met but anyway
-      @dave_idle DAVE: they just seem to
-      @dave_huh DAVE: i dont know
-      @dave_madtalk DAVE: have this inexplicable power over you
-      @dave_concern:#shambles#kanaya#yeah DAVE: i mean look at kanaya over there shes a fucking shambles about hers
-      @dave_concern:#dude-come-get-the-ruler DAVE: like it isnt even rational or anything they just represent something you measure yourself up to
-      @dave_talk DAVE: and even though they probably arent all theyre cracked up to be it just kind of gets in your head you know
-      @meenah_idle MEENAH: naw
-      @meenah_talk MEENAH: my ancestor was fuckin lame
-      @meenah_happytalk:#includin-a-pair-of-human-clown-slam-poets??#ahaha MEENAH: otoh in another tunaverse i grew up to be an ice cold murderbitch in charge of everybody which makes perfect sense
-      @meenah_ohyes:#fuchsia-ruler MEENAH: so the only one i got to measure up to is me and it turns out i measure up awesomely
-      @dave_talk DAVE: and on that day human whats his cape learned the only real treasure was a forced sense of self esteem
-      @dave_idle DAVE: he thanked the punky sea princess for her radical wisdom and then she went away
-      @meenah_talk MEENAH: i think
-      @meenah_idle MEENAH: that
-      @meenah_annoyed MEENAH: maybe i was just owned?
+      @dave_huhtalk DAVE: ok peut etre que non comme tu es une ancetre toi meme jimagine
+      @dave_talk:#elle-devait-sappeller-fieri-ou-un-truc-du-genre DAVE: genre celle dune fille qui est morte et que jai jamais rencontre mais bref
+      @dave_idle DAVE: ils ont juste lair de
+      @dave_huh DAVE: je sais pas
+      @dave_madtalk DAVE: davoir cet etrange pouvoir sur toi
+      @dave_concern:#kanaya#destabilisee#ouais DAVE: enfin regarde kanaya elle est completement destabilisee quand on lui parle de la sienne
+      @dave_concern:#mec-viens-prends-la-regle DAVE: du genre sans aucune raison tu ressens le besoin de te mesurer a eux
+      @dave_talk DAVE: et meme si ils sont probablement pas si faramineux que ca tu psychotes un peu tu vois
+      @meenah_idle MEENAH: nan
+      @meenah_talk MEENAH: mon ancetre etait une putain de naze
+      @meenah_happytalk:#avec-en-prime-une-paire-de-poetes-slameurs-clowns-humains-??#ahaha MEENAH: mais en meme temps dans un univers alternatif je suis devenue une assassisalope glaciale responsable du monde entier ce qui est parfaitement logique
+      @meenah_ohyes:#fuchsia-ruler MEENAH: donc la seule personne a qui je me mesure est moi et il savere que je men sors a mer veille
+      @dave_talk DAVE: et ce fut en ce jour que lhumain truc muche avec sa cape apprit que le seul tresor qui compte est une estime de soi forcee
+      @dave_idle DAVE: il remercia la princesse punk des mers pour sa sagesse radicale puis elle sen alla au loin
+      @meenah_talk MEENAH: je crois
+      @meenah_idle MEENAH: que je viens
+      @meenah_annoyed MEENAH: de me faire laminer ?
       <!--  -->
 </args></action>
 
-<action class='daveDialog2' name='Ask Dave to join.' command='talk'><args>
+<action class='daveDialog2' name='Demande à Dave de te rejoindre.' command='talk'><args>
       @dave_idle DAVE: yeah i saw it
       @dave_talk:#daves-private-chill-time#eldritch-red-lobster#bargain-seafood-buffet#bored DAVE: i was looking up in space doing a little monster gazing right
       @dave_huhtalk:#ben-stiller-almost-fucking-tornadoed-in-his-grave DAVE: when suddenly i thought my glasses shattered
