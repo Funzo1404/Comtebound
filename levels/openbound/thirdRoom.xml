@@ -10,17 +10,17 @@
 	<animation class='porrim-dialog' frameInterval='6' x='-180' y='-444'/>
 	<animation class='latula-dialog' frameInterval='6' x='-200' y='-524'/>
   
-  <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
+  <action class='snoop' sprite='meenah' command='talk' name='Talk.'>
 		<args>
-		@! Hey, c’est Chonchon ! Mais on dirait qu’il est sérieusement engagé dans une très grosse discussion avec le Vantas de votre équipe. Vous n’avez vraiment pas envie de vous retrouver impliquée.
-		@!:#écouter-aux-portes#malpoli Écouter la conversation ?
+		@! Hey, it's shouty! But it looks like he's severely embroiled in a really heavy discussion with your team's Vantas. You really don't feel like getting involved.
+		@!:#eavesdropping#rude Listen in on conversation?
 		</args>
 		<action command='presentActions'>
 			<args>
 				<action class='eavesdrop'>
 
 				</action>
-				<action command='Cancel' name='Non.'>
+				<action command='cancel' name='No.'>
 						<!-- nothing -->
 				</action>
 			</args>
@@ -400,7 +400,7 @@
   											<args> @! Do a sick grind down the railing?</args>
 												<action command='presentActions'>
 													<args>
-														<action command='waitFor' name='Oui.'>
+														<action command='waitFor' name='Yes.'>
 															<args>time,40</args>
 															<action command='becomeNPC' noWait='true'>
 																<args></args>
@@ -425,7 +425,7 @@
 																										<args>stairEventSwitch,0,-100</args>
 																										<action command='addActions' noWait='true'>
 																											<args>latula,
-																												<action command='changeChar' name='Devient Latula.'>
+																												<action command='changeChar' name='Be Latula.'>
 																													<args>latula</args>
 																													<action command='playSong'>
 																														<args>gameGlare,18.19</args>
@@ -446,7 +446,7 @@
 																</action>
 															</action>
 														</action>
-														<action command='cancel' name='Non.'>
+														<action command='cancel' name='No.'>
 																<!-- Nothing -->
 														</action>
 													</args>
@@ -523,7 +523,7 @@
 			<action class='porrimTalk2' />
 			<action class='porrimTalk3' />
 			<action class='porrimTalk4' />
-			<action name='Deviens Porrim.' command='changeChar'>
+			<action name='Be Porrim.' command='changeChar'>
 				<args>porrim</args>
 				<action command='playSong'>
 					<args>darlingDolorosa,43.88</args>
@@ -543,7 +543,7 @@
     
     <sprite name='memoryBubble' x='2220' y='1200' width='20' height='20' depthing='1' collidable='true'>
   		<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
-  		<action command='talk' sprite='porrim' name='Examine la bulle.'>
+  		<action command='talk' sprite='porrim' name='Examine bubble.'>
 				<args>
 					@! It's a little dream bubble, containing one of your memories. You look inside.
 					@! The memory is from right here, on Prospit. You spent a great deal of time there during the long sweeps of your session. You remember this little precipice well.
