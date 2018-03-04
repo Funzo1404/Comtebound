@@ -57,7 +57,7 @@
 	  	
 	  	<sprite class='redBubble' width='25' height='20' depthing='1' collidable='true'>
 	  		<animation name='image' sheet='redBubbleSheet' x='-18' y='-60' />
-			<action class='redBubbleText' name="talk" command='randomTalk'> </action>
+			<action class='redBubbleText' name="Parle" command='randomTalk'> </action>
 		</sprite>
 	  
 	</classes>
