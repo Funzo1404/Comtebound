@@ -17,7 +17,7 @@ Sburb.SpriteButton = function(name,x,y,width,height,sheet,action){
 	this.action?action:null;
 	
 	for(var i=0;i<(sheet.width/this.width)*(sheet.height/this.height);i++){
-		this.addAnimation(new Sburb.Animation("state"+i,sheet,500,500,width,height,i,1,1000));
+		this.addAnimation(new Sburb.Animation("state"+i,sheet,0,0,width,height,i,1,1000));
 	}
 	
 	this.startAnimation("state0");
