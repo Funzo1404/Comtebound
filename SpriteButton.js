@@ -17,7 +17,7 @@ Sburb.SpriteButton = function(name,x,y,width,height,sheet,action){
 	this.action?action:null;
 	
 	for(var i=0;i<(sheet.width/this.width)*(sheet.height/this.height);i++){
-		this.addAnimation(new Sburb.Animation("state"+i,sheet,0,0,width,height,i,1,1000));
+		this.addAnimation(new Sburb.Animation("state"+i,sheet,500,500,width,height,i,1,1000));
 	}
 	
 	this.startAnimation("state0");
@@ -98,8 +98,8 @@ Sburb.parseSpriteButton = function(button){
 	var attributes = button.attributes;
 	var sheet = Sburb.assets[attributes.getNamedItem("sheet").value];
 	var newButton = new Sburb.SpriteButton(attributes.getNamedItem("name").value,
-  									attributes.getNamedItem("x")?parseInt(attributes.getNamedItem("x").value):500,
-  									attributes.getNamedItem("y")?parseInt(attributes.getNamedItem("y").value):500,
+  									attributes.getNamedItem("x")?parseInt(attributes.getNamedItem("x").value):0,
+  									attributes.getNamedItem("y")?parseInt(attributes.getNamedItem("y").value):0,
   									attributes.getNamedItem("width")?parseInt(attributes.getNamedItem("width").value):sheet.width,
   									attributes.getNamedItem("width")?parseInt(attributes.getNamedItem("height").value):sheet.height,
   									sheet);
