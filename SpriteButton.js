@@ -98,8 +98,8 @@ Sburb.parseSpriteButton = function(button){
 	var attributes = button.attributes;
 	var sheet = Sburb.assets[attributes.getNamedItem("sheet").value];
 	var newButton = new Sburb.SpriteButton(attributes.getNamedItem("name").value,
-  									attributes.getNamedItem("x")?parseInt(attributes.getNamedItem("x").value):50,
-  									attributes.getNamedItem("y")?parseInt(attributes.getNamedItem("y").value):50,
+  									attributes.getNamedItem("x")?parseInt(attributes.getNamedItem("x").value):500,
+  									attributes.getNamedItem("y")?parseInt(attributes.getNamedItem("y").value):500,
   									attributes.getNamedItem("width")?parseInt(attributes.getNamedItem("width").value):sheet.width,
   									attributes.getNamedItem("width")?parseInt(attributes.getNamedItem("height").value):sheet.height,
   									sheet);
