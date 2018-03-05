@@ -13,7 +13,7 @@
   <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
 		<args>
 		@! Hey, c’est Chonchon ! Mais on dirait qu’il est sérieusement engagé dans une très grosse discussion avec le Vantas de votre équipe. Vous n’avez vraiment pas envie de vous retrouver impliquée.
-		@!: #écouter-aux-portes#malpoli Écouter la conversation ?
+		@!:#écouter-aux-portes#malpoli Écouter la conversation ?
 		</args>
 		<action command='presentActions'>
 			<args>
@@ -503,7 +503,7 @@
 			<action class='latulaTalk2' />
 			<action class='latulaTalk3'>
 				<action command='openChest'>
-					<args>latula,skateboard,@!:#AWWW-YEAH#WHAT'S-UP-GAMERSVous obtenez le VÉHICULE À QUATRE ROUES DE LATULA !</args>
+					<args>latula,skateboard,@!:#AWWW-YEAH#WHAT'S-UP-GAMERS Vous obtenez le VÉHICULE À QUATRE ROUES DE LATULA !</args>
 					<action command='playAnimation'>
 						<args>latula,walkFront</args>
 						<action command='removeAction'>
