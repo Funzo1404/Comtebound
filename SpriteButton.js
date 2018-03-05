@@ -6,7 +6,7 @@ var Sburb = (function(Sburb){
 ///////////////////////////////////////////
 //SpriteButton class
 ///////////////////////////////////////////
-
+/*
 //constructor
 Sburb.SpriteButton = function(name,x,y,width,height,sheet,action){
 	Sburb.Sprite.call(this,name,x,y,width,height);
@@ -116,3 +116,4 @@ Sburb.parseSpriteButton = function(button){
 
 return Sburb;
 })(Sburb || {});
+*/
