@@ -503,7 +503,7 @@
 			<action class='latulaTalk2' />
 			<action class='latulaTalk3'>
 				<action command='openChest'>
-					<args>latula,skateboard,@!:#OHHHH-OUI Vous obtenez l'ENGIN A QUATRE ROUES DE LATULA</args>
+					<args>latula,skateboard,@!:#AWWW-YEAH#WHAT'S-UP-GAMERSVous obtenez le VÉHICULE À QUATRE ROUES DE LATULA !</args>
 					<action command='playAnimation'>
 						<args>latula,walkFront</args>
 						<action command='removeAction'>
