@@ -6,7 +6,7 @@ var Sburb = (function(Sburb){
 ///////////////////////////////////////////
 //SpriteButton class
 ///////////////////////////////////////////
-/*
+
 //constructor
 Sburb.SpriteButton = function(name,x,y,width,height,sheet,action){
 	Sburb.Sprite.call(this,name,x,y,width,height);
@@ -98,8 +98,8 @@ Sburb.parseSpriteButton = function(button){
 	var attributes = button.attributes;
 	var sheet = Sburb.assets[attributes.getNamedItem("sheet").value];
 	var newButton = new Sburb.SpriteButton(attributes.getNamedItem("name").value,
-  									attributes.getNamedItem("x")?parseInt(attributes.getNamedItem("x").value):0,
-  									attributes.getNamedItem("y")?parseInt(attributes.getNamedItem("y").value):0,
+  									attributes.getNamedItem("x")?parseInt(attributes.getNamedItem("x").value):50,
+  									attributes.getNamedItem("y")?parseInt(attributes.getNamedItem("y").value):50,
   									attributes.getNamedItem("width")?parseInt(attributes.getNamedItem("width").value):sheet.width,
   									attributes.getNamedItem("width")?parseInt(attributes.getNamedItem("height").value):sheet.height,
   									sheet);
@@ -116,4 +116,4 @@ Sburb.parseSpriteButton = function(button){
 
 return Sburb;
 })(Sburb || {});
-*/
+
