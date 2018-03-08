@@ -202,9 +202,9 @@
 	<animation x='-38' y='-44' sheet='obj21'/>
 	<action command='talk' name='Talk.'>
 		<args>
-		@! Hey! Get lost kid, this is MY HIDING PLACE.
-		    @!:#DOTA#uh#again Can't you see English is coming for me???
-		    @! HE IS COMING FOR US ALL.
+		@! Hé ! Va-t-en gamine, c'est MA CACHETTE.
+		    @!:#MDA#heu#encore Tu ne vois pas qu'English vient me chercher???
+		    @! IL VIENT POUR NOUS TOUS.
 		</args>
 		<action command='removeSprite'>
 			<args>obj21,secondRoom</args>
@@ -270,65 +270,65 @@
     
     <sprite class='chest6' name='secondRoomChest1' x='1732' y='660'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest1,obj11,@! You got a JUJU!
-      @!:#you'll-just-hock-it-to-some-chump An EFFIGY, to be precise. It has magical properties binding it to the mortality of someone, depending on what hat it wears. Hey, maybe you'll hang it from this tree? Nah, that's a bit morbid.</args>
+    		<args>secondRoomChest1,obj11,@! Vous obtenez un JUJU
+      @!:#Vous-allez-juste-la-mettre-en-gage-à-n'importe-quel-idiot Une EFFIGIE, pour être précis. Elle possède des propriétés magiques la liant à la vie d'une personne, en fonction du chapeau que celle-ci porte. Hé, peut-être allez-vous la pendre à cet arbre ? Nan, c'est un peu morbide.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest2' x='4244' y='640'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest2,obj12,@! You got the THORNS OF OGLOGOTH! 
-      @!:#a-wise-move Any sane adventurer would cast these instruments of the occult into the furthest ring and forget they ever existed. And... it looks like someone did just that?</args>
+    		<args>secondRoomChest2,obj12,@! Vous obtenez les ÉPINES D'OGLOGOTH ! 
+      @!:#un-choix-judicieux N'importe quel aventurier sain jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un vient juste de le faire ?</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest3' x='392' y='2020'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest3,obj13,@! You got a bunch of THROWING STARS!
-      @!:#unless-someone-blows-you-away-with-an-offer-of-course Whoa these are badass. Maybe you'll keep a few instead of selling them all.</args>
+    		<args>secondRoomChest3,obj13,@! Vous obtenez un paquet de SHURIKENS !
+      @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Whoa elles ont l'air géniales. Peut-être que vous en garderez quelques-unes au lieu de toutes les vendre.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest4' x='1564' y='2292'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest4,obj20,@! You got a pair of TIME TABLES! 
-      @!:#ooh,-like-that-kid-across-the-water-there!#you-bet-he's-loaded Use these to travel through time. Which in the furthest ring, doesn't always mean much. Traveling back in time could also transport you millions of lightsweeps away. Probably better to just sell them to an eccentric billionaire.</args>
+    		<args>secondRoomChest4,obj20,@! You obtenez une paire de PLATINES TEMPORELLES ! 
+      @!:#ooh,-comme-ce-gamin-sur-l'autre-rive!#Vous-êtes-prêt-à-parier-qu'il-est-blindé! Utilisez-les pour voyager dans le temps. Ce qui, dans le cercle extérieur, ne signifie pas toujours grand chose. Remonter le temps pourrait aussi vous transporter des millions de révolution-lumières plus loin. Il serait probablement mieux de juste les vendre à un milliardaire excentrique.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest5' x='2244' y='1780'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest5,obj15,@! You got an ECHIDNA STATUE! 
-      @!:#oh,-also-you-can-probably-make-BANK-off-this-thing An obviously not-to-scale depiction of the denizen Aranea consulted with to learn how to scratch your session. The decision to scratch of course came with MAJOR CONSEQUENCES, and you guess it's only now that the true extent of those consequences are fully apparent. Looks like it's time to clean up her mess.</args>
+    		<args>secondRoomChest5,obj15,@! Vous obtenez une STATUE D'ECHIDNA ! 
+      @!:#oh,-vous-pourriez-aussi-REVENDRE-ce-truc Une représentation évidemment réduite du résident qu'Aranea avait consulté pour savoir comment scratcher votre session. La décision de scratcher avait bien sûr apporté son lot de CONSÉQUENCES MAJEURES, et vous commencez à croire que c'est seulement maintenant que la finalité de ces conséquences se révèlent. Il semblerait que ce soit l'heure de nettoyer après elle.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest6' x='4428' y='1836'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest6,obj16,@! You got a SEWING MACHINE!
-      @!:#you'll-come-back-and-swipe-it-later-when-she's-not-around Oooooh this looks REALLY expensive, you bet you could... wait. What's she looking at? The Maryam girl is looking at you funny. What, is this thing hers? You don't want to start any trouble over this dumb gizmo. You slowly put it back in the chest, very casually like it ain't no thing.</args>
+    		<args>secondRoomChest6,obj16,@! Vous obtenez une MACHINE À COUDRE !
+      @!:#vous-reviendrez-plus-tard-pour-pour-le-chipper-quand-elle-ne-sera-plus-là Oooooh ce truc a l'air de valoir TRÈS cher, vous êtes prêt à parier que vous pourriez... une seconde. Qu'est-ce qu'elle regarde comme ça ? Cette fille ressemblant à Maryam vous observe bizarrement. Quoi, ce truc lui appartient ? Vous ne voulez pas avoir d'ennuis pour ce gadget idiot. Vous le reposez lentement dans le coffre, d'un air désintéressé comme s'il ne valait rien. </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest7' x='4548' y='2872'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest7,obj17,@! You got a FUCHSIA POTION!
-      @!:#you-chuck-it-over-the-edge#glass-shatters#someone-below-says-'ow' Legend says this enchanted potion is supposed to - oh GOD it's more troll blood. Wait this is ROYAL blood. What an absolute outrage that probably some commoner had the audacity to draw royal blood. You are ALMOST mad enough not to not give a shit.
+    		<args>secondRoomChest7,obj17,@! Vous obtenez une POTION FUSCHIA !
+      @!:#vous-le-balancez-en-direction-de-la-falaise#bruit-de-verre-brisé#quelqu'un-en-bas-dit-'aïe' La légende dit que cette potion enchantée est censée - OH MON DIEU c'est encore du sang de troll. Une seconde, c'est du sang ROYAL. Quel outrage ! Un roturier pourrait avoir eu l'audace de prélever ce sang royal. Vous êtes PRESQUE assez en colère pour ne pas vous en foutre complètement. 
 </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest8' x='3644' y='2896'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest8,obj18,@! You got a JUJU!
-      @!:#at-exactly-one-second-per-second What's up with all these jujus lying around? Jujus are very wide ranging sorts of magical objects. You never know what form they'll take. This one is particularly useless though. It has the power to travel through time. Into the future only, though.
+    		<args>secondRoomChest8,obj18,@! Vous obtenez un JUJU !
+      @!:#à-exactement-une-seconde-par-seconde C'est quoi le truc avec tous ces jujus dans le coin ? Les jujus sont des sortes d'objets magiques à très grande portée. Vous ne savez jamais quelle forme il vont prendre. Celui-ci est particulièrement inutile par contre. Il a le pouvoir de voyager dans le temps. Mais seulement vers le futur.
 </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest9' x='3216' y='2304'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest9,obj19, @! You got a DERSITE TABLOID!
-      @!:#some-of-which-were-yours Says some human girl is dead. You don't recognize her. Inside is the usual kind of sensationalizing sleaze you're used to seeing from these. You spent a long time on Derse during your game. You always enjoyed reading these. They were almost always about assassinations.
+    		<args>secondRoomChest9,obj19, @! Vous obtenez un JOURNAL À SCANDALE DERSITE !
+      @!:#certains-étaient-les-vôtres Il raconte qu'une fille humaine est morte. Vous ne la reconnaissez pas. À l'intérieur se trouvent les familières vulgarités sordides auxquelles vous avez été habitué. Vous avez passé un long moment sur Derse durant votre partie. Vous avez toujours apprécié lire ce genre d'articles. Ils parlaient presque tout le temps d'assassinat.
 </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest10' x='1024' y='2896'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest10,obj14,  @! You got a RIBBITAR!
-      @!:#aw-shit-is-that-made-of-ruby???#COME-TO-MAMA Foes everywhere tremble at the mere sight of this lethal amphibious scourge. So overwhelming is their terror that... ha ha, yeah right. This sword is almost too ridiculous for words. It's a nice conversation piece though.
+    		<args>secondRoomChest10,obj14,  @! Vous obtenez une CROACEUSE !
+      @!:#oh-putain-ce-truc-est-du-rubis???#VIENS-VOIR-MAMAN N'importe quel adversaire tremble à la simple vue de ce carnage amphibien mortel. La terreur qu'il inspire est tellement écrasante que... ha ha, oui évidemment. Cette épée est presque trop ridicule pour être décrite avec des mots. Ça reste un objet qui sort de l'ordinaire.
 </args>
     	</action>
     </sprite>
