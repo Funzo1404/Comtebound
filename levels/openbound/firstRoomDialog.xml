@@ -154,73 +154,73 @@
 </args></action>
 
 <action class='aradiaTalk1' command='talk' name='Talk.'><args>
-      @aradia_happy ARADIA: greetings!
-      @aradia_happytalk ARADIA: ive been meaning to say hello since you arrived
+      @aradia_happy ARADIA: salutations !
+      @aradia_happytalk ARADIA: je tenais à te dire bonjour depuis ton arrivée
       @meenah_idle MEENAH: ...
-      @meenah_angrytalk:#aw-hell-no MEENAH: M-EGIDO???
-      @aradia_talk ARADIA: yes but not the one youre thinking of
-      @meenah_talk MEENAH: which one then
-      @aradia_talk:#you-know#the-afterlife? ARADIA: i like to consider myself as something of a caretaker for this place
-      @aradia_laugh:#:D ARADIA: id refer to myself as an excellent host but that has become kind of a loaded phrase
-      @meenah_talk MEENAH: you look like megido
-      @meenah_annoyedtalk MEENAH: but you sure dont sound like any megido i know
-      @aradia_idle ARADIA: i should hope not!
-      @aradia_talk:#even-though-'time'-is-really-just-a-figure-of-speech-here ARADIA: anyway those of us who are concerned with the preservation of reality have been looking forward to this day for some time
-      @meenah_wut:#the-sky-just-broke#stupid-fairy MEENAH: why would you be lookin forward to this shit
-      @aradia_talk ARADIA: not the devastation so much as your arrival
-      @aradia_happytalk ARADIA: you have some big plans yes?
-      @meenah_annoyed:#maybe MEENAH: ...
-      @meenah_annoyedtalk MEENAH: whats it to you
-      @aradia_talk ARADIA: oh nothing! i am merely extending the courtesy of a formal welcome
-      @aradia_talk ARADIA: now off with you! go find your friends
-      @aradia_talk ARADIA: that IS why youve finally come out of your palace isnt it?
-      @meenah_idle MEENAH: yeah
-      @meenah_annoyedtalk:#but-i-got-my-eye-on-you#megido-lookin-fairy MEENAH: guess ill get goin then
-      @aradia_happy ARADIA: ta!
+      @meenah_angrytalk:#bon-sang-non MEENAH: M-EGIDO???
+      @aradia_talk ARADIA: oui mais pas celle que tu imagines
+      @meenah_talk MEENAH: laquelle alors
+      @aradia_talk:#tu-sais#l-au-delà? ARADIA: jaime me considérer comme une sorte de gardien de ce lieu 
+      @aradia_laugh:#:D ARADIA: je dirais bien que je suis une excellente hôte mais cette phrase a fini par devenir lourde de sens 
+      @meenah_talk MEENAH: tu ressembles a megido
+      @meenah_annoyedtalk MEENAH: mais tu nas pas vraiment lair detre comme nimporte quelle megido que je connaîtraie
+      @aradia_idle ARADIA: jose espérer que non !
+      @aradia_talk:#même-si-le-'temps'-n-est-vraiment-qu-une-façon-de-parler-ici ARADIA: bref ceux dentre nous qui sont préoccupés par la préservation de la réalité attendaient ce jour impatiemment depuis un bon bout de temps
+      @meenah_wut:#le-ciel-vient-de-se-briser#stupide-fee MEENAH: pourquoi quiconque attendraie impatiemment ce bordel 
+      @aradia_talk ARADIA: pas autant la dévastation que ton arrivée
+      @aradia_happytalk ARADIA: tu as quelques gros projets non ?
+      @meenah_annoyed:#peut-être MEENAH: ...
+      @meenah_annoyedtalk MEENAH: quest ce que ca te fait
+      @aradia_talk ARADIA: oh rien ! Cest simplement lextension de formels vœux de bienvenue !
+      @aradia_talk ARADIA: maintenant file ! va retrouver tes amis
+      @aradia_talk ARADIA: cest pour ÇA que tu es finalement sortie de ton palace pas vrai ?
+      @meenah_idle MEENAH:  ouais
+      @meenah_annoyedtalk:#mais-je-garde-un-œil-sur-toi#fée-megido MEENAH: jimagine que je vais y aller du coup  
+      @aradia_happy ARADIA: merci encore !
       <!--  -->
 </args></action>
 
 <action class='aradiaTalk2' command='talk' name='Talk.'><args>
-@aradia_idle ARADIA: lost?
-      @meenah_annoyed MEENAH: i uh
-      @meenah_annoyed MEENAH: went the wrong way
-      @aradia_talk ARADIA: yes thats a dead end
-      @aradia_talk ARADIA: where you want to go is
-      @aradia_point ARADIA: THAT way
-      @aradia_wink:#double-pistols#and-a-;) ARADIA: *nk-nkt*
-      @meenah_annoyed MEENAH: thanks
-      @meenah_annoyed MEENAH: weirdo
+@aradia_idle ARADIA: perdue ?
+      @meenah_annoyed MEENAH: je heu
+      @meenah_annoyed MEENAH: suis parti du mauvais cote
+      @aradia_talk ARADIA: oui cest un cul de sac
+      @aradia_talk ARADIA: le chemin que tu veux prendre est
+      @aradia_point ARADIA: de CE côté
+      @aradia_wink:#deux-pistolets#et-un-;) ARADIA: *nk-nkt*
+      @meenah_annoyed MEENAH: merci
+      @meenah_annoyed MEENAH: taree
 </args></action>
 
-<action class='andrewTalk1' command='talk' name='Talk.'>
+<action class='andrewTalk1' command='talk' name='Parle.'>
 	<args>
-			@meenah_idle MEENAH: yo orange guy
-			@meenah_idle MEENAH: or uh
-			@meenah_idle:#squash-colored? MEENAH: yellow guy
+			@meenah_idle MEENAH: yo type orange
+			@meenah_idle MEENAH: or heu
+			@meenah_idle:#couleur-courge? MEENAH: type jaune  
 			@! .............
-			@meenah_idle:#what-the-fuck-is-with-all-these-8-balls MEENAH: whats your deal
-			@meenah_idle MEENAH: are you uh
-			@meenah_idle:#awkward MEENAH: crying?
+			@meenah_idle:#cest-quoi-le-bordel-avec-toute-ces-boules-magiques? MEENAH: cest quoi ton probleme  
+			@meenah_idle MEENAH: est ce que tu heu
+			@meenah_idle:#genant MEENAH: pleures ? 
 			@! SILENCE.
-			@! Bring me a horse, and I am yours forever.
+			@! Apporte moi un cheval, et je suis à toi pour toujours.
 			<!--  -->
 	</args>
 </action>
 
-<action class='andrewTalk2' command='talk' name='Talk.'>
+<action class='andrewTalk2' command='talk' name='Parle.'>
 	<args>
-			@! Oh my god, you didn't.
-      @!:#could-it-be? You DIDN'T......
-      @! _YOU DID_
-      @! YOU BROUGHT ME A HORSE!
-      @! Look at this glorious, knotted up horse hitcher. This is the most amazing present I have ever received. I will cherish it forever.
-      @! So uh, hey...
-      @!:#Vriska-WHO????? Do you come here often?
-      @meenah_wut2 MEENAH: oh my cod
-      @! Well, a deal is a deal.
-      @! I am now at your command.
-      @meenah_wut MEENAH: why...
-      @meenah_wut MEENAH: WHY did i have to bring this idiot that horse hitcher
+			@! Oh mon dieu, ce n'est pas possible.
+      @!:#est-ce-réel? Ce n'est PAS POSSIBLE......
+      @! _ÇA L'EST_
+      @! TU M'AS APPORTÉ UN CHEVAL !
+      @! Regarde moi cette glorieuse monture en fonte. C'est le cadeau le plus incroyable que je n'ai jamais reçu. Je le chérirai pour toujours.
+      @! Donc heu, hey...
+      @!:QUI-C'EST-Vriska????? Tu viens souvent ici ? 
+      @meenah_wut2 MEENAH: Oh mon lieu
+      @! Et bien, une promesse est une promesse.
+      @! Je suis maintenant sous tes ordres.
+      @meenah_wut MEENAH: pourquoi...
+      @meenah_wut MEENAH: POURQUOI  ai je amene a cet idiot cette monture en fonte
       <!--  -->
 	</args>
 	<action command='removeAction'>
