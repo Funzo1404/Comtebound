@@ -78,33 +78,33 @@
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
-<action class='endTalk5' command='talk' name='Tell me about Porrim Maryam..'><args>
-      @aranea_happytalk ARANEA: The Maid of Space was of course our all-important Space player and Stoker of the Forge, 8ut as you know, we never made much progress on the frog 8reeding front, or really any aspect of the game 8efore the reckoning. Way too disorganized, way too much teen drama. Much of that drama of course centered around Kankri, and Porrim tended to 8e the one to keep him out of trou8le. This relationship persisted in their lives on Alternia, which... unfortunately didn't work out too well for her in the end. I'd address my involvement with that, 8ut you seem to 8e tapping your foot so I think I'll just skip over that part of the story!
-      @aranea_happytalk ARANEA: On 8eforus, well 8efore her drinker a8ilities had awakened, she grew up in the caste almost solely devoted to tending to the mother gru8, hatching the young and proliferating the 8rood. The jade 8loods were also an almost exclusively female caste, and she 8egan to resent the roles she was hatched into, designated for 8oth her class and gender. She challenged these roles wherever they existed in 8eforan society, as well as where she found them woven into our session, in kingdoms, class assignments, consort culture and the like.
-      @aranea_happytalk ARANEA: 8ut over the sweeps in our failed session, she found within herself a renewed interest in the duty that came with her 8loodline, which was of course the persistence of our people, a 8urden which her descendant now must 8ear. All life on 8eforus had 8een wiped out, and we'd failed our game, so she helped me search for a way to reset the...
+<action class='endTalk5' command='talk' name='Parle moi de Porrim Maryam..'><args>
+      @aranea_happytalk ARANEA: La Damoiselle de l'Espace était 8ien évidemment notre irremplaça8le joueuse de l'Espace, ainsi que la gestionnaire de la Forge, mais comme tu le sais, nous n'avons jamais vraiment avancé sur le front de l'élevage de grenouille, ni même sur aucun aspect du jeu avant le Jugement Dernier d'ailleurs. 8ien trop désorganisés, 8ien trop de drames d'adolescents. Une grosse partie de ces drames étaient 8ien sûr centrés sur Kankri, et Porrim avait tendance à être celle qui le tenait loin des tourments. Cette relation a persisté dans leurs vies sur Alternia, et cela... n'a malheureusement pas très 8ien fini pour elle. Je te parlerais 8ien de ma participation dans tout ça, mais tu sem8les être en train de taper du pied, donc je pense que je vais juste sauter cette partie de l'histoire !
+      @aranea_happytalk ARANEA: Sur 8eforus, 8ien avant que ses aptitudes de 8uveuse fussent éveillées, elle a grandi dans une caste presque uniquement dévouée au service de la Larve Mère, faisant éclore les jeunes et proliférer la couvée. Les Sang-de-Jade sont aussi une caste presque exclusivement féminine, et elle se sentait mal à l'aise avec ces rôles, assignés à sa naissance par sa classe et son genre. Elle s'est opposée à ces derniers partout où ils existaient dans la société 8eforienne, et également partout où elle a pu les déceler dans notre session, dans les royaumes, dans les affectations de classe, la culture des consorts, et cetera.
+      @aranea_happytalk ARANEA: Mais au fil des révolutions, dans notre session condamnée, elle a à nouveau éprouvé de l'intérêt pour le devoir de sa lignée, qui était 8ien évidemment la pérennité de notre espèce, un fardeau que sa descendante doit à présent porter. Toute la vie sur 8eforus a été anéantie, et nous avons échoué à notre jeu, alors elle m'a aidé à trouver un moyen de réinitialiser le...
       @meenah_annoyed MEENAH: zzzzzz
-      @aranea_angry ARANEA: I was almost finished!!!!!!!!
-      @meenah_annoyedtalk MEENAH: your just tellin me shit i know serk she was sorta my friend too remember
-      @meenah_annoyedtalk MEENAH: cant you spice this jam up
-      @aranea_idle ARANEA: I don't........
-      @meenah_wink MEENAH: didnt she like sleep with erybody
-      @meenah_wink MEENAH: gimme all the dirt on that
-      @aranea_surprised ARANEA: What? 
-      @aranea_surprised ARANEA: No, Meenah. I am not paying you so that you can listen to me indulge in such scandalous gossip.
-      @aranea_think ARANEA: Now what was I talking a8out? Gosh, I've lost my train of thought........
-      @meenah_happier MEENAH: ahahaha why you blushin girl
-      @meenah_ohyes:#???????????#NOODLES-OF-INTENSE-CURIOSITY MEENAH: omigawd you and she...???????
+      @aranea_angry ARANEA: J'avais presque fini !!!!!!!!
+      @meenah_annoyedtalk MEENAH: tes juste en train de rabacher des merdes que je connais deja serk cetait genre ma pote aussi de cque jme souvienne
+      @meenah_annoyedtalk MEENAH: tu peux pas genre pimenter un peu lhistoire
+      @aranea_idle ARANEA: Je ne........
+      @meenah_wink MEENAH: elle couchait pas genre avec tout lmonde
+      @meenah_wink MEENAH: abulle les potins
+      @aranea_surprised ARANEA: Quoi ?
+      @aranea_surprised ARANEA: Non, Meenah. Je ne te paye pas pour que tu puisses m'écouter me livrer à de scandaleux commérages.
+      @aranea_think ARANEA: De quoi est-ce que je parlais déjà ? 8igre, j'ai perdu le fil de mes pensées........
+      @meenah_happier MEENAH: ahahaha pourquoi tu rouget meuf
+      @meenah_ohyes:#???????????#FULMINE-D-UNE-INTENSE-CURIOSITE MEENAH: oh mon lieu elle et toi...???????
       @aranea_surprised ARANEA: 
-      @meenah_creepytalk MEENAH: ho man why didnt you ever tell me i thought we was fronds
-      @aranea_madtalk ARANEA: Look. Three sweeps is a long time to spend in a failed, pointless session!
-      @aranea_madtalk ARANEA: You look into the future and see a life lasting for may8e thousands of sweeps, with nothing to look forward to, and........
-      @meenah_happier MEENAH: aaaand????
-      @aranea_facepalmtalk ARANEA: It was just... kind of a phase! Just a little red fling, ok? It 8arely even lasted half a sweep, and...
-      @aranea_annoyedtalk ARANEA: Hey, if I give you TEN 8oon8ucks, can we stop talking talking a8out this????????
-      @meenah_happytalk MEENAH: make it a cool hunnid and you got a deal
-      @aranea_angrytalk ARANEA: Argh, fine! Just take it!!!!!!!!
-      @meenah_happytalk MEENAH: her imperious condescension thanks you for your generous contribution to the new empire
-      @aranea_annoyedtalk ARANEA: I'm glad you're a good guy this time. You really were hatched to 8e SUCH A 8ITCH!!!!!!!!
+      @meenah_creepytalk MEENAH: oh meuf pourquoi tu men a jamais parle je pensais quon etait potes
+      @aranea_madtalk ARANEA: Écoute. Trois révolutions représentent 8eaucoup de temps dans une session condamnée et sans o8jectif !
+      @aranea_madtalk ARANEA: Tu regardes vers le futur et tu vois une vie qui dure peut-être des centaines de révolutions, sans rien à espérer, et........
+      @meenah_happier MEENAH: eeeet ????
+      @aranea_facepalmtalk ARANEA: C'était juste... une sorte de phase ! Juste une petite aventure rouge, ok ? Ça n'a même pas duré une moitié de révolution, et...
+      @aranea_annoyedtalk ARANEA: Hey, si je te donne DIX 8oon8ucks, peut-on cesser de parler de ça ????????
+      @meenah_happytalk MEENAH: disons une centaine et marche conclu
+      @aranea_angrytalk ARANEA: Arg, d'accord ! Prend les !!!!!!!!
+      @meenah_happytalk MEENAH: son imperiale condescendance te remercie de ta genereuse contribution au nouvel empire
+      @aranea_annoyedtalk ARANEA: Je suis contente que tu sois du côté des gentils cette fois. Tu es vraiment née pour être une VRAIE SALOPE !!!!!!!!
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
