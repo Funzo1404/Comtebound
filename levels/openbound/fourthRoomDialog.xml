@@ -59,22 +59,22 @@
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
-<action class='endTalk4' command='talk' name='Tell me about Latula Pyrope.'><args>
-      @aranea_happytalk ARANEA: The Knight of Mind, to even the most casual o8server, is clearly the more "radical" instance of the two Pyropes. 8oth of course have disa8ilities which, if discovered, would slate each for culling in their respective cultures. Culling of course means something quite different on 8eforus. It means she would have 8een selected 8y a mem8er of a higher caste for adoption, and coddled excessively. 8ut for someone with a lifestyle as radical as hers, I'm sure you will agree that would have 8een a fate worse than death.
-      @meenah_annoyedtalk MEENAH: serket yo this exposition is some straight up redonkulous junk even by your standards
-      @aranea_annoyedtalk ARANEA: Would you like to make some money, or not?
-      @meenah_talk MEENAH: you know me i am all about the boonjamins
-      @aranea_mad ARANEA: Then please stand there quietly while I continue.
-      @meenah_wut2:#*fine MEENAH: urrrhn fin
-      @aranea_happytalk ARANEA: After the tragic accident which left her nasally impaired, her mighty dragon lusus, ancient and wise 8eyond our comprehension, 8egan to teach her "new ways to smell." To reinvent the sense, using other sense organs such as eyes and ears, awakening completely new experiences in her mind. She was truly an inspiration, and proved 8eyond a shadow of a dou8t that any handicap can 8e overcome, and doesn't have to stop you from 8eing as rad as you can truly 8e.
-      @meenah_wut2 MEENAH: wuuut
-      @meenah_wut MEENAH: serket are you whistlin through my blowhole with his idiotic shit
-      @aranea_facepalmtalk ARANEA: Yes, that last part was a joke. Lighten up, Peixes!
-      @meenah_talk:#seal#you-know#the-marine-barkbeast MEENAH: yeah yeah what do we have to do to seal this deal here
-      @aranea_think ARANEA: Well........
-      @meenah_talk MEENAH: Just tell me the bare minimum a what i need to hear to snag ma boonies and run
-      @aranea_happytalk ARANEA: Ok. Even though Latula has 8een dating Mituna steadily for eons, it's hardly a secret to anyone that she and Kankri have had complicated unrequited feelings for even longer. So really, much like their descendants. Aaaaaaaand, we're done! Here you go.
-      @meenah_happy MEENAH: fuckin score
+<action class='endTalk4' command='talk' name='Parle moi de Latula Pyrope.'><args>
+      @aranea_happytalk ARANEA: La chevalière de l’esprit, même pour l’o8servateur le moins averti, est clairement l’exemple le plus "radical" des deux Pyropes. Les deux ont, certes, un handicap qui, si découvert, les exposeraient à l’a8attage dans leurs cultures respectives. L'a8attage a, bien sûr, une signification tout à fait différente sur 8eforus. Cela veut dire qu’elle aurait été choisie par un mem8re d’une classe supérieure pour se faire adopter, et excessivement choyer. Mais pour quelqu’un avec un style de vie aussi radical que le sien, je pense que tu es d’accord pour dire que ce serait un destin pire que la mort. 
+      @meenah_annoyedtalk MEENAH: he serket cette introduction est un vrai bordel remplit de stupidites meme venant de toi
+      @aranea_annoyedtalk ARANEA: Ça te dit de te faire de l’argent, ou pas ?
+      @meenah_talk MEENAH: tu me connais jadore les boonjamins
+      @aranea_mad ARANEA: Alors s’il te plaît tiens-toi tranquille pendant que je continue.
+      @meenah_wut2:#*bien MEENAH: Raaaah tres banc
+      @aranea_happytalk ARANEA: Après le tragique accident qui lui a détérioré sa voie nasale, son puissant dragon lusus, vieux et dont la sagesse dépasse notre compréhension, commença à lui apprendre de "nouvelles façons de sentir". Afin de réinventer le sens, utilisant ses autres organes sensoriels comme les yeux ou les oreilles, réveillant de toutes nouvelles expériences dans son esprit. Elle a été une vérita8le source d’inspiration, et a prouvé sans l’om8re d’un doute que n’importe quel handicap peut être surpassé, et que ça n’a pas à t’empêcher d’être aussi rad que tu peux vraiment l’être. 
+      @meenah_wut2 MEENAH: kwaaa
+      @meenah_wut MEENAH: serket es tu en train de me siffler dans mes events avec cette merde idiote
+      @aranea_facepalmtalk ARANEA: Oui, la dernière partie était une blague. Je ne pensais pas devoir faire la lumière dessus, Peixes !
+      @meenah_talk:#harang#tu-sais#le-poisson MEENAH: ouais ouais que devons nous faire pour clore notre harangement
+      @aranea_think ARANEA: Et 8ien........
+      @meenah_talk MEENAH: dique moi solement le strict minimum que jai besoin dentendre pour prendre mes boonis et me carpater
+      @aranea_happytalk ARANEA: Très 8ien. 8ien que Latula était dans une relation sta8le avec Mituna depuis une éternité, ce n'est un secret pour personne qu’elle et Kankri ont eu des sentiments compliqués et non partagés depuis plus longtemps. Donc vraiment, tout comme leurs descendants. Eeeeeeeet, fini ! Tiens.
+      @meenah_happy MEENAH: trop cool
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
