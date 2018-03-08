@@ -376,50 +376,50 @@
       <!--  -->
 </args></action>
 
-<action class='kankriTalk4' sprite='porrim' command='talk' name='Be Kankri.'><args>
-      @kankri_talk KANKRI: What? Y9u want t9 6e me? What s9rt 9f n9nsense request is that?
-      @kankri_talk KANKRI: Can't y9u see I'm in the middle 9f a direly imp9rtant w9rd dump? I mean man-t9-man c9nversati9n with Karkat?
-      @kankri_talk KANKRI: I might c9nsider it if y9u asked m9re nicely. 9r at the very least, m9re "radically".
+<action class='kankriTalk4' sprite='porrim' command='talk' name='Deviens Kankri.'><args>
+      @kankri_talk KANKRI: Qu9i ? Tu s9uhaites m’incarner ? Quelle a6surde requête est-ce d9nc ?
+      @kankri_talk KANKRI: Ne v9is-tu pas que je suis en plein milieu d’un m9n9l9gue terri6lement imp9rtant ? Je veux dire, d’une c9nversati9n d’h9mme-à-h9mme avec Karkat ?
+      @kankri_talk KANKRI: Je p9urrais m’en s9ucier si la demande était plus p9lie. 9u, dans le pire des cas, plus “radicale".
       <!--  -->
 </args></action>
 
 
 
-<action class='latulaTalk5' sprite='kankri' command='talk' name='Talk to Latula.'><args>
-      @kankri_talk KANKRI: 9h, hey, Latula. I th9ught I heard y9ur device grinding 9n vari9us surfaces near6y. 
-      @kankri_talk:#Did-y9u-hang...#Hang-10?#N9-that-can't-6e-right... KANKRI: H9w are y9ur athletic t9y stunts g9ing? Are y9u getting a l9t 9f... a l9t 9f "air"? Am I saying that right?
-      @latula_happytalk LATULA: you knowz 1t bro!!! 
-      @latula_stunt LATULA: you c4nt 3v3n TOUCH th1s. 1m 3sc4p1ng to th3 s1d3, from 4bov3, from 3v3ry wh1ch w4y b4s1c4lly!!!!
-      @kankri_talk4 KANKRI: Well, I wasn't g9ing t9 attempt t9 make any s9rt 9f physical c9ntact with y9u, and even if I did, I have n9 d9u6t that y9u w9uld 6e a6le t9 maneuver away fr9m my grasp 9n y9ur speedy little platf9rm. Either way, I'm m9re than c9ntent t9 let y9u escape in any directi9n 9f y9ur ch99sing, if that's y9ur wish.
-      @latula_bored LATULA: dud3. just wh3n 1 th1nk youv3 4lr34dy s41d th3 squ4r3st th1ng poss1bl3, you go 4nd s4y som3th1ng l1k3 th4t.
-      @kankri_talk KANKRI: Haha. I guess. Y9u kn9w, it's really nice we can talk like this.
-      @latula_huh:#? LATULA: 1t 1s...
-      @kankri_talk KANKRI: Yes. I was just thinking lately, a69ut 9ur new p9st-scratch friends. Particularly the y9ung Vantas and Pyr9pe iterati9ns 9n their team, and h9w they're pretty similar t9 us, 6ut als9 really different.
-      @latula_happier:#h4v3-u-s33n-h3r-l1l-dr4gon-su1t??-3333!#SO-cut3->8] LATULA: y34h. l1l m3 1s bl1nd! d1d u 3v3n KNOW th4t??
-      @kankri_talk KANKRI: Yes, 6ut that's n9t really what I'm talking a69ut.
-      @kankri_talk2 KANKRI: She and Karkat have a different relati9nship fr9m the 9ne we have. Theirs is much m9re tur6ulent, which is fueled presuma6ly 6y r9mantic tensi9n. I'm picking up 9n s9me maj9r vascillati9n vi6es fr9m their situati9n. It's kind 9f unf9rtunate, 6ut it makes me grateful that we never g9t t9 that p9int.
-      @latula_talk LATULA: h3llz y34h. who n33ds th4t?
-      @kankri_talk4:#Seri9usly.#I-mean,-she's-nice,-6ut...#Really? KANKRI: I'm sure it's m9stly due t9 the fact that we've stayed entirely away fr9m the sting6ug's nest 9f r9mantic entanglement. Which 9f c9urse is related t9 my 9ath 9f celi6acy, which as y9u kn9w is just a pers9nal ch9ice, 9ne which f9r s9me reas9n my p9st-scratch adult self eventually strayed fr9m... with... Meulin, 9f all pe9ple? 6ut that's neither here n9r there.
-      @latula_laugh:#:3#h3h3h3h LATULA: h4h4h4h4... you 4nd m3uz. st1ll cr4cks m3 up... H4H4H4H4H4H4!!!!
-      @kankri_talk2 KANKRI: Yes. 6ut regardless. What I'm saying is, it's great we stayed away fr9m that. It's helped me appreciate y9u as a friend, and admire all y9ur g99d qualities. Plat9nically, 9f c9urse.
-      @latula_happytalk LATULA: your3 r1ght! 1ts b33n pr3tty r4d wh3n you put 1t th4t w4y.
-      @kankri_talk3:#Cerulean-savi9rs#Teal-templars#Vi9let-valiants#Purple-paladins KANKRI: Like h9w y9u never 69ught int9 the usual r9les 9f y9ur caste, as an aqua, n9t even the m9re "well intended" s9cial c9nventi9ns 9f y9ur privileged arist9cratic 6l99dline. Y9u never l99ked d9wn 9n any69dy, 9r saw it as y9ur civil duty t9 care f9r 9r "impr9ve" the warmer classes, falling prey t9 unf9rtunate tendencies inv9lving cerulean savi9r c9mplex, 9r the "6lue 6l99d's 6urden" (trigger warning 9n that, 96vi9usly) which sadly 6ecame s9 insepera6le fr9m the fa6ric 9f the spectral 9rder, with each class c9nditi9ned t9 view th9se 6el9w it the same way, the 96stacles t9 raising awareness were alm9st insurm9unta6le. 6ut unlike the c99ler hues 9n 9ur team m9re priviliged than y9u, like y9ur Serkets, y9ur Zahhaks, y9ur Amp9ras... I never g9t the sense that y9u put the slightest 6it 9f st9ck in any 9f that, and I think that's pretty amazing.
-      @latula_talk LATULA: uh... y34h! th4t sh1tz 4 dr4g, why would 1 both3r w1th 4ny of th4t? 1 m34n, 1ll h3lp low bloods l34rn stunts 4nd ch34t cod3z 1f th3y w4nt, but th4ts 1t!!!
-      @kankri_talk2 KANKRI: Right. And I'm just saying if my head was ever cl9uded 6y r9mantic feelings f9r y9u, I pr96a6ly w9uldn't 6e a6le t9 appreciate that a69ut y9u.
-      @kankri_talk2:#It-rarely-is KANKRI: Just like I w9uldn't 6e a6le t9 appreciate the fairly c99l "zees" y9u put at the end 9f many w9rds, 9r say things l9udly and with enthusiasm, even if it's n9t particularly warranted.
-      @latula_happy:#woo! LATULA: h3h3h. y34h!!!!
-      @kankri_talk2 KANKRI: 9r the way y9ur hair fl9ws in the wind when y9u sc99t 9ver s9me s9rt 9f 96stactle 9n y9ur device really fast.
-      @kankri_talk4 KANKRI: 9r the way y9u make this funny little n9ise just as y9u c9nnect with 9ne 9f y9ur c9pi9us high fives, which can 9nly 6e heard 9ver the l9ud slap if y9u listen really cl9sely.
-      @latula_idle2 LATULA: um, y34h... 1 not1c3d... som3 stuff l1k3 th4t...
-      @latula_happy LATULA: 4bout you too 1 gu3ss?
-      @latula_idle:#uh... LATULA: h3h.
-      @kankri_talk4 KANKRI: 9r the way y9u have always sh9wn kindness t9 pe9ple wh9 needed help, with9ut making them feel tragic 9r helpless f9r accepting it.
-      @kankri_talk4 KANKRI: 9r the way y9u still manage t9 l99k stylish even with9ut y9ur c99l shades, 9r s9metimes when they're pr9pped up 9n y9ur head just in fr9nt 9f y9ur h9rns.
-      @latula_idle2:#1...#hm LATULA: wh...
-      @kankri_talk2 KANKRI: 9r, I d9n't kn9w if y9u remem6er, that time Meenah 6aked every69dy a cake. It was the first sweep anniversary 9f entering the game, 9ne 9f the rare m9ments 9f s9lidarity and g99d cheer am9ng 9ur entire team at 9nce. Every9ne was raving a69ut h9w g99d the fresh 6aked cake smelled, s9 y9u t99k a 6ig sniff, I guess f9rgetting f9r a m9ment y9u c9uldn't smell. Then y9u quickly caught y9urself, and played it c99l making sure n9 9ne n9ticed, which n9 9ne did. 6ut I n9ticed. And I just th9ught that was kind 9f endearing. 
+<action class='latulaTalk5' sprite='kankri' command='talk' name='Parle à Latula.'><args>
+      @kankri_talk KANKRI: 9h, hey, Latula. J’ai cru c9mprendre que tu avais r9ulé ta 69sse un peu part9ut dernièrement.  
+      @kankri_talk:#-As-tu-fait-un...#Hang-10?#N9n-je-d9is-me-tr9mper...  KANKRI: T9uj9urs à faire des acr96aties avec t9n j9uet ? C9mment tu t’en s9rs ? Est-ce que tu as effectué 6eauc9up... 6eauc9up "d’air" ? C’est 6ien c9mme ça qu’9n dit ? 
+      @latula_happytalk LATULA: b13n sur, bro !!!  
+      @latula_stunt LATULA: tu n1m4g1n3s M3M3 p4s. j3 m3v4d3 3t v1r3volt3 d4ns tous l3s s3nz !!!!
+      @kankri_talk4 KANKRI: Et 6ien, je n’avais pas dans l’idée de tenter un quelc9nque rappr9chement physique avec t9i, et même si c’était le cas, je ne d9ute pas de ta capacité à te mettre h9rs de ma p9rtée au m9yen de ta rapide petite planche. Mais s9it, je serais plus que c9ntent de te laisser t'évader dans quelque directi9n qu’il s9it, si tel est t9n s9uhait.
+      @latula_bored LATULA: m3c. m3m3 qu4nd j3 m3 d1s qu3 tu n3 pourr41s p4z 3tr3 plus co1nc3, tu 4rr1v3s 3t tu sors d3s phr4z comm3 c4
+      @kankri_talk KANKRI: Haha. Sûrement. Tu sais, je suis c9ntent que n9us puissi9ns discuter ainsi.
+      @latula_huh:#? LATULA: 4h bon... 
+      @kankri_talk KANKRI: 9ui. J’ai réfléchi dernièrement, à n9s n9uveaux amis p9st-scratch. Plus particulièrement au jeune Vantas, à la Pyr9pe qui l’acc9mpagne, et à quel p9int ils n9us ressem6laient, t9ut en étant p9urtant si différents.
+      @latula_happier:#tu-4s-vu-s4-t3nu3-d3-dr4gon??-3333!#TROP-m1gnon3->8]  LATULA: ou41. l4 m1n1 mo1 3st 4v3ugl3 ! tu l3 S4V41S ?? 
+      @kankri_talk KANKRI: 9ui, mais ce n’est pas le pr9p9s.
+      @kankri_talk2 KANKRI: Elle et Karkat entretiennent une relati9n vraiment différente de la n9tre. La leur sem6le 6ien plus tur6ulente, vraisem6la6lement alimentée par des tensi9ns r9mantiques. Leur situati9n ne m’inspire rien de 69n. C’est malheureux à dire, mais ça me rassure de v9ir que n9us ne s9mmes jamais arrivés à ce stade là.
+      @latula_talk LATULA: 3t ou41z. on 4 p4s b3so1n d3 c4 !
+      @kankri_talk4:#Seri9usly.Sérieusement.#Je-veux-dire,-elle-est-sympa-mais...#Vraiment? KANKRI: Je suis presque sûr que c’est lié au fait que n9us s9y9ns restés l9in de ce nid gr9uillant d'em6arras r9mantique. Ceci déc9ule, 6ien entendu, de m9n v9eu de céli6at qui, c9mme tu le sais, est juste un ch9ix pers9nnel, duquel, p9ur certaines rais9ns, ma versi9n adulte p9st scratch a finalement dévié… avec… Meulin,  de t9utes les pers9nnes que je c9t9ie ? Mais là n'est pas la questi9n. 
+      @latula_laugh:#:3#h3h3h3h LATULA: h4h4h4h4... to1 3t m3uz. j’3n pl3urs d3 r1r3 4 ch4qu3 fo1s... H4H4H4H4H4H4!!!! 
+      @kankri_talk2 KANKRI: 9ui. Mais même sans ça. Ce que je veux dire, c’est qu’il est 69n que n9us s9y9ns restés l9in de t9ut ça. Ça m’a aidé à t’apprécier en tant qu’amie, et à admirer tes n9m6reuses qualités. Plat9niquement, 6ien sûr.
+      @latula_happytalk LATULA: t4s r41son ! vu sous c3t 4ngl3, c4 s3st sup3r b13n p4ss3 d3 notr3 cot3
+      @kankri_talk3:#Céruléenne-salvatrice#Templiers-turqu9ises#Vi9lâtres-valeureux#Paladins-p9urpres KANKRI: C9mme cette manière que tu as de te détacher des usages qu’inc9m6e ta classe, en tant que sang aqua, y c9mpris le c9té “69nnes intenti9ns” des c9nventi9ns s9ciales de ta lignée arist9cratiques privilégié. Tu n’as jamais ra6aissé pers9nne, ni même c9nsidéré c9mme un dev9ir civil “l’améli9rati9n” des classes aux c9uleurs plus chaudes, entraînant par la même 9ccasi9n une malheureuse tendance à j9uer les céruléennes salvatrices, 9u devrais-je dire le “fardeau des sang-6leu” (Alerte trigger sur ce sujet, évidemment). Malheureusement, ces c9utumes s9nt dés9rmais indiss9cia6les de la structure du spectre sanguin, chaque classe c9nsidérant celles qui lui s9nt inférieures de la même manière, et les sensi6iliser est devenu presque imp9ssi6le. Mais c9ntrairement aux autres c9uleurs fr9ides c9mp9sant n9tre équipe, et plus privilégiées que t9i, tels que les Serkets, les Zahhaks, les Amp9ras… Je n’ai jamais senti en t9i la m9indre envie d’en faire de même, et je tr9uve cela assez f9rmida6le. 
+      @latula_talk LATULA: uh... ou41 ! c3st un3 pl413, pourquo1 j3 m3mb3t3r41s d3 tout3s c3s choz ? j3 v3ux d1r3, j41d3 l3s s3rfs4ngs 4 4ppr3ndr3 d3s f1gur3s 3t d3s ch34t codz s1ls l3 v3ul3nt 3t c3st tout !!!
+      @kankri_talk2 KANKRI: C’est vrai. Je précise juste que si ma tête était parasitée par de r9mantiques pensées, je ne serais pr96a6lement pas capa6le d’apprécier cette partie de t9i.
+      @kankri_talk2:#ça-l’est-rarement  KANKRI: T9ut c9mme je serais incapa6le d’apprécier la manière d9nt tu pr9n9nces les z à la fin de certains m9ts 9u cette manie que tu as de dire les ch9ses t9ut haut et avec grand enth9usiasme, même quand ce n’est pas particulièrement nécessaire. 
+      @latula_happy:#woo! LATULA: h3h3h. ou41 !!!! 
+      @kankri_talk2 KANKRI: 9u cette faç9n qu’9nt tes cheveux de fl9tter au vent quand tu files à t9ute vitesse entre les 96stacles.
+      @kankri_talk4 KANKRI: 9u enc9re cet étrange petit s9n que tu émets l9rs de tes fameux high-five, lequel ne peut être remarqué qu’en éc9utant attentivement au delà du clappement.
+      @latula_idle2 LATULA: um, ou41... j41 4uss1 r3m4rqu3... d3s trucs comm3 ç4...
+      @latula_happy LATULA: 4 ton propoz, j’1m4g1n3 ?
+      @latula_idle:#heu... LATULA: h3h.
+      @kankri_talk4 KANKRI: 9u cette manière que tu as de t9uj9urs m9ntrer une grande gentillesse envers les pers9nne dans le 6es9in, sans p9ur autant les faire se sentir pathétiques 9u impuissantes.
+      @kankri_talk4 KANKRI: 9u cette faç9n que tu as de t9uj9urs faire en s9rte d’av9ir l’air élégante, même sans tes lunettes, parf9is même al9rs qu’elle s9nt p9sées sur ta tête juste devant tes c9rnes.
+      @latula_idle2:#je...#hum LATULA: qu... 
+      @kankri_talk2 KANKRI: 9u, je ne sais pas si tu te s9uviens de cette f9is 9ù Meenah n9us a cuisiné un gâteau. C’était p9ur fêter l’anniversaire de n9tre entrée dans le jeu, t9ut juste une rév9luti9n. L’un des rares m9ments de s9lidarité et de c9nvivialité entre les mem6res de n9tre équipe. T9ut le m9nde s’extasiait de l’9deur du gâteau t9ut juste s9rti du f9ur, al9rs tu as pris une grande inspirati9n, 9u6liant sur le m9ment, j’imagine, que tu ne p9uvais pas sentir. Puis tu t’es vite reprise, ad9ptant un air c99l et t’assurant que pers9nne ne t’avait remarquée. Mais je l’avais remarqué, m9i. Et j’ai tr9uvé que ça te d9nnait un c9té très attachant. 
       @latula_idle3 LATULA: 
-      @kankri_talk KANKRI: Anyway, I think all that w9uld have 6een c9mpletely l9st 9n me if we didn't have this str9ng plat9nic 69nd. I just th9ught I'd say that. Guess I'll get g9ing n9w. 
-      @kankri_idle KANKRI: See y9u ar9und, Latula.
+      @kankri_talk KANKRI: Peu imp9rte, je pense que je n’aurais rien retenu de t9ut cela si n9us n’entreteni9ns pas de puissants liens plat9niques. Je me disais juste que je devais t’en parler. Je pense que je vais partir maintenant. 
+      @kankri_idle KANKRI: 9n se v9it plus tard, Latula.
       @latula_idle3 LATULA: 
       <!--  -->
 </args></action>      
