@@ -266,34 +266,34 @@
       <!--  -->
 </args></action>
 
-<action class='kankriTalk1' sprite='latula' command='talk' name='Talk to Kankri.'><args>
-      @latula_happytalk LATULA: bro!!!! 1 h34r youv3 b33n h4ssl1ng th3 n3w k1dz. wh4t 1s UP w1th th4t???
-      @kankri_talk:#New-f9ll9wers KANKRI: Hassling? Far fr9m it. I've merely disc9vered a new and far less ungrateful fl9ck which has n9t yet 6ec9me w9efully jaded t9 my messages 9f p9sitive s9cial change.
-      @latula_talk LATULA: you c4nt fool m3 k4nkz. you 4r3 bor1ng th4t poor dud3 to d34th. you just w4nt to m4k3 4 ghost out of h1m so you c4n k33p h1m h3r3 for3v3r.
+<action class='kankriTalk1' sprite='latula' command='talk' name='Parle à Kankri.'><args>
+      @latula_happytalk LATULA: fr4ng1n !!! j41 3nt3ndu d1r3 qu3 tu h4rc3l41s l3s nouv34ux. c3st vr41 c3tt3 h1sto1r3 ???
+      @kankri_talk:#N9uveaux-f9ll9wers  KANKRI: Harceler ? L9in de là. J’ai seulement déc9uvert un n9uveau gr9upe 6ien plus rec9nnaissant, lequel ne s’est pas enc9re tristement lassé de mes disc9urs sur les év9luti9ns s9ciales p9sitives.
+      @latula_talk LATULA: t3s m3nsong3s n3 pr3nn3nt p4s 4v3c mo1, k4nkz. tu vo1s b13n qu3 tu l3nnu13s 4 mour1r. tu v3ux just3 3n f41r3 un f4ntom3 3t l3 g4rd3r 1c1 pour toujourz.
       @karkat_horror KARKAT: 
-      @latula_talk:#r3:#m1st4k3s#l1k3-us LATULA: wh1ch 41nt r1ght! you h4v3 to l3t th4t bro d13 of h1s own M4D VOL1T1ONZ. 
-      @kankri_talk4:#I-mean,-c9nversati9n. KANKRI: Can y9u sc99t away 9n y9ur little wheeled t9y f9r immature wigglers? I was in the middle 9f a serm9n.
-      @latula_annoyedtalk LATULA: why dont you s4v3 h1m som3 gr13f 4nd g1v3 h1m on3 of your old m3moz?
-      @latula_talk:#fru1ty-r1ght3ous-blowh4rd-f4ctory LATULA: 4h4h4h, r3m3mb3r thoz3??? how m4ny sw33ps d1d you sp3nd try1ng to forc3 us to r34d th4t tr4sh?
-      @kankri_talk2 KANKRI: I d9n't remem6er. And n9, I w9n't 6e sharing my 9ld mem9s with him. They were written very p99rly, and my meth9ds 9f argumentati9n were flawed and extremely childish. I've deleted m9st 9f th9se mem9ries fr9m these 6u66les, s9 d9n't 69ther r99ting ar9und f9r them. Frankly, they stunk.
+      @latula_talk:#r3:#3rr3urs#comm3-nous LATULA: 3t c3st p4s cool ! tu do1s l41ss3r c3 m3c mour1r d3 s4 propr3 FOLLONT3. 
+      @kankri_talk4:#Je-veux-dire,-c9nversati9n. KANKRI: Tu ne p9urrais pas t’en aller sur t9n j9uet à r9ulette p9ur larves immatures ? J'étais en plein milieu d’un serm9n.
+      @latula_annoyedtalk LATULA: pourquo1 tu n3 lu1 3p4rgn3r41 p4z c3tt3 p31n3 3n lu1 donn4nt lun d3 t3s v13ux m3moz ?
+      @latula_talk:#v4nt4rdv1ll3-du-mor4l1s4t3ur-fru1t3 LATULA: h4h4h4, tu t3n r4pp3ll3s ??? comb13n d3 r3volut1ons 4s tu p4ss33s 4 t3nt3r d3 nous f41r3 l1r3 c3s m3rd3s ? 
+      @kankri_talk2 KANKRI: Je ne sais plus. Et n9n, h9rs de questi9n que je partage mes vieux mém9s avec lui. Ils étaient très mal rédigés, et mes méth9des d’argumentati9n étaient lacunaires et extrêmement puériles. J’ai effacé n9m6re de ces s9uvenirs des 6ulles 9niriques, inutile d9nc de prendre la peine de les chercher. Franchement, ils puaient.
       @latula_annoyed:#>8[ LATULA: h3y!
-      @kankri_talk:#tw#tw#tw#s9rry#tw#a6leism KANKRI: 9h, man, I'm s9rry. I c9mpletely f9rg9t that "stunk" was an a6leist slur. Please f9rgive my insensitivity t9ward y9ur disa6ility.
-      @latula_shine LATULA: 1tz ch1ll, 1 w4s only 4ct1ng off3nd3d to bug you.
-      @kankri_talk:#Trigger-warning:#Em6arrassed-retracti9ns-ahead KANKRI: N9, really, it was inexcusa6le 9f me. I sh9uld have at least preceded my call9us remark with a trigger warning.
-      @kankri_talk3:#Nasal-privilege#H9riz9ns#6r9adness#H9riz9ntal-width-l9ngenning KANKRI: I have n9 6usiness making light 9f y9ur impairment, thus failing t9 check my nasal privilege, and p9tentially 6ringing 6ack painful and devastatingly triggering mem9ries 9f the 9ld cycle 9f revenge 6etween y9u and s9me friends which resulted in the l9ss 9f y9ur 9lfact9ry sense. I have t9 admit, I was skeptical at first a69ut whether that really qualified as a true disa6ility warranting sensitivity and the pr9m9ti9n 9f awareness, 6ut 6eing cl9se t9 y9u as a friend and carefully examining my privilege has really 9pened my eyes. 99ps, that euphemism is slightly a6leist t9 the 6lind, what I meant was "6r9adened my h9riz9ns 9n the nature 9f disa6ility." S9rry.
-      @latula_happytalk:#MAD-d1s4dv4nt4g3d-brot1m3z LATULA: y34h! th4ts funny, c4us3 1t n3v3r would h4v3 occurr3d to m3 to t4k3 1t 4ll th4t s3r1ously 4s 4 h4nd1c4p w1thout you m4k1ng 4 f3d3r4l c4s3 out of 1t for so long on my b3h4lf. so, th4nkz k4nk!!!
-      @kankri_talk KANKRI: My pleasure. Really, it is truly amazing that y9u have managed t9 triumph 9ver such adversity t9 6ec9me a great r9le m9del f9r 9thers, excellent at vide9 games, and a t9tally stellar skate69arding pers9n, all while 6eing a girl, n9 less.
+      @kankri_talk:#at#at#at#dés9lé#at#validisme KANKRI: 9h, meuf, je suis dés9lé. J’avais c9mplètement 9u6lié que “puer” était une insulte validiste. Je te prie d’excuser ce manque de tact de ma part envers t9n handicap. 
+      @latula_shine LATULA: t1nqu13t3s, j3 f41s41s s3mbl4nt d3tr3 off3ns33 pour t3mb3t3r.
+      @kankri_talk:#Alerte-Trigger:#Désaveu-em6arrassé-à-venir KANKRI: N9n, j’insiste, c’était inexcusa6le de ma part. J’aurais au m9ins dû précéder cette affreuse remarque d’une alerte trigger.
+      @kankri_talk3:#Privilège-nasal#H9riz9ns#9uverture-d’esprit KANKRI: Je n’ai aucune rais9n de prendre t9n handicap à la légère, d’9u6lier de vérifier mes privilèges nasaux et de p9tentiellement raviver de d9ul9ureux et dévastateurs s9uvenirs suscepti6les de te trigger, tels ceux d’un vieux cycle de revanche entre t9i et certains amis qui te causa la perte de t9n 9d9rat. Je d9is l’admettre, j’étais sceptique quant au fait que cela s9it un réel handicap, nécessitant sensi6ilisati9n et visi6ilité médiatique, mais à f9rce de te fréquenter et de prendre en c9nsidérati9n mes privilèges, j’ai fini par 9uvrir les yeux. 9ups, cet euphémisme était quelque peu validiste envers les aveugles, je v9ulais plut9t dire “9uvrir m9n esprit à de n9uveaux h9riz9ns quant à la nature des handicapés.” Dés9lé.
+      @latula_happytalk:#duo-gr4v3-ouf-d3-d3f4vor1s3s LATULA: ou41 ! c3st drol3, c4r j3 n3 l3 cons1d3r3r41t p4s s3r13us3m3nt comm3 un h4nd1c4p s1 tu n3 m3 l3 r4b4ch41s p4s 4 longu3ur d3 journ33, m3rc1 k4nkz !!! 
+      @kankri_talk KANKRI: T9ut le plaisir est p9ur m9i. Vraiment, c’est incr9ya6le que tu aies su tri9mpher de l’adversité et devenir un tel m9dèle p9ur les autres, une excellente j9ueuse de jeux vidé9s, et une remarqua6le skateuse, t9ut en étant une fille, ce qui n’est pas négligea6le.
       @karkat_eyeroll2 KARKAT: 
       <!--  -->
 </args></action>
 
-<action class='kankriTalk2' sprite='latula' command='talk' name='Be Kankri.'><args>
-      @kankri_talk KANKRI: 6e me? I...
-      @kankri_talk KANKRI: I'm n9t sure if that's...
-      @latula_happier LATULA: 4w com3 on k4nkl3z!!! pl33333334z3???
-      @kankri_talk KANKRI: Well...
-      @kankri_talk KANKRI: 9k. I'll interrupt my imperative m9n9l...dial9gue just this 9nce.
-      @kankri_talk KANKRI: F9r y9u.
+<action class='kankriTalk2' sprite='latula' command='talk' name='Deviens Kankri.'><args>
+      @kankri_talk KANKRI: Devenir m9i ? Je...
+      @kankri_talk KANKRI: Je ne suis pas sûr que...
+      @latula_happier LATULA: oh, 4ll3z k4nkr1z !!! s1l t3 pl41t ???
+      @kankri_talk KANKRI: 6ien...
+      @kankri_talk KANKRI: 9k. Je vais interr9mpre m9n imp9rtant m9n9l… dial9gue, mais cette f9is seulement.
+      @kankri_talk KANKRI: Juste p9ur t9i.
       <!--  -->
 </args></action>
 
