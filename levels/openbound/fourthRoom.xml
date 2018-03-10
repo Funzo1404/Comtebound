@@ -41,8 +41,8 @@
 
 <sprite class='chest1' name='fourthRoomChest1' x='166' y='498'>
     	<action command='openChest' name='open'>
-    		<args>fourthRoomChest1,secretObj, @! You got a 2010 SPIRITED HORSE CALENDAR!
-      @!:#fuckin-pain-in-the-red-cheeks You flip through it and... yep. Hearts Boxcars is still farming all those goddamn horses.</args>
+    		<args>fourthRoomChest1,secretObj, @! Vous obtenez un CALENDRIER CHEVAL FOUGEUX DE 2010 !
+      @!:#mal-à-mes-Joues-Rouges Vous le feuilletez et... ouaip. Hearts Boxcars est toujours en train d'élever ses putain de chevaux.</args>
     	</action>
     </sprite>
 
@@ -59,23 +59,23 @@
 				<action command='deltaSprite'>
 					<args>char,-12,0</args>
 					<action command='talk'>
-						<args>@! This leads to the end of the game. Are you sure you're done here?</args>
+						<args>@! Ce chemin mène à la fin du jeu. Êtes-vous sûr d'avoir fini ici ?</args>
 						<action command='presentActions'>
 							<args>
 								<action name='Yes' command='fadeOut'>
 									<args></args>
 									<action command='talk'>
-										<args>@! That's the end. Continue playing on the next page.</args>
+										<args>@! Vous voilà à la fin. Continuez de jouer à la page suivante.</args>
 										<action command='presentActions'>
 										 	<args>
-											 	<action command='loadStateFile' name='Start over'>
+											 	<action command='loadStateFile' name='Recommencer'>
 														<args>openbound.xml,false</args>
 												</action>
 											</args>
 										</action>
 									</action>
 								</action>
-								<action name='No' command='cancel'>
+								<action name='Non' command='cancel'>
 								</action>
 							</args>
 						</action>
@@ -93,7 +93,7 @@
 		
    	<sprite name='araneaStand' x='1486' y='398' width='100' height='30' collidable='true' depthing='1'>
    		<animation sheet='araneaStandSheet' x='-44' y='-100'/>
-   		<action command='addOverlay' name='Talk.'>
+   		<action command='addOverlay' name='Parle.'>
    			<args>peanuts</args>
    			<action class='peanutActions'>
 				</action>
