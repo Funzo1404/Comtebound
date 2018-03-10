@@ -342,8 +342,8 @@
     </sprite>
     <sprite class='chest4' name='secondRoomChest12' x='4028' y='1324'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest12,obj22,@! You got a copy of COMPLACENCY OF THE LEARNED!
-      @!:#probably-wasn't-worth-jack-anyway Wow this looks really... huh? It just disappeared from your hand in a crazy blur. What the... oh, that human girl has it. She looks like she's enjoying it a lot more than you ever would. You'll let her have this one.</args>
+    		<args>secondRoomChest12,obj22,@! Vous obtenez une copie de LA FATUITÉ DE L'INSTRUIT !
+      @!:#valait-probablement-pas-grand-chose-de-toutes-façons Wow ce truc a vraiment l'air...... heu ? Il vient juste de disparaître de vos mains en un éclair. Qu'est-ce que... oh, cette fille humaine l'a. On a l'air de beaucoup l'apprécier. Vous allez lui laisser pour cette fois.</args>
     	</action>
     </sprite>
     
