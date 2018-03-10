@@ -195,7 +195,7 @@
 <action class='andrewTalk1' command='talk' name='Parle.'>
 	<args>
 			@meenah_idle MEENAH: yo type orange
-			@meenah_idle MEENAH: or heu
+			@meenah_idle MEENAH: ou heu
 			@meenah_idle:#couleur-courge? MEENAH: type jaune  
 			@! .............
 			@meenah_idle:#cest-quoi-le-bordel-avec-toute-ces-boules-magiques? MEENAH: cest quoi ton probleme  
