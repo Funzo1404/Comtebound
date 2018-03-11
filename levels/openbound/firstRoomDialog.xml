@@ -157,25 +157,25 @@
       @aradia_happy ARADIA: salutations !
       @aradia_happytalk ARADIA: je tenais à te dire bonjour depuis ton arrivée
       @meenah_idle MEENAH: ...
-      @meenah_angrytalk:#bon-sang-non MEENAH: M-EGIDO???
+      @meenah_angrytalk:#bon-sang-non MEENAH: M-EGIDO ???
       @aradia_talk ARADIA: oui mais pas celle que tu imagines
       @meenah_talk MEENAH: laquelle alors
-      @aradia_talk:#tu-sais#l-au-delà? ARADIA: jaime me considérer comme une sorte de gardien de ce lieu 
-      @aradia_laugh:#:D ARADIA: je dirais bien que je suis une excellente hôte mais cette phrase a fini par devenir lourde de sens 
+      @aradia_talk:#tu-sais#l-au-delà-? ARADIA: jaime me considérer comme une sorte de gardien de ce lieu 
+      @aradia_laugh:#:D ARADIA: je dirais bien que je suis une excellente hôtesse mais cette phrase a fini par devenir lourde de sens 
       @meenah_talk MEENAH: tu ressembles a megido
-      @meenah_annoyedtalk MEENAH: mais tu nas pas vraiment lair detre comme nimporte quelle megido que je connaîtraie
+      @meenah_annoyedtalk MEENAH: mais tu nas pas vraiment lair detre comme nimporte quelle megido que je connaitrais
       @aradia_idle ARADIA: jose espérer que non !
-      @aradia_talk:#même-si-le-'temps'-n-est-vraiment-qu-une-façon-de-parler-ici ARADIA: bref ceux dentre nous qui sont préoccupés par la préservation de la réalité attendaient ce jour impatiemment depuis un bon bout de temps
-      @meenah_wut:#le-ciel-vient-de-se-briser#stupide-fee MEENAH: pourquoi quiconque attendraie impatiemment ce bordel 
-      @aradia_talk ARADIA: pas autant la dévastation que ton arrivée
+      @aradia_talk:#même-si-le-"temps"-nest-vraiment-quune-façon-de-parler-ici ARADIA: bref ceux dentre nous qui sont préoccupés par la préservation de la réalité attendaient ce jour impatiemment depuis un bon bout de temps
+      @meenah_wut:#le-ciel-vient-de-se-briser#stupide-fee MEENAH: pourquoi quiconche attendrait impatiemment ce bordel 
+      @aradia_talk ARADIA: pas tant la dévastation que ton arrivée
       @aradia_happytalk ARADIA: tu as quelques gros projets non ?
-      @meenah_annoyed:#peut-être MEENAH: ...
-      @meenah_annoyedtalk MEENAH: quest ce que ca te fait
+      @meenah_annoyed:#peut-etre MEENAH: ...
+      @meenah_annoyedtalk MEENAH: quest ce que ca peut te faire
       @aradia_talk ARADIA: oh rien ! Cest simplement lextension de formels vœux de bienvenue !
       @aradia_talk ARADIA: maintenant file ! va retrouver tes amis
       @aradia_talk ARADIA: cest pour ÇA que tu es finalement sortie de ton palace pas vrai ?
       @meenah_idle MEENAH:  ouais
-      @meenah_annoyedtalk:#mais-je-garde-un-œil-sur-toi#fée-megido MEENAH: jimagine que je vais y aller du coup  
+      @meenah_annoyedtalk:#mais-je-garde-un-œil-sur-toi#fee-megido MEENAH: jimagine que je vais y aller du coup  
       @aradia_happy ARADIA: merci encore !
       <!--  -->
 </args></action>
@@ -183,26 +183,26 @@
 <action class='aradiaTalk2' command='talk' name='Talk.'><args>
 @aradia_idle ARADIA: perdue ?
       @meenah_annoyed MEENAH: je heu
-      @meenah_annoyed MEENAH: suis parti du mauvais cote
+      @meenah_annoyed MEENAH: suis partie du mauvais cote
       @aradia_talk ARADIA: oui cest un cul de sac
       @aradia_talk ARADIA: le chemin que tu veux prendre est
       @aradia_point ARADIA: de CE côté
-      @aradia_wink:#deux-pistolets#et-un-;) ARADIA: *nk-nkt*
+      @aradia_wink:#deux-pistolets#et-un-;) ARADIA: *nk-nk*t
       @meenah_annoyed MEENAH: merci
       @meenah_annoyed MEENAH: taree
 </args></action>
 
 <action class='andrewTalk1' command='talk' name='Parle.'>
 	<args>
-			@meenah_idle MEENAH: yo type orange
+			@meenah_idle MEENAH: yo le type orange
 			@meenah_idle MEENAH: ou heu
-			@meenah_idle:#couleur-courge? MEENAH: type jaune  
+			@meenah_idle:#couleur-courge-? MEENAH: type jaune  
 			@! .............
-			@meenah_idle:#cest-quoi-le-bordel-avec-toute-ces-boules-magiques? MEENAH: cest quoi ton probleme  
+			@meenah_idle:#cest-quoi-le-bordel-avec-toutes-ces-boules-magiques-? MEENAH: cest quoi ton probleme  
 			@meenah_idle MEENAH: est ce que tu heu
 			@meenah_idle:#genant MEENAH: pleures ? 
 			@! SILENCE.
-			@! Apporte moi un cheval, et je suis à toi pour toujours.
+			@! Apporte-moi un cheval, et je suis à toi pour toujours.
 			<!--  -->
 	</args>
 </action>
@@ -213,7 +213,7 @@
       @!:#est-ce-réel? Ce n'est PAS POSSIBLE......
       @! _ÇA L'EST_
       @! TU M'AS APPORTÉ UN CHEVAL !
-      @! Regarde moi cette glorieuse monture en fonte. C'est le cadeau le plus incroyable que je n'ai jamais reçu. Je le chérirai pour toujours.
+      @! Regarde-moi cette glorieuse monture en fonte. C'est le cadeau le plus incroyable que je n'aie jamais reçu. Je le chérirai pour toujours.
       @! Donc heu, hey...
       @!:QUI-C'EST-Vriska????? Tu viens souvent ici ? 
       @meenah_wut2 MEENAH: Oh mon lieu
