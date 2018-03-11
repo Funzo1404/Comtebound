@@ -203,7 +203,7 @@
 	<action command='talk' name='Talk.'>
 		<args>
 		@! Hé ! Va-t-en gamine, c'est MA CACHETTE.
-		    @!:#MDA#heu#encore Tu ne vois pas qu'English vient me chercher???
+		    @!:##la-mort-de-lauteur#heu#encore Tu ne vois pas qu'English vient me chercher???
 		    @! IL VIENT POUR NOUS TOUS.
 		</args>
 		<action command='removeSprite'>
@@ -277,7 +277,7 @@
     <sprite class='chest6' name='secondRoomChest2' x='4244' y='640'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest2,obj12,@! Vous obtenez les ÉPINES D'OGLOGOTH ! 
-      @!:#un-choix-judicieux N'importe quel aventurier sain jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un vient juste de le faire ?</args>
+      @!:#un-choix-judicieux N'importe quel aventurier sain d’esprit jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un a fait exactement ça ?</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest3' x='392' y='2020'>
@@ -289,19 +289,19 @@
     <sprite class='chest6' name='secondRoomChest4' x='1564' y='2292'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest4,obj20,@! You obtenez une paire de PLATINES TEMPORELLES ! 
-      @!:#ooh,-comme-ce-gamin-sur-l'autre-rive!#Vous-êtes-prêt-à-parier-qu'il-est-blindé! Utilisez-les pour voyager dans le temps. Ce qui, dans le cercle extérieur, ne signifie pas toujours grand chose. Remonter le temps pourrait aussi vous transporter des millions de révolution-lumières plus loin. Il serait probablement mieux de juste les vendre à un milliardaire excentrique.</args>
+      @!:#ooh,-comme-ce-gamin-sur-l'autre-rive-!#Vous-êtes-pret-à-parier-qu'il-est-blinde-! Utilisez-les pour voyager dans le temps. Ce qui, dans le cercle extérieur, ne signifie pas toujours grand chose. Remonter le temps pourrait aussi vous transporter des millions de révolutions-lumière plus loin. Il serait probablement mieux de juste les vendre à un milliardaire excentrique.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest5' x='2244' y='1780'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest5,obj15,@! Vous obtenez une STATUE D'ECHIDNA ! 
-      @!:#oh,-vous-pourriez-aussi-REVENDRE-ce-truc Une représentation évidemment réduite du résident qu'Aranea avait consulté pour savoir comment scratcher votre session. La décision de scratcher avait bien sûr apporté son lot de CONSÉQUENCES MAJEURES, et vous commencez à croire que c'est seulement maintenant que la finalité de ces conséquences se révèlent. Il semblerait que ce soit l'heure de nettoyer après elle.</args>
+      @!:#oh,-vous-pourriez-aussi-REVENDRE-ce-truc Une représentation évidemment réduite du résident qu'Aranea avait consulté pour savoir comment scratcher votre session. La décision de scratcher avait bien sûr apporté son lot de CONSÉQUENCES MAJEURES, et vous commencez à croire que c'est seulement maintenant que la finalité de ces conséquences se révèle. Il semblerait que ce soit l'heure de nettoyer après elle.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest6' x='4428' y='1836'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest6,obj16,@! Vous obtenez une MACHINE À COUDRE !
-      @!:#vous-reviendrez-plus-tard-pour-pour-le-chipper-quand-elle-ne-sera-plus-là Oooooh ce truc a l'air de valoir TRÈS cher, vous êtes prêt à parier que vous pourriez... une seconde. Qu'est-ce qu'elle regarde comme ça ? Cette fille ressemblant à Maryam vous observe bizarrement. Quoi, ce truc lui appartient ? Vous ne voulez pas avoir d'ennuis pour ce gadget idiot. Vous le reposez lentement dans le coffre, d'un air désintéressé comme s'il ne valait rien. </args>
+      @!:#vous-reviendrez-plus-tard-pour-pour-le-chipper-quand-elle-ne-sera-plus-là Oooooh ce truc a l'air de valoir TRÈS cher, vous êtes prête à parier que vous pourriez... une seconde. Qu'est-ce qu'elle regarde comme ça ? Cette fille ressemblant à Maryam vous observe bizarrement. Quoi, ce truc lui appartient ? Vous ne voulez pas avoir d'ennuis pour ce gadget idiot. Vous le reposez lentement dans le coffre, d'un air désintéressé comme s'il ne valait rien. </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest7' x='4548' y='2872'>
@@ -320,15 +320,15 @@
     </sprite>
     <sprite class='chest4' name='secondRoomChest9' x='3216' y='2304'>
     	<action command='openChest' name='open'>
-    		<args>secondRoomChest9,obj19, @! Vous obtenez un JOURNAL À SCANDALE DERSITE !
-      @!:#certains-étaient-les-vôtres Il raconte qu'une fille humaine est morte. Vous ne la reconnaissez pas. À l'intérieur se trouvent les familières vulgarités sordides auxquelles vous avez été habitué. Vous avez passé un long moment sur Derse durant votre partie. Vous avez toujours apprécié lire ce genre d'articles. Ils parlaient presque tout le temps d'assassinat.
+    		<args>secondRoomChest9,obj19, @! Vous obtenez un JOURNAL À SCANDALES DERSITE !
+      @!:#certains-étaient-les-vôtres Il raconte qu'une fille humaine est morte. Vous ne la reconnaissez pas. À l'intérieur se trouvent les familières vulgarités sordides auxquelles vous avez été habituée. Vous avez passé un long moment sur Derse durant votre partie. Vous avez toujours apprécié lire ce genre d'articles. Ils parlaient presque tout le temps d'assassinats.
 </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest10' x='1024' y='2896'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest10,obj14,  @! Vous obtenez une CROACEUSE !
-      @!:#oh-putain-ce-truc-est-du-rubis???#VIENS-VOIR-MAMAN N'importe quel adversaire tremble à la simple vue de ce carnage amphibien mortel. La terreur qu'il inspire est tellement écrasante que... ha ha, oui évidemment. Cette épée est presque trop ridicule pour être décrite avec des mots. Ça reste un objet qui sort de l'ordinaire.
+      @!:#oh-putain-ce-truc-est-en-rubis-???#VIENS-VOIR-MAMAN N'importe quel adversaire tremble à la simple vue de ce carnage amphibien mortel. La terreur qu'il inspire est tellement écrasante que... ha ha, oui évidemment. Cette épée est presque trop ridicule pour être décrite avec des mots. Ça reste un objet qui sort de l'ordinaire.
 </args>
     	</action>
     </sprite>
