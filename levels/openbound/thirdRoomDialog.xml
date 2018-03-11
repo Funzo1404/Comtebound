@@ -379,28 +379,28 @@
 <action class='kankriTalk4' sprite='porrim' command='talk' name='Deviens Kankri.'><args>
       @kankri_talk KANKRI: Qu9i ? Tu s9uhaites m’incarner ? Quelle a6surde requête est-ce d9nc ?
       @kankri_talk KANKRI: Ne v9is-tu pas que je suis en plein milieu d’un m9n9l9gue terri6lement imp9rtant ? Je veux dire, d’une c9nversati9n d’h9mme-à-h9mme avec Karkat ?
-      @kankri_talk KANKRI: Je p9urrais m’en s9ucier si la demande était plus p9lie. 9u, dans le pire des cas, plus “radicale".
+      @kankri_talk KANKRI: Je p9urrais rec9nsidérer si la demande était plus p9lie. 9u, dans le pire des cas, plus “radicale".
       <!--  -->
 </args></action>
 
 
 
 <action class='latulaTalk5' sprite='kankri' command='talk' name='Parle à Latula.'><args>
-      @kankri_talk KANKRI: 9h, hey, Latula. J’ai cru c9mprendre que tu avais r9ulé ta 69sse un peu part9ut dernièrement.  
-      @kankri_talk:#-As-tu-fait-un...#Hang-10?#N9n-je-d9is-me-tr9mper...  KANKRI: T9uj9urs à faire des acr96aties avec t9n j9uet ? C9mment tu t’en s9rs ? Est-ce que tu as effectué 6eauc9up... 6eauc9up "d’air" ? C’est 6ien c9mme ça qu’9n dit ? 
+      @kankri_talk KANKRI: 9h, hey, Latula. Il m’avais 6ien semblé entendre les crissements de t9n véhicule sur les diverses surfaces des envir9ns.   
+      @kankri_talk:#As-tu-fait-un...#Hang-10?#N9n-je-d9is-me-tr9mper...  KANKRI: T9uj9urs à faire des acr96aties avec t9n j9uet ? C9mment tu t’en s9rs ? Est-ce que tu as effectué 6eauc9up... 6eauc9up "d’air" ? C’est 6ien c9mme ça qu’9n dit ? 
       @latula_happytalk LATULA: b13n sur, bro !!!  
       @latula_stunt LATULA: tu n1m4g1n3s M3M3 p4s. j3 m3v4d3 3t v1r3volt3 d4ns tous l3s s3nz !!!!
       @kankri_talk4 KANKRI: Et 6ien, je n’avais pas dans l’idée de tenter un quelc9nque rappr9chement physique avec t9i, et même si c’était le cas, je ne d9ute pas de ta capacité à te mettre h9rs de ma p9rtée au m9yen de ta rapide petite planche. Mais s9it, je serais plus que c9ntent de te laisser t'évader dans quelque directi9n qu’il s9it, si tel est t9n s9uhait.
       @latula_bored LATULA: m3c. m3m3 qu4nd j3 m3 d1s qu3 tu n3 pourr41s p4z 3tr3 plus co1nc3, tu 4rr1v3s 3t tu sors d3s phr4z comm3 c4.
       @kankri_talk KANKRI: Haha. Sûrement. Tu sais, je suis c9ntent que n9us puissi9ns discuter ainsi.
       @latula_huh:#? LATULA: 4h bon... 
-      @kankri_talk KANKRI: 9ui. J’ai réfléchi dernièrement, à n9s n9uveaux amis p9st-scratch. Plus particulièrement au jeune Vantas, à la Pyr9pe qui l’acc9mpagne, et à quel p9int ils n9us ressem6laient, t9ut en étant p9urtant si différents.
-      @latula_happier:#tu-4s-vu-s4-t3nu3-d3-dr4gon??-3333!#TROP-m1gnon3->8] LATULA: ou41. l4 m1n1 mo1 3st 4v3ugl3 ! tu l3 S4V41S ?? 
+      @kankri_talk KANKRI: 9ui. J’ai réfléchi dernièrement, à n9s n9uveaux amis p9st-scratch. Plus particulièrement au jeune Vantas, à la Pyr9pe qui l’acc9mpagne, et à quel p9int ils n9us ressem6lent, t9ut en étant p9urtant si différents.
+      @latula_happier:#tu-4s-vu-son-costum3-d3-dr4gon-??-3333-!#TROP-m1gnonn3->8] LATULA: ou41s. l4 m1n1 mo1 3st 4v3ugl3 ! tu S4V41S ?? 
       @kankri_talk KANKRI: 9ui, mais ce n’est pas le pr9p9s.
       @kankri_talk2 KANKRI: Elle et Karkat entretiennent une relati9n vraiment différente de la n9tre. La leur sem6le 6ien plus tur6ulente, vraisem6la6lement alimentée par des tensi9ns r9mantiques. Leur situati9n ne m’inspire rien de 69n. C’est malheureux à dire, mais ça me rassure de v9ir que n9us ne s9mmes jamais arrivés à ce stade là.
       @latula_talk LATULA: 3t ou41z. on 4 p4s b3so1n d3 c4 !
-      @kankri_talk4:#Seri9usly.Sérieusement.#Je-veux-dire,-elle-est-sympa-mais...#Vraiment? KANKRI: Je suis presque sûr que c’est lié au fait que n9us s9y9ns restés l9in de ce nid gr9uillant d'em6arras r9mantique. Ceci déc9ule, 6ien entendu, de m9n v9eu de céli6at qui, c9mme tu le sais, est juste un ch9ix pers9nnel, duquel, p9ur certaines rais9ns, ma versi9n adulte p9st scratch a finalement dévié… avec… Meulin,  de t9utes les pers9nnes que je c9t9ie ? Mais là n'est pas la questi9n. 
-      @latula_laugh:#:3#h3h3h3h LATULA: h4h4h4h4... to1 3t m3uz. j’3n pl3urs d3 r1r3 4 ch4qu3 fo1s... H4H4H4H4H4H4!!!! 
+      @kankri_talk4:#Seri9usly.Sérieusement.#Je-veux-dire,-elle-est-sympa-mais...#Vraiment-? KANKRI: Je suis presque sûr que c’est lié au fait que n9us s9y9ns restés l9in de ce nid gr9uillant d'em6arras r9mantique. Ceci déc9ule, 6ien entendu, de m9n v9eu de céli6at qui, c9mme tu le sais, est juste un ch9ix pers9nnel, duquel, p9ur certaines rais9ns, ma versi9n adulte p9st scratch a finalement dévié… avec… Meulin,  de t9utes les pers9nnes que je c9t9ie ? Mais là n'est pas la questi9n. 
+      @latula_laugh:#:3#h3h3h3h LATULA: h4h4h4h4... to1 3t m3uz. j’3n pl3urs d3 r1r3 4 ch4qu3 fo1s... H4H4H4H4H4H4-!!!! 
       @kankri_talk2 KANKRI: 9ui. Mais même sans ça. Ce que je veux dire, c’est qu’il est 69n que n9us s9y9ns restés l9in de t9ut ça. Ça m’a aidé à t’apprécier en tant qu’amie, et à admirer tes n9m6reuses qualités. Plat9niquement, 6ien sûr.
       @latula_happytalk LATULA: t4s r41son ! vu sous c3t 4ngl3, c4 s3st sup3r b13n p4ss3 d3 notr3 cot3.
       @kankri_talk3:#Céruléenne-salvatrice#Templiers-turqu9ises#Vi9lâtres-valeureux#Paladins-p9urpres KANKRI: C9mme cette manière que tu as de te détacher des usages qu’inc9m6e ta classe, en tant que sang aqua, y c9mpris le c9té “69nnes intenti9ns” des c9nventi9ns s9ciales de ta lignée arist9cratiques privilégié. Tu n’as jamais ra6aissé pers9nne, ni même c9nsidéré c9mme un dev9ir civil “l’améli9rati9n” des classes aux c9uleurs plus chaudes, entraînant par la même 9ccasi9n une malheureuse tendance à j9uer les céruléennes salvatrices, 9u devrais-je dire le “fardeau des sang-6leu” (Alerte trigger sur ce sujet, évidemment). Malheureusement, ces c9utumes s9nt dés9rmais indiss9cia6les de la structure du spectre sanguin, chaque classe c9nsidérant celles qui lui s9nt inférieures de la même manière, et les sensi6iliser est devenu presque imp9ssi6le. Mais c9ntrairement aux autres c9uleurs fr9ides c9mp9sant n9tre équipe, et plus privilégiées que t9i, tels que les Serkets, les Zahhaks, les Amp9ras… Je n’ai jamais senti en t9i la m9indre envie d’en faire de même, et je tr9uve cela assez f9rmida6le. 
