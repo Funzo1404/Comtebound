@@ -60,32 +60,32 @@
 </args><action class='triggerEndTalk'/></action>
 
 <action class='endTalk4' command='talk' name='Parle moi de Latula Pyrope.'><args>
-      @aranea_happytalk ARANEA: La chevalière de l’esprit, même pour l’o8servateur le moins averti, est clairement l’exemple le plus "radical" des deux Pyropes. Les deux ont, certes, un handicap qui, si découvert, les exposeraient à l’a8attage dans leurs cultures respectives. L'a8attage a, bien sûr, une signification tout à fait différente sur 8eforus. Cela veut dire qu’elle aurait été choisie par un mem8re d’une classe supérieure pour se faire adopter, et excessivement choyer. Mais pour quelqu’un avec un style de vie aussi radical que le sien, je pense que tu es d’accord pour dire que ce serait un destin pire que la mort. 
-      @meenah_annoyedtalk MEENAH: he serket cette introduction est un vrai bordel remplit de stupidites meme venant de toi
+      @aranea_happytalk ARANEA: La chevaleresse de l’esprit, même pour l’o8servateur le moins averti, est clairement l’exemple le plus "radical" des deux Pyropes. Les deux ont, certes, un handicap qui, si découvert, les exposeraient à l’éradication dans leurs cultures respectives. L’éradication a, bien sûr, une signification tout à fait différente sur 8eforus. Cela veut dire qu’elle aurait été choisie par un mem8re d’une classe supérieure pour se faire adopter, et excessivement choyer. Mais pour quelqu’un avec un style de vie aussi radical que le sien, je pense que tu es d’accord pour dire que ce serait un destin pire que la mort. 
+      @meenah_annoyedtalk MEENAH: he serket cette introduction est un vrai bordel rempli de stupidites meme venant de toi
       @aranea_annoyedtalk ARANEA: Ça te dit de te faire de l’argent, ou pas ?
       @meenah_talk MEENAH: tu me connais jadore les boonjamins
       @aranea_mad ARANEA: Alors s’il te plaît tiens-toi tranquille pendant que je continue.
       @meenah_wut2:#*bien MEENAH: Raaaah tres banc
-      @aranea_happytalk ARANEA: Après le tragique accident qui lui a détérioré sa voie nasale, son puissant dragon lusus, vieux et dont la sagesse dépasse notre compréhension, commença à lui apprendre de "nouvelles façons de sentir". Afin de réinventer le sens, utilisant ses autres organes sensoriels comme les yeux ou les oreilles, réveillant de toutes nouvelles expériences dans son esprit. Elle a été une vérita8le source d’inspiration, et a prouvé sans l’om8re d’un doute que n’importe quel handicap peut être surpassé, et que ça n’a pas à t’empêcher d’être aussi rad que tu peux vraiment l’être. 
+      @aranea_happytalk ARANEA: Après le tragique accident qui lui a détérioré sa voie nasale, son puissant dragon lusus, dont la longévité et la sagesse dépassent notre compréhension, commença à lui apprendre de "nouvelles façons de sentir". Afin de réinventer le sens, utilisant ses autres organes sensoriels comme les yeux ou les oreilles, réveillant de toutes nouvelles expériences dans son esprit. Elle a été une vérita8le source d’inspiration, et a prouvé sans l’om8re d’un doute que n’importe quel handicap peut être surpassé, et que ça n’a pas à t’empêcher d’être aussi rad que tu peux vraiment l’être. 
       @meenah_wut2 MEENAH: kwaaa
       @meenah_wut MEENAH: serket es tu en train de me siffler dans mes events avec cette merde idiote
       @aranea_facepalmtalk ARANEA: Oui, la dernière partie était une blague. Je ne pensais pas devoir faire la lumière dessus, Peixes !
       @meenah_talk:#harang#tu-sais#le-poisson MEENAH: ouais ouais que devons nous faire pour clore notre harangement
       @aranea_think ARANEA: Et 8ien........
-      @meenah_talk MEENAH: dique moi solement le strict minimum que jai besoin dentendre pour prendre mes boonis et me carpater
-      @aranea_happytalk ARANEA: Très 8ien. 8ien que Latula était dans une relation sta8le avec Mituna depuis une éternité, ce n'est un secret pour personne qu’elle et Kankri ont eu des sentiments compliqués et non partagés depuis plus longtemps. Donc vraiment, tout comme leurs descendants. Eeeeeeeet, fini ! Tiens.
+      @meenah_talk MEENAH: dique moi solement le strict minimum que jai besoin dentendre pour prendre mes boonis et me carapacer
+      @aranea_happytalk ARANEA: Très 8ien. 8ien que Latula soit dans une relation sta8le avec Mituna depuis une éternité, ce n'est un secret pour personne qu’elle et Kankri ont eu des sentiments compliqués et non partagés depuis plus longtemps. Donc vraiment, tout comme leurs descendants. Eeeeeeeet, fini ! Tiens.
       @meenah_happy MEENAH: trop cool
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
 <action class='endTalk5' command='talk' name='Parle moi de Porrim Maryam..'><args>
-      @aranea_happytalk ARANEA: La Damoiselle de l'Espace était 8ien évidemment notre irremplaça8le joueuse de l'Espace, ainsi que la gestionnaire de la Forge, mais comme tu le sais, nous n'avons jamais vraiment avancé sur le front de l'élevage de grenouille, ni même sur aucun aspect du jeu avant le Jugement Dernier d'ailleurs. 8ien trop désorganisés, 8ien trop de drames d'adolescents. Une grosse partie de ces drames étaient 8ien sûr centrés sur Kankri, et Porrim avait tendance à être celle qui le tenait loin des tourments. Cette relation a persisté dans leurs vies sur Alternia, et cela... n'a malheureusement pas très 8ien fini pour elle. Je te parlerais 8ien de ma participation dans tout ça, mais tu sem8les être en train de taper du pied, donc je pense que je vais juste sauter cette partie de l'histoire !
-      @aranea_happytalk ARANEA: Sur 8eforus, 8ien avant que ses aptitudes de 8uveuse fussent éveillées, elle a grandi dans une caste presque uniquement dévouée au service de la Larve Mère, faisant éclore les jeunes et proliférer la couvée. Les Sang-de-Jade sont aussi une caste presque exclusivement féminine, et elle se sentait mal à l'aise avec ces rôles, assignés à sa naissance par sa classe et son genre. Elle s'est opposée à ces derniers partout où ils existaient dans la société 8eforienne, et également partout où elle a pu les déceler dans notre session, dans les royaumes, dans les affectations de classe, la culture des consorts, et cetera.
+      @aranea_happytalk ARANEA: La Damoiselle de l'Espace était 8ien évidemment notre irremplaça8le joueuse de l'Espace, ainsi que la raviveusede de la Forge, mais comme tu le sais, nous n'avons jamais vraiment avancé sur le front de l'élevage de grenouilles, ni même sur aucun aspect du jeu avant le Jugement Dernier d'ailleurs. 8ien trop désorganisés, 8ien trop de drames d'adolescents. Une grosse partie de ces drames étaient 8ien sûr centrés sur Kankri, et Porrim avait tendance à être celle qui le tenait loin des tourments. Cette relation a persisté dans leurs vies sur Alternia, et cela... n'a malheureusement pas très 8ien fini pour elle. Je te parlerais 8ien de ma participation dans tout ça, mais tu sem8les être en train de taper du pied, donc je pense que je vais juste sauter cette partie de l'histoire !
+      @aranea_happytalk ARANEA: Sur 8eforus, 8ien avant que ses aptitudes de 8uveuse fussent éveillées, elle a grandi dans une caste presque uniquement dévouée au service de la Larve Mère, faisant éclore les jeunes et proliférer la couvée. Les Sang-de-Jade sont aussi une caste presque exclusivement féminine, et elle se sentait mal à l'aise avec ces rôles assignés à sa naissance par sa classe et son genre. Elle s'est opposée à ces derniers partout où ils existaient dans la société 8eforienne, et également partout où elle a pu les déceler dans notre session, dans les royaumes, dans les affectations de classes, la culture des consorts, et cetera.
       @aranea_happytalk ARANEA: Mais au fil des révolutions, dans notre session condamnée, elle a à nouveau éprouvé de l'intérêt pour le devoir de sa lignée, qui était 8ien évidemment la pérennité de notre espèce, un fardeau que sa descendante doit à présent porter. Toute la vie sur 8eforus a été anéantie, et nous avons échoué à notre jeu, alors elle m'a aidé à trouver un moyen de réinitialiser le...
       @meenah_annoyed MEENAH: zzzzzz
       @aranea_angry ARANEA: J'avais presque fini !!!!!!!!
       @meenah_annoyedtalk MEENAH: tes juste en train de rabacher des merdes que je connais deja serk cetait genre ma pote aussi de cque jme souvienne
-      @meenah_annoyedtalk MEENAH: tu peux pas genre pimenter un peu lhistoire
+      @meenah_annoyedtalk MEENAH: tu peux pas pimenter un peu lhistoire
       @aranea_idle ARANEA: Je ne........
       @meenah_wink MEENAH: elle couchait pas genre avec tout lmonde
       @meenah_wink MEENAH: abulle les potins
@@ -93,16 +93,16 @@
       @aranea_surprised ARANEA: Non, Meenah. Je ne te paye pas pour que tu puisses m'écouter me livrer à de scandaleux commérages.
       @aranea_think ARANEA: De quoi est-ce que je parlais déjà ? 8igre, j'ai perdu le fil de mes pensées........
       @meenah_happier MEENAH: ahahaha pourquoi tu rouget meuf
-      @meenah_ohyes:#???????????#FULMINE-D-UNE-INTENSE-CURIOSITE MEENAH: oh mon lieu elle et toi...???????
+      @meenah_ohyes:#???????????#FULMINE-DUNE-INTENSE-CURIOSITE MEENAH: oh mon lieu elle et toi...???????
       @aranea_surprised ARANEA: 
       @meenah_creepytalk MEENAH: oh meuf pourquoi tu men a jamais parle je pensais quon etait potes
       @aranea_madtalk ARANEA: Écoute. Trois révolutions représentent 8eaucoup de temps dans une session condamnée et sans o8jectif !
-      @aranea_madtalk ARANEA: Tu regardes vers le futur et tu vois une vie qui dure peut-être des centaines de révolutions, sans rien à espérer, et........
+      @aranea_madtalk ARANEA: Tu regardes vers le futur et tu vois une vie qui durera peut-être des centaines de révolutions, sans rien à espérer, et........
       @meenah_happier MEENAH: eeeet ????
       @aranea_facepalmtalk ARANEA: C'était juste... une sorte de phase ! Juste une petite aventure rouge, ok ? Ça n'a même pas duré une moitié de révolution, et...
       @aranea_annoyedtalk ARANEA: Hey, si je te donne DIX 8oon8ucks, peut-on cesser de parler de ça ????????
       @meenah_happytalk MEENAH: disons une centaine et marche conclu
-      @aranea_angrytalk ARANEA: Arg, d'accord ! Prend les !!!!!!!!
+      @aranea_angrytalk ARANEA: Arg, d'accord ! Prends-les !!!!!!!!
       @meenah_happytalk MEENAH: son imperiale condescendance te remercie de ta genereuse contribution au nouvel empire
       @aranea_annoyedtalk ARANEA: Je suis contente que tu sois du côté des gentils cette fois. Tu es vraiment née pour être une VRAIE SALOPE !!!!!!!!
       <!--  -->
