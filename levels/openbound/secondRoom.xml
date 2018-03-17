@@ -289,7 +289,7 @@
     <sprite class='chest6' name='secondRoomChest4' x='1564' y='2292'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest4,obj20,@! Vous trouvez une paire de PLATINES TEMPORELLES ! 
-      @!:#ooh,-comme-ce-gamin-sur-l'autre-rive-!#Vous-êtes-pret-à-parier-qu'il-est-blinde-! Utilisez-les pour voyager dans le temps. Ce qui, dans le cercle extérieur, ne signifie pas toujours grand chose. Remonter le temps pourrait aussi vous transporter des millions de révolutions-lumière plus loin. Il serait probablement mieux de juste les vendre à un milliardaire excentrique.</args>
+      @!:#ooh,-comme-ce-gamin-sur-l'autre-rive-!#Vous-êtes-pret-à-parier-qu'il-est-blindé-! Utilisez-les pour voyager dans le temps. Ce qui, dans le cercle extérieur, ne signifie pas toujours grand chose. Remonter le temps pourrait aussi vous transporter des millions de révolutions-lumière plus loin. Il serait probablement mieux de juste les vendre à un milliardaire excentrique.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest5' x='2244' y='1780'>
