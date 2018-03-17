@@ -203,7 +203,7 @@
 	<action command='talk' name='Talk.'>
 		<args>
 		@! Hé ! Va-t-en gamine, c'est MA CACHETTE.
-		    @!:##la-mort-de-lauteur#heu#encore Tu ne vois pas qu'English vient me chercher???
+		    @!:##la-mort-de-l'auteur#heu#encore Tu ne vois pas qu'English vient me chercher???
 		    @! IL VIENT POUR NOUS TOUS.
 		</args>
 		<action command='removeSprite'>
