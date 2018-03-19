@@ -429,7 +429,7 @@
 </args></action>      
 
 <action class='porrimTalk4' sprite='kankri' command='talk' name='Talk to Porrim.'><args>
-      @kankri_talk:#Wait,-what-did-I-say?#Definitely-meant-friends KANKRI: In the future, I'll thank y9u n9t t9 em6arrass me in fr9nt 9f my new disciples. Friends. I mean friends.
+      @kankri_talk:#Attends-qu'est-ce-que-j'ai-dit-?#Je-v9ulais-définitivement-dire-amis KANKRI: Dans le futur, je te remercierai de ne pas m'em6arasser devant mes n9uveaux disciples. Amis. Je veux dire amis.
       @kankri_talk4:#Weird-human-familial-structures KANKRI: I really d9n't need y9u p9licing my awareness-raising rhet9ric. Y9u are n9t my "human m9ther".
       @porrim_surprisetalk PORRIM: What do+es that even mean??
       @kankri_talk3:#I-mean...#en9rm9us-in-pr9gressive-virtue KANKRI: Y9u w9uld understand if y9u spent time actually researching 9ther cultures t9 gain a m9re c9mprehensive f9undati9nal perspective 9n 9ur systemic pr96lems instead 9f meddling in 9ther pe9ple's enlightening and en9rm9us c9nversati9ns.
