@@ -301,7 +301,7 @@
     <sprite class='chest6' name='secondRoomChest6' x='4428' y='1836'>
     	<action command='openChest' name='open'>
     		<args>secondRoomChest6,obj16,@! Vous trouvez une MACHINE À COUDRE !
-      @!:#vous-reviendrez-plus-tard-pour-pour-le-chipper-quand-elle-ne-sera-plus-là Oooooh ce truc a l'air de valoir TRÈS cher, vous êtes prête à parier que vous pourriez... une seconde. Qu'est-ce qu'elle regarde comme ça ? Cette fille ressemblant à Maryam vous observe bizarrement. Quoi, ce truc lui appartient ? Vous ne voulez pas avoir d'ennuis pour ce gadget idiot. Vous le reposez lentement dans le coffre, d'un air désintéressé comme s'il ne valait rien. </args>
+      @!:#vous-reviendrez-plus-tard-pour-pour-le-chipper-quand-elle-ne-sera-plus-là Oooooh ce truc a l'air de valoir TRÈS cher, vous êtes prête à parier que vous pourriez... une seconde. Qu'est-ce qu'elle regarde comme ça ? Cette fille Maryamesque vous observe bizarrement. Quoi, ce truc lui appartient ? Vous ne voulez pas avoir d'ennuis pour ce gadget idiot. Vous le reposez lentement dans le coffre, d'un air désintéressé comme s'il ne valait rien. </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='secondRoomChest7' x='4548' y='2872'>
