@@ -337,30 +337,30 @@
 </args></action>
 
 <action class='kankriTalk3' sprite='porrim' command='talk' name='Talk to Kankri.'><args>
-      @porrim_angrytalk PORRIM: Kanny, leave this po+o+r kid alo+ne.
-      @kankri_talk2:#micr9aggressi9ns#n9-wait#MACR9agressi9ns-m9re-like KANKRI: I'd appreciate it if y9u w9uldn't call me that. We've talked a69ut this. That's what y9u call a wiggler. D9 I l99k like a wiggler t9 y9u, P9rrim? N9, I d9n't. It's 6een three sweeps, plus eternity, f9r, excuse me, "fuck's" sake. I think we can safely retire that particular term 9f "endearment". Call me anything 6ut that, even my 9ther nickname. I'm actually 9k with that 9ne.
-      @porrim_talk:#And-even-then,-pro+bably-no+t-to+-yo+ur-face. PORRIM: I'm no+t calling yo+u Insufferable, Kanny. Well, no+t unless I'm using it as an actual adjective. 
-      @porrim_annoyed:#No+t-o+ften-I-mean. PORRIM: Well... 
-      @kankri_talk3:#Fresh#Faced#Y9ungster#Kn9wledge-thirst KANKRI: It w9uld 6e nice if y9u'd at least use my pr9per name in fr9nt 9f my studi9us y9ung Alternian descendant. It really kind 9f er9des my credi6ility, and I d9n't need that in the pr9ximity 9f a fresh faced y9ungster wh9 clearly thirsts f9r kn9wledge. Why w9uld y9u want t9 sa69tage a fine y9ung man's educati9n like that?
-      @porrim_idle PORRIM: Ro+lling my eyes here.
-      @porrim_light PORRIM: Can yo+u see? Do+ yo+u want me to+ light them up fo+r yo+u?
-      @kankri_glance:#H9w-d9-y9u-even-r9ll-eyes-with9ut-pupils? KANKRI: N9, 6ut thanks f9r 9ffering. C9uld y9u g9 r9ll them 9ver there? Thank y9u. N9w where was I.
-      @porrim_talk PORRIM: I do+n't think he cares.
-      @porrim_happytalk PORRIM: Hey, there. Karkat? If yo+u do+n't mind my asking... are yo+u even remo+tely interested in the lo+af supplement this guy's serving?
+      @porrim_angrytalk PORRIM: Kanny, laisse ce pauvre go+sse tranquille.
+      @kankri_talk2:#Micr9aggressi9ns#n9n-attends#plut9t-MACR9aggressi9ns KANKRI: Je préfèrerais que tu ne m'appelles pas c9mme ça. N9us en av9ns déjà parlé. C'est c9mme ça que tu n9mmerais une larve. Est-ce que j'ai l'air d'une larve p9ur t9i, P9rrim ? N9n, ce n'est pas le cas. Cela fait tr9is rév9luti9ns, plus une éternité, putain (excuse-m9i du terme). Je pense que n9us p9uv9ns n9us passer de ce terme “affectif”. Appelle-m9i c9mme tu veux, sauf c9mme ça, même avec m9n autre surn9m si tu veux. Je n'ai vraiment aucun pr96lème avec celui là.
+      @porrim_talk:#Et-enco+re,-pro+bablement-pas-devant-to+i. PORRIM: Je ne t'appellerais pas l'Insuppo+rtable, Kanny. O+u du mo+ins pas si ce n'est pas po+ur l'utiliser co+mme un véritable adjectif. 
+      @porrim_annoyed:#Pas-so+uvent-je-veux-dire. PORRIM: Enfin... 
+      @kankri_talk3:#Apprenti#Jeun9t#S9if-de-c9nnaissances KANKRI: Ça serait sympa si tu utilisais au m9ins m9n vrai n9m en face de m9n jeune et assidu descendant alternien. Cela dégrade vraiment ma crédi6ilité, et je n'ai pas 6es9in de cela à pr9ximité d'un apprenti qui a clairement s9if de c9nnaissances. P9urqu9i v9udrais-tu ainsi sa69ter l'éducati9n d'un jeun9t ?
+      @porrim_idle PORRIM: Je ro+ule des yeux là.
+      @porrim_light PORRIM: Tu les vo+is ? Tu veux que je les illumine po+ur to+i-?
+      @kankri_glance:#C9mment-est-ce-que-tu-peux-r9uler-des-yeux-sans-pupilles-? KANKRI: N9n, mais merci d'av9ir demandé. P9urrais-tu aller les r9uler plus l9in ? Merci. Maintenant, 9ù en étais-je ?
+      @porrim_talk PORRIM: Je ne pense pas qu'il en ait quelque cho+se à faire.
+      @porrim_happytalk PORRIM: Hey, Karkat ? Si ce n'est pas indiscret... es-tu vraiment intéressé par les adjo+nctio+ns à rallo+nge qu'il te sert ?
       @karkat_sullen KARKAT: 
-      @porrim_happytalk PORRIM: Go+tcha. Yo+u just said all yo+u needed to+ say.
-      @porrim_happytalk PORRIM: Yo+u kno+w, yo+u are actually very cute. 
-      @porrim_happytalk PORRIM: That girl who+'s been wandering aro+und in the drago+n suit is a very lucky lady. 
-      @kankri_talk4 KANKRI: 9k, w9nderful. That c9nversati9n just came t9 an end. 
-      @kankri_talk2:#It's-weird KANKRI: P9rrim, please d9n't hit 9n my re699ted kid ancest9r-descendant. It's really weird. N9t t9 menti9n, he l99ks exactly like me? I mean, kind 9f 96vi9usly? S9 when y9u're hitting 9n him, it's like y9u're hitting 9n me at the exact same time, which like I said. It's weird.
-      @kankri_talk:#Trigger-warning#Incest#Anathemas#Viscerality#Vaguely#9ffputting KANKRI: N9t t9 get int9 all this again, 6ut the th9ught 9f dating y9u... it's just a strange and vaguely 9ffputting idea. N9 9ffense. It alm9st makes me understand at a visceral level the 6izarre human anathema 9f incest, which is s9mething I can't really explain. I'm just saying.
-      @porrim_annoyed:#Oh-my-Go+d. PORRIM: (Very deep sigh.)
-      @kankri_talk KANKRI: I'm S9RRY, 9k? I'm s9rry that I am, perhaps literally, the 9nly 9ne n9t t9 ever fall prey t9 y9ur tireless 9mnidirecti9nal s9licitati9ns, 9r t9 get swept up in 9ne 9f y9ur innumera6le flushed 9r caligin9us flings. I happened t9 always prefer y9u as a friend, and in any case, I always preferred t9 lead a relatively chaste existence, as it keeps me f9cused 9n fighting 9n 6ehalf 9f truly imp9rtant pr96lems. Alth9ugh staying "relatively" chaste t9 y9u I supp9se is n9t saying much.
+      @porrim_happytalk PORRIM: Je le savais. Tu as dit to+ut ce que tu avais à dire.
+      @porrim_happytalk PORRIM: Tu sais, tu es to+ut bo+nnement ado+rable. 
+      @porrim_happytalk PORRIM: Cette fille qui erre en co+stume de drago+n est une demo+iselle très chanceuse. 
+      @kankri_talk4 KANKRI: 9k, merveilleux. Cette c9nversati9n arrive à s9n terme. 
+      @kankri_talk2:#C'est-malaisant KANKRI: P9rrim, s'il te plait, évite de draguer m9n jeune ancêtre-descendant alternatif. C'est vraiment malaisant. Sans menti9nner le fait qu'il me ressem6le trait p9ur trait. C'est plut9t flagrant. D9nc quand tu le dragues, c'est c9mme si tu me draguais m9i en même temps, et c9mme je le disais, c'est malaisant.
+      @kankri_talk:#Alerte-trigger#Inceste#Anathèmes#Viscéralité#Vaguement#Rep9ussante KANKRI: Ce n'est pas p9ur enf9ncer le c9uteau dans la plaie, mais l'idée de s9rtir avec t9i... est une idée qui ne m’attire guère. Sans v9ul9ir t'9ffenser. Cela me fait vaguement c9mprendre, à un niveau viscéral, l'étrange anathème humain qu'est l'inceste, ce que je ne peux pas vraiment expliquer. Je dis ça c9mme ça.
+      @porrim_annoyed:#O+h-mo+n-Dieu. PORRIM: (Pro+fo+nd so+upir.)
+      @kankri_talk KANKRI: Je suis DÉS9LÉ, 9k ? Je suis dés9lé d'être, peut-être littéralement, le seul qui ne s9it jamais t9m6é en pr9ie à tes infatiga6les s9llicitati9ns 9mnidirecti9nnelles, 9u qui ne se s9it fait emp9rté dans tes inn9m6ra6les élans r9uges 9u s9m6res. Je t'ai t9uj9urs préférée en tant qu'amie, et de t9ute faç9n, j'ai t9uj9urs préféré mener une existence relativement chaste, p9ur me f9caliser sur la lutte au n9m de pr96lèmes vraiment imp9rtants. 6ien que rester "relativement" chaste ne veuille pas f9rcément dire grand-ch9se p9ur t9i.
       @porrim_angry:#Hey. PORRIM: ...
-      @kankri_talk4:#TW#Derailment#Train-wrecks#Ch99-ch99-catastr9phes KANKRI: 9nce again, I ap9l9gize. I've 6lundered int9 the pr96lematic territ9ry 9f vacillati9n shaming, thus 9pening the fl99dgates t9 the myriad ways 9ne may 6e disadvantaged up9n 6y its staggering shame radius. I f9rg9t t9 check my piety privilege, and here we are. I was g9ing t9 c9ver this t9pic in a much later chapter 9f my lecture, 6ut we've g9tten 6adly derailed here.
-      @kankri_talk2:#Village-tw9-wheel-device KANKRI: Karkat, I'm s9rry f9r this interrupti9n. I pr9mise I'll get 6ack t9 my critical lecture as s99n as this pr9miscu9us 6usy69dy leaves us in peace.
+      @kankri_talk4:#AT#Déraillage#Accident-ferr9viaire#Tch9u-tch9u-catastr9phes KANKRI: Enc9re une f9is, excuse-m9i. J'ai gaffé en m'aventurant sur le territ9ire c9nflictuel du ra6aissement de la vacillati9n, ce qui 9uvre la p9rte à une myriade de faç9ns d'être désavantagé par un stupéfiant fl9t de h9nte. J'ai 9u6lié de prendre en c9mpte le privilège de ma piété, et v9ilà 9ù n9us en s9mmes. J'allais traiter de ce sujet dans un chapitre plus tardif de ma c9nférence, mais n9us av9ns salement déraillé ici.
+      @kankri_talk2:#6icyclette-du-village KANKRI: Karkat, je suis dés9lé de cette interrupti9n. Je te pr9mets que je reviendrai à mes c9nférences critiques dès que cette pers9nne indiscrète n9us aura laissé en paix .
       @karkat_horror KARKAT: 
-      @porrim_annoyed PORRIM: Yes, critical lecture. I'm sure.
+      @porrim_annoyed PORRIM: O+ui, des co+nférences critiques. Je n'en do+ute pas.
       @porrim_annoyedtalk:#Yes PORRIM: And am I right in being just as sure yo+u are assiduo+usly deco+nstructing every co+nceivable, hypo+thetical fo+rm o+f injustice no+ matter ho+w o+bscure, except tho+se that I happen to+ think are kind o+f impo+rtant?
       @kankri_talk3:#N9 KANKRI: N9. Just, n9, P9rrim. We're n9t d9ing this.
       @kankri_talk3 KANKRI: I am n9t g9ing t9 p9llute Karkat's utterly imperative crash c9urse, in which he is intr9duced t9 the A6S9LUTE 6ASICS, 6y indulging in y9ur pet issues.
