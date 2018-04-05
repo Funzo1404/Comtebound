@@ -194,7 +194,7 @@
       <!--  -->
 </args></action>
 <action class='kanayaDialog2' name='Demande à Kanaya de te rejoindre.' command='talk'><args>
-      @meenah_creepytalk MEENAH: hhey maryam junior viens on va defoncer la gueule a cranezilla
+      @meenah_creepytalk MEENAH: hey maryam junior viens on va defoncer la gueule a cranezilla
       @kanaya_talk KANAYA: Jétais Sur Le Point De Répondre Favorablement
       @kanaya_talk KANAYA: Cest Alors Que Je Regardai En Direction De Rose
       @kanaya_bored:#Les-Mystères-Éternels-De-Sa-Sagesse-Sont-Sans-Fin#Sarcasme-Humain KANAYA: Et Elle Était Juste Là En Train De Me Faire Non De La Tête Dune Manière Très Lente Et Entendue
