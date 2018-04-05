@@ -1,61 +1,61 @@
 <sburb><classes>
 <action class='fourthRoomIntro' command='talk'><args>
-	@meenah_happy MEENAH: so shouty
-  @meenah_happy MEENAH: or... kankrat was it?
-  @meenah_angry MEENAH: been meaning to axe you... HEY!
-  @meenah_fish:#sigh MEENAH: whered he go?
-  @meenah_wut2 MEENAH: its so hard makin friends
+	@meenah_happy MEENAH: alors chonchon
+  @meenah_happy MEENAH: ou... kankrat cest sar ?
+  @meenah_angry MEENAH: jvoulais te demander... HEY !
+  @meenah_fish:#soupir MEENAH: ou est il poissé ?
+  @meenah_wut2 MEENAH: cest si dur de se faire des amis
 </args></action>
 
 <action class='triggerEndTalk' command='moveSprite'>
 		<args>endSwitch,0,0</args>
 </action>
 
-<action class='endTalk1' command='talk' name='Hey you see where louder Vantas went?'><args>
-      @aranea_happytalk ARANEA: Yes, I saw him scurry 8y a moment ago. He went that way, into a memory of his old neigh8orhood.
-      @meenah_talk MEENAH: man what gives
-      @meenah_annoyedtalk:#do-i-need-a-fish-mint MEENAH: does my breath stink or
-      @aranea_talk ARANEA: I think he just wants to 8e alone. He tried to lock his memories away from others, I guess without realizing these 8u88les can 8e very permea8le. If the memory is 8ig enough, people will 8e a8le to wander into it from many directions.
-      @aranea_talk ARANEA: He pro8a8ly won't 8e too happy to find more of our friends hanging out there.
-      @meenah_talk MEENAH: oh shit more of the old gang is that way
-      @meenah_talk:#yay-more-useless-tools MEENAH: guess i better go talk to them too
-      @meenah_talk MEENAH: probably have to bail shouty out YET AGAIN
-      @meenah_wut2 MEENAH: damn kid makes you work
-      @aranea_happytalk ARANEA: That's pro8a8ly why you're o8sessed with him.
-      @meenah_idle MEENAH: shut up
+<action class='endTalk1' command='talk' name='Hey as-tu vu où le Vantas à la voix de stentor est allé ?'><args>
+      @aranea_happytalk ARANEA: Oui, je l’ai vu se sauver il y a quelques minutes. Il est allé de ce côté, dans le souvenir de son vieux quartier.
+      @meenah_talk MEENAH: meuf quest ce qui ne va pas
+      @meenah_annoyedtalk:#ai-je-besoin-d’une-feuille-de-manta MEENAH: est ce que je pue de la gueule ou quoi
+      @aranea_talk ARANEA: Je pense qu’il veut seulement être seul. Il a essayé de fermer ses souvenirs aux autres, sans réaliser que ces 8ulles peuvent être très perméable. Si le souvenir est suffisamment grand, les gens seront capable d’y errer à volonté.
+      @aranea_talk ARANEA: Il ne sera probablement pas très heureux de trouver davantage de nos amis traîner ici.
+      @meenah_talk MEENAH: oh merde il y a plus bancien membres du gang de ce cote
+      @meenah_talk:#ouais-plus-de-cretins-inutiles MEENAH: je pense que je feraie mieux daller leurre parler a eux eaussi
+      @meenah_talk MEENAH: jvais certainement devoir tirer chonchon daffaire ENCORE UNE FOIS
+      @meenah_wut2 MEENAH: ce gamin me donne tellement de boulot
+      @aranea_happytalk ARANEA: C’est sûrement pour cela que tu est o8sédé par lui.
+      @meenah_idle MEENAH: la ferme
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
 
-<action class='endTalk2' command='talk' name='Serket water u doin.'><args>
-      @meenah_idle MEENAH: yo what is this shit
-      @meenah_talk MEENAH: you sellin somefin here
-      @meenah_fish MEENAH: if so i should warn you im a little low on funds these days
-      @aranea_happytalk ARANEA: I am offering explanations! I will explain anything you desire.
-      @meenah_creepylaugh MEENAH: ahahaha you must be out of your seasponge if you think ima part with anyfin of value for a shitty speech
-      @aranea_happier ARANEA: Oh, no! You misunderstand. It is I who will pay YOU five 8oon8ucks if you listen to an explanation on any topic of your choosing!
-      @meenah_annoyed:#good-grief MEENAH: oh
-      @aranea_happytalk ARANEA: So what topic will it 8e?
-      @meenah_idle:#im-thinking MEENAH: hang on!
-      @aranea_talk ARANEA: Can't decide on a topic?
-      @meenah_annoyedtalk MEENAH: no cant decide if its worth listening to you even if you pay me
+<action class='endTalk2' command='talk' name='Serket quest ce que tu fous.'><args>
+      @meenah_idle MEENAH: yo quest ce que cest que cette merde
+      @meenah_talk MEENAH: tu vends des trucs la
+      @meenah_fish MEENAH: si oui je dois tavertir que mes fonds sont pas tres conquesequents en ce moment
+      @aranea_happytalk ARANEA: Je propose des explications ! Je t'expliquerai tout ce que tu désires.
+      @meenah_creepylaugh MEENAH: ahahaha tas perdu la coquille si tu penses que je vais me separaie de quoi que ce soit de valeur pour un discours de merde
+      @aranea_happier ARANEA: Oh, non ! Tu as mal compris. C'est moi qui TE paierai cinq 8oon8ucks si tu écoutes une explication sur n'importe quel sujet de ton choix !
+      @meenah_annoyed:#ca-alors MEENAH: oh
+      @aranea_happytalk ARANEA: Alors, quel sujet ce sera ?
+      @meenah_idle:#je-raieflechis MEENAH: une seconde !
+      @aranea_talk ARANEA: Tu n'arrives pas à te décider ?
+      @meenah_annoyedtalk MEENAH: non je narrive pas a decider si tecouter en vaut la peine meme si tu me paies
       @aranea_annoyed ARANEA: >::::(
-      @aranea_happytalk ARANEA: Now I know you're messing with me. I know you can't say no to easy money.
-      @meenah_talk:#if-i-fall-asleep-do-i-still-get-paid MEENAH: yeah youre right
-      @meenah_happy MEENAH: lay it on me
+      @aranea_happytalk ARANEA: Là, je sais que tu te fiches de moi. Je sais que tu ne peux pas dire non à de l'argent facile.
+      @meenah_talk:#si-je-mendorade-est-ce-que-je-suis-payee-quand-meme MEENAH: ouais tas raison
+      @meenah_happy MEENAH: balance tout ce que tas
 
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
 
-<action class='endTalk3' command='talk' name='Tell me about Kankri Vantas.'><args>
-      @aranea_happytalk ARANEA: The Seer of 8lood played quite a different role on our team from that of his successor, though his potential as a 8lood player went similarly unrealized. It was only when he grew up on Alternia did he 8egin to tap into his a8ilities, triggering recollection of our lives on 8eforus, and what we all went through.
-      @aranea_happytalk ARANEA: He remem8ered our more peaceful way of life, and his desire to unite people. As an adult he was a8le to do this much more effectively and maturely. Heroically, even. He learned how to inspire others, and 8e a true leader, even when the odds were stacked against him in his violent culture. It cost him his life, 8ut his message lived on. I 8elieve the Knight of 8lood now carries his 8urden, whether he has decided to accept it or not.
-      @aranea_happytalk ARANEA: Many of us on Alternia grew up to 8ecome secret followers of his teachings. Just as many of us now follow them, though I'd say with a 8it more detachment. 8ecause we're dead! Speaking personally, I'd refer to myself as more of a "fan" of his story, and what it represents. 8oth the hidden potential in our friend he never quite found, and the hidden potential in all our people.
-      @aranea_happytalk ARANEA: During our session, Kankri's trials as a leader were just as frustrating as those of his successor. He found it very hard to get others to take him seriously. While you would often try to divide us with your trou8lemaking, and turn us against each other to make us stronger - unsuccessfully I might add - he would try to unite us through proselytizing and lecture, just as unsuccessfully. 
-      @meenah_annoyedtalk MEENAH: wow that sure was a bunch of stuff i already knew
-      @aranea_happier ARANEA: Yes! And now it is fresher in your memory than ever. Thank you for listening, and here are your five 8oondollars!
-      @meenah_creepy MEENAH: pleasure doin business with you
+<action class='endTalk3' command='talk' name='Parle moi de Kankri Vantas'><args>
+      @aranea_happytalk ARANEA: Le Voyant du Sang joua un rôle assez différent dans notre équipe que celui de son successeur, malgré le fait que son potentiel en tant que joueur du Sang ait été similairement peu exploité. Ce fut seulement quand il grandit sur Alternia qu'il commença à puiser dans ses capacités, déclenchant des souvenirs de nos vies sur 8eforus, et de ce que nous avons tous traversé.
+      @aranea_happytalk ARANEA: Il se souvint de nos mœurs plus pacifistes, et de son désir d'unir le peuple. En tant qu'adulte il fut capa8le de faire ceci 8ien plus efficacement et avec maturité. Héroïquement, même. Il apprit comment inspirer les autres, et être un vérita8le leader, même quand les o8stacles s'accumulaient devant lui dans cette culture violente. Cela lui coûta sa vie, mais son message lui survécut. Je crois que le Chevalier du Sang porte maintenant son fardeau, qu'il ait décidé de l'accepter ou pas.
+      @aranea_happytalk ARANEA:  8eaucoup d'entre nous sur Alternia grandirent pour devenir secrètement des partisans de ses enseignements. Et 8eaucoup d'entre nous les suivent encore, même si avec un peu plus de détachement. Parce que nous sommes morts ! Personnellement, je me considère plus comme une « fan » de son histoire, et de ce qu'elle représente. Non seulement le potentiel caché en notre ami, qu'il n'a jamais pu trouver, mais aussi le potentiel caché en tout notre peuple.
+      @aranea_happytalk ARANEA: Pendant notre session, les épreuves de Kankri en tant que leader furent tout aussi frustrantes que celles de son successeur. Il fut très difficile pour lui d'o8tenir des autres qu'ils ne le prennent au sérieux. Alors que tu essayais souvent de nous diviser par tes manigances, et nous retourner les uns contre les autres pour nous rendre plus forts, sans succès, si j'ose dire, il essayait de nous unir à travers du prosélytisme et des sermons, avec tout aussi peu de succès. 
+      @meenah_annoyedtalk MEENAH: wow cetait vraiment un tas de truc que je savais déjà
+      @aranea_happier ARANEA: Oui ! Et maintenant c'est plus frais que jamais dans ta mémoire. Merci d'avoir écouté, et voici tes cinq 8oon8ucks !
+      @meenah_creepy MEENAH: plaisir de faire des affaires avec toi
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
