@@ -1,6 +1,6 @@
 <sburb><classes>
 
-<action class='doorTalk2' sprite='meenah' command='talk' name='Open door.'><args>
+<action class='doorTalk2' sprite='meenah' command='talk' name='Ouvre la porte.'><args>
       @meenah_talk MEENAH: vantas donne moi ton mot de passe
       @karkat_what KARKAT: (hein ?)
       @meenah_talk MEENAH: cest ta porte nest ce pas
@@ -45,7 +45,7 @@
 </action>
 
    <!-- if meenah talks to karkat (while kankri is away)-->
-<action class='karkatTalk2' sprite='meenah' command='talk' name='Talk to Karkat.'>
+<action class='karkatTalk2' sprite='meenah' command='talk' name='Parle à Karkat.'>
 	<args>
       @meenah_idle MEENAH: (psst!)
       @meenah_happy MEENAH: (hey vantas)
@@ -76,7 +76,7 @@
 	</action>
 </action>
 
-<action class='meenahTalk1' sprite='latula' command='talk' name='Talk to Meenah.'><args>
+<action class='meenahTalk1' sprite='latula' command='talk' name='Parle à Meenah.'><args>
       @latula_happytalk LATULA: yo yo, guppyd3 m4 grrrl !
       @meenah_idle MEENAH:  merde tula
       @meenah_talk:#donnant-des-noms-comme-des-cibars-bon-marché MEENAH: j’avais oublié à quel point tu aimais jongler entre les surnoms rad que tu nous donnes 
@@ -104,7 +104,7 @@
       <!--  -->
 </args></action>
 
-<action class='meenahTalk2' sprite='porrim' command='talk' name='Talk to Meenah.'><args>
+<action class='meenahTalk2' sprite='porrim' command='talk' name='Parle à Meenah.'><args>
       @porrim_talk PORRIM: Je ne peux pas te blâmer d'être aussi pressée d'aller le tuer.
       @meenah_idle MEENAH: hein
       @porrim_annoyed:#Privilège-de-mo+rveux-impertinent PORRIM: Le Seigneur du Temps. En fait, c’est un bo+n exemple de ce que je me tue à essayer d'expliquer à Kankri, sans succès.
@@ -126,7 +126,7 @@
       <!--  -->
 </args></action>
 
-<action class='meenahTalk3' sprite='kankri' command='talk' name='Talk to Meenah.'><args>
+<action class='meenahTalk3' sprite='kankri' command='talk' name='Parle à Meenah.'><args>
       @kankri_talk KANKRI: Wh9a, Meenah. Je ne t’ai pas vue arriver. Tu aurais pu venir n9us dire 69nj9ur.
       @meenah_idle MEENAH: oh
       @meenah_talk:#ou-parle-ou-ecoute-ou-fait-acte-de-presence MEENAH: ouais je ne voulais pas vous deranger toi et lautre mini toi qui crie fort la bas
@@ -153,7 +153,7 @@
       <!-- then "Be Meenah?" prompt -->
 </args></action>
 
-<action class='aradiaTalk1' command='talk' name='Talk.'><args>
+<action class='aradiaTalk1' command='talk' name='Parle'><args>
       @aradia_happy ARADIA: salutations !
       @aradia_happytalk ARADIA: je tenais à te dire bonjour depuis ton arrivée
       @meenah_idle MEENAH: ...
@@ -180,7 +180,7 @@
       <!--  -->
 </args></action>
 
-<action class='aradiaTalk2' command='talk' name='Talk.'><args>
+<action class='aradiaTalk2' command='talk' name='Parle.'><args>
 @aradia_idle ARADIA: perdue ?
       @meenah_annoyed MEENAH: je heu
       @meenah_annoyed MEENAH: suis partie du mauvais cote
