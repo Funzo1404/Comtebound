@@ -576,59 +576,59 @@
 		</sprite>
     
     <sprite class='chest4' name='thirdRoomChest1' x='354' y='1150'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest1,obj23,@! You got a PAIR OF HORNS!
-      @!:#case-closed This is the most ridiculous thing you've ever seen. Why would anyone want to wear a second pair of horns? Unless maybe they were compensating for a particularly nubby pair... oh, you got it! Humans wear these to pretend to be trolls, and also be less stupid looking. These clearly belonged to a human. </args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest1,obj23,@! Vous trouvez une PAIRE DE CORNES !
+      @!:#affaire-classée C’est la chose la plus ridicule que vous n’ayez jamais vu. Pourquoi donc quelqu’un souhaiterait-il porter une seconde paire de cornes ? À moins peut-être que cela soit pour compenser une paire particulièrement rachitique… oh, vous venez de comprendre ! Les humains doivent les porter en prétendant être de trolls, et par la même occasion avoir l’air moins stupide. Celles-ci appartiennent clairement à un humain. </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest2' x='526' y='1150'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest2,obj24, @! You got a LANCE!
-      @!:#meenah-has-no-idea-what-we're-talking-about Who's memory is this? This thing has really made the rounds. Let's see, Tavros had it, but then was impaled by it. The Black Queen had it, and used it as a cigarette holder sometimes, when she was Snowman. Spades Slick wielded it while riding around on a horse hitcher once. Snowman killed Quarters with it, you think. That happened in the top banner though, so you might have missed it...</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest2,obj24, @! Vous trouvez une LANCE !
+      @!:#meenah-n’a-aucune-idée-de-ce-dont-on-parle Ce truc a clairement bourlingué dans tous les sens. Voyons, Tavros l’a eu, mais il s’est fait empalé avec. La Reine Noire l’a eu, et l’utilisait parfois comme fume-cigare, lorsqu’elle était Snowman. Spades Slick l’a brandie pendant qu’il chevauchait sa monture en fonte une fois. Il vous semble que Snowman a tué Quarters avec. C’est arrivé sur la bannière en haut de la page par contre, donc vous l’avez peut-être raté…</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest3' x='663' y='1150'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest3,obj25,@! You got a SUFFERER PENDANT!
-      @!:#heheh#now-that-you-think-of-it#maybe-you'll-wear-one-too Exhibiting the Sign of the Signless. The story of the Sufferer got really popular among your old crew as a kind of religious fad, after everyone died and learned the stories of their post-scratch lives. Aranea especially seems to have bought into this nonsense hook line and sinker. She never wore anything like that around her neck BEFORE she died. You wonder if people have gotten so into it just to bug Vantas? You just know it probably pisses him off, seeing people wear this thing all the time.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest3,obj25,@! Vous trouvez un PENDENTIF DE L’ENDUREUR !
+      @!:#héhé#maintenant-que-vous-y-pensez#peut-être-allez-vous-en-porter-un-vous-aussi C’est le Signe de l’Assigné. L’histoire de l’Endureur est devenue très populaire au sein de votre ancienne équipe en tant que sorte de mode religieuse, une fois morts et ayant appris les vies de leurs versions post-scratch. Aranea, notamment, a l’air d’avoir complètement gobé ce non-sens. Elle n’avait jamais rien porté autour de son cou AVANT de mourir. Vous vous demandez si les gens s’y sont mis juste pour embêter Vantas ? Vous savez juste que ça le fait chier, de voir les gens porter ce truc tout le temps.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest4' x='1623' y='1150'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest4,obj26,@! You got a WHOLE STACK OF BOONDOLLARS!
-      @!:#how-does-this-factor-into-the-big-silly-tumblr-metaphor#shrug Keep em coming! You'll be rich again in no time. Pretty soon you'll own this place. Right after you save it from destruction, of course.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest4,obj26,@! Vous trouvez un PAQUET ENTIER DE BOONDOLLARS !
+      @!:#comment-faire-entrer-ce-facteur-au-milieu-de-cette-métaphore-absurde-de-tumblr#haussement-d’épaules Et ça continue ! Vous serez de nouveau riche en un rien de temps. Très bientôt, cet endroit vous appartiendra. Juste après l’avoir sauvé de sa destruction, évidemment.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest5' x='1794' y='1150'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest5,obj27,@!:#mo-money#3B) You got a WHOLE HEAP OF BOONDOLLARS!
-      @!:#DWI Some of these messages don't really make sense unless you're being Meenah, but you're not going to let that bother you.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest5,obj27,@!:#mo-money#3B) Vous trouvez une PILE ENTIÈRE DE BOONDOLLARS !
+      @!:#faites-avec Certains de ces messages n’ont pas vraiment de sens à part si vous êtes Meenah, mais vous n’allez pas vous laisser déranger pour si peu.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest6' x='1959' y='1150'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest6,obj28, @! You got a RAGRIPPER!
-      @!:#lame-planet#lame-planet-names A popular model from the DEMONBANE line of chainsaws. At least, it was popular on Alternia. Your planet wasn't nearly badass enough for this thing to be sold legally. Beforus was so lame.
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest6,obj28, @! Vous trouvez une CHIFFONNIÈRE !
+      @!:#planète-nulle#noms-de-planètes-nulles Un modèle populaire de tronçonneuse de la marque PESTE DÉMONIAQUE. Tout du moins, populaire sur Alternia. Votre planète n’a jamais été assez géniale pour laisser ce genre de choses se vendre légalement. Beforus était tellement nulle.
 </args>
     	</action>
     </sprite>
     <sprite class='chest5' name='thirdRoomChest7' x='320' y='2084'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest7,obj29, @! You got some AUTHENTIC RELIGIOUS MEMORABILIA!
-      @!:#irons#sufferer#authentic#(or-as-authentic-as-phantom-ghost-memory-items-get) These were the doodads adult post-scratch Vantas was chained up with when he died. You bet Serket would fork over a ton of gold for this junk. Religious nuts are some of the biggest suckers around.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest7,obj29, @! Vous trouvez des SOUVENIRS RELIGIEUX AUTHENTIQUES !
+      @!:#fers#endureur#authentiques#(ou-aussi-authentiques-que-peuvent-l’être-des-objets-fantôme) Ces trucs furent les bidules auquel fut enchaîné le Vantas adulte post-scratch lorsqu’il mourut. Vous pariez que Serket serait prête à débourser des sommes folles pour cette camelote. Les passionnés de religion sont les plus gros pigeons aux alentours.</args>
     	</action>
     </sprite>
     <sprite class='chest5' name='thirdRoomChest8' x='2012' y='2092'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest8,obj30,@! You got a JUJU!
-      @!:#ok-you-pried-one-hint-out-of-me#the-number-7 Looks like a magic EGG TIMER, which you can use to travel through time, haphazardly and stupidly. It's the type of item that's severely prone to making a mess of the timeline. Need a JUJU BREAKER to destroy such an item and repair the damage it's done. But that kind of thing is extremely rare-to-non-existent. You don't have a single good guess what form such an item could take.
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest8,obj30,@! Vous trouvez un JUJU !
+      @!:#ok-vous-avez-le-droit-à-un-indice#le-numéro-7 Ça ressemble à un MINUTEUR, que vous pouvez utiliser pour voyager dans le temps, bêtement et au hasard. C’est le type d’objet qui a tendance à mettre le bazar dans la timeline. Il vous faudrait un DESTRUCTEUR DE JUJU pour détruire un tel objet et réparer les dommages qu’il aurait causé. Mais ce genre de chose est extrêmement rare voire inexistant. Vous n’avez pas la moindre idée de la forme qu’un tel objet pourrait prendre.
 </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest9' x='2628' y='2620'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest9,obj31,@! You got a PRETZELED HORSE HITCHER!
-      @!:#an-incredible-host Who could have done this to such a fine, cast iron steed? Whoever it was must have been incredibly strong, incredibly smug, and incredibly floppy when shaken.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest9,obj31,@! Vous trouvez une MONTURE EN FONTE ONDULÉE !
+      @!:#un-hôte-incroyable Qui a donc pu faire ça à un étalon de fonte si bien ciselé ? Qui que ce soit il devait être incroyablement fort, incroyablement suffisant, et incroyablement flexible si on le secoue.</args>
       	<action command='removeAction'>
       		<args>andrew,Talk.</args>
       		<action command='addActions'>
@@ -640,27 +640,27 @@
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest10' x='3156' y='2604'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest10,obj32,@! You got a MAGIC CUE BALL!
-      @!:#right#...#maybe Hey, is this thing a juju too? It's a shame you can't see through its surface, or you'd be able to ask it yourself. This is another thing that's kind of unnerving to find here. Good thing it's only a memory object, right?</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest10,obj32,@! Vous trouvez une BOULE BLANCHE MAGIQUE !
+      @!:#ouais#...#normalement Hé, ce truc est aussi un juju ? C’est une honte que vous ne puissiez pas voir à l’intérieur, autrement vous seriez en mesure de poser la question vous-même. Encore une chose assez troublante à trouver ici. Une bonne chose que cela ne soit qu’un morceau de mémoire pas vrai ?</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest11' x='3232' y='2604'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest11,obj33,@! You got a REGISICKLE!
-      @!:#troll-will-smith Perfect for threshing royalty with. You could almost say you could use it to... thresh princes.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest11,obj33,@! Vous trouvez une REGIFAUCILLE !
+      @!:#troll-will-smith Parfaite pour tuer de la royauté. Vous pourriez presque dire que vous pourriez l’utiliser pour… tuer des princes.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest12' x='3936' y='2600'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest12,obj34,@! You got a TROLL ROMANCE NOVEL!
-      @!:#LAAAAALOOOOONDE!!!!!!!!!! Wow, this sure is some steamy, trashy literature here. It's making you perspire a little, and you're only three sentences into the title. Doesn't seem like anyone's looking. Maybe you'll just take one little peek insi... Whoops, it just disappeared in a blur again. God damn it.</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest12,obj34,@! Vous trouvez un ROMAN DE ROMANCE TROLL !
+      @!:#LAAAAALOOOOONDE-!!!!!!!!!! Waouh, voilà certainement de la bonne littérature torride de pacotille. Elle vous fait déjà un peu transpirer, alors que vous en êtes à peine qu’à la troisième phrase du titre. On dirait que personne ne regarde. Peut être allez vous y jetter un très rapide coup d’oei-... Oups, il vient de disparaître en un éclair une fois de plus. Bon Dieu.</args>
     	</action>
     </sprite>
     <sprite class='chest5' name='thirdRoomChest13' x='2932' y='2120'>
-    	<action command='openChest' name='open'>
-    		<args>thirdRoomChest13,obj35,@! You got a bunch of LICORICE SCOTTIE DOGS!
-      @!:#except-you-just-ate-most-of-them#worth-it Oh man, these were a DELICACY on your planet. The most valuable treat per-pound by far. You have to be a very, very wealthy person to keep a great supply of these on hand. By selling these, you should be able to make most of your fortune back in one fell swoop!!!!!</args>
+    	<action command='openChest' name='Ouvrir'>
+    		<args>thirdRoomChest13,obj35,@! Vous trouvez une poignée de TERRIERS ÉCOSSAIS EN RÉGLISSE !
+      @!:#à-part-que-vous-venez-de-presque-tous-les-manger#ça-valait-le-coup Oh mon dieu, ces trucs étaient considérés comme un met délicat sur votre planète. La friandise la plus chère au kilo. Vous deviez être une personne très, très riche pour en posséder autant. Si vous les vendez, vous devriez être capable de récupérer une bonne partie de votre fortune d’un seul coup !!!!!</args>
     	</action>
     </sprite>
     
