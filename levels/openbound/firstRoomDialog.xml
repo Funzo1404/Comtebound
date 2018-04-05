@@ -105,24 +105,24 @@
 </args></action>
 
 <action class='meenahTalk2' sprite='porrim' command='talk' name='Talk to Meenah.'><args>
-      @porrim_talk PORRIM: I really can't blame yo+u fo+r being in such a hurry to+ go+ kill him.
-      @meenah_idle MEENAH: huh
-      @porrim_annoyed:#Sno+tty-brat-privilege PORRIM: The Lo+rd o+f Time. Actually, it's a go+o+d example o+f what I've always been trying to+ say to+ Kankri, but he do+esn't buy it.
-      @porrim_talk PORRIM: After the scratch, o+ur wo+rld co+ntinued to+ be matriarchal upo+n superficial o+bservatio+n, but was subject to+ a co+nsiderably mo+re sinister, clo+aked fo+rm o+f patriarchal tyranny all alo+ng.
-      @meenah_idle MEENAH: water you talking about
-      @porrim_talk:#An-excellent-ho+st PORRIM: Yo+ur po+st-scratch self, who+ grew up to+ be the empress, was really just the Lo+rd's slave all alo+ng. Implicity during her lo+ng reign, thro+ugh manipulatio+n by his cunning emplo+yee. 
-      @porrim_talk PORRIM: And then explicitly, after the extinctio+n o+f o+ur race. She fo+rmally became his servant, and did his bidding lo+ng thereafter.
-      @meenah_angry MEENAH: W)(AT!!!!!
-      @porrim_talk:#The-o+utco+me-was-so+mewhat-different-this-time PORRIM: He did the same with Damara. She was his lo+yal Time Witch, helping him turn o+ur wo+rld into+ the nightmare it became. When her usefulness came to+ an end, he pitted yo+u and her against each o+ther, in I guess a twisted redux o+f the co+nflict yo+u and she had in the past.
-      @meenah_angrytalk MEENAH: yo that is so messed up!
-      @porrim_angrytalk PORRIM: The bo+tto+m line is, in additio+n to+ being an all aro+und bastard, this guy appears to+ enjo+y being especially nasty to+ girls.
-      @porrim_surprisetalk PORRIM: If it's true he's hunting do+wn the gho+st o+f his departed "sister", then I really feel so+rry fo+r her.
-      @meenah_angrytalk:#RARRRG)( MEENAH: NO FUCK T)(AT
-      @meenah_angrytalk:#AARRRRAAAWWWRRG)(G MEENAH: I AM GOING TO SLAUG)(T-ER T)(AT UGLY MUSCL-E MONST-ER
-      @meenah_angrytalk:#AAAUURGRURGGU)(G)()( MEENAH: I WILL ST-EAL )(IS S)(ITTY COAT AND W-EAR IT ON MY T)(RON-E
-      @meenah_angrytalk:#ARRARARGLAAARUGRGURGGLE MEENAH: I WILL RIP OFF )(IS SKULL AND GILD IT AND T)(-EN I WILL W-EAR IT AS MY CROWN W)(IL-E )(IS BL-E-EDING GR-E-EN TORSO BOWS B-EFOR-E M-E
-      @porrim_surprise:#wo+w PORRIM: Um,
-      @porrim_annoyedtalk PORRIM: Best o+f luck with that.
+      @porrim_talk PORRIM: Je ne peux pas te blâmer d'être aussi pressée d'aller le tuer.
+      @meenah_idle MEENAH: hein
+      @porrim_annoyed:#Privilège-de-mo+rveux-impertinent PORRIM: Le Seigneur du Temps. En fait, c’est un bo+n exemple de ce que je me tue à essayer d'expliquer à Kankri, sans succès.
+      @porrim_talk PORRIM: Après le scratch, no+tre mo+nde garda so+n statut matriarcal po+ur ceux qui s'en tenaient à de superficielles o+bservatio+ns, mais était en réalité sujet à une fo+rme de tyrannie patriarcale co+nsidérablement plus sinistre et dissimulée.
+      @meenah_idle MEENAH: de coi tu parles
+      @porrim_talk:#Un-excellent-hô+te PORRIM: To+n do+uble po+st-scratch, laquelle devint l'impératrice, s'avéra n'être rien d'autre que l'esclave du Seigneur. D’abo+rd implocitement  pendant to+ute la durée de so+n lo+ng règne, au co+urs duquel elle fut manipulée par so+n fo+urbe subo+rdo+nné. 
+      @porrim_talk PORRIM: Puis o+uvertement, suite à l'extinctio+n de no+tre race. Elle devint o+fficiellement sa servante, et co+ntinua de lui prêter allégeance lo+ngtemps après.
+      @meenah_angry MEENAH: QUOI !!!!!
+      @porrim_talk:#Le-résultat-fût-plutô+t-différent-cette-fo+is PORRIM: Il fit la même cho+se avec Damara. Elle était sa lo+yale So+rcière du Temps, l’aidant à faire de no+tre mo+nde le cauchemar qu’il a fini par devenir. Quand elle ne lui fut plus utile, il vo+us a liguées l’une co+ntre l’autre, dans ce que je suppo+se être un étrange parallèle au co+nflit qu’elle et to+i aviez par le passé.
+      @meenah_angrytalk MEENAH: wow mais ca craint !
+      @porrim_angrytalk PORRIM: Ce qu’il faut retenir c’est que, en plus d’être un co+nnard sur to+us les plans, ce mec semble apprécier se co+mpo+rter de manière spécialement dégradante envers les femmes.
+      @porrim_surprisetalk PORRIM: S’il s’avère vrai qu’il po+urchasse le fanto+me de sa défunte “so+eur”, alo+rs je suis réellement déso+lée po+ur elle.
+      @meenah_angrytalk:#RARRRG)( MEENAH: NON QUIL AILL-E S-E FAIR-E FOUTR-E
+      @meenah_angrytalk:#AARRRRAAAWWWRRG)(G MEENAH: J-E VAIS MASSACR-ER C-ET )(ORRIBL-E TAS DE MUSCL-ES
+      @meenah_angrytalk:#AAAUURGRURGGU)(G)()( MEENAH: LUI VOL-ER SON MANT-EAU D-E M-ERD-E -ET L-E PORT-ER SUR MON TRON-E
+      @meenah_angrytalk:#ARRARARGLAAARUGRGURGGLE MEENAH: J-E VAIS LUI ARRAC)(-ER L-E CRAN-E L-E DOR-ER -ET -EN FAIR-E MA COURONN-E ALORS QU-E SON TORS-E V-ERT SANGLANT S-E PROST-ERN-ERA A M-ES PI-EDS.
+      @porrim_surprise:#wo+w PORRIM: Hum,
+      @porrim_annoyedtalk PORRIM: Bo+nne chance po+ur to+ut ça.
       <!--  -->
 </args></action>
 
