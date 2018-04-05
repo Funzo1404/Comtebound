@@ -338,44 +338,44 @@
 
 <action class='kankriTalk3' sprite='porrim' command='talk' name='Talk to Kankri.'><args>
       @porrim_angrytalk PORRIM: Kanny, laisse ce pauvre go+sse tranquille.
-      @kankri_talk2:#Micr9aggressi9ns#n9n-attends#plut9t-MACR9aggressi9ns KANKRI: Je préfèrerais que tu ne m'appelles pas c9mme ça. N9us en av9ns déjà parlé. C'est c9mme ça que tu n9mmerais une larve. Est-ce que j'ai l'air d'une larve p9ur t9i, P9rrim ? N9n, ce n'est pas le cas. Cela fait tr9is rév9luti9ns, plus une éternité, putain (excuse-m9i du terme). Je pense que n9us p9uv9ns n9us passer de ce terme “affectif”. Appelle-m9i c9mme tu veux, sauf c9mme ça, même avec m9n autre surn9m si tu veux. Je n'ai vraiment aucun pr96lème avec celui là.
-      @porrim_talk:#Et-enco+re,-pro+bablement-pas-devant-to+i. PORRIM: Je ne t'appellerais pas l'Insuppo+rtable, Kanny. O+u du mo+ins pas si ce n'est pas po+ur l'utiliser co+mme un véritable adjectif. 
+      @kankri_talk2:#Micr9aggressi9ns#n9n-attends#plut9t-MACR9aggressi9ns KANKRI: e préfèrerais que tu ne m'appelles pas c9mme ça. N9us en av9ns déjà parlé. C'est c9mme ça que tu n9mmerais une larvouille. Est-ce que j'ai l'air d'une larvouille p9ur t9i, P9rrim ? N9n, ce n'est pas le cas. Cela fait tr9is rév9luti9ns, plus une éternité, putain (excuse-m9i du terme). Je pense que n9us p9uv9ns n9us passer de ce terme “affectif”. Appelle-m9i c9mme tu veux, sauf c9mme ça, même avec m9n autre surn9m si tu veux. Je n'ai vraiment aucun pr96lème avec celui-là. 
+      @porrim_talk:#Et-enco+re,-pro+bablement-pas-devant-to+i. PORRIM: Je ne t'appellerais pas l’Impo+seur, Kanny. O+u du mo+ins pas co+mme po+ur en faire un titre.  
       @porrim_annoyed:#Pas-so+uvent-je-veux-dire. PORRIM: Enfin... 
       @kankri_talk3:#Apprenti#Jeun9t#S9if-de-c9nnaissances KANKRI: Ça serait sympa si tu utilisais au m9ins m9n vrai n9m en face de m9n jeune et assidu descendant alternien. Cela dégrade vraiment ma crédi6ilité, et je n'ai pas 6es9in de cela à pr9ximité d'un apprenti qui a clairement s9if de c9nnaissances. P9urqu9i v9udrais-tu ainsi sa69ter l'éducati9n d'un jeun9t ?
       @porrim_idle PORRIM: Je ro+ule des yeux là.
       @porrim_light PORRIM: Tu les vo+is ? Tu veux que je les illumine po+ur to+i-?
       @kankri_glance:#C9mment-est-ce-que-tu-peux-r9uler-des-yeux-sans-pupilles-? KANKRI: N9n, mais merci d'av9ir demandé. P9urrais-tu aller les r9uler plus l9in ? Merci. Maintenant, 9ù en étais-je ?
       @porrim_talk PORRIM: Je ne pense pas qu'il en ait quelque cho+se à faire.
-      @porrim_happytalk PORRIM: Hey, Karkat ? Si ce n'est pas indiscret... es-tu vraiment intéressé par les adjo+nctio+ns à rallo+nge qu'il te sert ?
+      @porrim_happytalk PORRIM: Hey, Karkat ? Si ce n'est pas indiscret... es-tu vraiment intéressé par les tartines à rallo+nge qu'il te sert ?
       @karkat_sullen KARKAT: 
       @porrim_happytalk PORRIM: Je le savais. Tu as dit to+ut ce que tu avais à dire.
       @porrim_happytalk PORRIM: Tu sais, tu es to+ut bo+nnement ado+rable. 
       @porrim_happytalk PORRIM: Cette fille qui erre en co+stume de drago+n est une demo+iselle très chanceuse. 
       @kankri_talk4 KANKRI: 9k, merveilleux. Cette c9nversati9n arrive à s9n terme. 
-      @kankri_talk2:#C'est-malaisant KANKRI: P9rrim, s'il te plait, évite de draguer m9n jeune ancêtre-descendant alternatif. C'est vraiment malaisant. Sans menti9nner le fait qu'il me ressem6le trait p9ur trait. C'est plut9t flagrant. D9nc quand tu le dragues, c'est c9mme si tu me draguais m9i en même temps, et c9mme je le disais, c'est malaisant.
+      @kankri_talk2:#C'est-malaisant KANKRI:  P9rrim, s'il te plait, évite de draguer m9n jeune ancêtre-descendant alternatif. C'est vraiment malaisant. Sans menti9nner le fait qu'il me ressem6le trait p9ur trait. C'est plut9t flagrant. D9nc quand tu le dragues, c'est c9mme si tu me draguais m9i en même temps, et c9mme je le disais, c'est malaisant.
       @kankri_talk:#Alerte-trigger#Inceste#Anathèmes#Viscéralité#Vaguement#Rep9ussante KANKRI: Ce n'est pas p9ur enf9ncer le c9uteau dans la plaie, mais l'idée de s9rtir avec t9i... est une idée qui ne m’attire guère. Sans v9ul9ir t'9ffenser. Cela me fait vaguement c9mprendre, à un niveau viscéral, l'étrange anathème humain qu'est l'inceste, ce que je ne peux pas vraiment expliquer. Je dis ça c9mme ça.
       @porrim_annoyed:#O+h-mo+n-Dieu. PORRIM: (Pro+fo+nd so+upir.)
       @kankri_talk KANKRI: Je suis DÉS9LÉ, 9k ? Je suis dés9lé d'être, peut-être littéralement, le seul qui ne s9it jamais t9m6é en pr9ie à tes infatiga6les s9llicitati9ns 9mnidirecti9nnelles, 9u qui ne se s9it fait emp9rté dans tes inn9m6ra6les élans r9uges 9u s9m6res. Je t'ai t9uj9urs préférée en tant qu'amie, et de t9ute faç9n, j'ai t9uj9urs préféré mener une existence relativement chaste, p9ur me f9caliser sur la lutte au n9m de pr96lèmes vraiment imp9rtants. 6ien que rester "relativement" chaste ne veuille pas f9rcément dire grand-ch9se p9ur t9i.
       @porrim_angry:#Hey. PORRIM: ...
       @kankri_talk4:#AT#Déraillage#Accident-ferr9viaire#Tch9u-tch9u-catastr9phes KANKRI: Enc9re une f9is, excuse-m9i. J'ai gaffé en m'aventurant sur le territ9ire c9nflictuel du ra6aissement de la vacillati9n, ce qui 9uvre la p9rte à une myriade de faç9ns d'être désavantagé par un stupéfiant fl9t de h9nte. J'ai 9u6lié de prendre en c9mpte le privilège de ma piété, et v9ilà 9ù n9us en s9mmes. J'allais traiter de ce sujet dans un chapitre plus tardif de ma c9nférence, mais n9us av9ns salement déraillé ici.
-      @kankri_talk2:#6icyclette-du-village KANKRI: Karkat, je suis dés9lé de cette interrupti9n. Je te pr9mets que je reviendrai à mes c9nférences critiques dès que cette pers9nne indiscrète n9us aura laissé en paix .
+      @kankri_talk2:#véhicule-à-deux-r9ues-du-village KANKRI: Karkat, je suis dés9lé de cette interrupti9n. Je te pr9mets que je reviendrai à mes c9nférences critiques dès que cette pers9nne indiscrète n9us aura laissé en paix.
       @karkat_horror KARKAT: 
       @porrim_annoyed PORRIM: O+ui, des co+nférences critiques. Je n'en do+ute pas.
       @porrim_annoyedtalk:#O+ui PORRIM: Et ai-je raiso+n de cro+ire que tu déco+nstruis assidûment to+ute fo+rme d'injustice co+ncevable et hypo+thétique, exceptées celles auxquelles j'acco+rde un peu d'impo+rtance ?
-      @kankri_talk3:#N9n KANKRI:  N9n. N9n P9rrim. N9us n’all9ns pas n9us lancer là dedans. 
+      @kankri_talk3:#N9n KANKRI: N9n. N9n P9rrim. N9us n’all9ns pas n9us lancer là-dedans. 
       @kankri_talk3 KANKRI: Je ne vais pas p9lluer les cruciaux c9urs intensifs de Karkat, dans lesquels je lui présente les 6ASES F9NDAMENTALES, p9ur me livrer à tes pr96lèmes 6ien aimés.
       @porrim_annoyed2:#"SARCASME-HUMAIN" PORRIM: O+ui, co+mme ce serait ho+rrible po+ur ta co+nférence de so+ixante-neuf millio+ns de mo+ts de s'enliser dans ne serait-ce que la mo+indre allusio+n aux rô+les des genres dans les civilisatio+ns Befo+riennes et Alterniennes.
       @kankri_talk KANKRI: Ec9ute, ce n'est pas que je s9is insensi6le à tes pré9ccupati9ns sur ce sujet. Je serais assurément intéressé d'en discuter avec t9i dans un cadre académique et thé9rique.
       @porrim_annoyed2:#... PORRIM: Théo+rique ?
-      @kankri_talk4 KANKRI: Je pense juste qu'il y a un danger inhérent au fait de 6r9uiller le disc9urs en y intr9duisant des questi9ns d'9rdre s9cial, qui s9nt au mieux suspectes, et qui, par c9nséquent, c9nsument les ress9urces précieuses du cache limité de la rhét9rique qui pr9pulse ces récits. 9n p9urrait aussi discuter du fait qu'il est plus qu'un peu pr96lématique, et même 9ffensant, que tu t'accapares le lexique délicat utilisé p9ur faire c9nnaitre les grands enjeux, ce qui l'a6aisse au niveau de disc9urs putassier et de pseud9science. Cela rend la ch9se plus difficile p9ur ceux d'entre n9us qui s9nt vérita6lement c9ncentrés sur la prise au sérieux du changement p9sitif, c'est t9ut.
+      @kankri_talk4 KANKRI: Je pense juste qu'il y a un danger inhérent au fait de 6r9uiller le disc9urs en y intr9duisant des questi9ns d'9rdre s9cial qui s9nt au mieux suspectes, et qui, par c9nséquent, c9nsument les ress9urces précieuses du cache limité de la rhét9rique qui pr9pulse ces argumentations. 9n p9urrait aussi discuter du fait qu'il est plus qu'un peu pr96lématique, et même 9ffensant, que tu t'appr9pries le lexique délicat utilisé p9ur faire c9nnaitre les grands enjeux, ce qui l'a6aisse au niveau de disc9urs putassier et de pseud9science. Cela rend la ch9se plus difficile p9ur ceux d'entre n9us qui s9nt vérita6lement c9ncentrés sur le changement p9sitif, c'est t9ut.
       @porrim_angry:#Ce-n'est-même-pas#ce-que-ça#veut dire? PORRIM: Accaparer ??
       @porrim_angry2:#Tu-ne-viens-quand-même-pas-de... PORRIM: PSEUDOSCIENCE ???
-      @kankri_talk4:#Pas-6ien-vu#Regards-dédaigneux#6ienvenue-à-dédain-ville. KANKRI: Je suis dés9lé, je pense juste que ça n'a rien à faire là. N9us ne s9mmes pas c9mme les humains, d9nt l'espèce c9mprend 6izarrement des r9les hautement spécialisés p9ur chaque sexe dans le pr9cessus de repr9ducti9n, ce qui a dé69uché sur des ramificati9ns s9ciales dans la manière d9nt leur civilisati9n a év9lué. Mais ce n'est pas c9mme ça que ça marche p9ur n9us, d9nc je n'arrive pas à v9ir en qu9i le genre peut-être un facteur imp9rtant dans la discussi9n au p9int qu’9n puisse le pr96lématiser de manière efficace et rati9nnelle. 9ù est la place des privilèges n9n examinés dans la dich9t9mie ? Je ne la v9is pas. Et m9n9p9liser la discussi9n et les techniques de sensi6ilisati9n p9ur des questi9ns d9uteuses c9mme celles-ci, franchement, ce n'est pas très 6ien vu, p9ur le dire p9liment. Des c9mp9rtements appr9priatifs c9mme ceux-ci servent seulement à marginaliser et invalider ces sujets à de réels pr96lèmes et 9ppressi9ns, et je supp9se que je suis un peu déçu de te v9ir agir avec si peu d’ins9uciance et tant d’appr9priati9ns inappr9priées.
-      @porrim_angrytalk:#Alerte-trigger:#Sur-le-po+int-de-bo+tter-tes-fesses-hautement-pantalo+nnées PORRIM: Kanny, je co+mmence à me sentir un petit peu triggerée par to+ute cette merde auto+ur de "l'appro+priatio+n"
+      @kankri_talk4:#Pas-6ien-vu#Regards-dédaigneux#6ienvenue-à-dédainville. KANKRI: Je suis dés9lé, je pense juste que ça n'a rien à faire là. N9us ne s9mmes pas c9mme les humains, d9nt l'espèce c9mprend 6izarrement des r9les hautement spécialisés p9ur chaque sexe dans le pr9cessus de repr9ducti9n, ce qui a dé69uché sur des ramificati9ns s9ciales dans la manière d9nt leur civilisati9n a év9lué. Mais ce n'est pas c9mme ça que ça marche p9ur n9us, d9nc je n'arrive pas à v9ir en qu9i le genre peut être un facteur imp9rtant dans la discussi9n au p9int qu’9n puisse le pr96lématiser de manière efficace et rati9nnelle. 9ù est la place des privilèges n9n examinés dans la dich9t9mie ? Je ne la v9is pas. Et m9n9p9liser la discussi9n et les techniques de sensi6ilisati9n p9ur des questi9ns d9uteuses c9mme celles-ci, franchement, ce n'est pas très 6ien vu, p9ur le dire p9liment. Des c9mp9rtements appr9priatifs c9mme ceux-ci servent seulement à marginaliser et invalider ces sujets à de réels pr96lèmes et 9ppressi9ns, et je supp9se que je suis un peu déçu de te v9ir agir avec tant de légèreté et d’appr9priati9ns inappr9priées.
+      @porrim_angrytalk:#Alerte-trigger:#Sur-le-po+int-de-bo+tter-tes-fesses-hautement-pantalo+nnées PORRIM: Kanny, je co+mmence à me sentir un petit peu triggerée par to+ute cette merde auto+ur de "l'appro+priatio+n".
       @kankri_talk:#C'est-le-maire-c'est-ça-?#Ce-d9it-être-le-maire KANKRI: 9h ! Mes sincères excuses. J'aurais dû tagger plus finement mes p9siti9ns, mais p9ur tes c9nversati9ns futures, il serait servia6le d'alerter tes interl9ccuteurs de tes triggers 6ien à l'avance. D9is-je aller chercher t9n m9irail p9ur t'aider à te calmer ? Et si c'est le cas, qui est censé remplir ce quadrant auj9urd'hui ?
       @porrim_annoyed2 PORRIM: D'acco+rd. Tu es manifestement d'humeur à te co+mpo+rter co+mme un gamin. Je me barre.
       @kankri_talk KANKRI: Ne le prends pas c9mme ça. Vraiment, n9us p9uv9ns parler de t9ut ce que tu veux plus tard, et je serais vraiment aima6le, je te le pr9mets. Mais pas avec m9n élève al9rs qu'il est enc9re en phase d'apprentissage. 
-      @kankri_talk:#Maintenant-9ù-en-étais-je-? KANKRI: 9u... m9n descendant. Qu'est-ce que j'ai dit ? Haha. Karkat, je veux dire. D'ailleurs, Karkat, excuse m9i enc9re p9ur ça. 
+      @kankri_talk:#Maintenant-9ù-en-étais-je-? KANKRI: 9u... m9n descendant. Qu'est-ce que j'ai dit ? Haha. Karkat, je veux dire. D'ailleurs, Karkat, excuse-m9i enc9re p9ur ça. 
       @karkat_eyeroll1 KARKAT: 
       <!--  -->
 </args></action>
@@ -433,12 +433,12 @@
       @kankri_talk4:#Étranges-structures-familiales-humaines KANKRI: Je n'ai vraiment pas 6es9in de t9i p9ur c9ntr9ler m9n enseignement à la réth9rique de sensi6ilisati9n. Tu n'es pas ma "mère humaine".
       @porrim_surprisetalk PORRIM: Qu'est-ce que to+ut cela veut dire ??
       @kankri_talk3:#Je-veux-dire...#grandes-en-terme-de-pr9gressi9n KANKRI: Tu c9mprendrais si tu passais réellement du temps à faire des recherches sur les autres cultures p9ur acquérir une meilleure perspective de c9mpréhensi9n f9ndamentale de n9s pr96lèmes systémiques, plut9t que de te mêler de l'éruditi9n des autres et des grandes c9nversati9ns.
-      @porrim_talk PORRIM: Après to+utes ces révo+lutio+ns, tu agis enco+re co+mme une véritable larve des fo+is. Hey... Est-ce que....
+      @porrim_talk PORRIM: Après to+utes ces révo+lutio+ns, tu agis enco+re co+mme une véritable larvouille des fo+is. Hey... Est-ce que....
       @porrim_annoyed PORRIM: Est-ce que c'est de la sauce-larve sur to+n visage ?
       @kankri_idle KANKRI: Qu9i ? N9n.
-      @porrim_annoyedtalk PORRIM: Si, c'en est. Tu as une gro+sse tache de sauce, juste là. Tu es un vrai co+cho+n, Kanny. Viens par là.
+      @porrim_annoyedtalk PORRIM: Si, c'en est. Tu as une gro+sse tache de sauce, juste là. Tu es une vraie bête à gro+in, Kanny. Viens par là.
       @kankri_rage:#TU-V9IS-???#C'est-réglé KANKRI: N9n ! N9n, arrête. Ne me t9uche pas, je m'en charge !
-      @porrim_angry2:#Blanchisserie-fantô+me PORRIM: Ne t'essuie pas sur ta manche ! O+h mo+n gieu. Je viens JUSTE de le laver po+ur to+i.
+      @porrim_angry2:#Blanchisserie-fantô+me PORRIM: Ne t'essuie pas sur ta manche ! O+h mo+n dieu. Je viens JUSTE de le laver po+ur to+i.
       @kankri_talk4:#9u-Alterniennes#9u-Terrestres KANKRI: Je m'en fiche. Je ne t'ai pas demandé de laver m9n pull. Je te le répète, je me fiche des p9ssessi9ns 6ef9riennes.
       @porrim_angry2 PORRIM: No+us ne so+mmes plus sur Befo+rus. Je me suis do+nnée du mal sur ce pull, et je ne resterais pas sans rien faire pendant que tu le so+uilles de sauce-larve.
       @kankri_talk3:#9n-ne-peut-même-pas-v9ir-ma-j9lie-ceinture KANKRI: J'étais très c9ntent sans pull ! P9ur être franc, je ne suis pas spécialement ravi qu'il cache le haut de m9n pantal9n.
@@ -447,12 +447,12 @@
       @kankri_talk4 KANKRI: Je ne rejette pas t9n p9int de vue. Je le respecte. Je te l'ai DÉJÀ DIT. 
       @kankri_talk2 KANKRI: Je pense que le r9le des genres dans la s9ciété 6ef9rienne est pr96a6lement un sujet p9ussé et fascinant à expl9rer. Tu v9is, t9i c9mme m9i p9uv9ns apprécier ce sujet, 6ien évidemment. Je pense juste que pers9nne n'est enc9re prêt p9ur cela. Il y a 6ien d'autres 96stacles à surm9nter avant.
       @porrim_annoyedtalk PORRIM: Des o+bstacles ? Kanny, tu devrais sérieusement arrêter de suranalyser to+ut cela. Même mo+i je ne sais pas de quo+i tu parles la plupart du temps.
-      @kankri_talk2 KANKRI: Ec9ute, je dis juste que c'est un grand risque d'9uvrir cette c9nserve de n9uilles suspectes, en essayant d'instruire les gens sur ce sujet avant t9ut autre. Je ne veux pas m'écarter  des pr96lèmes 6ien plus flagrants qui demandent t9ute l'attenti9n de n9tre peuple, si n9us v9ul9ns pr9gresser en tant que civilisati9n.
+      @kankri_talk2 KANKRI: Ec9ute, je dis juste que c'est un grand risque d'9uvrir cette c9nserve de n9uilles suspectes, d’essayer  d'instruire les gens sur ce sujet avant t9ut autre. Je ne veux pas m'écarter des pr96lèmes 6ien plus flagrants qui demandent t9ute l'attenti9n de n9tre peuple, si n9us v9ul9ns pr9gresser en tant que civilisati9n.
       @porrim_surprise PORRIM: Pro+gresser en tant que civilisatio+n ?
       @porrim_annoyedtalk PORRIM: Kankri. No+tre peuple s'est éteint, et tu t'inquiètes de "t'écarter de pro+blèmes bien plus flagrants" ??
       @porrim_angrytalk PORRIM: TOUT LE MONDE EST MORT !!!
       @kankri_talk4 KANKRI: P9rrim, je suis vraiment déçu de t'entendre dire ça.
-      @kankri_talk4:#C9rp9relle-n9rmativité#Privilège-de-m9ralité#H9nte-sur-les-âmes KANKRI: C'était une remarque extrêmement c9rp9relle-n9rmative.
+      @kankri_talk4:#C9rp9r9-n9rmativité#Privilège-de-m9ralité#H9nte-sur-les-âmes KANKRI: C'était une remarque extrêmement c9rp9r9-n9rmative.
       @porrim_angry PORRIM: ...
       <!--  -->
 </args></action>
