@@ -142,7 +142,7 @@
       <!--  -->
 </args></action>
 
-<action class='porrimTalk1' sprite='meenah' command='talk' name='Talk to Porrim.'><args>
+<action class='porrimTalk1' sprite='meenah' command='talk' name='Parle à Porrim.'><args>
       @porrim_happy PORRIM: Welco+me back.
       @meenah_idle MEENAH: sup maryam
       @porrim_talk PORRIM: So+, yo+ur death certificate has barely dried, and yo+u're already busy raising an army, I hear?
@@ -232,7 +232,7 @@
 
 
 
-<action class='porrimTalk3' sprite='latula' command='talk' name='Talk to Porrim.'><args>
+<action class='porrimTalk3' sprite='latula' command='talk' name='Parle à Porrim.'><args>
       @latula_talk:#GRLZ-1N-D4-H1V3 LATULA: yo porz, you s33 p4yd1rt 1s b4ck??? 
       @porrim_idle PORRIM: I saw.
       @latula_talk:#l3ss-drool#mor3-rul3 LATULA: pr3tty r4d huh?? th3 4-lyf3 just scor3d 4 l1ttl3 mor3 GRL POW3R!!!!
@@ -303,7 +303,7 @@
 
 
 
-<action class='latulaTalk4' sprite='porrim' command='talk' name='Talk to Latula.'><args>
+<action class='latulaTalk4' sprite='porrim' command='talk' name='Parle à Latula.'><args>
       @porrim_happy PORRIM: Hey.
       @latula_shine LATULA: yo yo, w4zzup grl!!!
       @porrim_talk PORRIM: Latula, it's just me. I do+n't think anyo+ne is lo+o+king. No+ need to+ go+ so+ heavy o+n the rad girl ro+utine.
@@ -336,7 +336,7 @@
       <!--  -->
 </args></action>
 
-<action class='kankriTalk3' sprite='porrim' command='talk' name='Talk to Kankri.'><args>
+<action class='kankriTalk3' sprite='porrim' command='talk' name='Parle à Kankri.'><args>
       @porrim_angrytalk PORRIM: Kanny, laisse ce pauvre go+sse tranquille.
       @kankri_talk2:#Micr9aggressi9ns#n9n-attends#plut9t-MACR9aggressi9ns KANKRI: e préfèrerais que tu ne m'appelles pas c9mme ça. N9us en av9ns déjà parlé. C'est c9mme ça que tu n9mmerais une larvouille. Est-ce que j'ai l'air d'une larvouille p9ur t9i, P9rrim ? N9n, ce n'est pas le cas. Cela fait tr9is rév9luti9ns, plus une éternité, putain (excuse-m9i du terme). Je pense que n9us p9uv9ns n9us passer de ce terme “affectif”. Appelle-m9i c9mme tu veux, sauf c9mme ça, même avec m9n autre surn9m si tu veux. Je n'ai vraiment aucun pr96lème avec celui-là. 
       @porrim_talk:#Et-enco+re,-pro+bablement-pas-devant-to+i. PORRIM: Je ne t'appellerais pas l’Impo+seur, Kanny. O+u du mo+ins pas co+mme po+ur en faire un titre.  
@@ -368,7 +368,7 @@
       @kankri_talk KANKRI: Ec9ute, ce n'est pas que je s9is insensi6le à tes pré9ccupati9ns sur ce sujet. Je serais assurément intéressé d'en discuter avec t9i dans un cadre académique et thé9rique.
       @porrim_annoyed2:#... PORRIM: Théo+rique ?
       @kankri_talk4 KANKRI: Je pense juste qu'il y a un danger inhérent au fait de 6r9uiller le disc9urs en y intr9duisant des questi9ns d'9rdre s9cial qui s9nt au mieux suspectes, et qui, par c9nséquent, c9nsument les ress9urces précieuses du cache limité de la rhét9rique qui pr9pulse ces argumentations. 9n p9urrait aussi discuter du fait qu'il est plus qu'un peu pr96lématique, et même 9ffensant, que tu t'appr9pries le lexique délicat utilisé p9ur faire c9nnaitre les grands enjeux, ce qui l'a6aisse au niveau de disc9urs putassier et de pseud9science. Cela rend la ch9se plus difficile p9ur ceux d'entre n9us qui s9nt vérita6lement c9ncentrés sur le changement p9sitif, c'est t9ut.
-      @porrim_angry:#Ce-n'est-même-pas#ce-que-ça#veut dire? PORRIM: Accaparer ??
+      @porrim_angry:#Ce-n'est-même-pas#ce-que-ça#veut dire? PORRIM: Approprier ??
       @porrim_angry2:#Tu-ne-viens-quand-même-pas-de... PORRIM: PSEUDOSCIENCE ???
       @kankri_talk4:#Pas-6ien-vu#Regards-dédaigneux#6ienvenue-à-dédainville. KANKRI: Je suis dés9lé, je pense juste que ça n'a rien à faire là. N9us ne s9mmes pas c9mme les humains, d9nt l'espèce c9mprend 6izarrement des r9les hautement spécialisés p9ur chaque sexe dans le pr9cessus de repr9ducti9n, ce qui a dé69uché sur des ramificati9ns s9ciales dans la manière d9nt leur civilisati9n a év9lué. Mais ce n'est pas c9mme ça que ça marche p9ur n9us, d9nc je n'arrive pas à v9ir en qu9i le genre peut être un facteur imp9rtant dans la discussi9n au p9int qu’9n puisse le pr96lématiser de manière efficace et rati9nnelle. 9ù est la place des privilèges n9n examinés dans la dich9t9mie ? Je ne la v9is pas. Et m9n9p9liser la discussi9n et les techniques de sensi6ilisati9n p9ur des questi9ns d9uteuses c9mme celles-ci, franchement, ce n'est pas très 6ien vu, p9ur le dire p9liment. Des c9mp9rtements appr9priatifs c9mme ceux-ci servent seulement à marginaliser et invalider ces sujets à de réels pr96lèmes et 9ppressi9ns, et je supp9se que je suis un peu déçu de te v9ir agir avec tant de légèreté et d’appr9priati9ns inappr9priées.
       @porrim_angrytalk:#Alerte-trigger:#Sur-le-po+int-de-bo+tter-tes-fesses-hautement-pantalo+nnées PORRIM: Kanny, je co+mmence à me sentir un petit peu triggerée par to+ute cette merde auto+ur de "l'appro+priatio+n".
@@ -428,7 +428,7 @@
       <!--  -->
 </args></action>      
 
-<action class='porrimTalk4' sprite='kankri' command='talk' name='Talk to Porrim.'><args>
+<action class='porrimTalk4' sprite='kankri' command='talk' name='Parle à Porrim.'><args>
       @kankri_talk:#Attends-qu'est-ce-que-j'ai-dit-?#Je-v9ulais-définitivement-dire-amis KANKRI: Dans le futur, je te remercierai de ne pas m'em6arasser devant mes n9uveaux disciples. Amis. Je veux dire amis.
       @kankri_talk4:#Étranges-structures-familiales-humaines KANKRI: Je n'ai vraiment pas 6es9in de t9i p9ur c9ntr9ler m9n enseignement à la réth9rique de sensi6ilisati9n. Tu n'es pas ma "mère humaine".
       @porrim_surprisetalk PORRIM: Qu'est-ce que to+ut cela veut dire ??
@@ -458,12 +458,12 @@
 </args></action>
 
 <action class='grindTalk'><args>
-@latula_idle LATULA: th4t w4s...
-@latula_idle2 LATULA: so...
-@latula_idle3 LATULA: fr3ak1ng...
+@latula_idle LATULA: wo4w...
+@latula_idle2 LATULA: c3t41t...
+@latula_idle3 LATULA: vr41m3nt...
 @latula_happier:#>8O!!!! LATULA: R44444444444444D1C4L!!!
-@latula_shades2 LATULA: holy smok3z grl, 1 d1dnt th1nk you 3v3n h4d gr1ndz l1k3 th4t.
-@latula_shine LATULA: so you s4y you w4nn4 b3 m3 huh? w3ll, you got 1t! h3llz grl, 1m not sur3 1f 1 shouldnt b3 th3 on3 4sk1ng to b3 YOU!!!
+@latula_shades2 LATULA: just3 c13l m3uf, j3 n3 p3ns41s p4z qu3 tu pouv41s gr1nd3r comm3 c4.
+@latula_shine LATULA: donc tu d1s41s voulo1r m1nc4rn3r h31n ?  3h b13nz, c3st d4ccord ! put41nz m3uf, j3 m3 d3m4nd3 s1 c3st p4z mo1 qu1 devr41s d3m4nd3r 4 T1NC4RN3R !!!
 </args></action>
 
     <!-- if you examine locked door while karkat is following -->
@@ -471,8 +471,8 @@
 
 
   <!-- if kankri talks to karkat -->
-<action class='karkatTalk1' sprite='kankri' command='talk' name='Talk to Karkat.'><args>
-      @kankri_talk:#"6r6" KANKRI: 9ne m9ment please, Karkat. I'm g9ing t9 wander ar9und 6riefly, in an aut9n9m9us fashi9n. I kn9w y9u're very excited t9 c9ntinue 9ur discussi9n, and I pr9mise I'll return very sh9rtly s9 that we may resume. Just remain standing here in this exact sp9t, while y9u take time t9 let the wisd9m 9f my w9rds take r99t in y9ur heart, and try n9t t9 wander 9ff with any69dy, 9k? 6e right 6ack.
+<action class='karkatTalk1' sprite='kankri' command='talk' name='Parle à Karkat.'><args>
+      @kankri_talk:#"Att" KANKRI: Un instant s’il te plaît, Karkat. Je vais 6rièvement me pr9mener, en aut9n9mie. Je sais que tu es très impatient de c9ntinuer n9tre discussi9n, et je pr9mets que je vais revenir très vite p9ur que n9us puissi9ns reprendre. Reste juste là à cet endr9it précis, pendant que tu laisses la sagesse de mes m9ts s’enraciner dans t9n c9eur, et essaie de ne pas t'él9igner avec qui que ce s9it, d’acc9rd ? Je revien t9ut de suite.
 
       @karkat_eyeroll1 KARKAT: 
       <!--  -->
@@ -483,12 +483,12 @@
   
 <!-- if you try to leave the room as a non-meenah character -->
 <action class='exitAlert' command='talk'><args>
-      @!:#nice-try Where do you think YOU'RE going! This is Meenah's interactive quest through the afterlife. You can only leave this area if you're being her!
+      @!:#bien-tenté Où est-ce que VOUS pensez aller ?! C’est la quête interactive dans l’au-delà de Meenah. Vous ne pouvez quitter cet endroit seulement si vous l’incarnez !
 </args></action>
 
       <!-- if you examine locked door -->
-<action class='doorTalk1' command='talk' name='Open door.'><args>
-      @!:#mysterious-symbol#a-clue#bonus-hint:#it's-karkat The door is locked. It appears to be guarding someone's private memories. Looks like it needs a password. You wonder who locked it?
+<action class='doorTalk1' command='talk' name='Ouvre la porte.'><args>
+      @!:#symbole-mystérieux#un-indice#indication-bonus:#c’est-karkat La porte est fermée. Elle semble garder les souvenirs privés de quelqu’un. On dirait qu’elle a besoin d’un mot de passe. Vous vous demandez qui l’a verrouillée ?
       <!--  -->
 </args></action>
       
