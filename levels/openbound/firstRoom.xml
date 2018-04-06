@@ -267,13 +267,13 @@
     <sprite class='chest1' name='firstRoomChest1' x='2913' y='208'>
     	<action command='openChest' name='Ouvrir'>
     		<args>firstRoomChest1,obj01, @! Vous trouvez une TIARE EN OR !
-      @!:#bling-bling #carats #jackpot Vous n'avez pas l'intention de porter ce truc, mais ça ne fait pas de mal de recommencer à accumuler du butin. Maintenant que vous êtes morte, vous êtes un peu à court de liquide, si vous voyez ce que je veux dire.</args>
+      @!:#bling-bling#carats#jackpot Vous n'avez pas l'intention de porter ce truc, mais ça ne fait pas de mal de recommencer à accumuler du butin. Maintenant que vous êtes morte, vous êtes un peu à court de liquide, si vous voyez ce que je veux dire.</args>
     	</action>
     </sprite>
     <sprite class='chest1' name='firstRoomChest2' x='2745' y='576'>
     	<action command='openChest' name='Ouvrir'>
     		<args>firstRoomChest2,obj02,@! Vous trouvez un DOUBLE TRIDENT !
-      @!:#OR #$$$$$ #youhou Vous en avez déjà un. Mais il n'y a rien de mal à posséder un peu plus d'OR MASSIF dans votre inventaire. Après tout, vous avez un mode de vie d’extravagante princesse des mers fantôme à maintenir.</args>
+      @!:#OR#$$$$$#youhou Vous en avez déjà un. Mais il n'y a rien de mal à posséder un peu plus d'OR MASSIF dans votre inventaire. Après tout, vous avez un mode de vie d’extravagante princesse des mers fantôme à maintenir.</args>
     	</action>
     </sprite>
     <sprite class='chest1' name='firstRoomChest3' x='426' y='558'>
@@ -310,7 +310,7 @@
     <sprite class='chest1' name='firstRoomChest8' x='1152' y='2421'>
     	<action command='openChest' name='Ouvrir'>
     		<args>firstRoomChest8,obj08,@! Vous trouvez de l'HUILE DE MOTEUR !
-      @!:# P.S. # vous-prenez-une-petite-gorgée#ça-a-un-goût-affreux Hé, cette bouteille a encore l'étiquette intacte ! D’habitude, elle est arrachée et appliquée sur des fresques murales à la craie. Le fait qu'il y ait encore une étiquette la rend beaucoup plus précieuse en tant qu’objet de collection. Il faut toujours garder à l'esprit la valeur monétaire de la merde inutile que vous trouvez dans les coffres.</args>
+      @!:#P.S.#vous-prenez-une-petite-gorgée#ça-a-un-goût-affreux Hé, cette bouteille a encore l'étiquette intacte ! D’habitude, elle est arrachée et appliquée sur des fresques murales à la craie. Le fait qu'il y ait encore une étiquette la rend beaucoup plus précieuse en tant qu’objet de collection. Il faut toujours garder à l'esprit la valeur monétaire de la merde inutile que vous trouvez dans les coffres.</args>
     	</action>
     </sprite>
     <sprite class='chest1' name='firstRoomChest9' x='2568' y='2856'>
