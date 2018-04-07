@@ -61,17 +61,14 @@ Sburb.FontEngine.prototype.prefixColours = {
 	cc : "#77003c",feferi : "#77003c",
 	cg : "#626262",karkat : "#626262",
 	ct : "#000056",equius : "#000056",
-	ga : "#008141",kanaya : "#008141", kanaya2 : "#008141",
+	ga : "#008141",kanaya : "#008141",
 	gc : "#008282",terezi : "#008282",
 	ta : "#a1a100",sollux : "#a1a100",
-	tc : "#2b0057",gamzee : "#6c00da",
+	tc : "#2b0057",gamzee : "#2b0057",
 	dave:"#e00707",meenah : "#77003c",
 	rose:"#b536da",aranea : "#005682",
 	kankri:"#ff0000",porrim: "#008141",
-	latula:"#008282",cronus: "#6a006a",
-	mituna:"#a1a100", kurloz: "#6c00da",
-	meulin:"#416600", rufioh: "#a15000",
-	horuss:"#000056", damara: "#a10000"
+	latula:"#008282"
 };
 
 //set the style
@@ -121,7 +118,7 @@ Sburb.FontEngine.prototype.parseEverything = function(){
 
 //parse the text
 Sburb.FontEngine.prototype.parseText = function(){ //break it up into lines
-	Sburb.stage.font = this.font;
+	
 	this.lines = [];
 	var i = 0;
 	var lastSpace = 0;
@@ -129,13 +126,13 @@ Sburb.FontEngine.prototype.parseText = function(){ //break it up into lines
 	for(i=0;i<this.text.length;i++){
 		if(this.text.charAt(i)==" "){
 			lastSpace = i;
-		}else if(this.text.charAt(i)=="\\" && this.text.charAt(i+1)=="n"){
+		}else if(this.text.charAt(i)=="\n"){
 			this.lines.push(this.text.substring(lineStart,i));
-			lineStart = i+2;
+			lineStart = i+1;
 			lastSpace = lineStart;
 			continue;
 		}
-		if(Sburb.stage.measureText(this.text.substring(lineStart,i+1)).width>this.width){
+		if(i-lineStart>this.width/this.charWidth){
 			if(lineStart==lastSpace){
 				this.lines.push(this.text.substring(lineStart,i));
 				lineStart = i;
@@ -341,10 +338,8 @@ Sburb.FontEngine.prototype.draw = function(){
 	var nextStop;
 	var curLine;
 	
-	
 	i=0;
 	lenCount=0;
-	var offsetX = 0;
 	while(i<Math.floor(this.height/this.lineHeight) && i<this.lines.length){
 		Sburb.stage.save();
 		//if(Sburb.stage.textBaseline != "top"){
@@ -403,7 +398,6 @@ Sburb.FontEngine.prototype.draw = function(){
 				strStart = linePos; //display from the start of the line
 			}else if(lenCount+curLine.length>=this.start){ //otherwise, if any part of the line should be displayed
 				strStart = this.start-(lenCount)+linePos; //display from where we should start
-				offsetX+=Sburb.stage.measureText(curLine.substring(linePos,strStart)).width;
 			}else{ //otherwise, don't show this line at all
 				strStart = linePos;
 				strEnd = linePos;
@@ -414,7 +408,7 @@ Sburb.FontEngine.prototype.draw = function(){
 		
 		if(numChars>0){
 			
-			var startX = this.x+offsetX;
+			var startX = this.x+strStart*this.charWidth;
 			var startY = this.y+i*this.lineHeight;
 			
 			//if(Sburb.stage.font != curFont){
@@ -425,8 +419,7 @@ Sburb.FontEngine.prototype.draw = function(){
 			//}
 			//console.log(Sburb.stage.fillStyle, Sburb.stage.strokeStyle, Sburb.stage.font, Sburb.stage.textBaseline, Sburb.stage.textAlign,curLine.substring(strStart,strEnd));
 			//console.log(strStart,strEnd,startX,startY,numChars*this.charWidth,);
-			Sburb.stage.fillText(curLine.substring(strStart,strEnd),startX,startY);
-			offsetX+=Sburb.stage.measureText(curLine.substring(strStart,strEnd)).width;
+			Sburb.stage.fillText(curLine.substring(strStart,strEnd),startX,startY,numChars*this.charWidth);
 			if(underlining && strStart<strEnd){
 				if(Sburb.stage.lineWidth!=0.6){
 					Sburb.stage.lineWidth = 0.6;
@@ -444,7 +437,6 @@ Sburb.FontEngine.prototype.draw = function(){
 		if(linePos==-1){
 			lenCount+=this.lines[i].length + 1;
 			linePos = 0;
-			offsetX = 0;
 			i++;
 		}
 		Sburb.stage.restore();

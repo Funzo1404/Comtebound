@@ -20,8 +20,6 @@ Sburb.Character = function(name,x,y,width,height,sx,sy,sWidth,sHeight,sheet,boot
 	this.follower = null;
 	this.lastLeaderPos = null;
 	this.handledInput = -1;
-	this.oldX = 0;
-	this.oldY = 0;
 	
 	if(!bootstrap){ //automagically generate standard animations
 		sWidth = typeof sWidth == "number" ? sWidth : width;
@@ -47,25 +45,10 @@ Sburb.Character = function(name,x,y,width,height,sx,sy,sWidth,sHeight,sheet,boot
 }
 
 Sburb.Character.prototype = new Sburb.Sprite();
-Sburb.Character.prototype.followBufferLength = 6;
+Sburb.Character.prototype.followBufferLength = 9;
 
 //update as if one frame has passed
 Sburb.Character.prototype.update = function(curRoom){
-	this.handleFollowing(curRoom);
-
-	//what does this code block do????
-	if(this.handleInput>0){
-		--this.handleInput;
-		if(this.handleInput==0){
-			moveNone();
-		}
-	}
-
-	this.tryToMove(this.vx,this.vy,curRoom);
-	Sburb.Sprite.prototype.update.call(this,curRoom);
-}
-
-Sburb.Character.prototype.handleFollowing = function(curRoom){
 	if(this.following){
 		if(this.following.isNPC() && !this.isNPC()){
 			this.becomeNPC();
@@ -82,69 +65,52 @@ Sburb.Character.prototype.handleFollowing = function(curRoom){
 			this.lastLeaderPos.y = this.following.y;
 			
 		}
-		var destPos = null;
 		while(this.followBuffer.length>this.followBufferLength){
-			destPos = this.followBuffer[0];
-			var movingSideways = false;
-			var moveMap = curRoom.getInverseMoveFunction(this);
-			var delta;
-			if(moveMap){
-				delta = moveMap(destPos.x-this.x,destPos.y-this.y);
-			}else{
-				delta = {x:destPos.x-this.x,y:destPos.y-this.y};
-			}
-			if(Math.abs(delta.x)>=this.speed/1.9){
-				if(delta.x>0){
+			var destPos = this.followBuffer[0];
+			if(Math.abs(destPos.x-this.x)>=this.speed/1.9){
+				if(destPos.x>this.x){
 					this.moveRight();
 				}else{
 					this.moveLeft();
 				}
-				movingSideways = true;
-			}
-			if(Math.abs(delta.y)>=this.speed/1.9){
-				if(delta.y>0){
-					this.moveDown(movingSideways);
+			}else if(Math.abs(destPos.y-this.y)>=this.speed/1.9){
+				if(destPos.y>this.y){
+					this.moveDown();
 				}else{
-					this.moveUp(movingSideways);
+					this.moveUp();
 				}
-			}else if(!movingSideways){
+			}else {
 				this.followBuffer.splice(0,1);
 				continue;
 			}
 			break;
 		}
 		if(this.followBuffer.length<=this.followBufferLength && !this.following.isNPC()){
-			if(destPos){
-				this.x = destPos.x;
-				this.y = destPos.y;
-			}
 			this.moveNone();
 		}
 	}
+	if(this.handleInput>0){
+		--this.handleInput;
+		if(this.handleInput==0){
+			moveNone();
+		}
+	}
+	this.tryToMove(this.vx,this.vy,curRoom);
+	Sburb.Sprite.prototype.update.call(this,curRoom);
 }
 
 //impulse character to move up
-Sburb.Character.prototype.moveUp = function(movingSideways){
-	if(!movingSideways){
-		this.facing = "Back";
-		this.walk();
-		this.vx = 0; this.vy = -this.speed;
-	}else{
-		this.vx*=2/3;
-		this.vy = -this.speed*2/3;
-	}
+Sburb.Character.prototype.moveUp = function(){
+	this.facing = "Back";
+	this.walk();
+	this.vx = 0; this.vy = -this.speed;
 }
 
 //impulse character to move down
-Sburb.Character.prototype.moveDown = function(movingSideways){
-	if(!movingSideways){
-		this.facing = "Front";
-		this.walk();
-		this.vx = 0; this.vy = this.speed;
-	}else{
-		this.vx*=2/3;
-		this.vy = this.speed*2/3;
-	}
+Sburb.Character.prototype.moveDown = function(){
+	this.facing = "Front";
+	this.walk();
+	this.vx = 0; this.vy = this.speed;
 }
 
 //impulse character to move left
@@ -197,31 +163,21 @@ Sburb.Character.prototype.becomePlayer = function(){
 
 //parse key inputs into actions
 Sburb.Character.prototype.handleInputs = function(pressed, order){
-    var down = -1, up = -1, left = -1, right = -1, none = -0.5;
+    var down = -1, up = -1, left = -1, right = -1, most = 0;
     down  = Math.max(order.indexOf(Sburb.Keys.down), order.indexOf(Sburb.Keys.s));
     up    = Math.max(order.indexOf(Sburb.Keys.up),   order.indexOf(Sburb.Keys.w));
     left  = Math.max(order.indexOf(Sburb.Keys.left), order.indexOf(Sburb.Keys.a));
     right = Math.max(order.indexOf(Sburb.Keys.right),order.indexOf(Sburb.Keys.d));
-    var most  = Math.max(left, right, none);
-    var movingSideways = true;
-    if(left == most) {
+    most  = Math.max(down, up, left, right, most);
+    if(down == most) {
+        this.moveDown();
+    } else if(up == most) {
+        this.moveUp();
+    } else if(left == most) {
         this.moveLeft();
     } else if(right == most) {
         this.moveRight();
-    }else{
-    	movingSideways = false;
-    } 
-    var most  = Math.max(up, down, none);
-    var movingVertical = true;
-    if(down == most) {
-        this.moveDown(movingSideways);
-    } else if(up == most) {
-        this.moveUp(movingSideways);
-    }else{
-    	movingVertical = false;
-    }
-
-    if(!movingSideways && !movingVertical){
+    } else {
         this.moveNone();
     }
 	this.handledInput = 2;
@@ -229,7 +185,6 @@ Sburb.Character.prototype.handleInputs = function(pressed, order){
 
 //have character try to move through room
 Sburb.Character.prototype.tryToMove = function(vx,vy,room){
-	
 	var i;
 	var moveMap = room.getMoveFunction(this);
 	var wasShifted = false;
@@ -240,10 +195,6 @@ Sburb.Character.prototype.tryToMove = function(vx,vy,room){
 		}
 		vx = l.x;
 		vy = l.y;
-	}
-	if(vx!=0 || vy!=0){
-		this.oldX = this.x;
-		this.oldY = this.y;
 	}
 	var minX = Sburb.Stage.scaleX;
 	var minY = Sburb.Stage.scaleY;

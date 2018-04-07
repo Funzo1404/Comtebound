@@ -11,13 +11,7 @@ Sburb.globalVolume = 1;
 
 //Constructor
 Sburb.Sound = function(asset){
-	if (asset) {
-		this.asset = asset;
-		var that = this;
-		window.addEventListener('beforeunload', function() {
-			that.pause();
-		});
-	}
+	this.asset = asset;
 }
 
 //play this sound
