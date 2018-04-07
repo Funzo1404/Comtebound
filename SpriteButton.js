@@ -116,4 +116,3 @@ Sburb.parseSpriteButton = function(button){
 
 return Sburb;
 })(Sburb || {});
-
