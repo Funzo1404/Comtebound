@@ -1,35 +1,35 @@
 <sburb><classes>
 
-<action class='doorTalk2' sprite='meenah' command='talk' name='Open door.'><args>
-      @meenah_talk MEENAH: vantas gimme your password
-      @karkat_what KARKAT: (huh?)
-      @meenah_talk MEENAH: this is your door aint it
-      @karkat_talk KARKAT: (what makes you say that.)
-      @meenah_annoyedtalk MEENAH: the symbol on the doors the same as on your fuckin shirt
-      @meenah_annoyedtalk:#pchooo MEENAH: come on it aint blastoff device science
-      @karkat_sullen KARKAT: (ok, yeah, it's mine. maybe i got tired of interloping shitbags traipsing through my PRIVATE and PERSONAL memories.)
-      @meenah_talk MEENAH: you dont need to whisper anymore aint no one around
+<action class='doorTalk2' sprite='meenah' command='talk' name='Ouvrir la porte.'><args>
+      @meenah_talk MEENAH: vantas donne moi ton mot de passe
+      @karkat_what KARKAT: (hein ?)
+      @meenah_talk MEENAH: cest ta porte nest ce pas
+      @karkat_talk KARKAT: (qu’est-ce qui te fait dire ça.)
+      @meenah_annoyedtalk MEENAH: le symbole sur la porte est le meme que sur ton putain de tee shirt
+      @meenah_annoyedtalk:#pchooo MEENAH: allez ca va rien faire peter #pchooo
+      @karkat_sullen KARKAT: (ok, ouais, c’est la mienne. peut-être que je suis juste fatigué que des sacs à merde s’introduisent dans mes souvenirs PRIVES et PERSONNELS.)
+      @meenah_talk MEENAH: tu peux arreter de chuchoter ya plus personne dans le coin
       @karkat_idle KARKAT: OH
-      @meenah_happytalk MEENAH: now whats the password
-      @karkat_talk KARKAT: MOVE OVER, I'LL TYPE IT FOR YOU.
-      @meenah_angrytalk MEENAH: no just tell me shouty!!! 
-      @karkat_shout KARKAT: OH MY GOD, THAT IS SO UNREASONABLE. HOW IS IT NOT PRETTY MUCH THE MOST REASONABLE FUCKING THING IN THE WORLD TO LET ME JUST TYPE MY OWN PASSWORD???
-      @meenah_fish MEENAH: dude you want kankri to find you and talk yer nubs off again
-      @karkat_horror:#OH-DEAR-GOD KARKAT: NO!!! ANYTHING BUT THAT.
-      @karkat_yell KARKAT: ALRIGHT, I'LL TELL YOU, JUST...
-      @karkat_yell KARKAT: DON'T GO BLABBING IT AROUND.
-      @karkat_talk KARKAT: THE PASSWORD IS...
+      @meenah_happytalk MEENAH: alors quel est le mot de passe
+      @karkat_talk KARKAT: LAISSE-MOI PASSER, JE VAIS L'ECRIRE POUR TOI.
+      @meenah_angrytalk MEENAH: allez chonchon donne le moi !!! 
+      @karkat_shout KARKAT: OH MON DIEU, C’EST TELLEMENT ABSURDE. POURQUOI NE SERAIT-CE DONC PAS LA PLUS RAISONNABLE DES CHOSES AU MONDE DE JUSTE ME LAISSER TAPER MON PUTAIN DE MOT DE PASSE ???
+      @meenah_fish MEENAH: mec tu veux que kankri te retrouve et te prenne encore la tete ?
+      @karkat_horror:#OH-MON-DIEU KARKAT: NON !!! TOUT SAUF CA.
+      @karkat_yell KARKAT: TRES BIEN, JE VAIS TE LE DONNER, JUSTE...
+      @karkat_yell KARKAT: NE VA PAS L'EBRUITER.
+      @karkat_talk KARKAT: LE MOT DE PASSE EST...
       @karkat_eyeroll1~dialogimg_karkat1  
       @meenah_idle:#? MEENAH: wuh
       @karkat_eyeroll2~dialogimg_karkat1 
-      @meenah_wut2 MEENAH: bro you gotta speak up
-      @karkat_shout:#WHAT-ARE-YOU-DEAF KARKAT: IF I HATE MYSELF SO MUCH, THEN WHY DON'T I HATEMARRY MYSELF!!!!!!!
-      @meenah_wut MEENAH: T)(ATS your p word
-      @meenah_annoyedtalk MEENAH: what in glubs name does that mean
-      @karkat_yell KARKAT: NOTHING. IT'S NONE OF YOUR BUSINESS.
-      @karkat_sullen KARKAT: IT'S JUST SOMETHING THAT REMINDS ME OF AN OLD FRIEND. ALRIGHT?! CAN WE GET GOING NOW?
-      @meenah_happier MEENAH: fuck yeah! this way shouty
-      @meenah_creepytalk MEENAH: you will not regret hitchin your wagon to my starfish
+      @meenah_wut2 MEENAH: mec parle plus fort
+      @karkat_shout:#QUOI-T’ES-SOURDE KARKAT: SI JE ME HAIS AUTANT, POURQUOI JE NE ME HAINEPOUSE PAS MOI-MEME !!!!!!! 
+      @meenah_wut MEENAH: cest CA ton mdp
+      @meenah_annoyedtalk MEENAH: nom de lieu, quest ce que ca signifie
+      @karkat_yell KARKAT: RIEN. CA NE TE REGARDE PAS.
+      @karkat_sullen KARKAT: C’EST JUSTE UN TRUC QUI ME RAPPELLE UNE VIEILLE AMIE. C’EST BON ?! ON PEUT POURSUIVRE ?
+      @meenah_happier MEENAH: putain ouais ! suis moi chonchon
+      @meenah_creepytalk MEENAH: tu regretteras pas ma lompanie !
       @karkat_facepalm KARKAT: 
       <!-- open the door -->
 </args>
@@ -45,19 +45,19 @@
 </action>
 
    <!-- if meenah talks to karkat (while kankri is away)-->
-<action class='karkatTalk2' sprite='meenah' command='talk' name='Talk to Karkat.'>
+<action class='karkatTalk2' sprite='meenah' command='talk' name='Parle à Karkat.'>
 	<args>
       @meenah_idle MEENAH: (psst!)
       @meenah_happy MEENAH: (hey vantas)
-      @karkat_idle KARKAT: (what.)
-      @meenah_happytalk MEENAH: (nows yer chance)
-      @meenah_creepytalk:#nautical/popsicle...#eh-close-enough MEENAH: (lets blow this nautical stand)
+      @karkat_idle KARKAT: (quoi.)
+      @meenah_happytalk MEENAH: (cest ta chance)
+      @meenah_creepytalk:#poisson/cassons...#he-ca-passe MEENAH: (allez poissons nous)
       @karkat_sullen KARKAT: (oh...)
-      @karkat_talk KARKAT: (i don't think i'm supposed to.)
-      @meenah_talk MEENAH: (shouty you cant let that boring nerd tell you how to roll)
-      @meenah_annoyedtalk MEENAH: (you wanna stand here lisfinin to his shellf important abaloney all day???)
-      @karkat_eyeroll1:#SHELLF-IMPORTANT-ABALONEY?#GODDAMN-SEADWELLERS KARKAT: (not really.)
-      @meenah_creepy MEENAH: (then COM-E ON!)
+      @karkat_talk KARKAT: (je ne pense pas que je sois supposé...)
+      @meenah_talk MEENAH: (chonchon tu vas pas laisser ce marinerd te dicter ce que tu dois faire)
+      @meenah_annoyedtalk MEENAH: (tu preferes rester ici a ecouter ses anchois disantes importanche baliriviernes toute la journee ???)
+      @karkat_eyeroll1:#IMPORTANCHE-BALIRIVIERNES-?#PUTAIN-DE-TROLLS-AQUATIQUES KARKAT: (pas vraiment.)
+      @meenah_creepy MEENAH: (alors VI-ENS !)
       <!-- karkat then follows -->
 	</args>
 	<action command='follow'>
@@ -77,23 +77,23 @@
 </action>
 
 <action class='meenahTalk1' sprite='latula' command='talk' name='Talk to Meenah.'><args>
-      @latula_happytalk LATULA: yo yo, p4ystubz my grrrl!
-      @meenah_idle MEENAH: shit tules
-      @meenah_talk:#passin-out-names-like-cheap-cuttlefish MEENAH: i forgot how many rad nicknames you like to cycle through 
-      @meenah_fish MEENAH: you know i always thought paycheck was kind of dope why dont you just stick with that
-      @latula_happier:#WOO LATULA: r1ght on! 1 l1k3 th4t on3 too, p4ych3ck 1t 1z. H1GH F1V3 GRL!!!
-      @meenah_angry:#OOW MEENAH: no lets not OWWWWWW
-      @latula_idle3:#>8( LATULA: ooh sorry, d1d 1 hurt you???
-      @meenah_idle MEENAH: nnn... no? i meant
+      @latula_happytalk LATULA: yo yo, guppyd3 m4 grrrl !
+      @meenah_idle MEENAH: merde tula
+      @meenah_talk:#donnant-des-noms-comme-des-cibars-bon-marché MEENAH: j’avais oublié à quel point tu aimes jongler entre les surnoms rads que tu nous donnes 
+      @meenah_fish MEENAH: tu sais j’ai toujours pense que pepetes etait plutot cool pourquoi tu ten tiendrais pas a ca
+      @latula_happier:#WOO LATULA: b13n sur ! mo1 4uss1 j3 l41m3 b13n c3lu1 l4, p3p3t3s 4lors. H1GH F1V3 GRL !!!
+      @meenah_angry:#OOW MEENAH: non on va pas OWWWWWW
+      @latula_idle3:#>8( LATULA: ooh d3sol33, j3 t41 f41t m4l ???
+      @meenah_idle MEENAH: nnn... non ? je voulais dire
       @meenah_happier:#uh#yeah MEENAH: wwwwWOWWWWWW
-      @meenah_ohyes MEENAH: like "WOWWWWW that was a radical hand slappin"
-      @latula_happier:#th3-t1ghtn3ss LATULA: SUR3 FUCK1N WUZ!!! d4ng 1ts t1ght your3 b4ck.
-      @meenah_idle MEENAH: thats cool but
-      @meenah_talk:#tadpole#yeah-its-a-stretch-as-a-fish-pun#gonna-count-it-tho MEENAH: arent you overstatin our prior relationship as somefin above neutral just a TAD
-      @latula_annoyedtalk:#th3-b1g-w1p3out#r4d-d34th-4n4log13s LATULA: w3ll m4yb3. but 1 h4d 4 lot of t1m3 to th1nk, both b3for3 w3 4ll 4t3 1t, 4ND 4ft3r.
-      @latula_annoyedtalk LATULA: 4nd 1 c4m3 to som3 MAD 3p1ph4n13z, 4bout you, or us r34lly. 1 w4s th1nk1ng 4bout you 4ll wrong.
-      @latula_angry LATULA: for most of th3 t1m3 w3 kn3w 34ch oth3r, 1 w4s 4ll l1k3, WHY SHOULD TH3R3 B3 TWO B4D4SS, 1N-YOUR-F4C3 GRLZ 1N TH3 GROUP???
-      @latula_talk LATULA: sort of ov3rk1ll, r1ght?
+      @meenah_ohyes MEENAH: genre "WOWWWWW ca cetait un frappement de main radical"
+      @latula_happier:#l3-plus-cool LATULA: B13N SUR QU3 C4 L3T41T !!! bord3l c3st cool qu3 tu so1s d3 r3tour.
+      @meenah_idle MEENAH: cest bien tout ça mais
+      @meenah_talk:#voile-de-bateau#ouais-cest-tire-par-les-cheveux-comme-jeu-de-mots#on-va-dire-que-ca-compte MEENAH: Tu ne serais pas un VOILE en train d'exagerer notre relation anterieure comme etant plus que simplement neutre ?
+      @latula_annoyedtalk:#l3-gr4nd-4n34nt1ss3m3nt#4n4log13-r4d1c4l3m3nt-mort3ll3 LATULA: p3ut 3tr3 b13n. m41s j41 3u tout l3 t3mps dy p3ns3r, qu3 c4 so1t 4v4nt ou 4pr3s 4vo1r m4ng3 l3s p1ss3nl1ts p4r l4 r4c1n3.
+      @latula_annoyedtalk LATULA: 3t j41 3u qu3lqu3s FOLL3S r3v3l4t1ons 4 ton propos, ou 4u notr3. j3 m3 tromp41s tot4l3m3nt sur ton compt3
+      @latula_angry LATULA: dur4nt l4 m4j3ur p4rt13 du t3mps ou nous nous somm3s cotoy33s, j3t41s 3n mod3 POURQUO1 Y 4UR41T 1L D3UX F1LL3S B4D4SS “D4NS-T4-F4C3” D4NS L3 GROUP3 ???
+      @latula_talk LATULA: qu3lqu3 p3u 3x4g3r3, n3st-c3 p4s ?
       @meenah_idle:#u-searious? MEENAH: mehhh
       @latula_talk LATULA: 1 w4s k1nd of v13w1ng you 4s 4 comp3t1tor, 1n l1k3 4 two grl RAD-OFF. 1 w4s w1nn1ng 1n my m1nd, of cours3. but s33, 1 h4d 1t 4ll wrong!!!!
       @meenah_idle MEENAH: did you
