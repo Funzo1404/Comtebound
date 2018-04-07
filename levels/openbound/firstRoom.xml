@@ -297,8 +297,8 @@
     </sprite>
     <sprite class='chest1' name='firstRoomChest6' x='278' y='1710'>
     	<action command='openChest' name='Ouvrir'>
-    		<args>firstRoomChest6,obj06,@! You got some ANCIENT SERPENT BONES!
-      @!:#where's-the-prawn-shop-in-this-bitch Again, a strange thing to find. Who here would have a memory of these? Huge prehistoric green serpents have always played a major role in your people's mythology, both before and after your session scratched. Of course, only people with an interest in ancient lore and dusty old bones give a crap about that. You're much more interested in their monetary value. Hopefully you can find a sucker to pay up for them big time.</args>
+    		<args>firstRoomChest6,obj06,@! Vous trouvez de VIEUX OS DE SERPENTS !
+      @!:#où-est-le-magasin-de-prêts-sur-plages-? Encore une fois, vous trouvez une chose bizarre. Qui ici aurait un souvenir de ces trucs ? Les énormes serpents verts préhistoriques ont toujours joué un rôle majeur dans la mythologie de votre peuple, que ce soit avant ou après avoir scratché votre session. Bien sûr, seules les personnes attirées par les traditions anciennes et les vieux os poussiéreux s’intéressent à ça. Vous êtes beaucoup plus attirée par leur valeur monétaire. Vous espérez que vous pourrez trouver rapidement un pigeon pour les revendre à prix d’or.</args>
     	</action>
     </sprite>
     <sprite class='chest1' name='firstRoomChest7' x='213' y='2097'>
