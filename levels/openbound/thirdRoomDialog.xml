@@ -390,7 +390,7 @@
 
 
 <action class='latulaTalk5' sprite='kankri' command='talk' name='Parle à Latula.'><args>
-      @kankri_talk KANKRI: 9h, hey, Latula. Il m’avais 6ien semblé entendre les crissements de t9n véhicule sur les diverses surfaces des envir9ns.   
+      @kankri_talk KANKRI: 9h, hey, Latula. Il m’avait 6ien semblé entendre les crissements de t9n véhicule sur les diverses surfaces des envir9ns.   
       @kankri_talk:#As-tu-fait-un...#Hang-10?#N9n-je-d9is-me-tr9mper...  KANKRI: T9uj9urs à faire des acr96aties avec t9n j9uet ? C9mment tu t’en s9rs ? Est-ce que tu as effectué 6eauc9up... 6eauc9up "d’air" ? C’est 6ien c9mme ça qu’9n dit ? 
       @latula_happytalk LATULA: b13n sur, bro !!!  
       @latula_stunt LATULA: tu n1m4g1n3s M3M3 p4s. j3 m3v4d3 3t v1r3volt3 d4ns tous l3s s3nz !!!!
@@ -401,7 +401,7 @@
       @kankri_talk KANKRI: 9ui. J’ai réfléchi dernièrement, à n9s n9uveaux amis p9st-scratch. Plus particulièrement au jeune Vantas, à la Pyr9pe qui l’acc9mpagne, et à quel p9int ils n9us ressem6lent, t9ut en étant p9urtant si différents.
       @latula_happier:#tu-4s-vu-son-costum3-d3-dr4gon-??-3333-!#TROP-m1gnonn3->8] LATULA: ou41s. l4 m1n1 mo1 3st 4v3ugl3 ! tu S4V41S ?? 
       @kankri_talk KANKRI: 9ui, mais ce n’est pas le pr9p9s.
-      @kankri_talk2 KANKRI: Elle et Karkat entretiennent une relati9n vraiment différente de la n9tre. La leur sem6le 6ien plus tur6ulente, vraisem6la6lement alimentée par des tensi9ns r9mantiques. Leur situati9n ne m’inspire rien de 69n. C’est malheureux à dire, mais ça me rassure de v9ir que n9us ne s9mmes jamais arrivés à ce stade là.
+      @kankri_talk2 KANKRI: Elle et Karkat entretiennent une relati9n vraiment différente de la n9tre. La leur sem6le 6ien plus tur6ulente, vraisem6la6lement alimentée par des tensi9ns r9mantiques. Leur situati9n ne m’inspire rien de 69n. C’est malheureux à dire, mais ça me rassure de v9ir que n9us ne s9mmes jamais arrivés à ce stade-là.
       @latula_talk LATULA: 3t ou41z. on 4 p4s b3so1n d3 c4 !
       @kankri_talk4:#Seri9usly.Sérieusement.#Je-veux-dire,-elle-est-sympa-mais...#Vraiment-? KANKRI: Je suis presque sûr que c’est lié au fait que n9us s9y9ns restés l9in de ce nid gr9uillant d'em6arras r9mantique. Ceci déc9ule, 6ien entendu, de m9n v9eu de céli6at qui, c9mme tu le sais, est juste un ch9ix pers9nnel, duquel, p9ur certaines rais9ns, ma versi9n adulte p9st scratch a finalement dévié… avec… Meulin,  de t9utes les pers9nnes que je c9t9ie ? Mais là n'est pas la questi9n. 
       @latula_laugh:#:3#h3h3h3h LATULA: h4h4h4h4... to1 3t m3uz. j’3n pl3urs d3 r1r3 4 ch4qu3 fo1s... H4H4H4H4H4H4-!!!! 
@@ -472,8 +472,7 @@
 
   <!-- if kankri talks to karkat -->
 <action class='karkatTalk1' sprite='kankri' command='talk' name='Parle à Karkat.'><args>
-      @kankri_talk:#"Att" KANKRI: Un instant s’il te plaît, Karkat. Je vais 6rièvement me pr9mener, en aut9n9mie. Je sais que tu es très impatient de c9ntinuer n9tre discussi9n, et je pr9mets que je vais revenir très vite p9ur que n9us puissi9ns reprendre. Reste juste là à cet endr9it précis, pendant que tu laisses la sagesse de mes m9ts s’enraciner dans t9n c9eur, et essaie de ne pas t'él9igner avec qui que ce s9it, d’acc9rd ? Je revien t9ut de suite.
-
+      @kankri_talk:#"Att" KANKRI: Un instant s’il te plaît, Karkat. Je vais 6rièvement me pr9mener, en aut9n9mie. Je sais que tu es très impatient de c9ntinuer n9tre discussi9n, et je pr9mets que je vais revenir très vite p9ur que n9us puissi9ns reprendre. Reste juste là à cet endr9it précis, pendant que tu laisses la sagesse de mes m9ts s’enraciner dans t9n c9eur, et essaie de ne pas t'él9igner avec qui que ce s9it, d’acc9rd ? Je reviens t9ut de suite.
       @karkat_eyeroll1 KARKAT: 
       <!--  -->
 </args></action>
@@ -483,7 +482,7 @@
   
 <!-- if you try to leave the room as a non-meenah character -->
 <action class='exitAlert' command='talk'><args>
-      @!:#bien-tenté Où est-ce que VOUS pensez aller ?! C’est la quête interactive dans l’au-delà de Meenah. Vous ne pouvez quitter cet endroit seulement si vous l’incarnez !
+      @!:#bien-tenté Où est-ce que VOUS pensez aller ?! C’est la quête interactive dans l’au-delà de Meenah. Vous ne pouvez quitter cet endroit que si vous l’incarnez !
 </args></action>
 
       <!-- if you examine locked door -->
