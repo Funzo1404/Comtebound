@@ -327,7 +327,7 @@
     </sprite>
     <sprite class='chest4' name='secondRoomChest10' x='1024' y='2896'>
     	<action command='openChest' name='Ouvrir'>
-    		<args>secondRoomChest10,obj14,  @! Vous trouvez une CROACEUSE !
+    		<args>secondRoomChest10,obj14,  @! Vous trouvez une CROACOUPEUSE !
       @!:#oh-putain-ce-truc-est-en-rubis-???#VIENS-VOIR-MAMAN N'importe quel adversaire tremble à la simple vue de ce carnage amphibien mortel. La terreur qu'il inspire est tellement écrasante que... ha ha, oui évidemment. Cette épée est presque trop ridicule pour être décrite avec des mots. Ça reste un objet qui sort de l'ordinaire.
 </args>
     	</action>
