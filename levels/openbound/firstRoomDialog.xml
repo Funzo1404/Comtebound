@@ -45,7 +45,7 @@
 </action>
 
    <!-- if meenah talks to karkat (while kankri is away)-->
-<action class='karkatTalk2' sprite='meenah' command='talk' name='Parle à Karkat.'>
+<action class='karkatTalk2' sprite='meenah' command='talk' name='Parle a Karkat.'>
 	<args>
       @meenah_idle MEENAH: (psst!)
       @meenah_happy MEENAH: (hey vantas)
