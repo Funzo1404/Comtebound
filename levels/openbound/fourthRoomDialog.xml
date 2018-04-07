@@ -3,7 +3,7 @@
 	@meenah_happy MEENAH: alors chonchon
   @meenah_happy MEENAH: ou... kankrat cest sar ?
   @meenah_angry MEENAH: jvoulais te demander... HEY !
-  @meenah_fish:#soupir MEENAH: ou est il poissé ?
+  @meenah_fish:#soupir MEENAH: ou il est poissé ?
   @meenah_wut2 MEENAH: cest si dur de se faire des amis
 </args></action>
 
@@ -13,15 +13,15 @@
 
 <action class='endTalk1' command='talk' name='Hey as-tu vu où le Vantas à la voix de stentor est allé ?'><args>
       @aranea_happytalk ARANEA: Oui, je l’ai vu se sauver il y a quelques minutes. Il est allé de ce côté, dans le souvenir de son vieux quartier.
-      @meenah_talk MEENAH: meuf quest ce qui ne va pas
+      @meenah_talk MEENAH: pfff quest ce qui lui prend
       @meenah_annoyedtalk:#ai-je-besoin-d’une-feuille-de-manta MEENAH: est ce que je pue de la gueule ou quoi
       @aranea_talk ARANEA: Je pense qu’il veut seulement être seul. Il a essayé de fermer ses souvenirs aux autres, sans réaliser que ces 8ulles peuvent être très perméable. Si le souvenir est suffisamment grand, les gens seront capable d’y errer à volonté.
-      @aranea_talk ARANEA: Il ne sera probablement pas très heureux de trouver davantage de nos amis traîner ici.
-      @meenah_talk MEENAH: oh merde il y a plus bancien membres du gang de ce cote
+      @aranea_talk ARANEA: Il ne sera probablement pas très heureux de trouver davantage de nos amis traîner là-bas.
+      @meenah_talk MEENAH: oh merde il y a d’autres membres de la fine équipe de ce cote
       @meenah_talk:#ouais-plus-de-cretins-inutiles MEENAH: je pense que je feraie mieux daller leurre parler a eux eaussi
       @meenah_talk MEENAH: jvais certainement devoir tirer chonchon daffaire ENCORE UNE FOIS
       @meenah_wut2 MEENAH: ce gamin me donne tellement de boulot
-      @aranea_happytalk ARANEA: C’est sûrement pour cela que tu est o8sédé par lui.
+      @aranea_happytalk ARANEA: C’est sûrement pour cela que tu es o8sédé par lui.
       @meenah_idle MEENAH: la ferme
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
@@ -38,7 +38,7 @@
       @aranea_happytalk ARANEA: Alors, quel sujet ce sera ?
       @meenah_idle:#je-raieflechis MEENAH: une seconde !
       @aranea_talk ARANEA: Tu n'arrives pas à te décider ?
-      @meenah_annoyedtalk MEENAH: non je narrive pas a decider si tecouter en vaut la peine meme si tu me paies
+      @meenah_annoyedtalk MEENAH: non jarrive pas a decider si tecouter en vaut la peine meme si tu me paies
       @aranea_annoyed ARANEA: >::::(
       @aranea_happytalk ARANEA: Là, je sais que tu te fiches de moi. Je sais que tu ne peux pas dire non à de l'argent facile.
       @meenah_talk:#si-je-mendorade-est-ce-que-je-suis-payee-quand-meme MEENAH: ouais tas raison
@@ -51,9 +51,9 @@
 <action class='endTalk3' command='talk' name='Parle moi de Kankri Vantas'><args>
       @aranea_happytalk ARANEA: Le Voyant du Sang joua un rôle assez différent dans notre équipe que celui de son successeur, malgré le fait que son potentiel en tant que joueur du Sang ait été similairement peu exploité. Ce fut seulement quand il grandit sur Alternia qu'il commença à puiser dans ses capacités, déclenchant des souvenirs de nos vies sur 8eforus, et de ce que nous avons tous traversé.
       @aranea_happytalk ARANEA: Il se souvint de nos mœurs plus pacifistes, et de son désir d'unir le peuple. En tant qu'adulte il fut capa8le de faire ceci 8ien plus efficacement et avec maturité. Héroïquement, même. Il apprit comment inspirer les autres, et être un vérita8le leader, même quand les o8stacles s'accumulaient devant lui dans cette culture violente. Cela lui coûta sa vie, mais son message lui survécut. Je crois que le Chevalier du Sang porte maintenant son fardeau, qu'il ait décidé de l'accepter ou pas.
-      @aranea_happytalk ARANEA:  8eaucoup d'entre nous sur Alternia grandirent pour devenir secrètement des partisans de ses enseignements. Et 8eaucoup d'entre nous les suivent encore, même si avec un peu plus de détachement. Parce que nous sommes morts ! Personnellement, je me considère plus comme une « fan » de son histoire, et de ce qu'elle représente. Non seulement le potentiel caché en notre ami, qu'il n'a jamais pu trouver, mais aussi le potentiel caché en tout notre peuple.
-      @aranea_happytalk ARANEA: Pendant notre session, les épreuves de Kankri en tant que leader furent tout aussi frustrantes que celles de son successeur. Il fut très difficile pour lui d'o8tenir des autres qu'ils ne le prennent au sérieux. Alors que tu essayais souvent de nous diviser par tes manigances, et nous retourner les uns contre les autres pour nous rendre plus forts, sans succès, si j'ose dire, il essayait de nous unir à travers du prosélytisme et des sermons, avec tout aussi peu de succès. 
-      @meenah_annoyedtalk MEENAH: wow cetait vraiment un tas de truc que je savais déjà
+      @aranea_happytalk ARANEA:  8eaucoup d'entre nous sur Alternia grandirent pour devenir secrètement des partisans de ses enseignements. Et 8eaucoup d'entre nous les suivent encore, bien qu'avec un peu plus de détachement. Parce que nous sommes morts ! Personnellement, je me considère plus comme une « fan » de son histoire, et de ce qu'elle représente. Non seulement le potentiel caché en notre ami, qu'il n'a jamais pu trouver, mais aussi le potentiel caché en tout notre peuple.
+      @aranea_happytalk ARANEA: Pendant notre session, les épreuves de Kankri en tant que leader furent tout aussi frustrantes que celles de son successeur. Il fut très difficile pour lui d'o8tenir des autres qu'ils le prennent au sérieux. Alors que tu essayais souvent de nous diviser par tes manigances, et nous retourner les uns contre les autres pour nous rendre plus forts, sans succès si j'ose dire, il essayait de nous unir à travers du prosélytisme et des sermons, avec tout aussi peu de succès. 
+      @meenah_annoyedtalk MEENAH: wow cetait vraiment un tas de truc que je savais deja
       @aranea_happier ARANEA: Oui ! Et maintenant c'est plus frais que jamais dans ta mémoire. Merci d'avoir écouté, et voici tes cinq 8oon8ucks !
       @meenah_creepy MEENAH: plaisir de faire des affaires avec toi
       <!--  -->
