@@ -1,113 +1,113 @@
 <sburb><classes>
-<action class='araneaDialog1' name='Talk to Aranea.' command='talk'><args>
+<action class='araneaDialog1' name='Parle à Aranea.' command='talk'><args>
       @aranea_happier ARANEA: Te voilà ! 
-      @aranea_happy:#Everyone-has-missed-you! ARANEA: 
-      @meenah_talk MEENAH: 
-      @aranea_talk:#Wordplay#8-letter-words#Oh-yes ARANEA: 
-      @meenah_creepytalk:#splosions MEENAH: 
-      @meenah_happytalk:#skull-guy#laser-breath MEENAH: 
-      @meenah_idle:#uh MEENAH: 
-      @meenah_talk MEENAH: 
-      @aranea_annoyedtalk:#8ad-juju ARANEA: 
-      @meenah_annoyed MEENAH: 
-      @meenah_talk:#heheh MEENAH: 
-      @aranea_madtalk:#Ghost-murder#Second-death#Soulicide ARANEA: 
-      @meenah_idle:#... MEENAH: 
-      @meenah_annoyedtalk:#dumb MEENAH:  
-      @aranea_happytalk:#Like-you ARANEA: 
-      @meenah_fish MEENAH:  
-      @meenah_talk:#fishpuns#2xcombo#booyeah MEENAH: 
-      @meenah_creepy MEENAH: 
-      @meenah_creepylaugh:#like-school-of-fishes-i-mean#38D#38D#38D MEENAH:  
-      @aranea_talk:#Um........ ARANEA: 
-      @aranea_think:#!!!!!!!! ARANEA: 
-      @meenah_idle MEENAH: 
-      @meenah_happytalk:#this-time-i-might-not-even-blow-yall-up-w-a-bomb MEENAH: 
-      @aranea_surprised ARANEA: 
-      @aranea_happier:#I'm-very-curious! ARANEA: 
-      @meenah_angrytalk:#duh MEENAH: 
-      @aranea_angry ARANEA: 
-      @aranea_facepalmtalk:#Poor-death-choices ARANEA: 
-      @meenah_idle MEENAH: 
-      @meenah_happy MEENAH: 
-      @aranea_happy ARANEA: 
+      @aranea_happy:#Tu-as-manqué-à-tout-le-monde-! ARANEA: On ne t’a pas 8eaucoup vue depuis que tu nous as rejoints dans l’audelà. Je sais que tu fais partie de la "royauté" et tout, mais ce n’est pas très poli de ta part de t’enfermer dans ton somptueux nid lunaire pour toujours.
+      @meenah_talk MEENAH: ben je suis la maintenant hein
+      @aranea_talk:#Jeu-de-mots#Mots-en-8-lettres#Oh-oui ARANEA: Et c’est une 8onne chose que tu le sois. Je m’apprêtais à venir te voir, afin de discuter de cette récente... calamité. En li8erté dans l’a8ysse.
+      @meenah_creepytalk:#splosions MEENAH: ouais !!! donc tu las vu aussi hein
+      @meenah_happytalk:#le-mec-au-crane#souffle-laser MEENAH: cetait lui pas vrai
+      @meenah_idle:#uh MEENAH: lord marin truc
+      @meenah_talk MEENAH: calhuitreborn ? ctait quoi son nom deja
+      @aranea_annoyedtalk:#Mauvais-juju ARANEA: J’aimerais éviter d’avoir à dire son vrai nom.
+      @meenah_annoyed MEENAH: cest quoi le probleme
+      @meenah_talk:#heheh MEENAH: il est deja la cest ca
+      @aranea_madtalk:#Meurtre-fantôme#Seconde-mort#Espricide ARANEA: J’imagine. Néanmoins, oui, le Seigneur du Temps était 8ien le responsa8le de la destruction de cette 8ulle onirique, ainsi que du meurtre de tous ces fantômes innocents.
+      @meenah_idle:#... MEENAH: fantomes innocents
+      @meenah_annoyedtalk:#stupide MEENAH: tuer des fantomes en tant que chose qui puisse arriver est lune des conneries les plus stupides que jai jamais entendues
+      @aranea_happytalk:#Comme-toi ARANEA: Ce n’est pas moi qui décide des règles, Meenah. Je me contente de les o8server, et de les expliquer en détail aux personnes prêtes à écouter.
+      @meenah_fish MEENAH: ouais
+      @meenah_talk:#combo-jeux-de-mots-marins-x2#booyeah MEENAH: la derniere chose dont jai besoin est ancre plus de rhomardques venant de toi 
+      @meenah_creepy MEENAH: quoi quil en soit cette explosion etait mortelle
+      @meenah_creepylaugh:#vive-les-explosions#38D#38D#38D MEENAH: bardel quest ce que cest cool !!! 38D 
+      @aranea_talk:#Um........ ARANEA: J’admets que tout cela est 8ien plus excitant que tout ce que nous avons pu voir ici depuis des millénaires. Mais tous ceux résidant dans l’audelà sont en danger de mort !!!!!!!! 
+      @aranea_think:#!!!!!!!! ARANEA: Une fois de plus.
+      @meenah_idle MEENAH: ouais jai pige
+      @meenah_happytalk:##ptetre-meme-que-je-le-ferai-sans-vous-faire-peter-une-bombe-dans-la-tronche MEENAH: donc jen deduis quil va falloir que je joue les heroines pour sauver vos culs une fois de plus
+      @aranea_surprised ARANEA: Oh vraiment ?
+      @aranea_happier:#J’aimerais-8ien-le-savoir-! ARANEA: En quoi consiste ton plan exactement ?
+      @meenah_angrytalk:#duh MEENAH: rassembler tous les fantomes ici pour faire une equipe et tuer ce trou du cul 
+      @aranea_angry ARANEA: Quoi ?!
+      @aranea_facepalmtalk:#Triste-façon-de-mourir ARANEA: Oh, Meenah. C’est une si mauvaise idée.
+      @meenah_idle MEENAH: ouais cest ca
+      @meenah_happy MEENAH: comme si tavais un meilleur plan
+      @aranea_happy ARANEA: Il se pourrait 8ien qu’en fait, oui ! ::::)
       <!--  -->
 </args></action>
 
-<action class='araneaDialog2' name='Ask about friends.' command='talk'><args>
-      @meenah_talk:#dead-fronds#ghostbros#haunt-pals#idk MEENAH: so where is everymoby i wanna talk to them bout somefin
-      @aranea_talk ARANEA: 
-      @aranea_think ARANEA: 
-      @aranea_happytalk ARANEA: 
-      @meenah_creepy:#alpha-troll-reunion-yo MEENAH:
-      @meenah_wink MEENAH: 
-      @meenah_happytalk:#losers#losing-experts#lossmasters#failpros MEENAH: 
-      @meenah_talk MEENAH: 
-      @meenah_wut:#teamfork#lol MEENAH: 
-      @meenah_happy:#or-maybe... MEENAH: 
-      @meenah_happier MEENAH: 
-      @meenah_ohyes:#so-sick MEENAH: 
-      @aranea_madtalk ARANEA: 
-      @aranea_annoyedtalk ARANEA: 
-      @meenah_fish MEENAH: 
-      @aranea_happy:#Patience#Peixes#Alliterative-assonance ARANEA:  
-      @aranea_happytalk ARANEA: 
-      @meenah_idle MEENAH: 
-      @meenah_annoyed MEENAH: 
-      @aranea_annoyedtalk:#Weaprawn?#Really,-Meenah? ARANEA: 
-      @aranea_happytalk:#Aliens ARANEA: 
-      @aranea_talk:#Xeno8iologically-fascinating-species ARANEA:   
-      @aranea_talk:#Or-so-the-legend-goes ARANEA: 
-      @aranea_madtalk ARANEA: 
-      @meenah_annoyed:#uh MEENAH: 
-      @meenah_wut2 MEENAH: 
-      @meenah_annoyedtalk MEENAH: 
-      @meenah_annoyedtalk MEENAH: 
-      @meenah_creepytalk:#ghost-army#beeyotch#fyeah MEENAH: 
-      @aranea_happytalk ARANEA: 
-      @aranea_talk:#Like,-almost-eternity ARANEA: 
-      @aranea_talk:#I-hope-you-like-frustrating-conversations ARANEA: 
-      @meenah_annoyed MEENAH: 
-      @meenah_talk:#chumps#shame-globes#chumpiness#globage MEENAH: 
-      @meenah_happytalk MEENAH: 
-      @meenah_creepylaugh:#batterwitch#waterbitch#omfg#yes#yes#yes#yes MEENAH: 
-      @aranea_happytalk ARANEA: 
-      @aranea_happy:#::::) ARANEA:  
-      @meenah_fishtalk MEENAH: 
+<action class='araneaDialog2' name='Demande-lui pour tes amis.' command='talk'><args>
+      @meenah_talk:#amis-morts#frangins-fantomes#copains-spectraux#jsais-pas MEENAH: donc ou sont passes tous les potos jai besoin de leur parler de quelque chose
+      @aranea_talk ARANEA: Je pense que la plupart de nos amis se sont rassem8lés dans cette 8ulle onirique.
+      @aranea_think ARANEA: Tu devrais pouvoir les trouver en cherchant un peu.
+      @aranea_happytalk ARANEA: De quoi veux-tu leur parler ?
+      @meenah_creepy:#reunion-des-trolls-alpha-yo MEENAH:jdois re assembler notre gang
+      @meenah_wink MEENAH: faut eliminer le connard du temps
+      @meenah_happytalk:#losers#experts-en-lose#losermasters#pros-de-lechec MEENAH: tu dis quil est invincible mais cest justement le genre de conneries de loser qui nous fout la lose comme une putain de bande de losers
+      @meenah_talk MEENAH: on peut le faire si genre
+      @meenah_wut:#travail-depique #lol MEENAH: on se met a travailler ensemble et tout
+      @meenah_happy:#ou-bien... MEENAH: si on cree une armee
+      @meenah_happier MEENAH: une armee FANTOM-E 38D
+      @meenah_ohyes:#trop-dement MEENAH: imagine a quel point ce serait glubain de dement
+      @aranea_madtalk ARANEA: Dément, peut-être. Mais pas très stratégique !
+      @aranea_annoyedtalk ARANEA: Tu vas juste entrainer tout le monde dans l’ou8li éternel. Du moins si tu ne mets pas au point un meilleur plan entre-temps.
+      @meenah_fish MEENAH: alors cest quoi ton idee geniale
+      @aranea_happy:#Patience#Peixes#Assonance-allitérative ARANEA: Être un peu plus patients.
+      @aranea_happytalk ARANEA: Je suis sur la piste d’une arme secrète qui pourrait 8ien être la clé pour faire pencher les chances en notre faveur face à lui.
+      @meenah_idle MEENAH: oh vraiemanta
+      @meenah_annoyed MEENAH: et cest quoi cette lame
+      @aranea_annoyedtalk:#Lame-?#Vraiment,-Meenah-? ARANEA: La lame........ l’arme, je veux dire, n’est pas un quoi, mais un qui.
+      @aranea_happytalk:#Aliens ARANEA: Il s’agit de l’autre chéru8in. L’équivalent féminin du Seigneur, avec qui il partageait autrefois le même corps.
+      @aranea_talk:#Espèce-xéno8iologiquement-fascinante ARANEA: Mais lorsqu’ils atteignirent leur maturité, sa personnalité domina l’hôte, lui assurant un contrôle complet
+      @aranea_talk:##Du-moins-d’après-la-légende ARANEA: 
+      @aranea_madtalk ARANEA: Nous devons la retrouver avant lui. Il va sûrement essayer de l’achever pour de 8on.
+      @meenah_annoyed:#uh MEENAH: cherubin
+      @meenah_wut2 MEENAH: quoi
+      @meenah_annoyedtalk MEENAH: ok jai absolument rien suivi de cette merde donc uh
+      @meenah_annoyedtalk MEENAH: va trouver ta fille cherubin
+      @meenah_creepytalk:##armee-fantome#peythasse#ptain-ouais MEENAH: je srai la en train de construire mon armee fantome
+      @aranea_happytalk ARANEA: Très 8ien. 8onne chance avec tout ça !
+      @aranea_talk:#Voir-même-une-éternité ARANEA: Mais tâche de te souvenir que cela fait très longtemps qu’un seul de nos amis a fait quoi que ce soit d’important.
+      @aranea_talk:#J’espère-que-tu-aimes-les-conversations-frustrantes ARANEA: Trouver des recrues pour ton armée risque 8ien d’être plus dur que tu ne le penses.
+      @meenah_annoyed MEENAH: ok
+      @meenah_talk:#ballots#globes-honteux#ballotitude#globage MEENAH: jadmets que la plupart dentre eux etaient ballots comme des globes quand on essayait de gagner notre partie
+      @meenah_happytalk MEENAH: mais lorsque jen aurais fini avec eux ils seront enfin devenus la machine enculeuse de cherubins que notre peuple a toujours ete cense etre
+      @meenah_creepylaugh:#sorciere-patissiere#tyran-des-mers#omfg#yes#yes#yes#yes MEENAH: et si tu men crois pas capable D-EVRAIS-JE T-E RAPP-EL-ER qui je suis devenue dans une dimension alternative ou un truc du genre
+      @aranea_happytalk ARANEA: Nul 8esoin de me le rappeler, Votre Condescendance.
+      @aranea_happy:#::::) ARANEA: Je sais que vous avez été élevée dans l’optique de devenir une despote, et je prie afin que tout 8aigne pour votre campagne de harcèlement et d’intimidation.
+      @meenah_fishtalk MEENAH: aw tes la meilleure serket viens la 38*
       <!--  -->
 </args></action>
 
-<action class='roseDialog1' name='Talk to Rose.' command='talk'><args>
+<action class='roseDialog1' name='Parle à Rose.' command='talk'><args>
       @meenah_creepy MEENAH: hey!!!!
-      @rose_idle ROSE: 
-      @meenah_annoyed MEENAH: 
-      @meenah_happier MEENAH: 
-      @rose_idle ROSE: 
-      @meenah_wut:#where-da-horns-at#so-weird MEENAH: 
-      @rose_talk ROSE: 
-      @rose_talk ROSE: 
-      @meenah_talk MEENAH: 
-      @rose_concern ROSE: 
-      @meenah_wut2 MEENAH: 
-      @rose_annoyedtalk ROSE: 
-      @meenah_wut2 MEENAH: 
-      @rose_happytalk:#I-can-kind-of-relate,-actually. ROSE: 
-      @rose_concern:#Beforan-moon ROSE: 
+      @rose_idle ROSE: Bonjour.
+      @meenah_annoyed MEENAH: cest uh
+      @meenah_happier MEENAH: TOI
+      @rose_idle ROSE: Oui.
+      @meenah_wut:#sont-ou-les-cornes#trop-zarb MEENAH: lhumaine hein
+      @rose_talk ROSE: C’est bien ça.
+      @rose_talk ROSE: Rose, plus spécifiquement.
+      @meenah_talk MEENAH: osef ecoute fille humaine jvoudrais te demander un truc
+      @rose_concern ROSE: Tu n’es pas très douée pour ça, pas vrai ?
+      @meenah_wut2 MEENAH: hein
+      @rose_annoyedtalk ROSE: Parler aux gens.
+      @meenah_wut2 MEENAH: hey va te faire
+      @rose_happytalk:##Je-suis-un-peu-pareille,-pour-être-honnête. ROSE: Ce n’est pas un problème en soi. Je ne suis pas là pour critiquer.
+      @rose_concern:#Lune-beforienne ROSE: J’ai entendu des choses sur toi. Le paysage rocailleux rose là-bas. C’est un souvenir de ta maison, je me trompe ? 
       @meenah_annoyed:#... MEENAH: 
-      @rose_talk ROSE: 
-      @meenah_wut2 MEENAH: 
-      @rose_happytalk:#Abyss-madness#Meteor-fever ROSE: 
-      @meenah_annoyed MEENAH: 
-      @rose_coytalk:#Also,-I-like-your-braids. ROSE: 
-      @rose_concern ROSE: 
-      @meenah_idle:#dot#dot#dot MEENAH: ...
-      @rose_happytalk ROSE: 
-      @meenah_annoyed MEENAH: 
-      @meenah_annoyedtalk MEENAH: 
-      @meenah_talk:#altpun-=#discernabubble MEENAH: 
-      @meenah_happytalk:#goddamn-ugly MEENAH: 
-      @meenah_creepylaugh:#fuchsia-blows-orange-out-of-the-water MEENAH: 
-      @meenah_annoyed MEENAH: 
+      @rose_talk ROSE: Tu t’es enfuie sur cette lune après avoir refusé le trône, c’est ça ? Et ensuite tu as vécu là-bas complètement seule pendant... combien d’années déjà ?
+      @meenah_wut2 MEENAH: cest quoi des annees
+      @rose_happytalk:#Folie-de-l’abîme#Fièvre-du-météore ROSE: Je pense que je suis moi-même en train de perdre la notion de ce qu’est une année. On dirait que c’est ce qui arrive quand on passe trop de temps par ici.
+      @meenah_annoyed MEENAH: uh
+      @rose_coytalk:#Aussi,-j’adore-tes-nattes. ROSE: Je suis juste curieuse à propos de toi. Tu m’as l’air d’être une personne intéressante qui a beaucoup de choses à raconter.
+      @rose_concern ROSE: De ce que j’ai compris, tu as découvert quelque chose sur la lune qui contenait ta copie du jeu. Est-ce que c’est vrai ?
+      @meenah_idle:#point#point#point MEENAH: ...
+      @rose_happytalk ROSE: Peut-être pourrait-on passer un peu de temps ensemble afin de mieux se connaître ? Quand tu auras le temps, bien sûr.
+      @meenah_annoyed MEENAH: mon dieu
+      @meenah_annoyedtalk MEENAH: tes comme blablafang en alien
+      @meenah_talk:#alternativement-=#appatrente MEENAH: toute bavarde et fouineuse et gentille avec moi sans aucune raison discernabulle
+      @meenah_happytalk:#affreusement-moche MEENAH: tas meme le pyjama de tirant divin qui va avec
+      @meenah_creepylaugh:#le-fuschia-demonte-completement-lorange MEENAH: juste une pipelette en orange vif
+      @meenah_annoyed MEENAH: oublie que je tai parle kay
       <!--  -->
 </args></action>
 
