@@ -40,7 +40,7 @@
 </sprite>
 
 <sprite class='chest1' name='fourthRoomChest1' x='166' y='498'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>fourthRoomChest1,secretObj, @! Vous obtenez un CALENDRIER CHEVAL FOUGEUX DE 2010 !
       @!:#mal-à-mes-Joues-Rouges Vous le feuilletez et... ouaip. Hearts Boxcars est toujours en train d'élever ses putain de chevaux.</args>
     	</action>
