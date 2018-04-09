@@ -503,7 +503,7 @@
 			<action class='latulaTalk2' />
 			<action class='latulaTalk3'>
 				<action command='openChest'>
-					<args>latula,skateboard,@!:#AWWW-YEAH#WHAT'S-UP-GAMERS You got LATULA'S FOUR WHEEL DEVICE!</args>
+					<args>latula,skateboard,@!:#AWWW-YEAH#WHAT'S-UP-GAMERS Vous obtenez le VÉHICULE À QUATRE ROUES DE LATULA !</args>
 					<action command='playAnimation'>
 						<args>latula,walkFront</args>
 						<action command='removeAction'>
@@ -576,57 +576,57 @@
 		</sprite>
     
     <sprite class='chest4' name='thirdRoomChest1' x='354' y='1150'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest1,obj23,@! Vous trouvez une PAIRE DE CORNES !
       @!:#affaire-classée C’est la chose la plus ridicule que vous n’ayez jamais vu. Pourquoi donc quelqu’un souhaiterait-il porter une seconde paire de cornes ? À moins peut-être que cela soit pour compenser une paire particulièrement rachitique… oh, vous venez de comprendre ! Les humains doivent les porter en prétendant être des trolls, et par la même occasion avoir l’air moins stupides. Celles-ci appartiennent clairement à un humain. </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest2' x='526' y='1150'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest2,obj24, @! Vous trouvez une LANCE !
       @!:#meenah-n’a-aucune-idée-de-ce-dont-on-parle Ce truc a clairement bourlingué dans tous les sens. Voyons, Tavros l’a eu, mais il s’est fait empaler avec. La Reine Noire l’a eu, et l’utilisait parfois comme fume-cigare, lorsqu’elle était Snowman. Spades Slick l’a brandie pendant qu’il chevauchait sa monture en fonte une fois. Il vous semble que Snowman a tué Quarters avec. C’est arrivé sur la bannière en haut de la page par contre, donc vous l’avez peut-être raté…</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest3' x='663' y='1150'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest3,obj25,@! Vous trouvez un PENDENTIF DE L’ENDUREUR !
       @!:#héhé#maintenant-que-vous-y-pensez#peut-être-allez-vous-en-porter-un-vous-aussi C’est le Signe de l’Assigné. L’histoire de l’Endureur est devenue très populaire au sein de votre ancienne équipe en tant que sorte de mode religieuse, une fois morts et ayant appris les vies de leurs versions post-scratch. Aranea, notamment, a l’air d’avoir complètement gobé ce non-sens. Elle n’avait jamais rien porté autour de son cou AVANT de mourir. Vous vous demandez si les gens s’y sont mis juste pour embêter Vantas ? Vous savez juste que ça le fait chier, de voir les gens porter ce truc tout le temps.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest4' x='1623' y='1150'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest4,obj26,@! Vous trouvez une LIASSE ENTIÈRE DE BOONDOLLARS !
       @!:#comment-cela-s’intègre-dans-cette-métaphore-absurde-de-tumblr#haussement-d’épaules Et ça continue ! Vous serez de nouveau riche en un rien de temps. Très bientôt, cet endroit vous appartiendra. Juste après l’avoir sauvé de sa destruction, évidemment.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest5' x='1794' y='1150'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest5,obj27,@!:#toute-cette-thune#3B) Vous trouvez une PILE ENTIÈRE DE BOONDOLLARS !
       @!:#faites-avec Certains de ces messages n’ont pas vraiment de sens à part si vous êtes Meenah, mais vous n’allez pas vous laisser déranger pour si peu.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest6' x='1959' y='1150'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest6,obj28, @! Vous trouvez une CHIFFONNIÈRE !
       @!:#planète-nulle#noms-de-planètes-nuls Un modèle populaire de tronçonneuse de la marque PESTE DÉMONIAQUE. Tout du moins, populaire sur Alternia. Votre planète n’a jamais été assez géniale pour laisser ce genre de choses se vendre légalement. Beforus était tellement nulle.
 </args>
     	</action>
     </sprite>
     <sprite class='chest5' name='thirdRoomChest7' x='320' y='2084'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest7,obj29, @! Vous trouvez des SOUVENIRS RELIGIEUX AUTHENTIQUES !
       @!:#fers#endureur#authentiques#(ou-aussi-authentiques-que-peuvent-l’être-des-objets-fantômes) Ces trucs furent les bidules auquel fut enchaîné le Vantas adulte post-scratch lorsqu’il mourut. Vous pariez que Serket serait prête à débourser des sommes folles pour cette camelote. Les passionnés de religion sont les plus gros pigeons aux alentours.</args>
     	</action>
     </sprite>
     <sprite class='chest5' name='thirdRoomChest8' x='2012' y='2092'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest8,obj30,@! Vous trouvez un JUJU !
       @!:#ok-vous-avez-le-droit-à-un-indice#le-numéro-7 Ça ressemble à un MINUTEUR, que vous pouvez utiliser pour voyager dans le temps, bêtement et au hasard. C’est le type d’objet qui a tendance à mettre le bazar dans le continuum. Il vous faudrait un DESTRUCTEUR DE JUJU pour détruire un tel objet et réparer les dommages qu’il aurait causés. Mais ce genre de choses est extrêmement rare voire inexistant. Vous n’avez pas la moindre idée de la forme qu’un tel objet pourrait prendre.
 </args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest9' x='2628' y='2620'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest9,obj31,@! Vous trouvez une MONTURE EN FONTE ONDULÉE !
       @!:#un-incroyable-hôte Qui a donc pu faire ça à un étalon de fonte si bien ciselé ? Qui que ce soit il devait être incroyablement fort, incroyablement arrogant, et incroyablement inerte si on le secoue.</args>
       	<action command='removeAction'>
@@ -640,25 +640,25 @@
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest10' x='3156' y='2604'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest10,obj32,@! Vous trouvez une BOULE BLANCHE MAGIQUE !
       @!:#ouais#...#normalement Hé, ce truc est aussi un juju ? C’est une honte que vous ne puissiez pas voir à l’intérieur, autrement vous seriez en mesure de lui poser la question vous-même. Encore une chose assez troublante à trouver ici. Une bonne chose que cela ne soit qu’un morceau de mémoire pas vrai ?</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest11' x='3232' y='2604'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest11,obj33,@! Vous trouvez une RÉGIFAUCILLE !
       @!:#troll-will-smith Parfaite pour tuer de la royauté. Vous pourriez presque dire que vous pourriez l’utiliser pour… tuer des princes.</args>
     	</action>
     </sprite>
     <sprite class='chest4' name='thirdRoomChest12' x='3936' y='2600'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest12,obj34,@! Vous trouvez un ROMAN D’AMOUR TROLL !
       @!:#LAAAAALOOOOONDE-!!!!!!!!!! Waouh, voilà certainement de la bonne littérature torride de pacotille. Elle vous fait déjà un peu transpirer, alors que vous en êtes à peine qu’à la troisième phrase du titre. On dirait que personne ne regarde. Peut-être allez-vous y jeter un très rapide coup d’oei-... Oups, il vient de disparaître en un éclair une fois de plus. Bon Dieu.</args>
     	</action>
     </sprite>
     <sprite class='chest5' name='thirdRoomChest13' x='2932' y='2120'>
-    	<action command='openChest' name='open'>
+    	<action command='openChest' name='ouvrir'>
     		<args>thirdRoomChest13,obj35,@! Vous trouvez une poignée de TERRIERS ÉCOSSAIS EN RÉGLISSE !
       @!:#à-part-que-vous-venez-de-presque-tous-les-manger#ça-valait-le-coup Oh mon dieu, ces trucs étaient considérés comme un met délicat sur votre planète. La friandise la plus chère au kilo. Vous deviez être une personne très, très riche pour en posséder autant. Si vous les vendez, vous devriez être capable de récupérer une bonne partie de votre fortune d’un seul coup !!!!!</args>
     	</action>
