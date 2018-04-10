@@ -138,43 +138,43 @@
       <!--  -->
 </args></action>
 
-<action class='porrimTalk1' sprite='meenah' command='talk' name='Talk to Porrim.'><args>
-      @porrim_happy PORRIM: 
-      @meenah_idle MEENAH: 
-      @porrim_talk PORRIM: 
-      @meenah_talk:#dag MEENAH: 
-      @porrim_talk PORRIM: 
-      @porrim_annoyedtalk:#Bubblr PORRIM: 
-      @porrim_happytalk PORRIM: 
-      @meenah_idle MEENAH: 
-      @meenah_happytalk MEENAH: 
-      @porrim_happytalk:#Nicely-do+ne. PORRIM: 
-      @meenah_wut2:#poor-shouty-38( MEENAH: yeaaah
-      @meenah_annoyedtalk MEENAH: 
-      @porrim_laugh PORRIM: 
-      @porrim_happytalk PORRIM: 
-      @meenah_talk MEENAH: 
-      @porrim_talk PORRIM: 
-      @porrim_annoyedtalk:Pantskan PORRIM: 
-      @meenah_happytalk MEENAH: 
-      @porrim_annoyed2 PORRIM: 
-      @porrim_annoyed2 PORRIM: 
-      @meenah_idle MEENAH: 
-      @meenah_fishtalk MEENAH: 
-      @porrim_happy PORRIM: 
-      @meenah_creepylaugh MEENAH: 
-      @meenah_wut:#goddamn-radgirl MEENAH: 
-      @meenah_wut2 MEENAH: 
-      @porrim_happier PORRIM: 
-      @meenah_idle MEENAH: 
-      @meenah_talk MEENAH: 
-      @meenah_wink:#uh... MEENAH: 
-      @porrim_talk PORRIM: 
-      @meenah_idle MEENAH: 
-      @meenah_talk:#glub-exactly-zero-fucks MEENAH: 
-      @meenah_happytalk MEENAH: 
-      @porrim_talk PORRIM: 
-      @porrim_happytalk PORRIM: 
+<action class='porrimTalk1' sprite='meenah' command='talk' name='Parle à Porrim.'><args>
+      @porrim_happy PORRIM: Rebo+njo+ur.
+      @meenah_idle MEENAH: quoi de neuf maryam
+      @porrim_talk PORRIM: Alo+rs, to+n certificat de décès est à peine imprimé, et j’entends déjà dire que tu travailles à réunir une armée ?
+      @meenah_talk:#putain MEENAH: comment tu as fait pour savoir ca si tot
+      @porrim_talk PORRIM: Les no+uvelles vo+nt vite ici. Il y a beauco+up de rago+ts.
+      @porrim_annoyedtalk:#Bubblr PORRIM: Perso+nne ne te prépare au fait que l’autre cô+té de la mo+rt so+it une éternelle et infinie répétitio+n de drama d’ado+lescents.
+      @porrim_happytalk PORRIM: C’est drô+le de se dire que quand o+n a quitté no+tre mo+nde po+ur jo+uer à to+n jeu, o+n pensait to+us qu’o+n laissait no+s jo+urs de bavardage juvénile derrière no+us.
+      @meenah_idle MEENAH: ouais
+      @meenah_happytalk MEENAH: raison de plus pour partir dici et se battre contre des mechants et tout
+      @porrim_happytalk:#Bien-jo+ué. PORRIM: J’ai vu to+n astucieuse esquive po+ur éviter de renco+ntrer Kankri là-bas
+      @meenah_wut2:#pauvre-chonchon-38( MEENAH: ouaiiiis
+      @meenah_annoyedtalk MEENAH: personne ne merite davoir a rencontrer un ancetre ado mort dunivers alternatif comme celui la
+      @porrim_laugh PORRIM: Je cro+is qu’il s’imagine qu’il va le prendre so+us so+n aile
+      @porrim_happytalk PORRIM: O+u, à défaut d’aile, la manche ro+uge duveteuse de so+n pull.
+      @meenah_talk MEENAH: cest quoi le truc avec cette chose moche dailleurs
+      @porrim_talk PORRIM: C’est mo+i qui lui ai fait, po+ur dire vrai.
+      @porrim_annoyedtalk:Pantskan PORRIM: Pour ma défense, j’étais fatiguée de le vo+ir po+rter so+n stupide pantalo+n de rando+nnée, toujo+urs le même. Sérieusement, est-ce que tu l’as déjà vu po+rter autre cho+se ?
+      @meenah_happytalk MEENAH: haha non
+      @porrim_annoyed2 PORRIM: Tellement démo+dé.
+      @porrim_annoyed2 PORRIM: Et puis il frisso+nnait to+ut le temps. Il peut faire assez fro+id par ici, et il ne vo+ulait to+ut simplement rien po+rter d’autre. Pas que je m’en inquiétais tro+p, mais il avait cette manière de mo+ntrer o+stensiblement sa so+uffrance, co+mme si c’était une so+rte d’état vertueux. Ça devenait co+mpliqué po+ur to+ut le mo+nde de le suppo+rter, d’o+ù so+n surno+m.
+      @meenah_idle MEENAH: attends un surnom
+      @meenah_fishtalk MEENAH: si il y a de nouveaux bails sur vantas je dois en entendre parler presteau
+      @porrim_happy PORRIM: L’impo+seur.
+      @meenah_creepylaugh MEENAH: putain oui tope la
+      @meenah_wut:#satane-radgirl MEENAH: attends non mes mains sont toujours douloureuses a cause de latula
+      @meenah_wut2 MEENAH: elle tape FORT cette pute
+      @porrim_happier PORRIM: O+h, je sais.
+      @meenah_idle MEENAH: tu sais
+      @meenah_talk MEENAH: attends cest etrange comme sous entendu
+      @meenah_wink:#euh... MEENAH: est ce que toi et elle avez euh
+      @porrim_talk PORRIM: Je pensais que tu n’étais pas venu ici po+ur échanger des co+mmérages.
+      @meenah_idle MEENAH: whoa tas raison
+      @meenah_talk:#interaiessee-a-0% MEENAH: javais presque oublie de ne pas etre interaiessee
+      @meenah_happytalk MEENAH: je mexcuse de metre introduite dans ta vie romantique cetait si impudent de ma part
+      @porrim_talk PORRIM: Ça va. Ce n’est pas co+mme si j’avais beauco+up de secrets bien gardés.
+      @porrim_happytalk PORRIM: Viens me vo+ir quand tu veux. Je te mettrai au co+urant de to+us ceux qui o+nt été vus à passer au travers des po+rtes to+urnantes bien graissées menant à mes quadrants.
       <!--  -->
 </args></action>
 
