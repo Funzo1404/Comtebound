@@ -63,9 +63,9 @@
 	<action command='follow'>
 		<args>karkat,meenah</args>
 		<action command='removeAction'>
-			<args>thirdRoomDoor,Open door.</args>
+			<args>thirdRoomDoor,Ouvre la porte.</args>
 			<action command='removeAction'>
-				<args>karkat,Talk to Karkat.</args>
+				<args>karkat,Parle à Karkat.</args>
 				<action command='addActions'>
 					<args>thirdRoomDoor,
 						<action class='doorTalk2'/>
