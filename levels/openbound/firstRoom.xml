@@ -304,13 +304,13 @@
     <sprite class='chest1' name='firstRoomChest7' x='213' y='2097'>
     	<action command='openChest' name='ouvrir'>
     		<args>firstRoomChest7,obj07, @! Vous trouvez une POTION DE BRONZE !
-      @!: #vous-la-jetez-de-la-falaise Ce truc est censé vous permettre d’embrasser très bien, avec quelques effets secondaires allant d'une paralysie légère à totale. Attendez une minute... ce ne serait pas du sang de troll ? Oh beurk.</args>
+      @!:#vous-la-jetez-de-la-falaise Ce truc est censé vous permettre d’embrasser très bien, avec quelques effets secondaires allant d'une paralysie légère à totale. Attendez une minute... ce ne serait pas du sang de troll ? Oh beurk.</args>
     	</action>
     </sprite>
     <sprite class='chest1' name='firstRoomChest8' x='1152' y='2421'>
     	<action command='openChest' name='ouvrir'>
     		<args>firstRoomChest8,obj08,@! Vous trouvez de l'HUILE DE MOTEUR !
-      @!:# P.S.#vous-prenez-une-petite-gorgée#ça-a-un-goût-affreux Hé, cette bouteille a encore l'étiquette intacte ! D’habitude, elle est arrachée et appliquée sur des fresques murales à la craie. Le fait qu'il y ait encore une étiquette la rend beaucoup plus précieuse en tant qu’objet de collection. Il faut toujours garder à l'esprit la valeur monétaire de la merde inutile que vous trouvez dans les coffres.</args>
+      @!:#P.S.#vous-prenez-une-petite-gorgée#ça-a-un-goût-affreux Hé, cette bouteille a encore l'étiquette intacte ! D’habitude, elle est arrachée et appliquée sur des fresques murales à la craie. Le fait qu'il y ait encore une étiquette la rend beaucoup plus précieuse en tant qu’objet de collection. Il faut toujours garder à l'esprit la valeur monétaire de la merde inutile que vous trouvez dans les coffres.</args>
     	</action>
     </sprite>
     <sprite class='chest1' name='firstRoomChest9' x='2568' y='2856'>
