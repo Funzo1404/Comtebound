@@ -226,7 +226,7 @@
     <character name='meenah' x='1490' y='630' sx='-50' sy='-110' sWidth='100' sHeight='130' width='30' height='15' 
 	       sheet='meenahSheet' state='walkFront' facing='Front'>
 	  	<animation name='skate' sheet='meenahSkate' x='-60' y='-80' />
-      <action name='Be Meenah.' sprite='!kankri' command='changeChar'>
+      <action name='Deviens Meenah.' sprite='!kankri' command='changeChar'>
       	<args>meenah</args>
       	<action command='playSong'>fusciaRuler, 32.0830</action>
       </action>
@@ -242,7 +242,7 @@
 								<action command='playSong'>
 									<args>fusciaRuler, 32.0830</args>
 									<action command='removeAction'>
-										<args>karkat,Talk to Karkat.</args>
+										<args>karkat,Parle à Karkat.</args>
 										<action command='addActions'>
 											<args>karkat,
 												<action class='karkatTalk2'/>
