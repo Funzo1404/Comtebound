@@ -228,41 +228,41 @@
 
 
 
-<action class='porrimTalk3' sprite='latula' command='talk' name='Talk to Porrim.'><args>
-      @latula_talk:#GRLZ-1N-D4-H1V3 LATULA: 
-      @porrim_idle PORRIM: 
-      @latula_talk:#l3ss-drool#mor3-rul3 LATULA: 
-      @latula_idle LATULA: 
-      @porrim_annoyedtalk PORRIM: 
-      @porrim_angry PORRIM: 
-      @porrim_talk PORRIM: 
-      @latula_annoyedtalk LATULA: 
-      @porrim_idle:#Up-inz#Meaningless#On-all-levels PORRIM: 
-      @porrim_talk PORRIM: 
-      @porrim_talk PORRIM: 
-      @latula_angry LATULA: 
-      @porrim_talk:#Did-I-pho+netically-emphasize-that-'z'-eno+ugh? PORRIM: 
-      @porrim_talk PORRIM: 
-      @latula_huh:#r4dt1m3z-off1c14lly:#H4RSH3D LATULA: 
-      @latula_shades2:#h4lp LATULA: 
-      @porrim_annoyed2:#Fuschia-do+wn-matriarchy#Purple-do+wn-patriarchy PORRIM: 
-      @latula_annoyedtalk LATULA: 
-      @porrim_angrytalk PORRIM: 
-      @latula_tongue LATULA: 
-      @porrim_happytalk PORRIM: 
-      @latula_idle2 LATULA: 
-      @latula_talk:#sp3c14lly-wh3n-1m-off-my-m3ds LATULA: 
-      @latula_happytalk LATULA: 
-      @porrim_happier:#:) PORRIM: 
-      @latula_happier LATULA: 
-      @latula_happytalk LATULA: 
-      @porrim_annoyed PORRIM: 
-      @porrim_annoyed PORRIM: 
-      @porrim_surprise PORRIM: 
-      @latula_idle2 LATULA: 
-      @latula_talk LATULA: 
+<action class='porrimTalk3' sprite='latula' command='talk' name='Parle à Porrim.'><args>
+      @latula_talk:#l3s-GRLZ-sont-d4ns-l4-pl4c3-troll-! LATULA: yo porz, t4s vu p3p3t3s 3st d3 r3tour !
+      @porrim_idle PORRIM: J’ai vu.
+      @latula_talk:#mo1ns-d3-bl4bl4#plus-d4ct1on LATULA: plutot r4d, non ?? l4u d3l4 v13nt tout just3 d3 not3r un3 h4uss3 d3 GRL POW3R !!!!
+      @latula_idle LATULA: h3y t4p3 m’3n c1nq !
+      @porrim_annoyedtalk PORRIM: Ce n’est... O+W.
+      @porrim_angry PORRIM: Pas si fo+rt !
+      @porrim_talk PORRIM: C’est bo+n.
+      @latula_annoyedtalk LATULA: quo111, 4ll3z. j3 p3ns41s qu3 to1, plus qu3 l3s 4utr3s, s3r41s r4v13 4 l1d33 qu3 l3s d4m3s s3 f4ss3nt r3m4rqu3r d4v4nt4g3 d4ns l3 co1n.
+      @porrim_idle:#Dans-le-co+in#Absurde#Sur-to+us-les-niveaux PORRIM: Po+urquo+i do+nc ? Ça me fait plaisir de retro+uver une vieille amie, mais c’est to+ut.
+      @porrim_talk PORRIM: Je penz que tu caricaturiz une fo+is de plus mo+n po+int de vu sur le sujet, en suppo+sant que no+us parlio+ns du même sujet.
+      @porrim_talk PORRIM: De la même manière que cet engagement à ta façade de "rad girl" surjo+uée me do+nne to+ujo+urs cette impressio+n de caricature de la femme fo+rte et de so+n émancipatio+n à laquelle tu essayes de ressembler.
+      @latula_angry LATULA: d3 quo1 ??? c3st f4ux, j3 su1s r4d c4r j’41m3 3tr3 r4d ! 3tr3 r4d c3st l4 b4z.
+      @porrim_talk:#Ai-je-pho+nétiquement-suffisamment-mis-l’emphase-sur-ce-“z”-? PORRIM: Je sais que c’est la baz. Mais l'exagérer, c’est autre cho+se.
+      @porrim_talk PORRIM: Ne penses-tu pas que cela po+urrait do+nner l’impressio+n que tu tentes de surco+mpenser les implicites faiblesses de to+n genre au travers de ce co+mpo+rtement ? Un acte réfutant ce qui devrait être un ho+mme de paille, incarnant un puéril perso+nnage qui à chaque kickflit o+u highfive crie "O+UAIS, FIGUREZ VO+US QUE LES FILLES _PEUVENT_ ÊTRE AUSSI RADIALES ET BO+NNES AUX JEUX VIDÉO+ QUE LES GARÇO+NS !" acco+rdant ainsi plus de dignité à cette prémisse qu’à ta pro+pre perso+nne ?
+      @latula_huh:#1nst4nt-r4dz-off1c13ll3m3nt:#G4CH3 LATULA: qu3… 4tt3nds quo1 ? 4w m3uf.
+      @latula_shades2:#4-l41d3 LATULA: d3 quo1 tu p4rl3s m3uf. m33n4h t3s p4ss33 ou ! v13ns m’41d3r 4 r34g1r d3 m4n13r3 cyn1qu3 f4c3 4 c4 ! 4h !!! 
+      @porrim_annoyed2:#Matriarcat-basé-sur-les-fuschias#Patriarcat-basé-sur-les-vio+lets PORRIM: Tu peux feindre de ne rien co+mprendre, mais no+us avo+ns déjà parlé par le passé et je sais que tu es plus intelligente que tu ne le laisses paraître. No+us avo+ns été élevées dans ce qui était fo+ndamentalement une “so+ciété matriarcale”, ce qui a to+ujo+urs servi d’excuse afin de minimiser les cas clairs d'o+ppressio+ns envers les femmes et d'o+cculter la pertinence des ro+les que po+ssèdent le genre, plus particulièrement dans les endro+its o+ù les gens se liguent co+ntre les femmes. Mais n’impo+rte qui ayant o+bservé no+tre so+ciété avec un tant so+it peu d’attentio+n aurait remarqué que même si, en effet, elle est superficiellement définie co+mme un matriarcat basé sur la do+minatio+n des sangs fuschias, dans les faits, l'exécutio+n du po+uvo+ir po+litique dirigeant la plupart des classes so+ciales était déléguée aux plus hauts CIP, lesquels étaient généralement des castes do+minées par des individus masculins. Ils o+nt pris le co+ntrô+le des affaires co+llectives et dicté les co+nventio+ns so+ciales, et quico+nque o+sait o+bjecter o+u faire la lumière sur ces abus était aussitô+t co+ntré par un "Hey ! Matriarcat ! Fin de la discussio+n."
+      @latula_annoyedtalk LATULA: m3uf, stp. comm3nc3 p4s 4 f41r3 t4 v4nt4s.
+      @porrim_angrytalk PORRIM: No+n, si je faisais ma Vantas, cela ne serait que l’intro+ductio+n d’un lo+ng mo+no+lo+gue. Mais c’est là to+ut ce que j’ai à dire sur le sujet.
+      @latula_tongue LATULA: wow !
+      @porrim_happytalk PORRIM: Je me dis juste que tu devrais être fidèle à to+i même plus so+uvent. O+n sait déjà que tu es fo+rte, bo+nne aux jeux vidéo+ et to+ut ça. Tu n’as rien à pro+uver.
+      @latula_idle2 LATULA: ou41s. tu 4s prob4bl3m3nt r41son.
+      @latula_talk:#3n-p4rt1cul13r-qu4nd-j41-p4s-mon-tr41t3m3nt LATULA:  c3st p4rfo1s s1 str3ss4nt 4 t3n1r ! 1l m4rr1v3 doubl13r d3 m3ttr3 d3s z3ds 4 l4 f1n d3 m3s mots, 3t c4 m3 f41t tot4l3m3nt p4n1qu3r. 
+      @latula_happytalk LATULA:  tu s41s, j3 m3 s3ns toujours m13ux 4pr3s t4vo1r p4rl3. j3 p3ux d3l41ss3r c3tt3 f4c4d3 3t m3 d3t3ndr3 un p3u plus.
+      @porrim_happier:#:) PORRIM: Dans ce cas faiso+ns en so+rte que cela arrive plus so+uvent, ça te va ?
+      @latula_happier LATULA: b13nz sur !!!
+      @latula_happytalk LATULA: h3y, m3rc1 pour l4 d1scuss1on, popo maryglamz.
+      @porrim_annoyed PORRIM: Ce surno+m.
+      @porrim_annoyed PORRIM: Il
+      @porrim_surprise PORRIM: Il est ho+rrible.
+      @latula_idle2 LATULA: oh oopz.
+      @latula_talk LATULA: tu pr3f3r3s qu3 j3 cont1nu3 d3 t4pp3l3r pornst4r ???
       @porrim_idle PORRIM: ...
-      @porrim_annoyed2 PORRIM: 
+      @porrim_annoyed2 PORRIM: Maryglamz fera l’affaire.
       <!--  -->
 </args></action>
 
