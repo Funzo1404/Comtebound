@@ -45,7 +45,7 @@
       @meenah_talk MEENAH: a la limite tes talents en skate et tes tricks sont plutot rads je te le conchede
       @meenah_annoyedtalk MEENAH: mais tu devrais areter tes grands airs marins parce que a part sar RIEN a propos de toi est particulierement plus rad que la moyenne
       @latula_happier LATULA: oh du C4RP3, p3p3t3s !!! j3t41s just3 3n tr41n d3 t3 t4qu1n3r !
-      @latula_happytalk:m3-tr1mb4ll3r-d3s-ch4rg3s-pourr1t-m3s-gr1ndz LATULA: on 4 3u nos probl3mz d4ns l3 p4ss3. m41s j41 toujours pu vo1r qu3 d4ns l3 fond tu 3t41s un3 vr413 r4dgrl. tu n4s p4s l4 mo1ndr3 1d33 d4 qu3l po1nt c3t41t dur d3 m3 colt1n3r l4 r3spons4b1l1t3 du r4d tout3 s3ul3 4v3c to1 4bs3nt3 p3nd4nt s1 longt3mps !!!
+      @latula_happytalk:#m3-tr1mb4ll3r-d3s-ch4rg3s-pourr1t-m3s-gr1ndz LATULA: on 4 3u nos probl3mz d4ns l3 p4ss3. m41s j41 toujours pu vo1r qu3 d4ns l3 fond tu 3t41s un3 vr413 r4dgrl. tu n4s p4s l4 mo1ndr3 1d33 d4 qu3l po1nt c3t41t dur d3 m3 colt1n3r l4 r3spons4b1l1t3 du r4d tout3 s3ul3 4v3c to1 4bs3nt3 p3nd4nt s1 longt3mps !!!
       @latula_angry LATULA: 4s tu l4 mo1ndr3 1d33 d4 qu3l po1nt c4 cr41nt d3tr3 l4 s3ul3 h4rdcor3 g4m3uz conf1rm33 3t s4ch4nt s1mpos3r d4ns un p4qu3t d3 bullz r3mpl13s d3 fr1m3urs stup1d3s ???
       @latula_happier:#H1-F1V3 LATULA: tout c3 qu3 j3 voul41s d1r3, c3st qu3 c3st cool d3 t4vo1r d3 nouv34u p4rm1 nous mp. h3y t4p3 m3n c1nq !
       @meenah_idle MEENAH: uh ok
@@ -68,7 +68,7 @@
 
 <action class='latulaTalk2' sprite='meenah' command='talk' name='Demande à Latula de se joindre à toi.'><args>
       @meenah_idle MEENAH: question
-      @latula_idle LATULA:v4s y b4by. 
+      @latula_idle LATULA: v4s y b4by. 
       @meenah_talk MEENAH: je vois quen tant que gameuse sexy tu tes fait une reputation et tout
       @meenah_talk MEENAH: je me suis dit que cetait capital que tu rejoignes mon equipe
       @meenah_creepy:#seigneur-des-huitres MEENAH: pour aller defoncer calhuitrelord ou jsais pas qui
@@ -78,7 +78,7 @@
       @latula_idle2 LATULA: h3uuu j3 vo1s p4s. 3cl41r3 mo1 m4 p3p3t3.
       @meenah_wut2:#au-courant-comme-un-courant-marin-yeeessss MEENAH: ca tarrive de te mettre au courant parfois
       @latula_talk LATULA: tchhh, m41nt3n4nt j3 m3 souv13ns pourquo1 j3 t3 trouv41s t4r33 mp. r4cont3.
-      @meenah_annoyed MEENAH:le bordel dans le ciel 
+      @meenah_annoyed MEENAH: le bordel dans le ciel 
       @meenah_annoyed MEENAH: tout casse
       @meenah_annoyed MEENAH: un monstre a fait ca
       @meenah_angrytalk MEENAH: -EST C-E QU-E TU V-EUX V-ENIR AV-EC MOI POUR BUT-ER L-E M-EC)(ANT ???????
@@ -122,7 +122,7 @@
       @latula_bored LATULA:  grl, qu1 n3 v3ut P4S 3tr3 mo1 ???
       @latula_angry LATULA: tu p3ns3s vr41m3nt pouvo1r just3 d3b4rqu3r d4ns c3tt3 bull3 3t d3v3n1r n1mport3 qu3ll3 g4m3uz r4d qu3 tu cro1z ???
       @latula_happytalk:#cr4dz#tm LATULA: pfou41s, C3ST C4 ! tu 4s un long, LONG ch3m1n 4 f41r3 4v4nt dobt3n1r 4ss3z d3 r4d cr3d1tz pour 3tr3 MO1. ou comm3 j3 l3s 4pp3ll3, CR4DZ.
-      @meenah_annoyed MEENAH:latula la ferme dis moi juste quelles conneries il faut que je fasse 
+      @meenah_annoyed MEENAH: latula la ferme dis moi juste quelles conneries il faut que je fasse 
       @latula_idle LATULA: v4 f4llo1r y m3ttr3 du t13n !
       @latula_talk:#l3-nombr3-413#p4s-"AIE" LATULA: tu v4s d3vo1r l1k3r tous m3s souv3n1rz l3s plus r4dz, 3t 3nsu1t3 l3s r3bull3r 4u mo1ns 413 fo1s.
       @meenah_wut MEENAH: S-ERI-EUS-EM-ENT
@@ -158,7 +158,7 @@
       @porrim_happytalk PORRIM: O+u, à défaut d’aile, la manche ro+uge duveteuse de so+n pull.
       @meenah_talk MEENAH: cest quoi le truc avec cette chose moche dailleurs
       @porrim_talk PORRIM: C’est mo+i qui lui ai fait, po+ur dire vrai.
-      @porrim_annoyedtalk:Pantskan PORRIM: Pour ma défense, j’étais fatiguée de le vo+ir po+rter so+n stupide pantalo+n de rando+nnée, toujo+urs le même. Sérieusement, est-ce que tu l’as déjà vu po+rter autre cho+se ?
+      @porrim_annoyedtalk:#Pantskan PORRIM: Pour ma défense, j’étais fatiguée de le vo+ir po+rter so+n stupide pantalo+n de rando+nnée, toujo+urs le même. Sérieusement, est-ce que tu l’as déjà vu po+rter autre cho+se ?
       @meenah_happytalk MEENAH: haha non
       @porrim_annoyed2 PORRIM: Tellement démo+dé.
       @porrim_annoyed2 PORRIM: Et puis il frisso+nnait to+ut le temps. Il peut faire assez fro+id par ici, et il ne vo+ulait to+ut simplement rien po+rter d’autre. Pas que je m’en inquiétais tro+p, mais il avait cette manière de mo+ntrer o+stensiblement sa so+uffrance, co+mme si c’était une so+rte d’état vertueux. Ça devenait co+mpliqué po+ur to+ut le mo+nde de le suppo+rter, d’o+ù so+n surno+m.
@@ -174,7 +174,7 @@
       @meenah_wink:#euh... MEENAH: est ce que toi et elle avez euh
       @porrim_talk PORRIM: Je pensais que tu n’étais pas venu ici po+ur échanger des co+mmérages.
       @meenah_idle MEENAH: whoa tas raison
-      @meenah_talk:#interaiessee-a-0% MEENAH: javais presque oublie de ne pas etre interaiessee
+      @meenah_talk:#interaiessee-a-zero-pourcent MEENAH: javais presque oublie de ne pas etre interaiessee
       @meenah_happytalk MEENAH: je mexcuse de metre introduite dans ta vie romantique cetait si impudent de ma part
       @porrim_talk PORRIM: Ça va. Ce n’est pas co+mme si j’avais beauco+up de secrets bien gardés.
       @porrim_happytalk PORRIM: Viens me vo+ir quand tu veux. Je te mettrai au co+urant de to+us ceux qui o+nt été vus à passer au travers des po+rtes to+urnantes bien graissées menant à mes quadrants.
