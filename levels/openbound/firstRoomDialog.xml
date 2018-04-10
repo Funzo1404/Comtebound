@@ -76,7 +76,7 @@
 	</action>
 </action>
 
-<action class='meenahTalk1' sprite='latula' command='talk' name='PArle à Meenah.'><args>
+<action class='meenahTalk1' sprite='latula' command='talk' name='Parle à Meenah.'><args>
       @latula_happytalk LATULA: yo yo, guppyd3 m4 grrrl !
       @meenah_idle MEENAH: merde tula
       @meenah_talk:#donnant-des-noms-comme-des-cibars-bon-marché MEENAH: j’avais oublié à quel point tu aimes jongler entre les surnoms rads que tu nous donnes 
@@ -89,7 +89,7 @@
       @meenah_ohyes MEENAH: genre "WOWWWWW ca cetait un frappement de main radical"
       @latula_happier:#l3-plus-cool LATULA: B13N SUR QU3 C4 L3T41T !!! bord3l c3st cool qu3 tu so1s d3 r3tour.
       @meenah_idle MEENAH: cest bien tout ça mais
-      @meenah_talk:#voile-de-bateau#ouais-cest-tire-par-les-cheveux-comme-jeu-de-mots#on-va-dire-que-ca-compte MEENAH: Tu ne serais pas un VOILE en train d'exagerer notre relation anterieure comme etant plus que simplement neutre ?
+      @meenah_talk:#voile-de-bateau#ouais-cest-exagere-comme-jeu-de-mots#on-va-dire-que-ca-compte MEENAH: Tu ne serais pas un VOILE en train d'exagerer notre relation anterieure comme etant plus que simplement neutre ?
       @latula_annoyedtalk:#l3-gr4nd-4n34nt1ss3m3nt#4n4log13-r4d1c4l3m3nt-mort3ll3 LATULA: p3ut 3tr3 b13n. m41s j41 3u tout l3 t3mps dy p3ns3r, qu3 c4 so1t 4v4nt ou 4pr3s 4vo1r m4ng3 l3s p1ss3nl1ts p4r l4 r4c1n3.
       @latula_annoyedtalk LATULA: 3t j41 3u qu3lqu3s FOLL3S r3v3l4t1ons 4 ton propos, ou 4u notr3. j3 m3 tromp41s tot4l3m3nt sur ton compt3
       @latula_angry LATULA: dur4nt l4 m4j3ur p4rt13 du t3mps ou nous nous somm3s cotoy33s, j3t41s 3n mod3 POURQUO1 Y 4UR41T 1L D3UX F1LL3S B4D4SS “D4NS-T4-F4C3” D4NS L3 GROUP3 ???
