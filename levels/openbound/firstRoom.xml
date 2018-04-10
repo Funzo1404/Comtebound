@@ -234,7 +234,7 @@
       <action class='meenahTalk2' />
       <action class='meenahTalk3'>
       	<action command='talk'>
-      		<args>@! Be Meenah?</args>
+      		<args>@! Devenir Meenah ?</args>
 		    	<action command='presentActions'>
 		    		<args>
 		    			<action name='Oui' command='changeChar'>
