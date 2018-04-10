@@ -93,7 +93,7 @@
 		
    	<sprite name='araneaStand' x='1486' y='398' width='100' height='30' collidable='true' depthing='1'>
    		<animation sheet='araneaStandSheet' x='-44' y='-100'/>
-   		<action command='addOverlay' name='Talk.'>
+   		<action command='addOverlay' name='Parle.'>
    			<args>peanuts</args>
    			<action class='peanutActions'>
 				</action>
