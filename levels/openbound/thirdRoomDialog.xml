@@ -303,35 +303,35 @@
 
 
 <action class='latulaTalk4' sprite='porrim' command='talk' name='Parle à Latula.'><args>
-      @porrim_happy PORRIM: Hey.
-      @latula_shine LATULA: 
-      @porrim_talk PORRIM: 
-      @latula_idle2 LATULA: 
-      @latula_talk LATULA: 
-      @porrim_talk:#Descesto+rs?#Ancendants?#Dancesto+rs...#Hmm#Bingo+ PORRIM: 
-      @porrim_talk PORRIM: 
-      @porrim_annoyedtalk PORRIM: 
-      @latula_idle LATULA: 
-      @porrim_talk PORRIM: 
-      @porrim_talk PORRIM: 
-      @porrim_talk:#Radglare#Kindfang PORRIM: 
-      @latula_annoyedtalk LATULA: 
-      @latula_bored:#zzzz#not-3v3n-th3-r4d-k1nd-of-z33s LATULA: 
-      @porrim_talk:#Redglare#Mindfang PORRIM: 
-      @latula_huh LATULA: 
-      @latula_idle2 LATULA: 
-      @porrim_annoyed:#Mindfang-gave-yo+u-five#Then-left-yo+u-hanging PORRIM: 
-      @latula_talk LATULA: 
-      @porrim_annoyed PORRIM: 
-      @latula_idle LATULA: 
-      @porrim_talk PORRIM: 
-      @latula_happytalk LATULA: 
-      @porrim_happytalk PORRIM: 
-      @latula_shades2:#do-1-look-l1k3-s3rk3t-to-you??? LATULA: 
-      @latula_happier LATULA: 
-      @porrim_surprise PORRIM: 
-      @porrim_annoyed:#Sigh PORRIM: ...
-      @porrim_annoyed2 PORRIM: 
+      @porrim_happy PORRIM: Salut.
+      @latula_shine LATULA: yo yo, comm3nt c4 v4 grl !!!
+      @porrim_talk PORRIM: Latula, c'est juste mo+i. Je pense que perso+nne ne no+us regarde. Pas beso+in d’insister sur le numéro+ de radgirl.
+      @latula_idle2 LATULA: j3 cro1s b13n qu3 tu 4s r41son. j3 v41s m3 c4lm3r un p3u.
+      @latula_talk LATULA: y4 quo1 d4ns ton c1boulot, po-m4ry.
+      @porrim_talk:#Decètres-?#Ascendants-?#Dancètres...#Hmm#Bingo+ PORRIM: Renco+ntrer no+s ancêtres en tant qu'enfants, o+u, je veux dire no+s descendants en tant qu'enfants, selo+n le sens dans lequel tu l'interprètes...
+      @porrim_talk PORRIM: Je me suis mise à penser à no+s no+uvelles vies sur Alternia, et ce que no+us so+mmes devenus en grandissant.
+      @porrim_annoyedtalk PORRIM: À penser au destin. Si c’est quelque cho+se de co+mpréhensible.
+      @latula_idle LATULA: 4h ou41s ?
+      @porrim_talk PORRIM: Par exemple, sur Alternia, ma relatio+n avec Kankri semblait faire sens. Je po+uvais définitivement imaginer no+s vies s’enchevêtrer de cette faço+n, karmiquement parlant.
+      @porrim_talk PORRIM: Mais po+urtant il y a d'autres dévelo+ppements qui me semblent to+ujo+urs mystérieux.
+      @porrim_talk:#Radglare#Gentifang PORRIM: Genre, po+ur autant que je sache, to+i et Aranea vo+us êtes to+ujo+urs bien entendues, pas vrai ?
+      @latula_annoyedtalk LATULA: 3h j3 suppos3. j3 n41 j4m41s p4ss3 trop d3 t3mps 4 p3ns3r 4 s3rk3t, pour 3tr3 honn3t3.
+      @latula_bored:#zzzz#m3m3-p4s-l3-bon-typ3-d3-zzz LATULA: j41 toujours p3ns3 qu3ll3 3t41t un3 3goc3ntr1qu3 sopor1f1qu3, s1 tu v3ux vr41m3nt s4vo1r.
+      @porrim_talk:#Redglare#Mindfang PORRIM:  Exactement. Pas grand cho+se à dire sur vo+tre relatio+n. Mais dans ta vie po+st-scratch vo+us aviez de tels pro+blèmes to+utes les deux, même vo+s descendants en o+nt hérité, et o+nt co+ntinué le cycle co+ntentieux jusqu'au bain de sang.
+      @latula_huh LATULA: vr41m3nt ?
+      @latula_idle2 LATULA: h3u.
+      @porrim_annoyed:#Mindfang-vous-en-a-do+nné-cinq#Et-vo+us-a-laissé-traîner PORRIM: Tu ne le savais pas ?
+      @latula_talk LATULA: j3 ny 41 j4m41s vr41m3nt p3ns3 . m41s m41nt3n4nt qu3 tu l3 m3nt1onn3, c3 r3sult4t f41t s3ns pour mo1.
+      @porrim_annoyed PORRIM: Ah bo+n ? Co+mment ça ?
+      @latula_idle LATULA: c4 f41t s3ns c3st tout, ch3r13z.
+      @porrim_talk PORRIM: Je ne co+mprends vraiment pas le karma.
+      @latula_happytalk LATULA: c3st p4rc3 qu3 tu n3s p4s un3 jou3us3 d3 l3spr1t.
+      @porrim_happytalk PORRIM: O+h. Tu po+urrais m'expliquer co+mment ça marche, alo+rs ?
+      @latula_shades2:#3st-c3-qu3 j41-l41r-d3-m4pp3l3r-s3rk3t-??? LATULA: pfff, c3st c4. c4 s3r41t p4s un3 chos3 tr3s r4d 4 f41r3. 
+      @latula_happier LATULA: h3, r3g4rd3 c3t 1NCROY4BL3 h34lfl1p !!!!
+      @porrim_surprise PORRIM: Je ne
+      @porrim_annoyed:#So+upir PORRIM: ...
+      @porrim_annoyed2 PORRIM: O+k. Mo+ntre-mo+i.
       <!--  -->
 </args></action>
 
