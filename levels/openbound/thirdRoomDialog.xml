@@ -485,7 +485,7 @@
 </args></action>
 
       <!-- if you examine locked door -->
-<action class='doorTalk1' command='talk' name='Open door.'><args>
+<action class='doorTalk1' command='talk' name='Ouvre la porte.'><args>
       @!:#symbole-mystérieux#un-indice#indication-bonus:#c’est-karkat La porte est fermée. Elle semble garder les souvenirs privés de quelqu’un. On dirait qu’elle a besoin d’un mot de passe. Vous vous demandez qui l’a verrouillée ?
       <!--  -->
 </args></action>
