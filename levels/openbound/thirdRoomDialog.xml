@@ -470,7 +470,7 @@
 
 
   <!-- if kankri talks to karkat -->
-<action class='karkatTalk1' sprite='kankri' command='talk' name='Talk to Karkat.'><args>
+<action class='karkatTalk1' sprite='kankri' command='talk' name='Parle à Karkat.'><args>
       @kankri_talk:#"Att" KANKRI: Un instant s’il te plaît, Karkat. Je vais 6rièvement me pr9mener, en aut9n9mie. Je sais que tu es très impatient de c9ntinuer n9tre discussi9n, et je pr9mets que je vais revenir très vite p9ur que n9us puissi9ns reprendre. Reste juste là à cet endr9it précis, pendant que tu laisses la sagesse de mes m9ts s’enraciner dans t9n c9eur, et essaie de ne pas t'él9igner avec qui que ce s9it, d’acc9rd ? Je reviens t9ut de suite.
       @karkat_eyeroll1 KARKAT: 
       <!--  -->
