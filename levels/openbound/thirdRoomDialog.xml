@@ -266,40 +266,40 @@
       <!--  -->
 </args></action>
 
-<action class='kankriTalk1' sprite='latula' command='talk' name='Talk to Kankri.'><args>
-      @latula_happytalk LATULA: 
-      @kankri_talk:#New-f9ll9wers KANKRI: 
-      @latula_talk LATULA: 
+<action class='kankriTalk1' sprite='latula' command='talk' name='Parle à Kankri.'><args>
+      @latula_happytalk LATULA: fr4ng1n !!! j41 3nt3ndu d1r3 qu3 tu h4rc3l41s l3s nouv34ux. c3st vr41 c3tt3 h1sto1r3 ???
+      @kankri_talk:#N9uveaux-f9ll9wers KANKRI: Harceler ? L9in de là. J’ai seulement déc9uvert un n9uveau gr9upe 6ien plus rec9nnaissant, lequel ne s’est pas enc9re tristement lassé de mes disc9urs sur les év9luti9ns s9ciales p9sitives.
+      @latula_talk LATULA: t3s m3nsong3s n3 pr3nn3nt p4s 4v3c mo1, k4nkz. tu vo1s b13n qu3 tu l3nnu13s 4 mour1r. tu v3ux just3 3n f41r3 un f4ntom3 3t l3 g4rd3r 1c1 pour toujourz.
       @karkat_horror KARKAT: 
-      @latula_talk:#r3:#m1st4k3s#l1k3-us LATULA: 
-      @kankri_talk4:#I-mean,-c9nversati9n. KANKRI: 
-      @latula_annoyedtalk LATULA: 
-      @latula_talk:#fru1ty-r1ght3ous-blowh4rd-f4ctory LATULA: 
-      @kankri_talk2 KANKRI: 
+      @latula_talk:#r3:#3rr3urs#comm3-nous LATULA: 3t c3st p4s cool ! tu do1s l41ss3r c3 m3c mour1r d3 s4 propr3 FOLLONT3.
+      @kankri_talk4:#Je-veux-dire,-c9nversati9n. KANKRI: Tu ne p9urrais pas t’en aller sur t9n j9uet à r9ulettes p9ur larves immatures ? J'étais en plein milieu d’un serm9n.
+      @latula_annoyedtalk LATULA: pourquo1 tu n3 lu1 3p4rgn3r41 p4z c3tt3 p31n3 3n lu1 donn4nt lun d3 t3s v13ux m3moz ?
+      @latula_talk:#v4nt4rdv1ll3-du-mor4l1s4t3ur-fru1t3 LATULA: 4h4h4h, tu t3n r4pp3ll3s ??? comb13n d3 r3volut1ons 4s tu p4ss33s 4 t3nt3r d3 nous f41r3 l1r3 c3s m3rd3s ?
+      @kankri_talk2 KANKRI: Je ne sais plus. Et n9n, h9rs de questi9n que je partage mes vieux mém9s avec lui. Ils étaient très mal rédigés, et mes méth9des d’argumentati9n étaient lacunaires et extrêmement puériles. J’ai effacé n9m6re de ces s9uvenirs des 6ulles 9niriques, inutile d9nc de prendre la peine de les chercher. Franchement, ils puaient.
       @latula_annoyed:#>8[ LATULA: h3y!
-      @kankri_talk:#tw#tw#tw#s9rry#tw#a6leism KANKRI: 
-      @latula_shine LATULA: 
-      @kankri_talk:#Trigger-warning:#Em6arrassed-retracti9ns-ahead KANKRI: 
-      @kankri_talk3:#Nasal-privilege#H9riz9ns#6r9adness#H9riz9ntal-width-l9ngenning KANKRI: 
-      @latula_happytalk:#MAD-d1s4dv4nt4g3d-brot1m3z LATULA: 
-      @kankri_talk KANKRI: 
+      @kankri_talk:#at#at#at#dés9lé#at#validisme KANKRI: 9h, je suis dés9lé. J’avais c9mplètement 9u6lié que “puer” était une insulte validiste. Je te prie d’excuser ce manque de tact de ma part envers t9n handicap.
+      @latula_shine LATULA: t1nqu13t3s, j3 f41s41s s3mbl4nt d3tr3 off3ns33 pour t3mb3t3r.
+      @kankri_talk:#Alerte-Trigger:#Désaveu-em6arrassé-à-venir KANKRI: N9n, j’insiste, c’était inexcusa6le de ma part. J’aurais au m9ins dû précéder cette affreuse remarque d’une alerte trigger.
+      @kankri_talk3:#Privilège-nasal#H9riz9ns#élargissement-d'esprit KANKRI: Je n’ai aucun droit de prendre t9n handicap à la légère, d’9u6lier de vérifier mes privilèges nasaux et de p9tentiellement raviver de d9ul9ureux et dévastateurs s9uvenirs suscepti6les de te trigger, tels ceux d’un vieux cycle de revanche entre t9i et certains amis qui te causa la perte de t9n 9d9rat. Je d9is l’admettre, j’étais sceptique quant au fait que cela s9it un réel handicap, nécessitant sensi6ilisati9n et visi6ilité médiatique, mais à f9rce de te fréquenter et de prendre en c9nsidérati9n mes privilèges, j’ai fini par 9uvrir les yeux. 9ups, cet euphémisme était quelque peu validiste envers les aveugles, je v9ulais plut9t dire “9uvrir m9n esprit à de n9uveaux h9riz9ns quant à la nature des handicapés.” Dés9lé.
+      @latula_happytalk:#duo-gr4v3-ouf-d3-d3f4vor1s3s LATULA: ou41s ! c3st drol3, c4r j3 n3 l3 cons1d3r3r41s p4s s3r13us3m3nt comm3 un h4nd1c4p s1 tu n3 m3 l3 r4b4ch41s p4s 4 longu3ur d3 journ33, m3rc1 k4nkz !!! 
+      @kankri_talk KANKRI: T9ut le plaisir est p9ur m9i. Vraiment, c’est incr9ya6le que tu aies su tri9mpher de l’adversité et devenir un tel m9dèle p9ur les autres, une excellente j9ueuse de jeux vidé9s, et une remarqua6le skateuse, t9ut en étant une fille, ce qui n’est pas négligea6le.
       @karkat_eyeroll2 KARKAT: 
       <!--  -->
 </args></action>
 
-<action class='kankriTalk2' sprite='latula' command='talk' name='Be Kankri.'><args>
-      @kankri_talk KANKRI: 
-      @kankri_talk KANKRI: 
-      @latula_happier LATULA: 
-      @kankri_talk KANKRI: 
-      @kankri_talk KANKRI: 
-      @kankri_talk KANKRI: 
+<action class='kankriTalk2' sprite='latula' command='talk' name='Deviens Kankri.'><args>
+      @kankri_talk KANKRI: Devenir m9i ? Je...
+      @kankri_talk KANKRI: Je ne suis pas sûr que...
+      @latula_happier LATULA: oh, 4ll3z k4nkr1z !!! s1l t3 pl41t ??? 
+      @kankri_talk KANKRI: 6ien...
+      @kankri_talk KANKRI: 9k. Je vais interr9mpre m9n imp9rtant m9n9l… dial9gue, mais cette f9is seulement.
+      @kankri_talk KANKRI: Juste p9ur t9i.
       <!--  -->
 </args></action>
 
 
 
-<action class='latulaTalk4' sprite='porrim' command='talk' name='Talk to Latula.'><args>
+<action class='latulaTalk4' sprite='porrim' command='talk' name='Parle à Latula.'><args>
       @porrim_happy PORRIM: Hey.
       @latula_shine LATULA: 
       @porrim_talk PORRIM: 
@@ -332,99 +332,99 @@
       <!--  -->
 </args></action>
 
-<action class='kankriTalk3' sprite='porrim' command='talk' name='Talk to Kankri.'><args>
-      @porrim_angrytalk PORRIM: 
-      @kankri_talk2:#micr9aggressi9ns#n9-wa KANKRI: 
-      @porrim_talk:#And-even-then,-pro+bably PORRIM: 
-      @porrim_annoyed:#No+t-o+ften-I-mean. PORRIM: 
-      @kankri_talk3:#Fresh#Faced#g KANKRI: 
-      @porrim_idle PORRIM: 
-      @porrim_light PORRIM: 
-      @kankri_glance:#H9w-d9-y9u-ev KANKRI: 
-      @porrim_talk PORRIM: 
-      @porrim_happytalk PORRIM: 
+<action class='kankriTalk3' sprite='porrim' command='talk' name='Parle à Kankri.'><args>
+      @porrim_angrytalk PORRIM: Kanny, laisse ce pauvre go+sse tranquille.
+      @kankri_talk2:#Micr9aggressi9ns#n9n-attends#plut9t-MACR9aggressi9ns KANKRI: Je préfèrerais que tu ne m'appelles pas c9mme ça. N9us en av9ns déjà parlé. C'est c9mme ça que tu n9mmerais une larvouille. Est-ce que j'ai l'air d'une larvouille p9ur t9i, P9rrim ? N9n, ce n'est pas le cas. Cela fait tr9is rév9luti9ns, plus une éternité, putain (excuse-m9i du terme). Je pense que n9us p9uv9ns n9us passer de ce terme “affectif”. Appelle-m9i c9mme tu veux, sauf c9mme ça, même avec m9n autre surn9m si tu veux. Je n'ai vraiment aucun pr96lème avec celui-là.
+      @porrim_talk:#Et-enco+re,-pro+bablement-pas-devant-to+i. PORRIM: Je ne t'appellerais pas l’Impo+seur, Kanny. O+u du mo+ins pas co+mme po+ur en faire un titre.
+      @porrim_annoyed:#Pas-so+uvent-je-veux-dire. PORRIM: Enfin... 
+      @kankri_talk3:#Apprenti#Jeun9t#S9if-de-c9nnaissances KANKRI: Ça serait sympa si tu utilisais au m9ins m9n vrai n9m en face de m9n jeune et assidu descendant alternien. Cela dégrade vraiment ma crédi6ilité, et je n'ai pas 6es9in de cela à pr9ximité d'un apprenti qui a clairement s9if de c9nnaissances. P9urqu9i v9udrais-tu ainsi sa69ter l'éducati9n d'un jeun9t ?
+      @porrim_idle PORRIM: Je ro+ule des yeux là.
+      @porrim_light PORRIM: Tu les vo+is ? Tu veux que je les illumine po+ur to+i-?
+      @kankri_glance:#C9mment-est-ce-que-tu-peux-r9uler-des-yeux-sans-pupilles-? KANKRI: N9n, mais merci d'av9ir demandé. P9urrais-tu aller les r9uler plus l9in ? Merci. Maintenant, 9ù en étais-je ?
+      @porrim_talk PORRIM: Je ne pense pas qu'il en ait quelque cho+se à faire.
+      @porrim_happytalk PORRIM: Hey, Karkat ? Si ce n'est pas indiscret... es-tu vraiment intéressé par les tartines à rallo+nge qu'il te sert ?
       @karkat_sullen KARKAT: 
-      @porrim_happytalk PORRIM: 
-      @porrim_happytalk PORRIM: 
-      @porrim_happytalk PORRIM: 
-      @kankri_talk4 KANKRI: 
-      @kankri_talk2:#It's-weird KANKRI: 
-      @kankri_talk:#Trigger-warning# KANKRI: 
-      @porrim_annoyed:#Oh-my-Go+d. PORRIM: 
-      @kankri_talk KANKRI: 
+      @porrim_happytalk PORRIM: Je le savais. Tu as dit to+ut ce que tu avais à dire.
+      @porrim_happytalk PORRIM: Tu sais, tu es to+ut bo+nnement ado+rable. 
+      @porrim_happytalk PORRIM: Cette fille qui erre en co+stume de drago+n est une demo+iselle très chanceuse. 
+      @kankri_talk4 KANKRI: 9k, merveilleux. Cette c9nversati9n arrive à s9n terme.
+      @kankri_talk2:#C'est-malaisant. KANKRI: P9rrim, s'il te plait, évite de draguer m9n jeune ancêtre-descendant alternatif. C'est vraiment malaisant. Sans menti9nner le fait qu'il me ressem6le trait p9ur trait. C'est plut9t flagrant. D9nc quand tu le dragues, c'est c9mme si tu me draguais m9i en même temps, et c9mme je le disais, c'est malaisant.
+      @kankri_talk:#Alerte-trigger#Inceste#Anathèmes#Viscéralité#Vaguement#Rep9ussante KANKRI: Ce n'est pas p9ur enf9ncer le c9uteau dans la plaie, mais l'idée de s9rtir avec t9i... est une idée qui ne m’attire guère. Sans v9ul9ir t'9ffenser. Cela me fait vaguement c9mprendre, à un niveau viscéral, l'étrange anathème humain qu'est l'inceste, ce que je ne peux pas vraiment expliquer. Je dis ça c9mme ça.
+      @porrim_annoyed:#O+h-mo+n-Dieu. PORRIM: (Pro+fo+nd so+upir.)
+      @kankri_talk KANKRI: Je suis DÉS9LÉ, 9k ? Je suis dés9lé d'être, peut-être littéralement, le seul qui ne s9it jamais t9m6é en pr9ie à tes infatiga6les s9llicitati9ns 9mnidirecti9nnelles, 9u qui ne se s9it fait emp9rté dans tes inn9m6ra6les élans r9uges 9u s9m6res. Je t'ai t9uj9urs préférée en tant qu'amie, et de t9ute faç9n, j'ai t9uj9urs préféré mener une existence relativement chaste, p9ur me f9caliser sur la lutte au n9m de pr96lèmes vraiment imp9rtants. 6ien que rester "relativement" chaste ne veuille pas f9rcément dire grand-ch9se p9ur t9i.
       @porrim_angry:#Hey. PORRIM: ...
-      @kankri_talk4:#TW#Derailment#T KANKRI: 
-      @kankri_talk2:#Village-tw9-wheel-device KANKRI: 
+      @kankri_talk4:#AT#Déraillage#Accident-ferr9viaire#Tch9u-tch9u-catastr9phes KANKRI: Enc9re une f9is, excuse-m9i. J'ai gaffé en m'aventurant sur le territ9ire c9nflictuel du ra6aissement de la vacillati9n, ce qui 9uvre la p9rte à une myriade de faç9ns d'être désavantagé par un stupéfiant fl9t de h9nte. J'ai 9u6lié de prendre en c9mpte le privilège de ma piété, et v9ilà 9ù n9us en s9mmes. J'allais traiter de ce sujet dans un chapitre plus tardif de ma c9nférence, mais n9us av9ns salement déraillé ici.
+      @kankri_talk2:#véhicule-à-deux-r9ues-du-village KANKRI: Karkat, je suis dés9lé de cette interrupti9n. Je te pr9mets que je reviendrai à mes c9nférences critiques dès que cette pers9nne indiscrète n9us aura laissé en paix.
       @karkat_horror KARKAT: 
-      @porrim_annoyed PORRIM: 
-      @porrim_annoyedtalk:#Yes PORRIM: 
-      @kankri_talk3:#N9 KANKRI: 
-      @kankri_talk3 KANKRI: 
-      @porrim_annoyed2:#"HUMAN-SARCASM" PORRIM: 
-      @kankri_talk KANKRI: 
-      @porrim_annoyed2:#... PORRIM: 
-      @kankri_talk4 KANKRI: 
-      @porrim_angry:#That's-no+t#what-that-even#means? PORRIM: 
-      @porrim_angry2:#Yo+u-did-no+t-just... PORRIM: 
-      @kankri_talk4:#Fr9wned-up KANKRI: 
-      @porrim_angrytalk:#Trigger-warning: PORRIM: 
-      @kankri_talk:#It's-the-m KANKRI: 
-      @porrim_annoyed2 PORRIM: 
-      @kankri_talk KANKRI: 
-      @kankri_talk:#N9w-where-was-I? KANKRI:  
+      @porrim_annoyed PORRIM: O+ui, des co+nférences critiques. Je n'en do+ute pas.
+      @porrim_annoyedtalk:#O+ui PORRIM: Et ai-je raiso+n de cro+ire que tu déco+nstruis assidûment to+ute fo+rme d'injustice co+ncevable et hypo+thétique, exceptées celles auxquelles j'acco+rde un peu d'impo+rtance ?
+      @kankri_talk3:#N9n KANKRI: N9n. N9n P9rrim. N9us n’all9ns pas n9us lancer là-dedans.
+      @kankri_talk3 KANKRI: Je ne vais pas p9lluer les cruciaux c9urs intensifs de Karkat, dans lesquels je lui présente les 6ASES F9NDAMENTALES, p9ur me livrer à tes pr96lèmes 6ien aimés.
+      @porrim_annoyed2:#"SARCASME-HUMAIN" PORRIM: O+ui, co+mme ce serait ho+rrible po+ur ta co+nférence de so+ixante-neuf millio+ns de mo+ts de s'enliser dans ne serait-ce que la mo+indre allusio+n aux rô+les des genres dans les civilisatio+ns Befo+riennes et Alterniennes.
+      @kankri_talk KANKRI: Ec9ute, ce n'est pas que je s9is insensi6le à tes pré9ccupati9ns sur ce sujet. Je serais assurément intéressé d'en discuter avec t9i dans un cadre académique et thé9rique.
+      @porrim_annoyed2:#... PORRIM: Théo+rique ?
+      @kankri_talk4 KANKRI: Je pense juste qu'il y a un danger inhérent au fait de 6r9uiller le disc9urs en y intr9duisant des questi9ns d'9rdre s9cial qui s9nt au mieux suspectes, et qui, par c9nséquent, c9nsument les ress9urces précieuses du cache limité de la rhét9rique qui pr9pulse ces argumentations. 9n p9urrait aussi discuter du fait qu'il est plus qu'un peu pr96lématique, et même 9ffensant, que tu t'appr9pries le lexique délicat utilisé p9ur faire c9nnaitre les grands enjeux, ce qui l'a6aisse au niveau de disc9urs putassier et de pseud9science. Cela rend la ch9se plus difficile p9ur ceux d'entre n9us qui s9nt vérita6lement c9ncentrés sur le changement p9sitif, c'est t9ut.
+      @porrim_angry:#Ce-n'est-même-pas#ce-que-ça#veut dire-? PORRIM: Approprier ??
+      @porrim_angry2:#Tu-ne-viens-quand-même-pas-de... PORRIM: PSEUDOSCIENCE ???
+      @kankri_talk4:#Pas-6ien-vu#Regards-dédaigneux#6ienvenue-à-dédainville. KANKRI: Je suis dés9lé, je pense juste que ça n'a rien à faire là. N9us ne s9mmes pas c9mme les humains, d9nt l'espèce c9mprend 6izarrement des r9les hautement spécialisés p9ur chaque sexe dans le pr9cessus de repr9ducti9n, ce qui a dé69uché sur des ramificati9ns s9ciales dans la manière d9nt leur civilisati9n a év9lué. Mais ce n'est pas c9mme ça que ça marche p9ur n9us, d9nc je n'arrive pas à v9ir en qu9i le genre peut être un facteur imp9rtant dans la discussi9n au p9int qu’9n puisse le pr96lématiser de manière efficace et rati9nnelle. 9ù est la place des privilèges n9n examinés dans la dich9t9mie ? Je ne la v9is pas. Et m9n9p9liser la discussi9n et les techniques de sensi6ilisati9n p9ur des questi9ns d9uteuses c9mme celles-ci, franchement, ce n'est pas très 6ien vu, p9ur le dire p9liment. Des c9mp9rtements appr9priatifs c9mme ceux-ci servent seulement à marginaliser et invalider ces sujets à de réels pr96lèmes et 9ppressi9ns, et je supp9se que je suis un peu déçu de te v9ir agir avec tant de légèreté et d’appr9priati9ns inappr9priées.
+      @porrim_angrytalk:#Alerte-trigger:#Sur-le-po+int-de-bo+tter-tes-fesses-hautement-pantalo+nnées PORRIM: Kanny, je co+mmence à me sentir un petit peu triggerée par to+ute cette merde auto+ur de "l'appro+priatio+n". 
+      @kankri_talk:#C'est-le-maire-c'est-ça-?#Ce-d9it-être-le-maire KANKRI: 9h ! Mes sincères excuses. J'aurais dû tagger plus finement mes p9siti9ns, mais p9ur tes c9nversati9ns futures, il serait servia6le d'alerter tes interl9ccuteurs de tes triggers 6ien à l'avance. D9is-je aller chercher t9n m9irail p9ur t'aider à te calmer ? Et si c'est le cas, qui est censé remplir ce quadrant auj9urd'hui ?
+      @porrim_annoyed2 PORRIM: D'acco+rd. Tu es manifestement d'humeur à te co+mpo+rter co+mme un gamin. Je me barre.
+      @kankri_talk KANKRI: Ne le prends pas c9mme ça. Vraiment, n9us p9uv9ns parler de t9ut ce que tu veux plus tard, et je serais vraiment aima6le, je te le pr9mets. Mais pas avec m9n élève al9rs qu'il est enc9re en phase d'apprentissage.
+      @kankri_talk:#Maintenant-9ù-en-étais-je-? KANKRI: 9u... m9n descendant. Qu'est-ce que j'ai dit ? Haha. Karkat, je veux dire. D'ailleurs, Karkat, excuse-m9i enc9re p9ur ça. 
       @karkat_eyeroll1 KARKAT: 
       <!--  -->
 </args></action>
 
-<action class='kankriTalk4' sprite='porrim' command='talk' name='Be Kankri.'><args>
-      @kankri_talk KANKRI: 
-      @kankri_talk KANKRI: 
-      @kankri_talk KANKRI: 
+<action class='kankriTalk4' sprite='porrim' command='talk' name='Deviens Kankri.'><args>
+      @kankri_talk KANKRI: Qu9i ? Tu s9uhaites m’incarner ? Quelle a6surde requête est-ce d9nc ?
+      @kankri_talk KANKRI: Ne v9is-tu pas que je suis en plein milieu d’un m9n9l9gue terri6lement imp9rtant ? Je veux dire, d’une c9nversati9n d’h9mme-à-h9mme avec Karkat ?
+      @kankri_talk KANKRI: Je p9urrais rec9nsidérer si la demande était plus p9lie. 9u, dans le pire des cas, plus “radicale".
       <!--  -->
 </args></action>
 
 
 
-<action class='latulaTalk5' sprite='kankri' command='talk' name='Talk to Latula.'><args>
-      @kankri_talk KANKRI: rfaces near6y. 
-      @kankri_talk:#Did-y9u-hang... KANKRI: 
-      @latula_happytalk LATULA:  
-      @latula_stunt LATULA: 
-      @kankri_talk4 KANKRI: 
-      @latula_bored LATULA: 
-      @kankri_talk KANKRI: 
-      @latula_huh:#? LATULA: 
-      @kankri_talk KANKRI: 
-      @latula_happier:#h4v3-u-s33n-h LATULA: 
-      @kankri_talk KANKRI: 
-      @kankri_talk2 KANKRI: 
-      @latula_talk LATULA: 
-      @kankri_talk4:#Seri9usly.#I-m KANKRI: 
-      @latula_laugh:#:3#h3h3h3h LATULA: H4H4!!!!
-      @kankri_talk2 KANKRI: 
-      @latula_happytalk LATULA: 
-      @kankri_talk3:#Cerulean KANKRI: 
-      @latula_talk LATULA: 
-      @kankri_talk2 KANKRI: 
-      @kankri_talk2:#It-rarely-is KANKRI: 
-      @latula_happy:#woo! LATULA: 
-      @kankri_talk2 KANKRI: 
-      @kankri_talk4 KANKRI: 
-      @latula_idle2 LATULA: 
-      @latula_happy LATULA: 
+<action class='latulaTalk5' sprite='kankri' command='talk' name='Parle à Latula.'><args>
+      @kankri_talk KANKRI: 9h, hey, Latula. Il m’avait 6ien semblé entendre les crissements de t9n véhicule sur les diverses surfaces des envir9ns. 
+      @kankri_talk:#As-tu-fait-un...#Hang-10?#N9n-je-d9is-me-tr9mper... KANKRI: T9uj9urs à faire des acr96aties avec t9n j9uet ? C9mment tu t’en s9rs ? Est-ce que tu as effectué 6eauc9up... 6eauc9up "d’air" ? C’est 6ien c9mme ça qu’9n dit ?
+      @latula_happytalk LATULA: b13n sur, bro !!! 
+      @latula_stunt LATULA: tu n1m4g1n3s M3M3 p4s. j3 m3v4d3 3t v1r3volt3 d4ns tous l3s s3nz !!!!
+      @kankri_talk4 KANKRI: Et 6ien, je n’avais pas dans l’idée de tenter un quelc9nque rappr9chement physique avec t9i, et même si c’était le cas, je ne d9ute pas de ta capacité à te mettre h9rs de ma p9rtée au m9yen de ta rapide petite planche. Mais s9it, je serais plus que c9ntent de te laisser t'évader dans quelque directi9n qu’il s9it, si tel est t9n s9uhait.
+      @latula_bored LATULA: m3c. m3m3 qu4nd j3 m3 d1s qu3 tu n3 pourr41s p4z 3tr3 plus co1nc3, tu 4rr1v3s 3t tu sors d3s phr4z comm3 c4
+      @kankri_talk KANKRI: Haha. Sûrement. Tu sais, je suis c9ntent que n9us puissi9ns discuter ainsi.
+      @latula_huh:#? LATULA: 4h bon...
+      @kankri_talk KANKRI: 9ui. J’ai réfléchi dernièrement, à n9s n9uveaux amis p9st-scratch. Plus particulièrement au jeune Vantas, à la Pyr9pe qui l’acc9mpagne, et à quel p9int ils n9us ressem6lent, t9ut en étant p9urtant si différents.
+      @latula_happier:#tu-4s-vu-son-costum3-d3-dr4gon ??-3333-!#TROP-m1gnonn3->8] LATULA: ou41s. l4 m1n1 mo1 3st 4v3ugl3 ! tu  S4V41S ??
+      @kankri_talk KANKRI: 9ui, mais ce n’est pas le pr9p9s.
+      @kankri_talk2 KANKRI: Elle et Karkat entretiennent une relati9n vraiment différente de la n9tre. La leur sem6le 6ien plus tur6ulente, vraisem6la6lement alimentée par des tensi9ns r9mantiques. Leur situati9n ne m’inspire rien de 69n. C’est malheureux à dire, mais ça me rassure de v9ir que n9us ne s9mmes jamais arrivés à ce stade-là.
+      @latula_talk LATULA: 3t ou41z. on 4 p4s b3so1n d3 c4 !
+      @kankri_talk4:#Sérieusement.#Je-veux-dire,-elle-est-sympa-mais...#Vraiment-? KANKRI: Je suis presque sûr que c’est lié au fait que n9us s9y9ns restés l9in de ce nid gr9uillant d'em6arras r9mantique. Ceci déc9ule, 6ien entendu, de m9n v9eu de céli6at qui, c9mme tu le sais, est juste un ch9ix pers9nnel, duquel, p9ur certaines rais9ns, ma versi9n adulte p9st scratch a finalement dévié… avec… Meulin,  de t9utes les pers9nnes que je c9t9ie ? Mais là n'est pas la questi9n
+      @latula_laugh:#:3#h3h3h3h LATULA: h4h4h4h4... to1 3t m3uz. j’3n pl3urs d3 r1r3 4 ch4qu3 fo1s... H4H4H4H4H4H4-!!!!
+      @kankri_talk2 KANKRI: 9ui. Mais même sans ça. Ce que je veux dire, c’est qu’il est 69n que n9us s9y9ns restés l9in de t9ut ça. Ça m’a aidé à t’apprécier en tant qu’amie, et à admirer tes n9m6reuses qualités. Plat9niquement, 6ien sûr.
+      @latula_happytalk LATULA: t4s r41son ! vu sous c3t 4ngl3, c4 s3st sup3r b13n p4ss3 d3 notr3 cot3 
+      @kankri_talk3:#Céruléens-salvateurs #Templiers-turqu9ises #Vi9lets-valeureux #Paladins-p9urpres KANKRI: C9mme cette manière que tu as de te détacher des usages qui inc9m6e à ta classe, en tant que sang aigue-marine, y c9mpris le c9té “69nnes intenti9ns” des c9nventi9ns s9ciales de ta lignée arist9cratique privilégiée. Tu n’as jamais ra6aissé pers9nne, ni même c9nsidéré c9mme un dev9ir civil “l’améli9rati9n” des classes aux c9uleurs plus chaudes, entraînant par la même 9ccasi9n une malheureuse tendance à j9uer le syndr9me du sauveur céruléen, 9u devrais-je dire le “fardeau des sang-6leu” (Alerte trigger sur ce sujet, évidemment). Malheureusement, ces c9utumes s9nt dés9rmais indiss9cia6les de la structure du spectre sanguin, chaque classe c9nsidérant celles qui lui s9nt inférieures de la même manière, et les sensi6iliser est devenu presque imp9ssi6le. Mais c9ntrairement aux autres c9uleurs fr9ides c9mp9sant n9tre équipe, et plus privilégiées que t9i, tels que les Serket, les Zahhak, les Amp9ra… Je n’ai jamais senti en t9i la m9indre envie d’en faire de même, et je tr9uve cela assez f9rmida6le.
+      @latula_talk LATULA: uh... ou41s ! c3st un3 pl413, pourquo1 j3 m3mb3t3r41s d3 tout3s c3s choz ? j3 v3ux d1r3, j41d3 l3s s3rfs4ngs 4 4ppr3ndr3 d3s f1gur3s 3t d3s ch34t codz s1ls l3 v3ul3nt 3t c3st tout !!!
+      @kankri_talk2 KANKRI: C’est vrai. Je précise juste que si ma tête était parasitée par de r9mantiques pensées, je ne serais pr96a6lement pas capa6le d’apprécier cette partie de t9i.
+      @kankri_talk2:#ça-l’est-rarement KANKRI: T9ut c9mme je serais incapa6le d’apprécier la manière d9nt tu pr9n9nces les "zeds" à la fin de certains m9ts 9u cette manie que tu as de dire les ch9ses t9ut haut et avec grand enth9usiasme, même quand ce n’est pas particulièrement nécessaire.
+      @latula_happy:#woo! LATULA: h3h3h. ou41s !!!!
+      @kankri_talk2 KANKRI: 9u cette faç9n qu’9nt tes cheveux de fl9tter au vent quand tu files à t9ute vitesse entre les 96stacles.
+      @kankri_talk4 KANKRI: 9u enc9re cet étrange petit s9n que tu émets l9rs de tes fameux high-fives, lequel ne peut être remarqué qu’en éc9utant attentivement au delà du clappement.
+      @latula_idle2 LATULA: um, ou41s... j41 4uss1 r3m4rqu3... d3s trucs comm3 ç4...
+      @latula_happy LATULA: 4 ton propoz, j’1m4g1n3 ?
       @latula_idle:#uh... LATULA: h3h.
-      @kankri_talk4 KANKRI: 
-      @kankri_talk4 KANKRI: 
-      @latula_idle2:#1...#hm LATULA: 
-      @kankri_talk2 KANKRI: 
+      @kankri_talk4 KANKRI: 9u cette manière que tu as de t9uj9urs m9ntrer une grande gentillesse envers les pers9nnes dans le 6es9in, sans p9ur autant les faire se sentir pathétiques 9u impuissantes.
+      @kankri_talk4 KANKRI: 9u cette faç9n que tu as de t9uj9urs faire en s9rte d’av9ir l’air élégante, même sans tes lunettes, parf9is même al9rs qu’elle s9nt p9sées sur ta tête juste devant tes c9rnes.
+      @latula_idle2:#j3...#hm LATULA: qu...
+      @kankri_talk2 KANKRI: 9u, je ne sais pas si tu te s9uviens de cette f9is 9ù Meenah n9us a cuisiné un gâteau. C’était p9ur fêter l’anniversaire de n9tre entrée dans le jeu, t9ut juste une rév9luti9n. L’un des rares m9ments de s9lidarité et de c9nvivialité entre les mem6res de n9tre équipe. T9ut le m9nde s’extasiait de l’9deur du gâteau t9ut juste s9rti du f9ur, al9rs tu as pris une grande inspirati9n, 9u6liant sur le m9ment, j’imagine, que tu ne p9uvais pas sentir. Puis tu t’es vite reprise, ad9ptant un air c99l et t’assurant que pers9nne ne t’avait remarquée. Mais je l’avais remarqué, m9i. Et j’ai tr9uvé que ça te d9nnait un c9té très attachant.
       @latula_idle3 LATULA: 
-      @kankri_talk KANKRI: 
-      @kankri_idle KANKRI: 
+      @kankri_talk KANKRI: Peu imp9rte, je pense que je n’aurais rien retenu de t9ut cela si n9us n’entreteni9ns pas de puissants liens plat9niques. Je me disais juste que je devais t’en parler. Je pense que je vais partir maintenant.
+      @kankri_idle KANKRI: 9n se v9it plus tard, Latula.
       @latula_idle3 LATULA: 
       <!--  -->
 </args></action>      
 
-<action class='porrimTalk4' sprite='kankri' command='talk' name='Talk to Porrim.'><args>
+<action class='porrimTalk4' sprite='kankri' command='talk' name='Parles à Porrim.'><args>
       @kankri_talk:#Wait,-what-did- KANKRI: 
       @kankri_talk4:#Weird-human KANKRI: 
       @porrim_surprisetalk PORRIM: 
