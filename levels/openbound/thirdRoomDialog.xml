@@ -425,41 +425,41 @@
 </args></action>      
 
 <action class='porrimTalk4' sprite='kankri' command='talk' name='Parles à Porrim.'><args>
-      @kankri_talk:#Wait,-what-did- KANKRI: 
-      @kankri_talk4:#Weird-human KANKRI: 
-      @porrim_surprisetalk PORRIM: 
-      @kankri_talk3:#I-mean...# KANKRI: 
-      @porrim_talk PORRIM: 
-      @porrim_annoyed PORRIM: 
-      @kankri_idle KANKRI: 
-      @porrim_annoyedtalk PORRIM: 
-      @kankri_rage:#SEE???#It's-fine KANKRI: 
-      @porrim_angry2:#Gho+st-laundry PORRIM: 
-      @kankri_talk4:#9r-Alternian#9r-Earthly KANKRI: 
-      @porrim_angry2 PORRIM: .
-      @kankri_talk3:#Y9u-can't-ev KANKRI: 
-      @porrim_angry:#Yo+u-make-me-sigh-s PORRIM: 
-      @porrim_annoyed2 PORRIM: 
-      @kankri_talk4 KANKRI: 
-      @kankri_talk2 KANKRI: 
-      @porrim_annoyedtalk PORRIM: 
-      @kankri_talk2 KANKRI: 
-      @porrim_surprise PORRIM: 
-      @porrim_annoyedtalk PORRIM: 
-      @porrim_angrytalk PORRIM: 
-      @kankri_talk4 KANKRI: 
-      @kankri_talk4:#C9rp9realn9rm KANKRI: 
+      @kankri_talk:#Attends-qu'est-ce-que-j'ai-dit-?#Je-v9ulais-définitivement-dire-amis KANKRI: Dans le futur, je te remercierai de ne pas m'em6arasser devant mes n9uveaux disciples. Amis. Je veux dire amis.
+      @kankri_talk4:#Étranges-structures-familiales-humaines KANKRI: Je n'ai vraiment pas 6es9in de t9i p9ur c9ntr9ler m9n enseignement à la réth9rique de sensi6ilisati9n. Tu n'es pas ma "mère humaine". 
+      @porrim_surprisetalk PORRIM: Qu'est-ce que to+ut cela veut dire ??
+      @kankri_talk3:#Je-veux-dire...#grandes-en-terme-de-pr9gressi9n KANKRI: Tu c9mprendrais si tu passais réellement du temps à faire des recherches sur les autres cultures p9ur acquérir une meilleure perspective de c9mpréhensi9n f9ndamentale de n9s pr96lèmes systémiques, plut9t que de te mêler de l'éruditi9n des autres et des grandes c9nversati9ns.
+      @porrim_talk PORRIM: Après to+utes ces révo+lutio+ns, tu agis enco+re co+mme une véritable larvouille des fo+is. Hey... Est-ce que....
+      @porrim_annoyed PORRIM: Est-ce que c'est de la sauce-larve sur to+n visage ?
+      @kankri_idle KANKRI: Qu9i ? N9n.
+      @porrim_annoyedtalk PORRIM: Si, c'en est. Tu as une gro+sse tache de sauce, juste là. Tu es une vraie bête à gro+in, Kanny. Viens par là.
+      @kankri_rage:#TU-V9IS-???#C'est-réglé KANKRI: N9n ! N9n, arrête. Ne me t9uche pas, je m'en charge !
+      @porrim_angry2:#Blanchisserie-fantô+me PORRIM: Ne t'essuie pas sur ta manche ! O+h mo+n dieu. Je viens JUSTE de le laver po+ur to+i.
+      @kankri_talk4:#9u-Alterniennes#9u-Terrestres KANKRI: Je m'en fiche. Je ne t'ai pas demandé de laver m9n pull. Je te le répète, je me fiche des p9ssessi9ns 6ef9riennes.
+      @porrim_angry2 PORRIM: No+us ne so+mmes plus sur Befo+rus. Je me suis do+nnée du mal sur ce pull, et je ne resterais pas sans rien faire pendant que tu le so+uilles de sauce-larve.
+      @kankri_talk3:#9n-ne-peut-même-pas-v9ir-ma-j9lie-ceinture KANKRI: J'étais très c9ntent sans pull ! P9ur être franc, je ne suis pas spécialement ravi qu'il cache le haut de m9n pantal9n.
+      @porrim_angry:#Tu-me-fais-tellement-so+upirer#Tu-m'esso+uffles PORRIM: Pff...
+      @porrim_annoyed2 PORRIM: Po+urquo+i es-tu to+ujo+urs si co+ntrariant avec mo+i ? Po+ur être ho+nnête, je pense que to+n beso+in de te "rebeller" co+ntre ce que je suggère est mo+tivé par le rejet de mo+n po+int de vue plutô+t que le po+int de vue lui-même.
+      @kankri_talk4 KANKRI: Je ne rejette pas t9n p9int de vue. Je le respecte. Je te l'ai DÉJÀ DIT.
+      @kankri_talk2 KANKRI: Je pense que le r9le des genres dans la s9ciété 6ef9rienne est pr96a6lement un sujet p9ussé et fascinant à expl9rer. Tu v9is, t9i c9mme m9i p9uv9ns apprécier ce sujet, 6ien évidemment. Je pense juste que pers9nne n'est enc9re prêt p9ur cela. Il y a 6ien d'autres 96stacles à surm9nter avant.
+      @porrim_annoyedtalk PORRIM: Des o+bstacles ? Kanny, tu devrais sérieusement arrêter de suranalyser to+ut cela. Même mo+i je ne sais pas de quo+i tu parles la plupart du temps.
+      @kankri_talk2 KANKRI: Ec9ute, je dis juste que c'est un sacré panier de 6êtes à pinces, d’essayer d'instruire les gens sur ce sujet avant t9ut autre. Je ne veux pas m'écarter des pr96lèmes 6ien plus flagrants qui demandent t9ute l'attenti9n de n9tre peuple, si n9us v9ul9ns pr9gresser en tant que civilisati9n.
+      @porrim_surprise PORRIM: Pro+gresser en tant que civilisatio+n ?
+      @porrim_annoyedtalk PORRIM: Kankri. No+tre peuple s'est éteint, et tu t'inquiètes de "t'écarter de pro+blèmes bien plus flagrants" ??
+      @porrim_angrytalk PORRIM: TOUT LE MONDE EST MORT !!!
+      @kankri_talk4 KANKRI: P9rrim, je suis vraiment déçu de t'entendre dire ça.
+      @kankri_talk4:#C9rp9r9-n9rmativité#Privilège-de-m9ralité#H9nte-sur-les-âmes KANKRI: C'était une remarque extrêmement c9rp9r9-n9rmative.
       @porrim_angry PORRIM: ...
       <!--  -->
 </args></action>
 
 <action class='grindTalk'><args>
-@latula_idle LATULA: 
-@latula_idle2 LATULA: 
-@latula_idle3 LATULA: 
+@latula_idle LATULA: wo4w...
+@latula_idle2 LATULA: c3t41t...
+@latula_idle3 LATULA: vr41m3nt...
 @latula_happier:#>8O!!!! LATULA: R44444444444444D1C4L!!!
-@latula_shades2 LATULA: 
-@latula_shine LATULA: 
+@latula_shades2 LATULA: just3 c13l m3uf, j3 n3 p3ns41s p4z qu3 tu pouv41s gr1nd3r comm3 c4.
+@latula_shine LATULA: donc tu d1s41s voulo1r m1nc4rn3r h31n ?  3h b13nz, c3st d4ccord ! put41nz m3uf, j3 m3 d3m4nd3 s1 c3st p4z mo1 qu1 devr41s d3m4nd3r 4 T1NC4RN3R !!!
 </args></action>
 
     <!-- if you examine locked door while karkat is following -->
@@ -468,7 +468,7 @@
 
   <!-- if kankri talks to karkat -->
 <action class='karkatTalk1' sprite='kankri' command='talk' name='Talk to Karkat.'><args>
-      @kankri_talk:#"6r6" KANKRI: 
+      @kankri_talk:#"Att" KANKRI: Un instant s’il te plaît, Karkat. Je vais 6rièvement me pr9mener, en aut9n9mie. Je sais que tu es très impatient de c9ntinuer n9tre discussi9n, et je pr9mets que je vais revenir très vite p9ur que n9us puissi9ns reprendre. Reste juste là à cet endr9it précis, pendant que tu laisses la sagesse de mes m9ts s’enraciner dans t9n c9eur, et essaie de ne pas t'él9igner avec qui que ce s9it, d’acc9rd ? Je reviens t9ut de suite.
       @karkat_eyeroll1 KARKAT: 
       <!--  -->
 </args></action>
@@ -478,12 +478,12 @@
   
 <!-- if you try to leave the room as a non-meenah character -->
 <action class='exitAlert' command='talk'><args>
-      @!:#nice-try 
+      @!:#bien-tenté Où est-ce que VOUS pensez aller ?! C’est la quête interactive dans l’au-delà de Meenah. Vous ne pouvez quitter cet endroit que si vous l’incarnez !
 </args></action>
 
       <!-- if you examine locked door -->
 <action class='doorTalk1' command='talk' name='Open door.'><args>
-      @!:#mysterious-symbol#a-clue#boguarding 
+      @!:#symbole-mystérieux#un-indice#indication-bonus:#c’est-karkat La porte est fermée. Elle semble garder les souvenirs privés de quelqu’un. On dirait qu’elle a besoin d’un mot de passe. Vous vous demandez qui l’a verrouillée ?
       <!--  -->
 </args></action>
       
