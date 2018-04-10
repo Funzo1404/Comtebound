@@ -108,7 +108,7 @@
       <!--  -->
 </args><action class='triggerEndTalk'/></action>
 
-<action class='endTalk6' command='removeOverlay' name='Peace out.'>
+<action class='endTalk6' command='removeOverlay' name='Ciao.'>
       <args>peanuts</args>
 </action>
 
