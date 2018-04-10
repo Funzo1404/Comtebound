@@ -507,7 +507,7 @@
 					<action command='playAnimation'>
 						<args>latula,walkFront</args>
 						<action command='removeAction'>
-							<args>latula,Be Latula.</args>	
+							<args>latula,Deviens Latula.</args>	
 						</action>
 					</action>
 				</action>
@@ -543,7 +543,7 @@
     
     <sprite name='memoryBubble' x='2220' y='1200' width='20' height='20' depthing='1' collidable='true'>
   		<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
-  		<action command='talk' sprite='porrim' name='Examine bubble.'>
+  		<action command='talk' sprite='porrim' name='Examine la bulle.'>
 				<args>
 					@! C'est une petite bulle de rêve, contenant un fragment de votre mémoire. Vous jetez un coup d'oeil à l'intérieur.
 					@! Le souvenir vient d'ici-même, sur Prospit. Vous avez passé beaucoup de temps dans le coin pendant les révolutions qu'a duré votre session. Vous vous rappelez de ce petit précipice également.
@@ -570,7 +570,7 @@
 			</action>
     	<action command='talk' sprite='!porrim' name='Examine la bulle.'>
     		<args>
-			  @!:#sorry It's a little dream bubble. But it does not contain your memory. Only Porrim can see what's inside.
+			  @!:#désolé C'est une petite bulle de rêve. Mais elle ne contient pas vos souvenirs. Uniquement Porrim peut voir ce qu'il y a à l'interieur.
 				</args>
 			</action>
 		</sprite>
