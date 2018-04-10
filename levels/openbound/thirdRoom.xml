@@ -38,11 +38,11 @@
 		  		<action command='playAnimation'>
 		  			<args>karkat,walkRight</args>
 		  			<action command='removeAction'>
-							<args>kankri,Talk.</args>
+							<args>kankri,Parle.</args>
 							<action command='removeAction'>
-								<args>karkat,Talk.</args>
+								<args>karkat,Parle.</args>
 								<action command='removeAction'>
-									<args>karkat,Talk to Karkat.</args>
+									<args>karkat,Parle à Karkat.</args>
 									<action command='addActions'>
 										<args>kankri,
 											<action class='snoop'/>
@@ -53,7 +53,7 @@
 												<action class='karkatTalk1'/>
 											</args>
 											<action command='removeAction'>
-												<args>thirdRoomDoor,Open door.</args>
+												<args>thirdRoomDoor,Ouvre la porte.</args>
 												<action command='addActions'>
 													<args>thirdRoomDoor,
 														<action class='doorTalk1'/>
@@ -480,9 +480,9 @@
 					<action command='playSong'>
 						<args>ironInfidel</args>
 						<action command='removeAction'>
-							<args>kankri,Talk.</args>
+							<args>kankri,Parle.</args>
 							<action command='removeAction'>
-								<args>karkat,Talk.</args>
+								<args>karkat,Parle.</args>
 								
 							</action>
 						</action>
@@ -523,7 +523,7 @@
 			<action class='porrimTalk2' />
 			<action class='porrimTalk3' />
 			<action class='porrimTalk4' />
-			<action name='Be Porrim.' command='changeChar'>
+			<action name='Deviens Porrim.' command='changeChar'>
 				<args>porrim</args>
 				<action command='playSong'>
 					<args>darlingDolorosa,43.88</args>
@@ -630,7 +630,7 @@
     		<args>thirdRoomChest9,obj31,@! Vous trouvez une MONTURE EN FONTE ONDULÉE !
       @!:#un-incroyable-hôte Qui a donc pu faire ça à un étalon de fonte si bien ciselé ? Qui que ce soit il devait être incroyablement fort, incroyablement arrogant, et incroyablement inerte si on le secoue.</args>
       	<action command='removeAction'>
-      		<args>andrew,Talk.</args>
+      		<args>andrew,Parle.</args>
       		<action command='addActions'>
       			<args>andrew,
       				<action class='andrewTalk2'/>
