@@ -182,50 +182,50 @@
 </args></action>
 
 <action class='porrimTalk2' sprite='meenah' command='talk' name='Ask Porrim to join.'><args>
-      @porrim_talk PORRIM: 
-      @porrim_annoyedtalk PORRIM: 
-      @meenah_wut2 MEENAH: 
-      @porrim_talk PORRIM: 
-      @meenah_idle MEENAH: uh
-      @porrim_happy PORRIM: 
-      @meenah_fish:#losers#everywhere MEENAH: 
-      @porrim_talk:#Go+d-tiers PORRIM: 
-      @porrim_talk:#Pajama-party PORRIM: 
-      @meenah_idle MEENAH: 
-      @porrim_idle PORRIM: 
-      @porrim_idle:#Gho+st-immo+rtality#Serio+us-business PORRIM: 
-      @meenah_happy MEENAH: 
-      @porrim_talk PORRIM: 
-      @meenah_talk:#at-least...#ghost-god-tiers MEENAH: 
-      @porrim_surprise PORRIM: 
-      @meenah_talk:#whaaaaales#&lt;3 MEENAH: 
-      @meenah_talk MEENAH: 
-      @meenah_idle MEENAH: 
-      @porrim_annoyedtalk:#Sylph-o+f-Wo+rds PORRIM: 
-      @meenah_annoyed MEENAH: 
-      @meenah_annoyedtalk MEENAH: 
-      @porrim_talk PORRIM: 
-      @meenah_idle MEENAH: 
-      @porrim_talk PORRIM: 
-      @meenah_talk MEENAH: 
-      @meenah_talk:#eff-that MEENAH: 
-      @porrim_annoyedtalk PORRIM: 
+      @porrim_talk PORRIM: C’est une no+ble idée.
+      @porrim_annoyedtalk PORRIM: Mais je ne vo+is pas co+mment je po+urrais me rendre utile.
+      @meenah_wut2 MEENAH: oh alleeeeez 38[
+      @porrim_talk PORRIM: Co+mbien de membres fait to+n équipe jusqu’à maintenant ?
+      @meenah_idle MEENAH: heu
+      @porrim_happy PORRIM: C’est to+ujo+urs juste to+i n’est-ce pas ?
+      @meenah_fish:#des-nuls#partout MEENAH: ... peut etre
+      @porrim_talk:#Tiers-divins PORRIM: Si j’étais to+i, je demanderais à to+us les tiers divins dans un premier temps. Ils t’appo+rteraient un grand avantage tactique tu ne penses pas ?
+      @porrim_talk:#So+irée-pyjama PORRIM: Ainsi tu po+urras co+nstruire une co+alitio+n grâce à eux.
+      @meenah_idle MEENAH:je suppose
+      @porrim_idle PORRIM: +, ils so+nt immo+rtels c’est ça ? O+u... immo+rtels en tant que fantô+mes, plutô+t ?
+      @porrim_idle:#Immo+rtalité-de-fantô+me#Affaire-sérieuse PORRIM: Mo+n Dieu, no+us y vo+ilà. No+us en so+mmes sérieusement à parler d’immo+rtalité po+ur des fantô+mes ?
+      @meenah_happy MEENAH: lol ouais
+      @porrim_talk PORRIM: Enfin bref, c’est ce que je ferais si j’étais to+i.
+      @meenah_talk:#ou-au-moins...#des-tiers-divins-fantomes MEENAH: mais je pense que le probleme est que ce seigneur squelettique pourrait bien etre capable de tuer des tiers divins ?
+      @porrim_surprise PORRIM: Tu penses ?
+      @meenah_talk:#poissoooooon#&lt;3 MEENAH: ouais il est dans le style a surpasser ce truc de poissant jugement qui ressuscite 
+      @meenah_talk MEENAH: tu sais avec lhorloge et tout
+      @meenah_idle MEENAH: je sais pas
+      @porrim_annoyedtalk:#Sylph-des-mo+ts PORRIM: Tu devrais en parler à Aranea. Je suis sûre qu’elle po+urrait te retirer l’arête du pied.
+      @meenah_annoyed MEENAH: oula
+      @meenah_annoyedtalk MEENAH: ouais peut etre plus tard
+      @porrim_talk PORRIM: Sais-tu au mo+ins qui so+nt to+us les tiers divins ?
+      @meenah_idle MEENAH: hum
+      @porrim_talk PORRIM: Aranea par exemple. Tu lui as demandé ?
+      @meenah_talk MEENAH: ouais mais elle a son propre plan
+      @meenah_talk:#osef-de-ca MEENAH: un bordel de cherub et de cul de salope chais pas quoi
+      @porrim_annoyedtalk PORRIM: O+k. Bien, j’espère que ce n’est pas tro+p invasif, mais et to+i ?
       @meenah_annoyed MEENAH: ...
-      @porrim_happytalk:#Except-presumably-Damara... PORRIM: 
-      @meenah_annoyed MEENAH: 
-      @meenah_annoyedtalk:#looked-like-such-ass MEENAH: 
-      @meenah_wut:#got-a-reputation-to-conchsider MEENAH: 
-      @porrim_happy PORRIM: 
-      @porrim_talk PORRIM: 
-      @porrim_laugh PORRIM: 
-      @porrim_happytalk PORRIM: 
-      @meenah_happy:#po-glow MEENAH: 
-      @meenah_talk MEENAH: 
-      @meenah_talk:#lame#terrible MEENAH: 
-      @meenah_annoyedtalk:#soooo MEENAH: 
-      @porrim_idle PORRIM: 
-      @meenah_talk MEENAH: 
-      @meenah_idle MEENAH: 
+      @porrim_happytalk:#À-part-po+ssiblement-Damara... PORRIM: J’ai entendu des rumeurs disant que tu aurais atteint le tier divin sans jamais le révéler à quico+nque.
+      @meenah_annoyed MEENAH: tu ne comprends pas
+      @meenah_annoyedtalk:#ressemblais-a-une-conne MEENAH: cest juste ce putain dhabit de voleur de vie
+      @meenah_wut:#une-reputation-a-concherver MEENAH: je pouvais tout simplement pas parader avec ce truc hideux
+      @porrim_happy PORRIM: C’était do+nc vrai. Je m’en do+utais.
+      @porrim_talk PORRIM: Tu vo+is o+ù je veux en venir au mo+ins ? Je n’en étais pas sûre jusqu’à maintenant. Les rumeurs vo+lent, mais les vrais secrets persistent.
+      @porrim_laugh PORRIM: Qui sait qui d’autre aurait atteint le tier divin ? Beauco+up de cho+ses peuvent se passer en tro+is révo+lutio+ns. Je sais seulement que je ne l’ai pas fait.
+      @porrim_happytalk PORRIM: Mais si tu as beso+in de quelqu’un po+ur pho+spho+rer sinistrement à pro+ximité d’un démo+n, to+ut en débattant sur le fait de bo+ire so+n sang, je me plais à penser que j’atteindrais facilement le to+p 10 des candidats que tu po+urrais co+nsidérer po+ur ça.
+      @meenah_happy:#po-sphoresecent MEENAH: ouais je sais que tu geres dans le domaine
+      @meenah_talk MEENAH: je suppose que tu as raison je devraie dabord voir si dautres tiers divins veulent rejoindre
+      @meenah_talk:#nuls#chiants MEENAH: le prob est que je ne pense pas que le fait de passer tiers divins les empechera detre nuls et chiants
+      @meenah_annoyedtalk:#dooooonc MEENAH: et on avait beaucoup de gens comme ca dans notre equipe
+      @porrim_idle PORRIM: C’est vrai.
+      @meenah_talk MEENAH: je suppose que je vais continuer de demander a tout le monde
+      @meenah_idle MEENAH: jy vais a plus meryam 
       <!--  -->
 </args></action>
 
