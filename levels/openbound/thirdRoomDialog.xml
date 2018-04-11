@@ -181,7 +181,7 @@
       <!--  -->
 </args></action>
 
-<action class='porrimTalk2' sprite='meenah' command='talk' name='Ask Porrim to join.'><args>
+<action class='porrimTalk2' sprite='meenah' command='talk' name='Demande à Porrim de se joindre à toi.'><args>
       @porrim_talk PORRIM: C’est une no+ble idée.
       @porrim_annoyedtalk PORRIM: Mais je ne vo+is pas co+mment je po+urrais me rendre utile.
       @meenah_wut2 MEENAH: oh alleeeeez 38[
