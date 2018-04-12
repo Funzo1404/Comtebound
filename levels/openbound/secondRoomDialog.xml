@@ -57,7 +57,7 @@
       @aranea_annoyedtalk:#Lame-?#Vraiment,-Meenah-? ARANEA: La lame........ l’arme, je veux dire, n’est pas un quoi, mais un qui.
       @aranea_happytalk:#Aliens ARANEA: Il s’agit de l’autre chéru8in. L’équivalent féminin du Seigneur, avec qui il partageait autrefois le même corps.
       @aranea_talk:#Espèce-xéno8iologiquement-fascinante ARANEA: Mais lorsqu’ils atteignirent leur maturité, sa personnalité domina l’hôte, lui assurant un contrôle complet
-      @aranea_talk:##Du-moins-d’après-la-légende ARANEA: 
+      @aranea_talk:##Du-moins-d’après-la-légende ARANEA: Elle est techniquement morte ce jour-là, et son esprit doit actuellement être en train d’errer quelque part dans le Cercle Extérieur.
       @aranea_madtalk ARANEA: Nous devons la retrouver avant lui. Il va sûrement essayer de l’achever pour de 8on.
       @meenah_annoyed:#uh MEENAH: cherubin
       @meenah_wut2 MEENAH: quoi
@@ -91,7 +91,7 @@
       @meenah_wut2 MEENAH: hein
       @rose_annoyedtalk ROSE: Parler aux gens.
       @meenah_wut2 MEENAH: hey va te faire
-      @rose_happytalk:##Je-suis-un-peu-pareille,-pour-être-honnête. ROSE: Ce n’est pas un problème en soi. Je ne suis pas là pour critiquer.
+      @rose_happytalk:#Je-suis-un-peu-pareille,-pour-être-honnête. ROSE: Ce n’est pas un problème en soi. Je ne suis pas là pour critiquer.
       @rose_concern:#Lune-beforienne ROSE: J’ai entendu des choses sur toi. Le paysage rocailleux rose là-bas. C’est un souvenir de ta maison, je me trompe ? 
       @meenah_annoyed:#... MEENAH: 
       @rose_talk ROSE: Tu t’es enfuie sur cette lune après avoir refusé le trône, c’est ça ? Et ensuite tu as vécu là-bas complètement seule pendant... combien d’années déjà ?
@@ -256,14 +256,14 @@
 
 <action class='daveDialog2' name='Demande à Dave de se joindre à toi.' command='talk'><args>
       @dave_idle DAVE: ouais jai vu ca
-      @dave_talk:#les-passe-temps-secrets-de-dave#homard-rouge-de-letrange#fruits-de-mer#je mennuyais DAVE: jetais en train de regarder lespace faire de la contemplation de monstres tout ca
+      @dave_talk:#les-passe-temps-secrets-de-dave#homard-rouge-de-letrange#fruits-de-mer#je-mennuyais DAVE: jetais en train de regarder lespace faire de la contemplation de monstres tout ca
       @dave_huhtalk:#ben-stiller-a-failli-faire-une-putain-de-tornade-dans-sa-tombe DAVE: quand tout a coup jai cru que mes lunettes venaient de se peter
       @dave_huhtalk:#putain-de-soulagement#elles-viennent-de-mon-meilleur-frangin DAVE: mais cetait pas les lunettes en fait cetait lespace lui meme qui sest fissure
       @dave_concern:#monstres-mourants#fantomes-mourants#affreux-problemes DAVE: et jai ecoute et jai entendu des cris et des meurtres et tout
       @dave_mad DAVE: jarrive pas a bien dormir depuis
       @dave_smug:#oh-ouais#javais-oublie DAVE: enfin bon jimagine que je suis endormi la maintenant
-      @dave_talk:[#anatomie-troll#obscene#peut-etre ? DAVE: parce que je suis la dans la bulle en train de te parler mais ouais de maniere generale mon rythme de sommeil sest fait saillir par levacuation proteique
-      @dave_talk:#projets geniaux DAVE: me garder occupe avec des projets geniaux aide un peu je suppose
+      @dave_talk:#anatomie-troll#obscene#peut-etre-? DAVE: parce que je suis la dans la bulle en train de te parler mais ouais de maniere generale mon rythme de sommeil sest fait saillir par levacuation proteique
+      @dave_talk:#projets-geniaux DAVE: me garder occupe avec des projets geniaux aide un peu je suppose
       @meenah_creepy MEENAH: alors tu dois vouloir tuer ce mec encore plus que moi
       @meenah_creepytalk:#a-quoi-donc-sert-une-cape#si-tu-ne-tenvoiles-pas-pour-casser-du-mechant MEENAH: pourquoi tu me rejoindrais pas on pourrait senvoilier au loin et lui defoncer la gueule ensemble 38D
       @dave_idle:#nah DAVE: nope
@@ -279,7 +279,7 @@
       @dave_idle:#ouais-allons-y#je-deconne#non DAVE: nah
       @dave_huh DAVE: enfin
       @dave_huhtalk:#guillemets DAVE: je pense que je suis "suppose" le tuer de toute facon ?
-      @dave_madtalk:#tu-te-rappelles-cette-connerie-avec-le-pimp-dans-le-crib ?#hahaha-oh-mon-dieu DAVE: jai cette impression en tout cas avec tous les indices que jai pu voir sur ma route 
+      @dave_madtalk:#tu-te-rappelles-cette-connerie-avec-le-pimp-dans-le-crib-?#hahaha-oh-mon-dieu DAVE: jai cette impression en tout cas avec tous les indices que jai pu voir sur ma route 
       @dave_madtalk:#on-dit-quil-a-une-dent-en-or#vous-etes-serieux-putain DAVE: alors si je suis LE MEC qui est cense le descendre ok je le ferai et je me retrouverai embarque dans un grand affrontement final contre une espece de pimp vert de lespace ou peu importe ce quil est
       @dave_huhtalk:#je-me-debrouille-mieux-avec-les-comics DAVE: je sais pas je suis pas vraiment fait pour le truc du heros reticent
       @dave_huhtalk:#reticent-avant-que-ca-soit-cool#et-avant-que-jen-ai-envie DAVE: genre toute la scene est tellement evidente et banale que jarrive meme pas a dire si ma reticence est ironique ou si je suis serieux
@@ -309,7 +309,7 @@
       @dave_madtalk DAVE: personnellement je trouve que cest une idee de merde mais tas lair motivee pour le faire
       @meenah_idle:#dans-ta-face MEENAH: ouais
       @dave_huhtalk:#guillemets DAVE: alors pourquoi tu gaspillerais ton temps en te baladant aux alentours en "etant quelqun dautre" ca na aucun putain de sens
-      @dave_madtalk DAVE:  par exemple tu peux devenir aucune des personnes sur cette putain de plage parce que tes supposee foncer au travers de cet endroit a la recherche de tes amis
+      @dave_madtalk DAVE: par exemple tu peux devenir aucune des personnes sur cette putain de plage parce que tes supposee foncer au travers de cet endroit a la recherche de tes amis
       @dave_smug:[#ahahaha#cest-deja-trop-meta#jabandonne-putain DAVE: merde essaye de rester dans ton role je sais pas 
       @meenah_wut2:#nuuuuuul MEENAH: aw mec
       @dave_talk DAVE: peut etre quune fois que tu auras retrouve tes potes tu pourras devenir certains dentre eux
@@ -319,7 +319,7 @@
       @dave_talk DAVE: comme une autre foutue zone de bulle
       @dave_talk DAVE: comme les souvenirs dune putain de foret magique ou bien un village natal ou une merde du genre
       @dave_talk DAVE: je sais pas juste a un autre putain dendroit
-      @dave_mad:#et-sur-ce#nen-parlons-plus-jamais#deviens-dave-?#dans-tes-reves DAVE: 
+      @dave_mad:#et-sur-ce#nen-parlons-plus-jamais#deviens-dave-?#dans-tes-reves DAVE: maintenant barre toi
       @meenah_wut2 MEENAH: SI TU INSIST-ES
       <!--  -->
 </args></action>
