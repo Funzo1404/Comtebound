@@ -1,7 +1,7 @@
 <sburb><classes>
 <action class='araneaDialog1' name='Parle à Aranea.' command='talk'><args>
       @aranea_happier ARANEA: Te voilà ! 
-      @aranea_happy:#Tu-as-manqué-à-tout-le-monde-! ARANEA: On ne t’a pas 8eaucoup vue depuis que tu nous as rejoints dans l’audelà. Je sais que tu fais partie de la "royauté" et tout, mais ce n’est pas très poli de ta part de t’enfermer dans ton somptueux nid lunaire pour toujours.
+      @aranea_happy:#Tu-as-manqué-à-tout-le-monde-! ARANEA: On ne t’a pas 8eaucoup vue depuis que tu nous as rejoints dans l’au-delà. Je sais que tu fais partie de la "royauté" et tout, mais ce n’est pas très poli de ta part de t’enfermer dans ton somptueux nid lunaire pour toujours.
       @meenah_talk MEENAH: ben je suis la maintenant hein
       @aranea_talk:#Jeu-de-mots#Mots-en-8-lettres#Oh-oui ARANEA: Et c’est une 8onne chose que tu le sois. Je m’apprêtais à venir te voir, afin de discuter de cette récente... calamité. En li8erté dans l’a8ysse.
       @meenah_creepytalk:#splosions MEENAH: ouais !!! donc tu las vu aussi hein
