@@ -142,13 +142,13 @@
 </args></action>
 
 <action class='porrimTalk1' sprite='meenah' command='talk' name='Parle à Porrim.'><args>
-      @porrim_happy PORRIM: Rebo+njo+ur.
+      @porrim_happy PORRIM: Bo+n reto+ur parmi no+us.
       @meenah_idle MEENAH: quoi de neuf maryam
       @porrim_talk PORRIM: Alo+rs, to+n certificat de décès est à peine imprimé, et j’entends déjà dire que tu travailles à réunir une armée ?
       @meenah_talk:#putain MEENAH: comment tu as fait pour savoir ca si tot
       @porrim_talk PORRIM: Les no+uvelles vo+nt vite ici. Il y a beauco+up de rago+ts.
-      @porrim_annoyedtalk:#Bubblr PORRIM: Perso+nne ne te prépare au fait que l’autre cô+té de la mo+rt so+it une éternelle et infinie répétitio+n de drama d’ado+lescents.
-      @porrim_happytalk PORRIM: C’est drô+le de se dire que quand o+n a quitté no+tre mo+nde po+ur jo+uer à to+n jeu, o+n pensait to+us qu’o+n laissait no+s jo+urs de bavardage juvénile derrière no+us.
+      @porrim_annoyedtalk:#Bubblr PORRIM: Perso+nne ne te prépare au fait que l’autre cô+té de la mo+rt so+it une éternelle et infinie répétitio+n de drama d’ado+lescent.
+      @porrim_happytalk PORRIM: C’est drô+le de se dire que quand o+n a quitté no+tre mo+nde po+ur jo+uer à to+n jeu, o+n pensait to+us qu’o+n laissait no+s enfantillages derrière no+us.
       @meenah_idle MEENAH: ouais
       @meenah_happytalk MEENAH: raison de plus pour partir dici et se battre contre des mechants et tout
       @porrim_happytalk:#Bien-jo+ué. PORRIM: J’ai vu to+n astucieuse esquive po+ur éviter de renco+ntrer Kankri là-bas
@@ -158,10 +158,10 @@
       @porrim_happytalk PORRIM: O+u, à défaut d’aile, la manche ro+uge duveteuse de so+n pull.
       @meenah_talk MEENAH: cest quoi le truc avec cette chose moche dailleurs
       @porrim_talk PORRIM: C’est mo+i qui lui ai fait, po+ur dire vrai.
-      @porrim_annoyedtalk:#Pantskan PORRIM: Pour ma défense, j’étais fatiguée de le vo+ir po+rter so+n stupide pantalo+n de rando+nnée, toujo+urs le même. Sérieusement, est-ce que tu l’as déjà vu po+rter autre cho+se ?
+      @porrim_annoyedtalk:#Pantskan PORRIM: Pour ma défense, j’étais fatiguée de le vo+ir po+rter so+n stupide pantalo+n tiré jusqu’au to+rse, toujo+urs le même. Sérieusement, est-ce que tu l’as déjà vu po+rter autre cho+se ?
       @meenah_happytalk MEENAH: haha non
       @porrim_annoyed2 PORRIM: Tellement démo+dé.
-      @porrim_annoyed2 PORRIM: Et puis il frisso+nnait to+ut le temps. Il peut faire assez fro+id par ici, et il ne vo+ulait to+ut simplement rien po+rter d’autre. Pas que je m’en inquiétais tro+p, mais il avait cette manière de mo+ntrer o+stensiblement sa so+uffrance, co+mme si c’était une so+rte d’état vertueux. Ça devenait co+mpliqué po+ur to+ut le mo+nde de le suppo+rter, d’o+ù so+n surno+m.
+      @porrim_annoyed2 PORRIM: Et puis il frisso+nnait to+ut le temps. Il peut faire assez fro+id par ici, et il ne vo+ulait to+ut simplement rien po+rter d’autre. Pas que je m’en inquiétais tro+p, mais il avait cette manière de mo+ntrer o+stensiblement sa so+uffrance, co+mme si c’était une so+rte d’état vertueux.  Il infligeait ça à to+ut le mo+nde, d’o+ù so+n surno+m.
       @meenah_idle MEENAH: attends un surnom
       @meenah_fishtalk MEENAH: si il y a de nouveaux bails sur vantas je dois en entendre parler presteau
       @porrim_happy PORRIM: L’impo+seur.
@@ -172,12 +172,12 @@
       @meenah_idle MEENAH: tu sais
       @meenah_talk MEENAH: attends cest etrange comme sous entendu
       @meenah_wink:#euh... MEENAH: est ce que toi et elle avez euh
-      @porrim_talk PORRIM: Je pensais que tu n’étais pas venu ici po+ur échanger des co+mmérages.
+      @porrim_talk PORRIM: Je pensais que tu n’étais pas venue ici po+ur échanger des co+mmérages.
       @meenah_idle MEENAH: whoa tas raison
-      @meenah_talk:#interaiessee-a-zero-pourcent MEENAH: javais presque oublie de ne pas etre interaiessee
-      @meenah_happytalk MEENAH: je mexcuse de metre introduite dans ta vie romantique cetait si impudent de ma part
+      @meenah_talk:#interaie-a-exactement-zero-pourcent MEENAH: javais presque oublie de ne pas etre interaiessee
+      @meenah_happytalk MEENAH: je mexcuse de metre introduite dans ta vie romantique cetait si deplage de ma part
       @porrim_talk PORRIM: Ça va. Ce n’est pas co+mme si j’avais beauco+up de secrets bien gardés.
-      @porrim_happytalk PORRIM: Viens me vo+ir quand tu veux. Je te mettrai au co+urant de to+us ceux qui o+nt été vus à passer au travers des po+rtes to+urnantes bien graissées menant à mes quadrants.
+      @porrim_happytalk PORRIM: Viens me vo+ir quand tu veux. Je te mettrai au co+urant de to+us ceux qui o+nt été vus passer au travers des po+rtes to+urnantes bien graissées menant à mes quadrants.
       <!--  -->
 </args></action>
 
@@ -185,12 +185,12 @@
       @porrim_talk PORRIM: C’est une no+ble idée.
       @porrim_annoyedtalk PORRIM: Mais je ne vo+is pas co+mment je po+urrais me rendre utile.
       @meenah_wut2 MEENAH: oh alleeeeez 38[
-      @porrim_talk PORRIM: Co+mbien de membres fait to+n équipe jusqu’à maintenant ?
+      @porrim_talk PORRIM: Co+mbien de membres a to+n équipe jusqu’à maintenant ?
       @meenah_idle MEENAH: heu
       @porrim_happy PORRIM: C’est to+ujo+urs juste to+i n’est-ce pas ?
       @meenah_fish:#des-nuls#partout MEENAH: ... peut etre
       @porrim_talk:#Tiers-divins PORRIM: Si j’étais to+i, je demanderais à to+us les tiers divins dans un premier temps. Ils t’appo+rteraient un grand avantage tactique tu ne penses pas ?
-      @porrim_talk:#So+irée-pyjama PORRIM: Ainsi tu po+urras co+nstruire une co+alitio+n grâce à eux.
+      @porrim_talk:#So+irée-pyjama PORRIM: Ensuite tu po+urras co+nstruire une co+alitio+n à partir de là.
       @meenah_idle MEENAH:je suppose
       @porrim_idle PORRIM: +, ils so+nt immo+rtels c’est ça ? O+u... immo+rtels en tant que fantô+mes, plutô+t ?
       @porrim_idle:#Immo+rtalité-de-fantô+me#Affaire-sérieuse PORRIM: Mo+n Dieu, no+us y vo+ilà. No+us en so+mmes sérieusement à parler d’immo+rtalité po+ur des fantô+mes ?
@@ -199,7 +199,7 @@
       @meenah_talk:#ou-au-moins...#des-tiers-divins-fantomes MEENAH: mais je pense que le probleme est que ce seigneur squelettique pourrait bien etre capable de tuer des tiers divins ?
       @porrim_surprise PORRIM: Tu penses ?
       @meenah_talk:#poissoooooon#&lt;3 MEENAH: ouais il est dans le style a surpasser ce truc de poissant jugement qui ressuscite 
-      @meenah_talk MEENAH: tu sais avec lhorloge et tout
+      @meenah_talk MEENAH: tu sais avec lhorloge classe et tout
       @meenah_idle MEENAH: je sais pas
       @porrim_annoyedtalk:#Sylphe-des-mo+ts PORRIM: Tu devrais en parler à Aranea. Je suis sûre qu’elle po+urrait te retirer l’arête du pied.
       @meenah_annoyed MEENAH: oula
@@ -208,11 +208,11 @@
       @meenah_idle MEENAH: hum
       @porrim_talk PORRIM: Aranea par exemple. Tu lui as demandé ?
       @meenah_talk MEENAH: ouais mais elle a son propre plan
-      @meenah_talk:#osef-de-ca MEENAH: un bordel de cherub et de cul de salope chais pas quoi
-      @porrim_annoyedtalk PORRIM: O+k. Bien, j’espère que ce n’est pas tro+p invasif, mais et to+i ?
+      @meenah_talk:#osef-de-ca MEENAH: un bordel de cherubin et de cul de salope chais pas quoi
+      @porrim_annoyedtalk PORRIM: O+k. Bien, j’espère que ce n’est pas tro+p indiscret, mais et to+i ?
       @meenah_annoyed MEENAH: ...
       @porrim_happytalk:#À-part-po+ssiblement-Damara... PORRIM: J’ai entendu des rumeurs disant que tu aurais atteint le tier divin sans jamais le révéler à quico+nque.
-      @meenah_annoyed MEENAH: tu ne comprends pas
+      @meenah_annoyed MEENAH: tu comprends pas
       @meenah_annoyedtalk:#ressemblais-a-une-conne MEENAH: cest juste ce putain dhabit de voleur de vie
       @meenah_wut:#une-reputation-a-concherver MEENAH: je pouvais tout simplement pas parader avec ce truc hideux
       @porrim_happy PORRIM: C’était do+nc vrai. Je m’en do+utais.
@@ -221,7 +221,7 @@
       @porrim_happytalk PORRIM: Mais si tu as beso+in de quelqu’un po+ur pho+spho+rer sinistrement à pro+ximité d’un démo+n, to+ut en débattant sur le fait de bo+ire so+n sang, je me plais à penser que j’atteindrais facilement le to+p 10 des candidats que tu po+urrais co+nsidérer po+ur ça.
       @meenah_happy:#po-sphoresecent MEENAH: ouais je sais que tu geres dans le domaine
       @meenah_talk MEENAH: je suppose que tu as raison je devraie dabord voir si dautres tiers divins veulent rejoindre
-      @meenah_talk:#nuls#chiants MEENAH: le prob est que je ne pense pas que le fait de passer tiers divins les empechera detre nuls et chiants
+      @meenah_talk:#nul#chiant MEENAH: le prob est que je ne pense pas que le fait de passer tier divin evite de rester nul et chiant
       @meenah_annoyedtalk:#dooooonc MEENAH: et on avait beaucoup de gens comme ca dans notre equipe
       @porrim_idle PORRIM: C’est vrai.
       @meenah_talk MEENAH: je suppose que je vais continuer de demander a tout le monde
@@ -239,19 +239,19 @@
       @porrim_annoyedtalk PORRIM: Ce n’est... O+W.
       @porrim_angry PORRIM: Pas si fo+rt !
       @porrim_talk PORRIM: C’est bo+n.
-      @latula_annoyedtalk LATULA: quo111, 4ll3z. j3 p3ns41s qu3 to1, plus qu3 l3s 4utr3s, s3r41s r4v13 4 l1d33 qu3 l3s d4m3s s3 f4ss3nt r3m4rqu3r d4v4nt4g3 d4ns l3 co1n.
-      @porrim_idle:#Dans-le-co+in#Absurde#Sur-to+us-les-niveaux PORRIM: Po+urquo+i do+nc ? Ça me fait plaisir de retro+uver une vieille amie, mais c’est to+ut.
-      @porrim_talk PORRIM: Je penz que tu caricaturiz une fo+is de plus mo+n po+int de vu sur le sujet, en suppo+sant que no+us parlio+ns du même sujet.
+      @latula_annoyedtalk LATULA: quo111, 4ll3z. j3 p3ns41s qu3 to1, plus qu3 l3s 4utr3s, s3r41s r4v13 4 l1d33 qu3 l3s d4mz s3 f4ss3nt r3m4rqu3r d4v4nt4g3 d4ns l3 b1nz.
+      @porrim_idle:#Dans-le-binz#Absurde#À-to+us-les-niveaux PORRIM: Po+urquo+i do+nc ? Ça me fait plaisir de retro+uver une vieille amie, mais c’est to+ut.
+      @porrim_talk PORRIM: Je pense que tu caricatures une fo+is de plus mo+n po+int de vue sur le sujet, en suppo+sant que no+us parlio+ns du même sujet.
       @porrim_talk PORRIM: De la même manière que cet engagement à ta façade de "rad girl" surjo+uée me do+nne to+ujo+urs cette impressio+n de caricature de la femme fo+rte et de so+n émancipatio+n à laquelle tu essayes de ressembler.
       @latula_angry LATULA: d3 quo1 ??? c3st f4ux, j3 su1s r4d c4r j’41m3 3tr3 r4d ! 3tr3 r4d c3st l4 b4z.
       @porrim_talk:#Ai-je-pho+nétiquement-suffisamment-mis-l’emphase-sur-ce-“z”-? PORRIM: Je sais que c’est la baz. Mais l'exagérer, c’est autre cho+se.
       @porrim_talk PORRIM: Ne penses-tu pas que cela po+urrait do+nner l’impressio+n que tu tentes de surco+mpenser les implicites faiblesses de to+n genre au travers de ce co+mpo+rtement ? Un acte réfutant ce qui devrait être un ho+mme de paille, incarnant un puéril perso+nnage qui à chaque kickflit o+u highfive crie "O+UAIS, FIGUREZ VO+US QUE LES FILLES _PEUVENT_ ÊTRE AUSSI RADIALES ET BO+NNES AUX JEUX VIDÉO+ QUE LES GARÇO+NS !" acco+rdant ainsi plus de dignité à cette prémisse qu’à ta pro+pre perso+nne ?
       @latula_huh:#1nst4nt-r4dz-off1c13ll3m3nt:#G4CH3 LATULA: qu3… 4tt3nds quo1 ? 4w m3uf.
       @latula_shades2:#4-l41d3 LATULA: d3 quo1 tu p4rl3s m3uf. m33n4h t3s p4ss33 ou ! v13ns m’41d3r 4 r34g1r d3 m4n13r3 cyn1qu3 f4c3 4 c4 ! 4h !!! 
-      @porrim_annoyed2:#Matriarcat-basé-sur-les-fuschias#Patriarcat-basé-sur-les-vio+lets PORRIM: Tu peux feindre de ne rien co+mprendre, mais no+us avo+ns déjà parlé par le passé et je sais que tu es plus intelligente que tu ne le laisses paraître. No+us avo+ns été élevées dans ce qui était fo+ndamentalement une “so+ciété matriarcale”, ce qui a to+ujo+urs servi d’excuse afin de minimiser les cas clairs d'o+ppressio+ns envers les femmes et d'o+cculter la pertinence des ro+les que po+ssèdent le genre, plus particulièrement dans les endro+its o+ù les gens se liguent co+ntre les femmes. Mais n’impo+rte qui ayant o+bservé no+tre so+ciété avec un tant so+it peu d’attentio+n aurait remarqué que même si, en effet, elle est superficiellement définie co+mme un matriarcat basé sur la do+minatio+n des sangs fuschias, dans les faits, l'exécutio+n du po+uvo+ir po+litique dirigeant la plupart des classes so+ciales était déléguée aux plus hauts CIP, lesquels étaient généralement des castes do+minées par des individus masculins. Ils o+nt pris le co+ntrô+le des affaires co+llectives et dicté les co+nventio+ns so+ciales, et quico+nque o+sait o+bjecter o+u faire la lumière sur ces abus était aussitô+t co+ntré par un "Hey ! Matriarcat ! Fin de la discussio+n."
+      @porrim_annoyed2:#Matriarcat-fuschia#Patriarcat-po+urpre PORRIM: Tu peux feindre de ne rien co+mprendre, mais no+us avo+ns déjà parlé par le passé et je sais que tu es plus intelligente que tu ne le laisses paraître. No+us avo+ns été élevées dans ce qui était fo+ndamentalement une “so+ciété matriarcale”, ce qui a to+ujo+urs servi d’excuse afin de minimiser les cas clairs d'o+ppressio+ns envers les femmes et d'o+cculter la pertinence des ro+les que po+ssèdent le genre, plus particulièrement quand ces ro+les desservent les femmes. Mais n’impo+rte qui ayant o+bservé no+tre so+ciété avec un tant so+it peu d’attentio+n aurait remarqué que même si, en effet, elle est superficiellement définie co+mme un matriarcat basé sur la do+minatio+n des sangs fuschias, dans les faits, l'exécutio+n du po+uvo+ir po+litique dirigeant la plupart des classes so+ciales était déléguée aux plus hauts CIP, lesquels étaient généralement des castes do+minées par des individus masculins. Ils o+nt pris le co+ntrô+le des affaires co+llectives et dicté les co+nventio+ns so+ciales, et quico+nque o+sait o+bjecter o+u faire la lumière sur ces abus était aussitô+t co+ntré par un "Hey ! Matriarcat ! Fin de la discussio+n."
       @latula_annoyedtalk LATULA: m3uf, stp. comm3nc3 p4s 4 f41r3 t4 v4nt4s.
       @porrim_angrytalk PORRIM: No+n, si je faisais ma Vantas, cela ne serait que l’intro+ductio+n d’un lo+ng mo+no+lo+gue. Mais c’est là to+ut ce que j’ai à dire sur le sujet.
-      @latula_tongue LATULA: wow !
+      @latula_tongue LATULA: pf1ou !
       @porrim_happytalk PORRIM: Je me dis juste que tu devrais être fidèle à to+i même plus so+uvent. O+n sait déjà que tu es fo+rte, bo+nne aux jeux vidéo+ et to+ut ça. Tu n’as rien à pro+uver.
       @latula_idle2 LATULA: ou41s. tu 4s prob4bl3m3nt r41son.
       @latula_talk:#3n-p4rt1cul13r-qu4nd-j41-p4s-mon-tr41t3m3nt LATULA:  c3st p4rfo1s s1 str3ss4nt 4 t3n1r ! 1l m4rr1v3 doubl13r d3 m3ttr3 d3s z3ds 4 l4 f1n d3 m3s mots, 3t c4 m3 f41t tot4l3m3nt p4n1qu3r. 
@@ -262,7 +262,7 @@
       @porrim_annoyed PORRIM: Ce surno+m.
       @porrim_annoyed PORRIM: Il
       @porrim_surprise PORRIM: Il est ho+rrible.
-      @latula_idle2 LATULA: oh oopz.
+      @latula_idle2 LATULA: oh oupz.
       @latula_talk LATULA: tu pr3f3r3s qu3 j3 cont1nu3 d3 t4pp3l3r pornst4r ???
       @porrim_idle PORRIM: ...
       @porrim_annoyed2 PORRIM: Maryglamz fera l’affaire.
