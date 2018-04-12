@@ -283,7 +283,7 @@
     <sprite class='chest6' name='secondRoomChest3' x='392' y='2020'>
     	<action command='openChest' name='ouvrir'>
     		<args>secondRoomChest3,obj13,@! Vous trouvez un paquet de SHURIKENS !
-      @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Wahou elles ont l'air géniales. Peut-être que vous en garderez quelques-unes au lieu de toutes les vendre.</args>
+      @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Wahou ils ont l'air géniaux. Peut-être que vous en garderez quelques-uns au lieu de tous les vendre.</args>
     	</action>
     </sprite>
     <sprite class='chest6' name='secondRoomChest4' x='1564' y='2292'>
