@@ -14,7 +14,7 @@
 <action class='endTalk1' command='talk' name='Hey as-tu vu où le Vantas à la voix de stentor est allé ?'><args>
       @aranea_happytalk ARANEA: Oui, je l’ai vu se sauver il y a quelques minutes. Il est allé de ce côté, dans le souvenir de son vieux quartier.
       @meenah_talk MEENAH: pfff quest ce qui lui prend
-      @meenah_annoyedtalk:#ai-je-besoin-d’une-feuille-de-manta MEENAH: est ce que je pue de la gueule ou quoi
+      @meenah_annoyedtalk:#ai-je-besoin-d-une-feuille-de-manta MEENAH: est ce que je pue de la gueule ou quoi
       @aranea_talk ARANEA: Je pense qu’il veut seulement être seul. Il a essayé de fermer ses souvenirs aux autres, sans réaliser que ces 8ulles peuvent être très perméable. Si le souvenir est suffisamment grand, les gens seront capable d’y errer à volonté.
       @aranea_talk ARANEA: Il ne sera probablement pas très heureux de trouver davantage de nos amis traîner là-bas.
       @meenah_talk MEENAH: oh merde il y a d’autres membres de la fine équipe de ce cote
