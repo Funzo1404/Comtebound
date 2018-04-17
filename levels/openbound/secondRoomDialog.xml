@@ -80,7 +80,7 @@
 <action class='roseDialog1' name='Parle à Rose.' command='talk'><args>
       @meenah_creepy MEENAH: hey!!!!
       @rose_idle ROSE: Bonjour.
-      @meenah_annoyed MEENAH: cest uh
+      @meenah_annoyed MEENAH: cest heu
       @meenah_happier MEENAH: TOI
       @rose_idle ROSE: Oui.
       @meenah_wut:#sont-ou-les-cornes#trop-zarb MEENAH: lhumaine hein
