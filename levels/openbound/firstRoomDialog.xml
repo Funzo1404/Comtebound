@@ -153,9 +153,13 @@
       <!-- then "Be Meenah?" prompt -->
 </args></action>
 
-<action class='aradiaTalk1' command='talk' name='Alleluia.'><args>
-      @aradia_happy:#impressionant-hein-? ARADIA: salut Juju ;)
-      @aradia_happytalk ARADIA: ça sert à rien de continuer j'ai rien édité d'autre
+<action class='aradiaTalk1' command='talk' name='??????'><args>
+      @aradia_wink:#impressionant-hein-? ARADIA: salut les gens ;)
+      @aradia_happytalk ARADIA: comme vous le voyez nous avons accès au flash de meenah pour faire des éditions !
+      @aradia_talk:#merci-à-lui-! ARADIA: et ceci nous le devons à haeldral qui a donné à az le lien du code source de l'animation
+      @aradia_happy ARADIA: ceci est donc loccasion rêvée pour faire notre propre flash !
+      @aradia_happytalk:#demandez-moi ARADIA: ça fait rêver hein ? je compte sur vous pour apporter des idées et même pour participer niveau codage cest très accessible
+      @aradia_idle ARADIA: allez laissons le flash reprendre normalement maintenant
       @meenah_idle MEENAH: ...
       @meenah_angrytalk:#bon-sang-non MEENAH: M-EGIDO ???
       @aradia_talk ARADIA: oui mais pas celle que tu imagines
