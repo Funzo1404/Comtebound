@@ -153,7 +153,7 @@
       <!-- then "Be Meenah?" prompt -->
 </args></action>
 
-<action class='aradiaTalk1' command='talk' name='Parler.'><args>
+<action class='aradiaTalk1' command='talk' name='Alleluia.'><args>
       @aradia_happy:#impressionant-hein-? ARADIA: salut Juju ;)
       @aradia_happytalk ARADIA: ça sert à rien de continuer j'ai rien édité d'autre
       @meenah_idle MEENAH: ...
@@ -181,7 +181,7 @@
 </args></action>
 
 <action class='aradiaTalk2' command='talk' name='Parler.'><args>
-@aradia_idle ARADIA: perdue ?
+@aradia_idle ARADIA: fuck me bitch
       @meenah_annoyed MEENAH: je euh
       @meenah_annoyed MEENAH: suis partie du mauvais cote
       @aradia_talk ARADIA: oui cest un cul de sac
