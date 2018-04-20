@@ -154,7 +154,7 @@
 </args></action>
 
 <action class='aradiaTalk1' command='talk' name='Parler.'><args>
-      @aradia_happy ARADIA: salutations !
+      @aradia_happy ARADIA: salutations ! :DDDDDDDDDDDDD
       @aradia_happytalk ARADIA: je tenais à te dire bonjour depuis ton arrivée
       @meenah_idle MEENAH: ...
       @meenah_angrytalk:#bon-sang-non MEENAH: M-EGIDO ???
