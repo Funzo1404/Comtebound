@@ -73,7 +73,7 @@
 </classes>
 
 <assets>
-	<asset name='porrimSheet' type='graphic'>chars/porrim.png</asset>
+	<asset name='porrimSheet' type='graphic'>chars/seferi.png</asset>
 	<asset name='kankriSheet' type='graphic'>chars/kankri.png</asset>
 	<asset name='karkatSheet' type='graphic'>chars/karkat.png</asset>
 
