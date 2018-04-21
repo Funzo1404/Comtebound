@@ -76,6 +76,7 @@
 	<asset name='aradia_talk' type='graphic'>dialogs/aradia_talk.png</asset>
 	<asset name='aradia_wink' type='graphic'>dialogs/aradia_wink.png</asset>
 	
+	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
@@ -275,7 +276,7 @@
 			<action command='changeChar'>
 				<args>lysdia</args>
 					<action command='playSong'>
-						<args>ironInfidel</args>
+						<args>darlingDolorosa</args>
 					</action>
 			</action>
 		</action>
