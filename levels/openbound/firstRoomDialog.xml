@@ -184,8 +184,12 @@
       <!--  -->
 </args></action>
 
+<action class='lysdiaTalk2' command='talk' name='Devenir Lysdia.'><args>
+@meenah_happy MEENAH: allez silure de devenir la beautee
+</args></action>
+
 <action class='aradiaTalk2' command='talk' name='Parler.'><args>
-@aradia_idle ARADIA: fuck me bitch
+@aradia_idle ARADIA: perdue ?
       @meenah_annoyed MEENAH: je euh
       @meenah_annoyed MEENAH: suis partie du mauvais cote
       @aradia_talk ARADIA: oui cest un cul de sac
