@@ -76,6 +76,8 @@
 	<asset name='aradia_talk' type='graphic'>dialogs/aradia_talk.png</asset>
 	<asset name='aradia_wink' type='graphic'>dialogs/aradia_wink.png</asset>
 	
+	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
+	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
 	<asset name='obj03' type='graphic'>objects/03.png</asset>
