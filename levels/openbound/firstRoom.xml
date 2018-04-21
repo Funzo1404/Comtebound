@@ -101,7 +101,6 @@
 		<animation name='aradia_point' class='aradia-dialog' sheet='aradia_point' />
 		<animation name='aradia_talk' class='aradia-dialog' sheet='aradia_talk'  length='2' />
 		<animation name='aradia_wink' class='aradia-dialog' sheet='aradia_wink' />
-		<animation name='lysdia_idle' class='lysdia-dialog' sheet='lysdia_idle' />
 	</dialogsprites>
 </hud>
 
