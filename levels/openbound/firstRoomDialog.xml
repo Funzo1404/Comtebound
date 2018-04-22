@@ -152,8 +152,16 @@
       @meenah_creepy MEENAH: a plus cretin
       <!-- then "Be Meenah?" prompt -->
 </args></action>
+	
+<action class='meenahTalk4' sprite='lysdia' command='talk' name='Parler à Meenah.'><args>
+	@meenah_wut:#même-pas-la-foi-de-faire-des-jeux-de-mots MEENAH: uhhh non meuf casse toi
+</args></action>
 
-<action class='aradiaTalk1' command='talk' name='??????'><args>
+<action class='meenahTalk5' sprite='gardia' command='talk' name='Parler à Meenah.'><args>
+	@meenah_annoyed:#creepyyy MEENAH: je veux pas te causer a toi non plus
+</args></action>	
+	
+<action class='aradiaTalk1' sprite='meenah' command='talk' name='??????'><args>
       @aradia_wink:#impressionant-hein-? ARADIA: salut les gens ;)
       @aradia_happytalk ARADIA: comme vous le voyez nous avons accès au flash de meenah pour faire des éditions !
       @aradia_talk:#merci-à-lui-! ARADIA: et ceci nous le devons à haeldral qui a donné à az le lien du code source de l'animation
@@ -184,11 +192,7 @@
       <!--  -->
 </args></action>
 
-<action class='lysdiaTalk2' command='talk' name='Devenir Lysdia.'><args>
-@meenah_happy MEENAH: allez silure de devenir la beautee
-</args></action>
-
-<action class='aradiaTalk2' command='talk' name='Parler.'><args>
+<action class='aradiaTalk2' sprite='meenah' command='talk' name='Parler.'><args>
 @aradia_idle ARADIA: perdue ?
       @meenah_annoyed MEENAH: je euh
       @meenah_annoyed MEENAH: suis partie du mauvais cote
@@ -199,7 +203,67 @@
       @meenah_annoyed MEENAH: merci
       @meenah_annoyed MEENAH: taree
 </args></action>
+	
+<action class='aradiaTalk3' sprite='lysdia' command='talk' name='Parler à Aradia.'><args>
+      @aradia_talk ARADIA: hey je tai jamais vue dans les bulles !
+	@aradia_happy ARADIA: je peux taider ?
+      @lysdia_idle LYSDIA: bonjour.
+      @aradia_happy ARADIA:
+      @aradia_idle ARADIA: 
+      @aradia_laugh ARADIA: wow génial javais jamais vu ca avant !
+      @aradia_happytalk ARADIA: cet endroit est vraiment génial décidemment
+      @lysdia_idle LYSDIA: :>
+</args></action>
+	
+<action class='aradiaTalk4' sprite='gardia' command='talk' name='Parler à Aradia.'><args>
+      @aradia_talk ARADIA: hey je tai jamais vue dans les bulles !
+	@aradia_happy ARADIA: je peux taider ?
+      @gardia_idle LYSDIA: bonjour.
+      @aradia_happy ARADIA:
+      @aradia_idle ARADIA: 
+      @aradia_laugh ARADIA: wow génial javais jamais vu ca avant !
+      @aradia_happytalk ARADIA: cet endroit est vraiment génial décidemment
+      @gardia_idle LYSDIA: :>
+</args></action>
+	
+<action class='lysdiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
+	@meenah_idle MEENAH: hey
+	@meenah_talk MEENAH: cest toi le double de lautre taree ?
+	@lysdia_idle LYSDIA: bonjour.
+	@meenah_wut MEENAH: ugh
+	@meenah_annoyedtalk MEENAH: jai ma raieponse
+	@meenah_wut2 MEENAH: ca te dirait de heu daller vers elle ?
+	@lysdia_idle LYSDIA: d'accord.
+</args></action>
+	
+<action class='lysdiaTalk2' sprite='gardia' command='talk' name='Parler à Lysdia.'><args>
+        @gardia_idle LYSDIA: bonjour.
+	@lysdia_idle LYSDIA: bonjour.
+	@gardia_idle LYSDIA: 
+	@lysdia_idle LYSDIA: 
+	@gardia_idle LYSDIA: 
+	@lysdia_idle LYSDIA: 
+	@gardia_idle LYSDIA: :>
+</args></action>
 
+<action class='gardiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
+	@meenah_wink MEENAH: hey salut beautee comment ça v-
+	@gardia_idle LYSDIA: bonjour.
+	@meenah_angrytalk MEENAH: aaaAAURRGG)(G)( !
+	@meenah_angrytalk:#RARRRG)( MEENAH: M-EUF C-EST QUOI C-E MANN-EQUIN ??
+	@meenah_wut MEENAH: et ou est passee la sang de jade ???
+	@gardia_idle LYSDIA: ammène-moi mon double.
+	@meenah_wut MEENAH:
+	@meenah_wut2:#creepy MEENAH: tout ce que tu veux pour me bar raie dici
+</args></action>
+	
+<action class='gardiaTalk2' sprite='lysdia' command='talk' name='Parler à Gardia.'><args>
+        @gardia_idle LYSDIA: bonjour.
+	@lysdia_idle LYSDIA: bonjour.
+	@gardia_idle LYSDIA: deviens-moi.
+	@lysdia_idle LYSDIA: d'accord.
+</args></action>
+	
 <action class='andrewTalk1' command='talk' name='Parler.'>
 	<args>
 			@meenah_idle MEENAH: yo le type orange
