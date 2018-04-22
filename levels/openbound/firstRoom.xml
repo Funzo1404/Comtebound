@@ -282,7 +282,7 @@
 	<character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
 		<action  class='aradiaTalk1'></action>
-		<action class='lysdiaTalk2'>
+		<action class='lysdiaTalk1'>
 			<action command='changeChar'>
 				<args>lysdia</args>
 					<action command='playSong'>
