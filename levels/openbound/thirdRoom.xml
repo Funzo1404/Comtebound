@@ -77,7 +77,7 @@
 	<asset name='kankriSheet' type='graphic'>chars/kankri.png</asset>
 	<asset name='karkatSheet' type='graphic'>chars/karkat.png</asset>
 
-	<asset name='latulaSheet' type='graphic'>chars/latula.png</asset>
+	<asset name='latulaSheet' type='graphic'>chars/sophia.png</asset>
 	<asset name='latulaOllieSheet' type='graphic'>chars/latula_ollie.png</asset>
 	<asset name='latulaSkateSheet' type='graphic'>chars/latula_skate.png</asset>
 	<asset name='latulaBoardSheet' type='graphic'>chars/latula_withboard.png</asset>
