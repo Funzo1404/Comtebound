@@ -246,8 +246,8 @@
       	<args>meenah</args>
       	<action command='playSong'>fusciaRuler, 32.0830</action>
       </action>
-      <action class='meenahTalk1'/>
-      <action class='meenahTalk2'/>
+      <action class='meenahTalk1' />
+      <action class='meenahTalk2' />
       <action class='meenahTalk3'>
       	<action command='talk'>
       		<args>@! Devenir Meenah ?</args>
@@ -279,16 +279,16 @@
     
     <sprite name='aradia' x='1650' y='1705' width='40' height='20' collidable='true'>
     	<animation sheet='aradiaSheet' x='-40' y='-100'/>
-    	<action class='aradiaTalk1'/>
-	<action class='aradiaTalk3'/>
-	<action class='aradiaTalk4'/>    
+    	<action class='aradiaTalk1' />
+	<action class='aradiaTalk3' />
+	<action class='aradiaTalk4' />    
     </sprite>
 	
 	<character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
-		<action class='lysdiaTalk1'/>
-		<action class='lysdiaTalk2'/>
-		<action class='lysdiaTalk3'/>
+		<action class='lysdiaTalk1' />
+		<action class='lysdiaTalk2' />
+		<action class='lysdiaTalk3' />
 			<action command='changeChar'>
 				<args>lysdia</args>
 					<action command='playSong'>
@@ -300,7 +300,7 @@
 	  
 	<character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkLeft' facing='Left'>
-		<action class='gardiaTalk1'/>
+		<action class='gardiaTalk1' />
 		<action class='gardiaTalk2'>
 			<action command='addAction'>
 				<args>gardia,
