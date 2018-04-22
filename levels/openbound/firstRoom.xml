@@ -285,9 +285,9 @@
 		<action class='lysdiaTalk1'>
 			<action command='changeChar'>
 				<args>lysdia</args>
-					<action command='playSong'>
-						<args>TruerthanFic</args>
-					</action>
+				<action command='playSong'>
+					<args>TruerthanFic</args>
+				</action>
 			</action>
 		</action>
 	</character>
