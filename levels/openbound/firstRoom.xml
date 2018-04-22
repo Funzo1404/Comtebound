@@ -289,9 +289,10 @@
 				</action>
 			</action>
 		</action>
+		<action class='lysdiaTalk2'/>
 	</character>
 	  
-	  <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+	<character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkLeft' facing='Left'>
 		<action class='gardiaTalk1' />
 		<action class='gardiaTalk2'>
