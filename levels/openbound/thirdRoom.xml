@@ -201,6 +201,7 @@
 	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='gameGlare' type='audio'>audio/music/GameGlare.oga;audio/music/GameGlare.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
+	<asset name='TruerthanFic' type'audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
 	
 	<asset name='obj23' type='graphic'>objects/23.png</asset>
 <asset name='obj24' type='graphic'>objects/24.png</asset>
@@ -428,7 +429,7 @@
 																												<action command='changeChar' name='Deviens Latula.'>
 																													<args>latula</args>
 																													<action command='playSong'>
-																														<args>gameGlare,18.19</args>
+																														<args>TruerthanFic,18.19</args>
 																														<action class='fix-twins'/>
 																													</action>
 																												</action>
