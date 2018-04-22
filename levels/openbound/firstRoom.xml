@@ -281,7 +281,6 @@
 	
 	<character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
-		<action  class='aradiaTalk1'></action>
 		<action class='lysdiaTalk1'>
 			<action command='changeChar'>
 				<args>lysdia</args>
@@ -291,6 +290,26 @@
 			</action>
 		</action>
 	</character>
+	  
+	  <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='gardiaSheet' state='walkLeft' facing='Left'>
+		<action class='gardiaTalk1' />
+		<action class='gardiaTalk2'>
+			<action command='addAction'>
+				<args>gardia,
+					<action class='gardiaTalk3'/>
+				</args>
+			</action>
+		</action>
+		<action class='gardiaTalk3'>
+			<action command='changeChar'>
+				<args>gardia</args>
+					<action command='playSong'>
+						<args>darlingDolorosa</args>
+					</action>
+			</action>
+		</action>
+	</character> 
 			
     
     <sprite class='chest1' name='firstRoomChest1' x='2913' y='208'>
