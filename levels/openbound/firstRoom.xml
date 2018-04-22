@@ -246,8 +246,8 @@
       	<args>meenah</args>
       	<action command='playSong'>fusciaRuler, 32.0830</action>
       </action>
-      <action class='meenahTalk1' />
-      <action class='meenahTalk2' />
+      <action class='meenahTalk1'/>
+      <action class='meenahTalk2'/>
       <action class='meenahTalk3'>
       	<action command='talk'>
       		<args>@! Devenir Meenah ?</args>
@@ -273,8 +273,8 @@
 		    	</action>
 		    </action>
       </action>
-      <action class='meenahTalk4' />
-      <action class='meenahTalk5' />	
+      <action class='meenahTalk4'/>
+      <action class='meenahTalk5'/>	
     </character>
     
     <sprite name='aradia' x='1650' y='1705' width='40' height='20' collidable='true'>
@@ -287,7 +287,7 @@
 	<character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
 		<action class='lysdiaTalk1'></action>
-		<action class='lysdiaTalk2></action>
+		<action class='lysdiaTalk2'></action>
 		<action class='lysdiaTalk3'>
 			<action command='changeChar'>
 				<args>lysdia</args>
