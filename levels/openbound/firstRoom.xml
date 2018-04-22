@@ -7,6 +7,7 @@
 <classes>
 	<animation class='aradia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='lysdia-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='gardia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -18,6 +19,7 @@
 	<asset name='meenahSkate' type='graphic'>chars/meenah_skate.png</asset>
 	<asset name='aradiaSheet' type='graphic'>chars/aradia.png</asset>
 	<asset name='lysdiaSheet' type='graphic'>chars/lysdia.png</asset>
+	<asset name='gardiaSheet' type='graphic'>chars/gardia.png</asset>
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
   <!--<asset name='firstRoomBG' type='graphic'>backgrounds/firstRoomBG.png</asset>-->
@@ -76,6 +78,9 @@
 	<asset name='aradia_talk' type='graphic'>dialogs/aradia_talk.png</asset>
 	<asset name='aradia_wink' type='graphic'>dialogs/aradia_wink.png</asset>
 	
+	<asset name='lysdia_idle' type='graphic'>dialogs/lysdia_idle.png</asset>
+	<asset name='gardia_idle' type='graphic'>dialogs/gardia_idle.png</asset>
+	
 	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
 	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
@@ -105,6 +110,10 @@
 		<animation name='aradia_point' class='aradia-dialog' sheet='aradia_point' />
 		<animation name='aradia_talk' class='aradia-dialog' sheet='aradia_talk'  length='2' />
 		<animation name='aradia_wink' class='aradia-dialog' sheet='aradia_wink' />
+		
+		<animation name='lysdia_idle' class='lysdia-dialog' sheet='lysdia_idle' />
+		
+		<animation name='gardia_idle' class='gardia-dialog' sheet='gardia_idle' />
 	</dialogsprites>
 </hud>
 
