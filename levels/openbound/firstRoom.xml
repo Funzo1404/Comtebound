@@ -288,7 +288,7 @@
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
 		<action class='lysdiaTalk1' />
 		<action class='lysdiaTalk2' />
-		<action class='lysdiaTalk3' />
+		<action class='lysdiaTalk3'>
 			<action command='changeChar'>
 				<args>lysdia</args>
 					<action command='playSong'>
