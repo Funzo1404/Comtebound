@@ -236,7 +236,7 @@
 	@lysdia_idle LYSDIA: d'accord.
 </args></action>
 	
-<action class='lysdiaTalk2' sprite='gardia' command='talk' name='Parler à Lysdia.'><args>
+<action class='lysdiaTalk2' command='talk' name='Parler à Lysdia.'><args>
         @gardia_idle LYSDIA: bonjour.
 	@lysdia_idle LYSDIA: bonjour.
 	@gardia_idle LYSDIA: 
