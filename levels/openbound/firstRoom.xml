@@ -286,9 +286,9 @@
 	
 	<character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
-		<action class='lysdiaTalk1'></action>
-		<action class='lysdiaTalk2'></action>
-		<action class='lysdiaTalk3'>
+		<action class='lysdiaTalk1'/>
+		<action class='lysdiaTalk2'/>
+		<action class='lysdiaTalk3'/>
 			<action command='changeChar'>
 				<args>lysdia</args>
 					<action command='playSong'>
@@ -300,7 +300,7 @@
 	  
 	<character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkLeft' facing='Left'>
-		<action class='gardiaTalk1'></action>
+		<action class='gardiaTalk1'/>
 		<action class='gardiaTalk2'>
 			<action command='addAction'>
 				<args>gardia,
