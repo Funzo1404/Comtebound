@@ -78,10 +78,6 @@
 	<asset name='aradia_talk' type='graphic'>dialogs/aradia_talk.png</asset>
 	<asset name='aradia_wink' type='graphic'>dialogs/aradia_wink.png</asset>
 	
-	<asset name='lysdia_idle' type='graphic'>dialogs/lysdia_idle.png</asset>
-	
-	<asset name='gardia_idle' type='graphic'>dialogs/gardia_idle.png</asset>
-	
 	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
 	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
