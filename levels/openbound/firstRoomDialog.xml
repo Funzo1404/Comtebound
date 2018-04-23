@@ -207,61 +207,61 @@
 <action class='aradiaTalk3' sprite='lysdia' command='talk' name='Parler à Aradia.'><args>
       @aradia_talk ARADIA: hey je tai jamais vue dans les bulles !
 	@aradia_happy ARADIA: je peux taider ?
-      @lysdia_idle /0x008141LYSDIA: bonjour.
+      @lysdia_idle /0x008141 LYSDIA: bonjour.
       @aradia_happy ARADIA:
       @aradia_idle ARADIA: 
       @aradia_laugh ARADIA: wow génial javais jamais vu ca avant !
       @aradia_happytalk ARADIA: cet endroit est vraiment génial décidemment
-      @lysdia_idle /0x008141LYSDIA: :>
+      @lysdia_idle /0x008141 LYSDIA: :>
 </args></action>
 	
 <action class='aradiaTalk4' sprite='gardia' command='talk' name='Parler à Aradia.'><args>
       @aradia_talk ARADIA: hey je tai jamais vue dans les bulles !
 	@aradia_happy ARADIA: je peux taider ?
-      @gardia_idle /0x004121LYSDIA: bonjour.
+      @gardia_idle /0x004121 LYSDIA: bonjour.
       @aradia_happy ARADIA:
       @aradia_idle ARADIA: 
       @aradia_laugh ARADIA: wow génial javais jamais vu ca avant !
       @aradia_happytalk ARADIA: cet endroit est vraiment génial décidemment
-      @gardia_idle /0x004121LYSDIA: :>
+      @gardia_idle /0x004121 LYSDIA: :>
 </args></action>
 	
 <action class='lysdiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
 	@meenah_idle MEENAH: hey
 	@meenah_talk MEENAH: cest toi le double de lautre taree ?
-	@lysdia_idle /0x008141LYSDIA: bonjour.
+	@lysdia_idle /0x008141 LYSDIA: bonjour.
 	@meenah_wut MEENAH: ugh
 	@meenah_annoyedtalk MEENAH: jai ma raieponse
 	@meenah_wut2 MEENAH: ca te dirait de heu daller vers elle ?
-	@lysdia_idle /0x008141LYSDIA: d'accord.
+	@lysdia_idle /0x008141 LYSDIA: d'accord.
 </args></action>
 	
 <action class='lysdiaTalk2' command='talk' name='Parler à Lysdia.'><args>
-        @gardia_idle /0x004121LYSDIA: bonjour.
-	@lysdia_idle /0x008141LYSDIA: bonjour.
-	@gardia_idle /0x004121LYSDIA: 
-	@lysdia_idle /0x008141LYSDIA: 
-	@gardia_idle /0x004121LYSDIA: 
-	@lysdia_idle /0x008141LYSDIA: 
-	@gardia_idle /0x004121LYSDIA: :>
+        @gardia_idle /0x004121 LYSDIA: bonjour.
+	@lysdia_idle /0x008141 LYSDIA: bonjour.
+	@gardia_idle /0x004121 LYSDIA: 
+	@lysdia_idle /0x008141 LYSDIA: 
+	@gardia_idle /0x004121 LYSDIA: 
+	@lysdia_idle /0x008141 LYSDIA: 
+	@gardia_idle /0x004121 LYSDIA: :>
 </args></action>
 
 <action class='gardiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
 	@meenah_wink MEENAH: hey salut beautee comment ça v-
-	@gardia_idle /0x004121LYSDIA: bonjour.
+	@gardia_idle /0x004121 LYSDIA: bonjour.
 	@meenah_angrytalk MEENAH: aaaAAURRGG)(G)( !
 	@meenah_angrytalk:#RARRRG)( MEENAH: M-EUF C-EST QUOI C-E MANN-EQUIN ??
 	@meenah_wut MEENAH: et ou est passee la sang de jade ???
-	@gardia_idle /0x004121LYSDIA: ammène-moi mon double.
+	@gardia_idle /0x004121 LYSDIA: ammène-moi mon double.
 	@meenah_wut MEENAH:
 	@meenah_wut2:#creepy MEENAH: tout ce que tu veux pour me bar raie dici
 </args></action>
 	
 <action class='gardiaTalk2' sprite='lysdia' command='talk' name='Parler à Gardia.'><args>
-        @gardia_idle /0x004121LYSDIA: bonjour.
-	@lysdia_idle /0x008141LYSDIA: bonjour.
-	@gardia_idle /0x004121LYSDIA: deviens-moi.
-	@lysdia_idle /0x008141LYSDIA: d'accord.
+        @gardia_idle /0x004121 LYSDIA: bonjour.
+	@lysdia_idle /0x008141 LYSDIA: bonjour.
+	@gardia_idle /0x004121 LYSDIA: deviens-moi.
+	@lysdia_idle /0x008141 LYSDIA: d'accord.
 </args></action>
 	
 <action class='andrewTalk1' command='talk' name='Parler.'>
