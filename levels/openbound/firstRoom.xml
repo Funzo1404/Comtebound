@@ -303,6 +303,14 @@
 				</args>
 			</action>
 		</action>
+		<action class='gardiaTalk3'>
+			<action command='changeChar'>
+				<args>gardia</args>
+					<action command='playSong'>
+						<args>darlingDolorosa</args>
+					</action>
+			</action>
+		</action>
 	</character> 
 	  
 			
