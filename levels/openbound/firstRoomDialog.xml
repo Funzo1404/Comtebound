@@ -262,6 +262,7 @@
 	@lysdia_idle LYSDIA: bonjour. 
 	@gardia_idle LYSDIA: deviens-moi. 
 	@lysdia_idle LYSDIA: d'accord. 
+	@!:#trop-dément Vous pouvez maintenant devenir Lysdia sous forme de Gardien !
 </args></action>
 	
 <action class='andrewTalk1' command='talk' name='Parler.'>
