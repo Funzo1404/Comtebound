@@ -297,7 +297,7 @@
 		sheet='gardiaSheet' state='walkLeft' facing='Left'>
 		<action class='gardiaTalk1' />
 		<action class='gardiaTalk2'>
-			<action command='addAction'>
+			<action command='addAction' noWait='true'>
 				<args>gardia,
 					<action class='gardiaTalk3'/>
 				</args>
