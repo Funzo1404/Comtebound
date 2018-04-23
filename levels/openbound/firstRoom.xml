@@ -290,6 +290,11 @@
 			</action>
 		</action>
 	</character>
+	  
+	  <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='gardiaSheet' state='walkLeft' facing='Left'>
+	</character> 
+	  
 			
     
     <sprite class='chest1' name='firstRoomChest1' x='2913' y='208'>
