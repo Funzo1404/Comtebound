@@ -303,7 +303,7 @@
 					<action command='changeChar' name='Devenir Gardia.'>
 						<args>gardia</args>
 						<action command='playSong'>
-							<args>darlingDolorosa</args>
+							<args>darlingDolorosa,50.60</args>
 						</action>
 					</action>	
 				</args>
