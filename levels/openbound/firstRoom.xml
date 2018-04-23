@@ -20,6 +20,9 @@
 	<asset name='aradiaSheet' type='graphic'>chars/aradia.png</asset>
 	<asset name='lysdiaSheet' type='graphic'>chars/lysdia.png</asset>
 	<asset name='gardiaSheet' type='graphic'>chars/gardia.png</asset>
+	<asset name='seasonSheet' type='graphic'>chars/season.png</asset>
+	<asset name='asceliSheet' type='graphic'>chars/asceli.png</asset>
+	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
   <!--<asset name='firstRoomBG' type='graphic'>backgrounds/firstRoomBG.png</asset>-->
@@ -310,6 +313,20 @@
 			</action>
 		</action>
 	</character> 
+	  
+	<character name='season' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='seasonSheet' state='walkLeft' facing='Left'>
+			<action name='Deviens Season.' command='changeChar'>
+				<args>season</args>
+			</action>
+    </character>
+	  
+	  <character name='asceli' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='asceliSheet' state='walkRight' facing='Right'>
+			<action name='Deviens Ascellia.' command='changeChar'>
+				<args>asceli</args>
+			</action>
+    </character>
 	  
 			
     
