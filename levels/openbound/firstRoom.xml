@@ -299,16 +299,13 @@
 		<action class='gardiaTalk2'>
 			<action command='addAction' noWait='true'>
 				<args>gardia,
-					<action class='gardiaTalk3'/>
+					<action command='changeChar' name='Devenir Gardia.'>
+						<args>gardia</args>
+						<action command='playSong'>
+							<args>darlingDolorosa</args>
+						</action>
+					</action>	
 				</args>
-			</action>
-		</action>
-		<action class='gardiaTalk3'>
-			<action command='changeChar'>
-				<args>gardia</args>
-					<action command='playSong'>
-						<args>darlingDolorosa</args>
-					</action>
 			</action>
 		</action>
 	</character> 
