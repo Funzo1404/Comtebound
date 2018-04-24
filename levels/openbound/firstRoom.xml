@@ -8,6 +8,8 @@
 	<animation class='aradia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='lysdia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='gardia-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='season-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='asceli-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -316,10 +318,10 @@
 		</action>
 	</character> 
 	  
-	<character name='season' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='seasonSheet' state='walkLeft' facing='Left'>
-			<action name='Deviens Season.' command='changeChar'>
-				<args>season</args>
+	<character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='asceliSheet' state='walkLeft' facing='Left'>
+			<action name='Deviens Ascellia.' command='changeChar'>
+				<args>asceli</args>
 			</action>
     </character>
 	  
