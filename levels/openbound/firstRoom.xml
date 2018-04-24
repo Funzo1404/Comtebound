@@ -178,7 +178,7 @@
 				</action>
   		</trigger>
   		<trigger>inBox,char,1439,1730,60,110
-  			<trigger>spriteProperty,firstRoomToggle,y!=0
+  			<trigger>spriteProperty,firstRoomToggle,y!=0,name=meenah
 					<action command='moveSprite'>
 						<args>firstRoomToggle,0,0</args>
 						<action class='aradiaTalk2'/>
