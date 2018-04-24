@@ -154,7 +154,7 @@
 </args></action>
 	
 <action class='meenahTalk4' sprite='lysdia' command='talk' name='Parler à Meenah.'><args>
-	@meenah_wut:#même-pas-la-foi-de-faire-des-jeux-de-mots MEENAH: uhhh non meuf casse toi
+	@meenah_wut:#meme-pas-la-foi-de-faire-des-jeux-de-mots MEENAH: uhhh non meuf casse toi
 </args></action>
 
 <action class='meenahTalk5' sprite='gardia' command='talk' name='Parler à Meenah.'><args>
