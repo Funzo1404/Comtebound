@@ -275,6 +275,8 @@
 		    	</action>
 		    </action>
       </action>
+	<action class='meenahTalk4' />
+        <action class='meenahTalk5' />
     </character>
     
     <sprite name='aradia' x='1650' y='1705' width='40' height='20' collidable='true'>
@@ -318,13 +320,6 @@
 	       sheet='seasonSheet' state='walkLeft' facing='Left'>
 			<action name='Deviens Season.' command='changeChar'>
 				<args>season</args>
-			</action>
-    </character>
-	  
-	  <character name='asceli' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='asceliSheet' state='walkRight' facing='Right'>
-			<action name='Deviens Ascellia.' command='changeChar'>
-				<args>asceli</args>
 			</action>
     </character>
 	  
