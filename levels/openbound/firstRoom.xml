@@ -325,6 +325,15 @@
 			</action>
     </character>
 	  
+	  
+	  
+	<character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='seasonSheet' state='walkLeft' facing='Left'>
+			<action name='Deviens Season.' command='changeChar'>
+				<args>season</args>
+			</action>
+    </character>
+	  
 			
     
     <sprite class='chest1' name='firstRoomChest1' x='2913' y='208'>
