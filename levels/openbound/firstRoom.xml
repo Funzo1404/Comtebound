@@ -280,6 +280,8 @@
       </action>
       <action class='meenahTalk1' />
       <action class='meenahTalk2' />
+	<action class='meenahTalk4' />
+        <action class='meenahTalk5' />
       <action class='meenahTalk3'>
       	<action command='talk'>
       		<args>@! Devenir Meenah ?</args>
@@ -305,8 +307,6 @@
 		    	</action>
 		    </action>
       </action>
-	<action class='meenahTalk4' />
-        <action class='meenahTalk5' />
     </character>
     
     <sprite name='aradia' x='1650' y='1705' width='40' height='20' collidable='true'>
@@ -348,44 +348,44 @@
 	  
 	<character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asceliSheet' state='walkLeft' facing='Left'>
+		<action class='asceliTalk1'/>
 		<action name='Deviens Ascellia.' command='changeChar'>
 			<args>asceli</args>
 		</action>
-		<action class='asceliTalk1'/>
     </character>
 	  
 	  
 	  
 	<character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seasonSheet' state='walkRight' facing='Right'>
+		<action class='seasonTalk1'/>
 			<action name='Deviens Season.' command='changeChar'>
 				<args>season</args>
 			</action>
-		<action class='seasonTalk1'/>
     </character>
 	  
 	  <character name='sollas' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
+		<action class='sollasTalk1'/>
 			<action name='Deviens Sollas.' command='changeChar'>
 				<args>sollas</args>
 			</action>
-		<action class='sollasTalk1'/>
     </character>
 	  
 	  <character name='viveil' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='viveilSheet' state='walkRight' facing='Right'>
+		<action class='viveilTalk1'/>
 			<action name='Deviens Viveil.' command='changeChar'>
 				<args>viveil</args>
 			</action>
-		<action class='viveilTalk1'/>
     </character>
 	  
 	  <character name='arseck' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arseckSheet' state='walkRight' facing='Right'>
+		<action class='arseckTalk1'/>
 			<action name='Deviens Arseck.' command='changeChar'>
 				<args>arseck</args>
 			</action>
-		<action class='arseckTalk1'/>
     </character>
 	  
 			
