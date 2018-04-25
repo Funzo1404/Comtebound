@@ -68,8 +68,14 @@ Sburb.FontEngine.prototype.prefixColours = {
 	dave:"#e00707",meenah : "#77003c",
 	rose:"#b536da",aranea : "#005682",
 	kankri:"#ff0000",porrim: "#008141",
-	latula:"#008282",lysdia: "#008141",
-	gardia: "#004121"
+	latula:"#008282",season:"#00fa9a",
+	asceli:"#00fa9a",arseck: "#d26912",
+	ruvvik: "#d26912",seferi: "#b69c00",
+	sophia:"#b68c00",eliseo:"#658200",
+	lysdia: "#008141",gardia: "#004121",
+	arkeah:"#005682",dultew:"#005682",
+	viveil:"#000056",sollas:"#000056"
+	
 };
 
 //set the style
