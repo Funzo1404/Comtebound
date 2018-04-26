@@ -277,11 +277,11 @@
 	
 <action class='viveilTalk1' command='talk' name='Parler à Viveil.'><args>
 	@viveil_idle VIVEIL: Ceci est un test.
-	@viveil_idle VIVEIL: P>o<rtez ce vieux whisky au juge bl>o<nd qui fume.
+	@viveil_idle VIVEIL: P >o< rtez ce vieux whisky au juge bl >o< nd qui fume.
 	</args></action>
 	
 <action class='sollasTalk1' command='talk' name='Parler à Sollas.'><args>
-	@sollas_idle SOLLAS: Ceci est un test :>
+	@sollas_idle SOLLAS: Ceci est un test : >
 	@sollas_idle SOLLAS: Portez ce vieux whisky au juge blond qui fume :v
 	</args></action>
 	
