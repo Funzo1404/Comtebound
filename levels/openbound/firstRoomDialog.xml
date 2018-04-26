@@ -266,23 +266,28 @@
 </args></action>
 	
 <action class='seasonTalk1' command='talk' name='Parler à Season.'><args>
-	@season_idle SEASON: ☆Ceci est un test ! :D☆
+	@season_idle SEASON: ☆Ceci est un test ! :D☆ 
+	@season_idle SEASON: ☆Portez ce vieux whisky ★u juge blond qui fume☆
 	</args></action>
 	
 <action class='asceliTalk1' command='talk' name='Parler à Ascellia.'><args>
 	@asceli_idle ASCELLIA: ★Ceci est un test.★
+	@asceli_idle ASCELLIA: ★P☆rtez ce vieux whisky au juge bl☆nd qui fume.★
 	</args></action>
 	
 <action class='viveilTalk1' command='talk' name='Parler à Viveil.'><args>
 	@viveil_idle VIVEIL: Ceci est un test.
+	@viveil_idle VIVEIL: P>o<rtez ce vieux whisky au juge bl>o<nd qui fume.
 	</args></action>
 	
 <action class='sollasTalk1' command='talk' name='Parler à Sollas.'><args>
-	@sollas_idle SOLLAS: ceci est un test
+	@sollas_idle SOLLAS: Ceci est un test :>
+	@sollas_idle SOLLAS: Portez ce vieux whisky au juge blond qui fume :v
 	</args></action>
 	
 <action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
 	@arseck_idle ARSECK: ceci est un test.
+	@arseck_idle ARSECK: portez ce vieux whisky au juge blond qui fume.
 	</args></action>
 	
 <action class='andrewTalk1' command='talk' name='Parler.'>
