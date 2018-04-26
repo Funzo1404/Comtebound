@@ -282,7 +282,7 @@
 	
 <action class='sollasTalk1' command='talk' name='Parler à Sollas.'><args>
 	@sollas_idle SOLLAS: Ceci est un test
-	@sollas_idle SOLLAS: P >o< rtez ce vieux whisky au juge bl >o< nd qui fume :v
+	@sollas_idle SOLLAS: P}o{rtez ce vieux whisky au juge bl|}o{|nd qui fume :v
 	</args></action>
 	
 <action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
