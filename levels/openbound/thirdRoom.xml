@@ -554,10 +554,13 @@
 	   <character name='meenah' x='4300' y='3900' sx='-50' sy='-110' sWidth='100' sHeight='130' width='30' height='15' 
 	       sheet='meenahSheet' state='walkFront' facing='Front'>
 	  	<animation name='skate' sheet='meenahSkate' x='-60' y='-80' />
-      <action name='Deviens Meenah.' sprite='!kankri' command='changeChar'>
-      	<args>meenah</args>
+      <action name='Deviens Meenah.' sprite='!kankri' command='moveSprite' noWait='true'>
+      	<args>meenah,1275,1450</args>
+	      <action command='changeChar'>
+		      <args>meenah</args>
       	<action command='playSong'>fusciaRuler, 32.0830</action>
       </action>
+		   </action>
       <action class='meenahTalk1' />
       <action class='meenahTalk2' />
       <action class='meenahTalk3'>
@@ -632,18 +635,27 @@
       		<args>@! Devenir Meenah ?</args>
 		    	<action command='presentActions'>
 		    		<args>
-		    			<action name='Oui'  command='changeChar'>
+		    			<action name='Oui'  command='moveSprite' noWait='true'>
+						<args>meenah,1275,1450</args>
+						<action command='changeChar'>
 								<args>meenah</args>
 								<action command='playSong'>
 									<args>fusciaRuler, 32.0830</args>
 								</action>
-							</action>
+						</action>
+					</action>
 							<action name='Non' command='cancel'>
 							</action>
 		    		</args>
 		    	</action>
 		    </action>
-			</action>
+		</action>
+		   <action command='talk' sprite='meenah' name='Examine la bulle.'>
+			   <args>
+				   @! C'est une bulle de rêve...
+				   @!:#awesome-! Elle vous rappelle à quel point vous êtes géniale !
+			   </args>
+		</action>
 				</sprite>
     
     <sprite class='chest4' name='thirdRoomChest1' x='354' y='1150'>
