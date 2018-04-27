@@ -203,6 +203,8 @@
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
 	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
 	
+	
+	
 	<asset name='obj23' type='graphic'>objects/23.png</asset>
 <asset name='obj24' type='graphic'>objects/24.png</asset>
 <asset name='obj25' type='graphic'>objects/25.png</asset>
@@ -575,6 +577,37 @@
 				</args>
 			</action>
 		</sprite>
+	   
+	   <sprite name='memoryBubble2' x='1000' y='1450' width='20' height='20' depthing='1' collidable='true'>
+  		<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
+  		<action command='talk' sprite='!meenah' name='Examine la bulle.'>
+			<args>
+			@! C'est une bulle de rêve... 
+			@! Elle vous rappelle que au fond vous n'êtes pas le personnage principal de ce flash et que donc votre existence ici est inutile.
+				</args>
+			<action command='talk'>
+      		<args>@! Devenir Meenah ?</args>
+		    	<action command='presentActions'>
+		    		<args>
+		    			<action name='Oui' command='changeChar'>
+								<args>meenah</args>
+								<action command='playSong'>
+									<args>fusciaRuler, 32.0830</args>
+									<action command='removeAction'>
+										<args>karkat,Parle à Karkat.</args>
+										<action command='addActions'>
+											<args>karkat,
+												<action class='karkatTalk2'/>
+											</args>
+										</action> 
+									</action>
+								</action>
+							</action>
+							<action name='Non' command='cancel'>
+							</action>
+		    		</args>
+		    	</action>
+		    </action>
     
     <sprite class='chest4' name='thirdRoomChest1' x='354' y='1150'>
     	<action command='openChest' name='ouvrir'>
