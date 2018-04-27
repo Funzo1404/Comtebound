@@ -588,14 +588,11 @@
       		<args>@! Devenir Meenah ?</args>
 		    	<action command='presentActions'>
 		    		<args>
-		    			<action name='Oui'  command='moveSprite' noWait='true'>
-						<args>meenah,1275,1450</args>
-						<action command='changeChar'>
+		    			<action name='Oui'  command='changeChar'>
 								<args>meenah</args>
 								<action command='playSong'>
 									<args>fusciaRuler, 32.0830</args>
 								</action>
-						</action>
 					</action>
 							<action name='Non' command='cancel'>
 							</action>
