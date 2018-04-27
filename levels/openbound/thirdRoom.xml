@@ -354,6 +354,14 @@
   			</action>
   		</trigger>
 		</trigger>
+		<trigger detonate='true'>inBox,char,1045,1235,205,50
+  			<trigger>spriteProperty,char,name=meenah
+			<action command='removeSprite'>
+  				<args>meenah,thirdRoom
+				  </args>
+  			</action>
+			</trigger>	
+  		</trigger>
 		<trigger>inBox,char,3000,535,153,50
 			<action command='deltaSprite'>
   				<args>char,0,12</args>
