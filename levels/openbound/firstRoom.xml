@@ -109,6 +109,7 @@
 	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
 	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
+	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -361,6 +362,9 @@
 		<action class='seasonTalk1'/>
 			<action name='Deviens Season.' command='changeChar'>
 				<args>season</args>
+				<action command='playSong'>
+					<args>jpVania</args>
+				</action>
 			</action>
     </character>
 	  
