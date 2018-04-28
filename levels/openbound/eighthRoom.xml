@@ -17,7 +17,7 @@
   </assets>
   
   <rooms>
-  <room name='eighthRoom' walkableMap='eighthRoomMap' mapScale='2'>
+  <room name='eighthRoom' width='1190' height='782' walkableMap='eighthRoomMap'>
   	<triggers>
 
   		<trigger>
@@ -32,29 +32,37 @@
   			<action command='goBack'>
   				<args>meenah</args>
   				<action command='talk'>
-  					<args>@! This leads to the end of the game. Are you sure you're done here?</args>
-  					<action command='presentActions'>
-  						<args>
-  							<action command='fadeOut' name='Yes.'>
-									<action command='presentActions'>
-										<args>
-											<action command='loadStateFile' name='Start over.'>
-													<args>../init.xml,false</args>
-											</action>
-										</args>
+  					<args>@! Ce chemin mène à la fin du jeu. Êtes-vous sûr d'avoir fini ici ?</args>
+						<action command='presentActions'>
+							<args>
+								<action name='Oui' command='fadeOut'>
+									<args></args>
+									<action command='talk'>
+										<args>@! Vous voilà à la fin. Continuez de jouer à la page suivante.</args>
+										<action command='presentActions'>
+										 	<args>
+											 	<action command='loadStateFile' name='Recommencer'>
+														<args>openbound.xml,false</args>
+												</action>
+											</args>
+										</action>
 									</action>
 								</action>
-  							<action command='cancel' name='No.'/>
-  						</args>
-  					</action>
+								<action name='Non' command='cancel'>
+								</action>
+							</args>
+						</action>
   				</action>
   			</action>
   		</trigger>
       </triggers>
   	
-  	<sprite name='eighthRoomBG'>
-  		<animation sheet='eighthRoomBG'  sliced='true' colSize='500' rowSize='500' numCols='3' numRows='2'/>
-  	</sprite>
+  	<sprite name='fourthRoomBG_0_0' x='0' y='0'><animation sheet='eighthRoomBG_0_0' /></sprite>
+<sprite name='eighthRoomBG_0_1' x='500' y='0'><animation sheet='eighthRoomBG_0_1' /></sprite>
+<sprite name='eighthRoomBG_1_0' x='0' y='500'><animation sheet='eighthRoomBG_1_0' /></sprite>
+<sprite name='eighthRoomBG_1_1' x='500' y='500'><animation sheet='eighthRoomBG_1_1' /></sprite>
+<sprite name='eighthRoomBG_2_0' x='0' y='1000'><animation sheet='eighthRoomBG_2_0' /></sprite>
+<sprite name='eighthRoomBG_2_1' x='500' y='1000'><animation sheet='eighthRoomBG_2_1' /></sprite>
   </room> 
 </rooms>
 
