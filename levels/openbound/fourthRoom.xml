@@ -58,27 +58,8 @@
 			<trigger>spriteProperty,char,x&gt;1808
 				<action command='deltaSprite'>
 					<args>char,-12,0</args>
-					<action command='talk'>
-						<args>@! Ce chemin mène à la fin du jeu. Êtes-vous sûr d'avoir fini ici ?</args>
-						<action command='presentActions'>
-							<args>
-								<action name='Oui' command='fadeOut'>
-									<args></args>
-									<action command='talk'>
-										<args>@! Vous voilà à la fin. Continuez de jouer à la page suivante.</args>
-										<action command='presentActions'>
-										 	<args>
-											 	<action command='loadStateFile' name='Recommencer'>
-														<args>openbound.xml,false</args>
-												</action>
-											</args>
-										</action>
-									</action>
-								</action>
-								<action name='Non' command='cancel'>
-								</action>
-							</args>
-						</action>
+					<action command='changeRoomRemote'>
+  				<args>rooms/eighthRoom.xml,eighthRoom,342,560</args>
 					</action>
 				</action>
 			</trigger>
