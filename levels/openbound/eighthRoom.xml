@@ -1,4 +1,4 @@
-<sburb description="fifth room">
+<sburb description="eighth room">
 
 <dependencies>
 	<dependency>fourthRoomDialog.xml</dependency>
