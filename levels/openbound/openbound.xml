@@ -4,6 +4,7 @@
 	<dependency>standardTemplates.xml</dependency>
 	<dependency>rebubbleText.xml</dependency>
 	<dependency>firstRoom.xml</dependency>
+	<dependency>eighthRoom.xml</dependency>
 </dependencies>
 
 <classes>
