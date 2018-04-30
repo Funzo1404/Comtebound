@@ -106,9 +106,6 @@
 	<asset name='viveil_idle' type='graphic'>dialogs/viveil_idle.png</asset>
 	<asset name='sollas_idle' type='graphic'>dialogs/sollas_idle.png</asset>
 	
-	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
-	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
-	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
@@ -322,9 +319,6 @@
 		<action class='lysdiaTalk1'>
 			<action command='changeChar'>
 				<args>lysdia</args>
-				<action command='playSong'>
-					<args>TruerthanFic</args>
-				</action>
 			</action>
 		</action>
 		<action class='lysdiaTalk2' />
@@ -338,9 +332,6 @@
 				<args>gardia,
 					<action command='changeChar' name='Devenir Gardia.'>
 						<args>gardia</args>
-						<action command='playSong'>
-							<args>darlingDolorosa,50.60</args>
-						</action>
 					</action>	
 				</args>
 			</action>
