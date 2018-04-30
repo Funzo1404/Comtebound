@@ -3,7 +3,7 @@
 <dependencies>
 	<dependency>standardTemplates.xml</dependency>
 	<dependency>rebubbleText.xml</dependency>
-	<dependency>secondRoom.xml</dependency>
+	<dependency>firstRoom.xml</dependency>
 </dependencies>
 
 <classes>
