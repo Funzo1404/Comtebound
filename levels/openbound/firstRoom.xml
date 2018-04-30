@@ -383,7 +383,7 @@
 		</action>
    </character>
 	  
-   <character name='ruvvik' x='1735' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='ruvvik' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
 		<action class='ruvvikTalk1'/>
 		<action name='Deviens Ruvvik.' command='changeChar'>
