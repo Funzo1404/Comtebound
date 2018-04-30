@@ -271,8 +271,8 @@
 	</args></action>
 	
 <action class='asceliTalk1' command='talk' name='Parler à Ascellia.'><args>
-	@asceli_idle ASCELLIA: ♛Ce☾i est un test.♛
-	@asceli_idle ASCELLIA: ♛P⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume.♛
+	@asceli_idle ASCELLIA: ♛/0xff0000C/0x/e☾i est un test/0xff0000./0x/♛
+	@asceli_idle ASCELLIA: ♛/0xff0000P/0x/⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume/0xff0000./0x/♛
 	</args></action>
 	
 <action class='viveilTalk1' command='talk' name='Parler à Viveil.'><args>
