@@ -33,8 +33,8 @@
 	<asset name='viveilSheet' type='graphic'>chars/viveil.png</asset>
 	<asset name='sollasSheet' type='graphic'>chars/sollas.png</asset>
 	<asset name='arseckSheet' type='graphic'>chars/arseck.png</asset>
-	<!--<asset name='ruvvikSheet' type='graphic'>chars/ruvvik.png</asset>
-	<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
+	<asset name='ruvvikSheet' type='graphic'>chars/ruvvik.png</asset>
+	<!--<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
 	<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>-->
 	
   
@@ -317,7 +317,7 @@
 	<action class='aradiaTalk4'/>    
     </sprite>
 	
-	<character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
 		<action class='lysdiaTalk1'>
 			<action command='changeChar'>
@@ -328,9 +328,9 @@
 			</action>
 		</action>
 		<action class='lysdiaTalk2' />
-	</character>
+   </character>
 	  
-	  <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkLeft' facing='Left'>
 		<action class='gardiaTalk1' />
 		<action class='gardiaTalk2'>
@@ -345,52 +345,60 @@
 				</args>
 			</action>
 		</action>
-	</character> 
+   </character> 
 	  
-	<character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asceliSheet' state='walkLeft' facing='Left'>
 		<action class='asceliTalk1'/>
 		<action name='Deviens Ascellia.' command='changeChar'>
 			<args>asceli</args>
 		</action>
-    </character>
+   </character>
 	  
 	  
 	  
-	<character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seasonSheet' state='walkRight' facing='Right'>
 		<action class='seasonTalk1'/>
-			<action name='Deviens Season.' command='changeChar'>
+		<action name='Deviens Season.' command='changeChar'>
 				<args>season</args>
 				<action command='playSong'>
 					<args>jpVania</args>
 				</action>
-			</action>
-    </character>
+		</action>
+   </character>
 	  
-	  <character name='sollas' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sollas' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
-			<action name='Deviens Sollas.' command='changeChar'>
+		<action name='Deviens Sollas.' command='changeChar'>
 				<args>sollas</args>
-			</action>
-    </character>
+		</action>
+   </character>
 	  
-	  <character name='viveil' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='viveil' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='viveilSheet' state='walkRight' facing='Right'>
 		<action class='viveilTalk1'/>
-			<action name='Deviens Viveil.' command='changeChar'>
+		<action name='Deviens Viveil.' command='changeChar'>
 				<args>viveil</args>
-			</action>
-    </character>
+		</action>
+   </character>
 	  
-	  <character name='arseck' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='arseck' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arseckSheet' state='walkRight' facing='Right'>
 		<action class='arseckTalk1'/>
-			<action name='Deviens Arseck.' command='changeChar'>
+		<action name='Deviens Arseck.' command='changeChar'>
 				<args>arseck</args>
-			</action>
-    </character>
+		</action>
+   </character>
+	  
+   <character name='ruvvik' x='1735' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
+		<action class='ruvvikTalk1'/>
+		<action name='Deviens Ruvvik.' command='changeChar'>
+				<args>ruvvik</args>
+		</action>
+   </character>
 	  
 			
     
