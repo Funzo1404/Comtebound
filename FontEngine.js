@@ -69,7 +69,7 @@ Sburb.FontEngine.prototype.prefixColours = {
 	rose:"#b536da",aranea : "#005682",
 	kankri:"#ff0000",porrim: "#008141",
 	latula:"#008282",season:"#00fa9a",
-	asceli:"#00fa9a",arseck: "#d26912",
+	asceli:"#000000",arseck: "#d26912",
 	ruvvik: "#d26912",seferi: "#b69c00",
 	sophia:"#b68c00",eliseo:"#658200",
 	lysdia: "#008141",gardia: "#004121",
