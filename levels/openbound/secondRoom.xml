@@ -13,6 +13,10 @@
 
 <assets>
   
+  
+  <asset name='meenahSheet' type='graphic'>chars/meenah.png</asset>
+  <asset name='meenahSkate' type='graphic'>chars/meenah_skate.png</asset>	
+	
   <asset name='araneaSheet' type='graphic'>chars/aranea.png</asset>
   <asset name='davesheet' type='graphic'>chars/dave.png</asset>
   <asset name='rosesheet' type='graphic'>chars/rose.png</asset>
@@ -246,6 +250,44 @@
   	<sprite class='redBubble' name='redBubble4' x='1564' y='2672'> </sprite>
   	<sprite class='redBubble' name='redBubble5' x='4364' y='836'> </sprite>
     
+    <character name='meenah' x='2500' y='1000' sx='-50' sy='-110' sWidth='100' sHeight='130' width='30' height='15' 
+	       sheet='meenahSheet' state='walkFront' facing='Front'>
+	  	<animation name='skate' sheet='meenahSkate' x='-60' y='-80' />
+      <action name='Deviens Meenah.' sprite='!kankri' command='changeChar'>
+      	<args>meenah</args>
+      	<action command='playSong'>fusciaRuler, 32.0830</action>
+      </action>
+      <action class='meenahTalk1' />
+      <action class='meenahTalk2' />
+	<action class='meenahTalk4' />
+        <action class='meenahTalk5' />
+      <action class='meenahTalk3'>
+      	<action command='talk'>
+      		<args>@! Devenir Meenah ?</args>
+		    	<action command='presentActions'>
+		    		<args>
+		    			<action name='Oui' command='changeChar'>
+								<args>meenah</args>
+								<action command='playSong'>
+									<args>fusciaRuler, 32.0830</args>
+									<action command='removeAction'>
+										<args>karkat,Parle à Karkat.</args>
+										<action command='addActions'>
+											<args>karkat,
+												<action class='karkatTalk2'/>
+											</args>
+										</action> 
+									</action>
+								</action>
+							</action>
+							<action name='Non' command='cancel'>
+							</action>
+		    		</args>
+		    	</action>
+		    </action>
+      </action>
+    </character>	   
+	   
     <character name='aranea' x='2636' y='1576' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='araneaSheet' state='walkFront' facing='Front'>
       <action class='araneaDialog1'></action>
