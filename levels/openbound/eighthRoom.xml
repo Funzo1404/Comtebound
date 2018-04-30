@@ -26,11 +26,11 @@
       </triggers>
   	
   	<sprite name='eighthRoomBG_0_0' x='0' y='0'><animation sheet='eighthRoomBG_0_0' /></sprite>
-<sprite name='eighthRoomBG_0_1' x='500' y='0'><animation sheet='eighthRoomBG_0_1' /></sprite>
-<sprite name='eighthRoomBG_1_0' x='0' y='500'><animation sheet='eighthRoomBG_1_0' /></sprite>
+<sprite name='eighthRoomBG_0_1' x='0' y='500'><animation sheet='eighthRoomBG_0_1' /></sprite>
+<sprite name='eighthRoomBG_1_0' x='500' y='0'><animation sheet='eighthRoomBG_1_0' /></sprite>
 <sprite name='eighthRoomBG_1_1' x='500' y='500'><animation sheet='eighthRoomBG_1_1' /></sprite>
-<sprite name='eighthRoomBG_2_0' x='0' y='1000'><animation sheet='eighthRoomBG_2_0' /></sprite>
-<sprite name='eighthRoomBG_2_1' x='500' y='1000'><animation sheet='eighthRoomBG_2_1' /></sprite>
+<sprite name='eighthRoomBG_2_0' x='1000' y='0'><animation sheet='eighthRoomBG_2_0' /></sprite>
+<sprite name='eighthRoomBG_2_1' x='1000' y='500'><animation sheet='eighthRoomBG_2_1' /></sprite>
   </room> 
 </rooms>
 
