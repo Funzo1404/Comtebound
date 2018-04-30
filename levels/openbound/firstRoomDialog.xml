@@ -271,8 +271,8 @@
 	</args></action>
 	
 <action class='asceliTalk1' command='talk' name='Parler à Ascellia.'><args>
-	@asceli_idle ASCELLIA: ★Ceci est un test.★
-	@asceli_idle ASCELLIA: ★P☆rtez ce vieux whisky au juge bl☆nd qui fume.★
+	@asceli_idle ASCELLIA: ♛Ce☾i est un test.♛
+	@asceli_idle ASCELLIA: ♛P⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume.♛
 	</args></action>
 	
 <action class='viveilTalk1' command='talk' name='Parler à Viveil.'><args>
@@ -288,6 +288,11 @@
 <action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
 	@arseck_idle ARSECK: ceci est un test. 
 	@arseck_idle ARSECK: portez ce vieux whisky au juge blond qui fume.
+	</args></action>
+	
+<action class='ruvvikTalk1' command='talk' name='Parler à Ruvvik.'><args>
+	@ruvvik_idle RUVVIK: ceci est un test
+	@ruvvik_idle RUVVIK: portez ce vieux whisky au juge blond qui fume
 	</args></action>
 	
 <action class='andrewTalk1' command='talk' name='Parler.'>
