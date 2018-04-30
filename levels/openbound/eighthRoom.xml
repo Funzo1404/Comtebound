@@ -1,9 +1,5 @@
 <sburb description="eighth room">
 
-<dependencies>
-	<dependency>fourthRoomDialog.xml</dependency>
-</dependencies>
-
 <assets>
 
 <asset name='eighthRoomBG_0_0' type='graphic'>backgrounds/slices/eighthRoomBG_0_0.png</asset>
@@ -23,13 +19,13 @@
   		<trigger>
   			<args>inBox2,meenah,406,534,334,490</args>
   			<action command='changeRoomRemote'>
-  				<args>rooms/fourthRoom.xml,fourthRoom,578,714</args>
+  				<args>fourthRoom.xml,fourthRoom,578,714</args>
   			</action>
   		</trigger>
   		
       </triggers>
   	
-  	<sprite name='fourthRoomBG_0_0' x='0' y='0'><animation sheet='eighthRoomBG_0_0' /></sprite>
+  	<sprite name='eighthRoomBG_0_0' x='0' y='0'><animation sheet='eighthRoomBG_0_0' /></sprite>
 <sprite name='eighthRoomBG_0_1' x='500' y='0'><animation sheet='eighthRoomBG_0_1' /></sprite>
 <sprite name='eighthRoomBG_1_0' x='0' y='500'><animation sheet='eighthRoomBG_1_0' /></sprite>
 <sprite name='eighthRoomBG_1_1' x='500' y='500'><animation sheet='eighthRoomBG_1_1' /></sprite>
