@@ -81,9 +81,6 @@
   		</action>
   	</spritebutton>
   	<spritebutton name='beMeenah' x='531' y='9' width='54' height='63' sheet='beMeenah'>
-  		<action command='talk' sprite='meenah' soft='true'>
-  			<args>@!:#duh-! Vous ne pouvez pas devenir Meenah, vous êtes déjà Meenah !</args>
-  		</action>
   		<action command='talk' sprite='!meenah' soft='true'>
   			<action command='talk'>
       		<args>@! Devenir Meenah ?</args>
