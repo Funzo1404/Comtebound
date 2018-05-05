@@ -82,7 +82,6 @@
   	</spritebutton>
   	<spritebutton name='beMeenah' x='531' y='9' width='54' height='63' sheet='beMeenah'>
   		<action command='talk' sprite='!meenah' soft='true'>
-  			<action command='talk'>
       		<args>@! Devenir Meenah ?</args>
 		    	<action command='presentActions'>
 		    		<args>
@@ -97,7 +96,6 @@
 		    		</args>
 		    	</action>
 		    </action>
-  		</action>
   	</spritebutton>
   	<spritebutton name='saveButton' x='595' y='390' sheet='saveControl'>
   		<action command='saveOrLoad' soft='true'>
