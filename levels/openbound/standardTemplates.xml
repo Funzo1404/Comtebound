@@ -10,6 +10,8 @@
   		<asset name='teleporterPad' type='graphic'>objects/teleporterpad.png</asset>
   		<asset name='teleportSheet' type='graphic'>effects/teleportSheet.png</asset>
   		
+		<asset name='beMeenah' type='graphic'>interface/beMeenah.png</asset>
+  		
   		<asset name='chest1OpenSheet' type='graphic'>objects/chest1o.png</asset>
   		<asset name='chest1ClosedSheet' type='graphic'>objects/chest1.png</asset>
   		
