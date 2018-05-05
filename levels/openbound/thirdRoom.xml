@@ -207,6 +207,7 @@
 	<asset name='gameGlare' type='audio'>audio/music/GameGlare.oga;audio/music/GameGlare.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
 	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
+	<asset name='anEnding' type='audio'>audio/music/anEnding.ogg;audio/music/anEnding.mp3</asset>
 	
 	
 	
@@ -538,7 +539,7 @@
 			<action name='Deviens Porrim.' command='changeChar'>
 				<args>porrim</args>
 				<action command='playSong'>
-					<args>darlingDolorosa,43.88</args>
+					<args>anEnding</args>
 					<action class='fix-twins'/>
 					
 				</action>
