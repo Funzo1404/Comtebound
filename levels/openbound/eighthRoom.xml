@@ -33,7 +33,7 @@
 	  
     <sprite name='sefstand' x='609' y='243' width='92' height='78' collidable='true'>
     	<animation sheet='sefstandSheet' x='-40' y='-100'/>
-    	<action class='sefstandTalk1>'/>
+    	<action class='sefstandTalk1'/>
     </sprite>
   	
   	<sprite name='eighthRoomBG_0_0' x='0' y='0'><animation sheet='eighthRoomBG_0_0' /></sprite>
