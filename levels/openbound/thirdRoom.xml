@@ -9,7 +9,7 @@
 	<animation class='kankri-dialog' frameInterval='6' x='-180' y='-454'/>
 	<animation class='porrim-dialog' frameInterval='6' x='-180' y='-444'/>
 	<animation class='latula-dialog' frameInterval='6' x='-200' y='-524'/>
-	<animation class='seferi-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='seferi-dialog' frameInterval='6' x='-205' y='-504'/>
   
   <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
 		<args>
