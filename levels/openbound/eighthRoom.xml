@@ -31,7 +31,7 @@
   		
       </triggers>
 	  
-    <sprite name='sefstand' x='606' y='247' width='92' height='78' collidable='true'>
+    <sprite name='sefstand' x='604' y='251' width='92' height='78' collidable='true'>
     	<animation sheet='sefstandSheet' x='-40' y='-100'/>
     	<action class='sefstandTalk1'/>
     </sprite>
