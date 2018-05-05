@@ -1,7 +1,9 @@
 <sburb><classes>
 
 <action class='sefstandTalk1' command='talk' name='What is that ?'><args>
-      @seferi_idle SEFERI: Circulez, il N'y a rien à voir ici. PAS encore.
+      @seferi_talk SEFERI: Circulez, il N'y a rien à voir ici. PAS encore.
+      @seferi_idle SEFERI: Enfin, si, il y a nnes tests de talksprites.
+      @seferi_meh SEFERI: Mais je NE pense PAS que ça vous intéresse.
 </args></action>
 
 </classes></sburb>
