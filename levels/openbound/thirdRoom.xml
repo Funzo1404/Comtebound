@@ -9,6 +9,7 @@
 	<animation class='kankri-dialog' frameInterval='6' x='-180' y='-454'/>
 	<animation class='porrim-dialog' frameInterval='6' x='-180' y='-444'/>
 	<animation class='latula-dialog' frameInterval='6' x='-200' y='-524'/>
+	<animation class='seferi-dialog' frameInterval='6' x='-245' y='-504'/>
   
   <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
 		<args>
@@ -194,6 +195,10 @@
 	<asset name='porrim_surprisetalk' type='graphic'>dialogs/porrim_surprisetalk.png</asset>
 	<asset name='porrim_talk' type='graphic'>dialogs/porrim_talk.png</asset>
 	
+	<asset name='seferi_idle' type='graphic'>dialogs/seferi_idle.png</asset>
+	<asset name='seferi_talk' type='graphic'>dialogs/seferi_talk.png</asset>
+	<asset name='seferi_meh' type='graphic'>dialogs/seferi_meh.png</asset>
+	
 	<asset name='dialogimg_kankri1' type='graphic'>dialogs/dialogimg_kankri1.png</asset>
 	<asset name='dialogimg_kankri2' type='graphic'>dialogs/dialogimg_kankri2.png</asset>
 	<asset name='dialogimg_karkat1' type='graphic'>dialogs/dialogimg_karkat1.png</asset>
@@ -275,6 +280,10 @@
 		<animation name='porrim_surprise' class='porrim-dialog' sheet='porrim_surprise' />
 		<animation name='porrim_surprisetalk' class='porrim-dialog' sheet='porrim_surprisetalk' length='2'/>
 		<animation name='porrim_talk' class='porrim-dialog' sheet='porrim_talk' length='2'/>
+		
+		<animation name='seferi_talk' class='seferi-dialog' sheet='seferi_talk' length='2'/>
+		<animation name='seferi_idle' class='seferi-dialog' sheet='seferi_idle' />
+		<animation name='seferi_meh' class='seferi-dialog' sheet='seferi_meh' />
 	</dialogsprites>
 </hud>
 
