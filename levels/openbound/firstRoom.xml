@@ -34,8 +34,8 @@
 	<asset name='sollasSheet' type='graphic'>chars/sollas.png</asset>
 	<asset name='arseckSheet' type='graphic'>chars/arseck.png</asset>
 	<asset name='ruvvikSheet' type='graphic'>chars/ruvvik.png</asset>
-	<!--<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
-	<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>-->
+	<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
+	<!--<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>-->
 	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
@@ -359,23 +359,7 @@
 		</action>
    </character>
 	  
-   <character name='sollas' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='sollasSheet' state='walkLeft' facing='Left'>
-		<action class='sollasTalk1'/>
-		<action name='Deviens Sollas.' command='changeChar'>
-				<args>sollas</args>
-		</action>
-   </character>
-	  
-   <character name='viveil' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='viveilSheet' state='walkRight' facing='Right'>
-		<action class='viveilTalk1'/>
-		<action name='Deviens Viveil.' command='changeChar'>
-				<args>viveil</args>
-		</action>
-   </character>
-	  
-   <character name='arseck' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='arseck' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arseckSheet' state='walkRight' facing='Right'>
 		<action class='arseckTalk1'/>
 		<action name='Deviens Arseck.' command='changeChar'>
@@ -383,11 +367,43 @@
 		</action>
    </character>
 	  
-   <character name='ruvvik' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='ruvvik' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
 		<action class='ruvvikTalk1'/>
 		<action name='Deviens Ruvvik.' command='changeChar'>
 				<args>ruvvik</args>
+		</action>
+   </character>
+	  
+   <character name='arkeah' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='arkeahSheet' state='walkRight' facing='Right'>
+		<action class='arkeahTalk1'/>
+		<action name='Deviens Arkeah.' command='changeChar'>
+				<args>arkeah</args>
+		</action>
+   </character>
+	  
+   <!--<character name='dultew' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='dultewSheet' state='walkLeft' facing='Left'>
+		<action class='dultewTalk1'/>
+		<action name='Deviens Dultew.' command='changeChar'>
+				<args>dultew</args>
+		</action>
+   </character>-->
+	  
+   <character name='sollas' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='sollasSheet' state='walkLeft' facing='Left'>
+		<action class='sollasTalk1'/>
+		<action name='Deviens Sollas.' command='changeChar'>
+				<args>sollas</args>
+		</action>
+   </character>
+	  
+   <character name='viveil' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='viveilSheet' state='walkRight' facing='Right'>
+		<action class='viveilTalk1'/>
+		<action name='Deviens Viveil.' command='changeChar'>
+				<args>viveil</args>
 		</action>
    </character>
 	  
