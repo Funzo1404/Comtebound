@@ -274,7 +274,12 @@
 	  	<animation name='skate' sheet='meenahSkate' x='-60' y='-80' />
       <action name='Deviens Meenah.' sprite='!kankri' command='changeChar'>
       	<args>meenah</args>
-      	<action command='playSong'>fusciaRuler, 32.0830</action>
+      	<action command='playSong'>
+		<args>fusciaRuler, 32.0830</args>
+		<action command='moveSprite'>
+    			<args>beMeenah,531,-100</args>
+		</action>	
+	</action>		
       </action>
       <action class='meenahTalk1' />
       <action class='meenahTalk2' />
@@ -293,6 +298,9 @@
 											<args>karkat,
 												<action class='karkatTalk2'/>
 											</args>
+											<action command='moveSprite'>
+    												<args>beMeenah,531,-100</args>
+											</action>	
 										</action> 
 									</action>
 								</action>
@@ -386,6 +394,9 @@
 		<action class='ruvvikTalk1'/>
 		<action name='Deviens Ruvvik.' command='changeChar'>
 				<args>ruvvik</args>
+				<action command='moveSprite'>
+    					<args>beMeenah,531,9</args>
+				</action>	
 		</action>
    </character>
 	  
