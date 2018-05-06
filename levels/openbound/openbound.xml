@@ -80,7 +80,7 @@
   			<args>@! Utilisez les touches WASD ou les flèches directionnelles pour vous déplacer, et espace pour interargir.</args>
   		</action>
   	</spritebutton>
-  	<spritebutton name='beMeenah' x='531' y='9' width='54' height='63' sheet='beMeenah'>
+  	<spritebutton name='beMeenah' x='531' y='-100' width='54' height='63' sheet='beMeenah'>
   		<action command='talk' sprite='!meenah' soft='true'>
       		<args>@! Devenir Meenah ?</args>
 		    	<action command='presentActions'>
