@@ -226,6 +226,31 @@
       @gardia_idle LYSDIA: :> 
 </args></action>
 	
+<action class='seasonTalk1' command='talk' name='Parler à Season.'><args>
+	@season_idle SEASON: ☆Ceci est un test ! :D☆ 
+	@season_idle SEASON: ☆Portez ce vieux whisky ★u juge blond qui fume☆
+	</args></action>
+	
+<action class='asceliTalk1' command='talk' name='Parler à Ascellia.'><args>
+	@asceli_idle ASCELLIA: ♛Ce☾i est un test.♛
+	@asceli_idle ASCELLIA: ♛P⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume.♛
+	</args></action>
+	
+<action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
+	@arseck_idle ARSECK: ceci est un test. 
+	@arseck_idle ARSECK: portez ce vieux whisky au juge blond qui fume.
+	</args></action>
+	
+<action class='ruvvikTalk1' command='talk' name='Parler à Ruvvik.'><args>
+	@ruvvik_idle RUVVIK: ceci est un test
+	@ruvvik_idle RUVVIK: portez ce vieux whisky au juge blond qui fume
+	</args></action>
+	
+<action class='eliseoTalk1' command='talk' name='Parler à Éliséo.'><args>
+	@eliseo_idle ÉLISÉO: < ï > ~Ceci est un test
+	@eliseo_idle ÉLISÉO: < ï > ~Portez ce ^ieux whisky au juge blond qui fume
+	</args></action>
+	
 <action class='lysdiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
 	@meenah_idle MEENAH: hey
 	@meenah_talk MEENAH: cest toi le double de lautre taree ?
@@ -265,29 +290,9 @@
 	@!:#trop-dément Vous pouvez maintenant devenir Lysdia sous forme de Gardien !
 </args></action>
 	
-<action class='seasonTalk1' command='talk' name='Parler à Season.'><args>
-	@season_idle SEASON: ☆Ceci est un test ! :D☆ 
-	@season_idle SEASON: ☆Portez ce vieux whisky ★u juge blond qui fume☆
-	</args></action>
-	
-<action class='asceliTalk1' command='talk' name='Parler à Ascellia.'><args>
-	@asceli_idle ASCELLIA: ♛Ce☾i est un test.♛
-	@asceli_idle ASCELLIA: ♛P⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume.♛
-	</args></action>
-	
-<action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
-	@arseck_idle ARSECK: ceci est un test. 
-	@arseck_idle ARSECK: portez ce vieux whisky au juge blond qui fume.
-	</args></action>
-	
 <action class='arkeahTalk1' command='talk' name='Parler à Arkeah.'><args>
 	@arkeah_idle ARKEAH: Ceci est un X test X 
 	@arkeah_idle ARKEAH: Portez ce X vieux whisky X au XXX juge blond qui fume
-	</args></action>
-	
-<action class='ruvvikTalk1' command='talk' name='Parler à Ruvvik.'><args>
-	@ruvvik_idle RUVVIK: ceci est un test
-	@ruvvik_idle RUVVIK: portez ce vieux whisky au juge blond qui fume
 	</args></action>
 	
 <action class='viveilTalk1' command='talk' name='Parler à Viveil.'><args>
