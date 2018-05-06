@@ -227,13 +227,13 @@
 </args></action>
 	
 <action class='seasonTalk1' command='talk' name='Parler à Season.'><args>
-	@season_idle SEASON: ☆Ceci est un test ! :D☆ 
-	@season_idle SEASON: ☆Portez ce vieux whisky ★u juge blond qui fume☆
+	@season_idle SEASON: ☆Ceci est un test ! :D☆ &lt;
+	@season_idle SEASON: ☆Portez ce vieux whisky ★u juge blond qui fume☆ &lt;
 	</args></action>
 	
 <action class='asceliTalk1' command='talk' name='Parler à Ascellia.'><args>
-	@asceli_idle ASCELLIA: ♛Ce☾i est un test.♛
-	@asceli_idle ASCELLIA: ♛P⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume.♛
+	@asceli_idle ASCELLIA: ♛Ce☾i est un test.♛ &lt;
+	@asceli_idle ASCELLIA: ♛P⌽rtez ☾e vieux whisky au juge bl⌽nd qui fume.♛ &lt;
 	</args></action>
 	
 <action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
@@ -242,8 +242,8 @@
 	</args></action>
 	
 <action class='ruvvikTalk1' command='talk' name='Parler à Ruvvik.'><args>
-	@ruvvik_idle RUVVIK: ceci est un test
-	@ruvvik_idle RUVVIK: portez ce vieux whisky au juge blond qui fume
+	@ruvvik_idle RUVVIK: ceci é 1 test ( ´ ▽ ` )ﾉ &lt;
+	@ruvvik_idle RUVVIK: porté ce vieu wiski o juj blon ki fum (*^ω^*) &lt;
 	</args></action>
 	
 <action class='eliseoTalk1' command='talk' name='Parler à Éliséo.'><args>
