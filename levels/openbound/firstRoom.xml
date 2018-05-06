@@ -7,7 +7,7 @@
 <classes>
 	<animation class='aradia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='eliseo-dialog' frameInterval='6' x='-245' y='-465'/>
-	<animation class='lysdia-dialog' frameInterval='6' x='-225' y='-464'/>
+	<animation class='lysdia-dialog' frameInterval='6' x='-195' y='-464'/>
 	<animation class='gardia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='season-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='asceli-dialog' frameInterval='6' x='-245' y='-504'/>
@@ -15,7 +15,7 @@
 	<animation class='ruvvik-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='arkeah-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='dultew-dialog' frameInterval='6' x='-245' y='-504'/>
-	<animation class='viveil-dialog' frameInterval='6' x='-195' y='-524'/>
+	<animation class='viveil-dialog' frameInterval='6' x='-180' y='-524'/>
 	<animation class='sollas-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
