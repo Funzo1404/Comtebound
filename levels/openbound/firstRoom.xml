@@ -409,7 +409,7 @@
 		</action>
    </character>
 	  
-   <sprite name='teleportBubble' x='2220' y='1200' width='20' height='20' depthing='1' collidable='true'>
+   <sprite name='teleportBubble' x='1450' y='1450' width='20' height='20' depthing='1' collidable='true'>
   	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
   	<action command='talk' name='Examine la bulle.'>
 			<args>
