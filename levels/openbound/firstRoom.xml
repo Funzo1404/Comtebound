@@ -394,7 +394,7 @@
 		<action class='ruvvikTalk1'/>
 		<action name='Deviens Ruvvik.' command='changeChar'>
 				<args>ruvvik</args>
-				<action command='moveSprite'>
+				<action command='moveButton'>
     					<args>beMeenah,531,9</args>
 				</action>	
 		</action>
