@@ -83,6 +83,8 @@
 <asset name='fg1_43' type='graphic'>backgrounds/firstRoomFG/MAP1o_43.png</asset>
 <asset name='fg1_44' type='graphic'>backgrounds/firstRoomFG/MAP1o_44.png</asset>
 <asset name='fg1_45' type='graphic'>backgrounds/firstRoomFG/MAP1o_45.png</asset>
+	
+	<asset name='blueBubbleSheet' type='graphic'>objects/bluebubble.png</asset>
   
   <asset name='firstRoomStairs1' type='path'>1574,1372;1990,1696;1980,1760;1580,1448</asset>
   <asset name='firstRoomStairs2' type='path'>876,2710;1474,3156;1482,3288;868,2796</asset>
@@ -375,7 +377,7 @@
 		</action>
    </character>
 	  
-   <character name='arkeah' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='arkeah' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arkeahSheet' state='walkRight' facing='Right'>
 		<action class='arkeahTalk1'/>
 		<action name='Deviens Arkeah.' command='changeChar'>
@@ -383,7 +385,7 @@
 		</action>
    </character>
 	  
-   <!--<character name='dultew' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <!--<character name='dultew' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dultewSheet' state='walkLeft' facing='Left'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
@@ -391,7 +393,7 @@
 		</action>
    </character>-->
 	  
-   <character name='sollas' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sollas' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
 		<action name='Deviens Sollas.' command='changeChar'>
@@ -399,13 +401,35 @@
 		</action>
    </character>
 	  
-   <character name='viveil' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='viveil' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='viveilSheet' state='walkRight' facing='Right'>
 		<action class='viveilTalk1'/>
 		<action name='Deviens Viveil.' command='changeChar'>
 				<args>viveil</args>
 		</action>
    </character>
+	  
+   <sprite name='teleportBubble' x='2220' y='1200' width='20' height='20' depthing='1' collidable='true'>
+  	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
+  	<action command='talk' name='Examine la bulle.'>
+			<args>
+			@! C'est une bulle de rêve... 
+			@! Elle vous rappelle que vous avez la grosse flemme d'utiliser vos pieds pour marcher.
+			</args>
+			<action command='talk'>
+				<args>@! Se téléporter ?</args>
+		    	<action command='presentActions'>
+		    		<args>
+		    			<action name='Oui'  command='changeRoomRemote'>
+							<args>thirdRoom.xml,thirdRoom,1155,192</args>
+						</action>
+						<action name='Non' command='cancel'>
+						</action>
+		    		</args>
+		    	</action>
+		    </action>
+	 </action>
+   </sprite>
 	  
 			
     
