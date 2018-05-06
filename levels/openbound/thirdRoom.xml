@@ -486,25 +486,23 @@
 	       sheet='kankriSheet' state='walkLeft' facing='Left'>
       
       <action class='snoop'/>
-			<action class='kankriTalk1'/>
-			<action class='kankriTalk2'>
-				<action command='changeChar'>
-					<args>kankri</args>
-					<action command='playSong'>
-						<args>ironInfidel</args>
-						<action command='removeAction'>
-							<args>kankri,Parle.</args>
-							<action command='removeAction'>
-								<args>karkat,Parle.</args>
-								
-							</action>
-						</action>
+	<action class='kankriTalk1'/>
+	<action class='kankriTalk2'>
+		<action command='changeChar'>
+			<args>kankri</args>
+			<action command='playSong'>
+				<args>ahviTh</args>
+				<action command='removeAction'>
+					<args>kankri,Parle.</args>
+					<action command='removeAction'>
+						<args>karkat,Parle.</args>
 					</action>
-					
 				</action>
 			</action>
-			<action class='kankriTalk3'/>
-			<action class='kankriTalk4'/>
+		</action>
+	</action>
+	<action class='kankriTalk3'/>
+	<action class='kankriTalk4'/>
     </character>
     
     <character name='latula' x='2402' y='1720' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
