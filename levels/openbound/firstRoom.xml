@@ -6,6 +6,7 @@
 
 <classes>
 	<animation class='aradia-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='eliseo-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='lysdia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='gardia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='season-dialog' frameInterval='6' x='-245' y='-504'/>
@@ -26,6 +27,7 @@
   <asset name='meenahSheet' type='graphic'>chars/meenah.png</asset>
 	<asset name='meenahSkate' type='graphic'>chars/meenah_skate.png</asset>
 	<asset name='aradiaSheet' type='graphic'>chars/aradia.png</asset>
+	<asset name='eliseoSheet' type='graphic'>chars/eliseo.png</asset>
 	<asset name='lysdiaSheet' type='graphic'>chars/lysdia.png</asset>
 	<asset name='gardiaSheet' type='graphic'>chars/gardia.png</asset>
 	<asset name='seasonSheet' type='graphic'>chars/season.png</asset>
@@ -97,6 +99,7 @@
 	<asset name='aradia_talk' type='graphic'>dialogs/aradia_talk.png</asset>
 	<asset name='aradia_wink' type='graphic'>dialogs/aradia_wink.png</asset>
 	
+	<asset name='eliseo_idle' type='graphic'>dialogs/eliseo_idle.png</asset>
 	<asset name='lysdia_idle' type='graphic'>dialogs/lysdia_idle.png</asset>
 	<asset name='gardia_idle' type='graphic'>dialogs/gardia_idle.png</asset>
 	<asset name='season_idle' type='graphic'>dialogs/season_idle.png</asset>
@@ -136,8 +139,8 @@
 		<animation name='aradia_talk' class='aradia-dialog' sheet='aradia_talk'  length='2' />
 		<animation name='aradia_wink' class='aradia-dialog' sheet='aradia_wink' />
 		
+		<animation name='eliseo_idle' class='eliseo-dialog' sheet='eliseo_idle' />
 		<animation name='lysdia_idle' class='lysdia-dialog' sheet='lysdia_idle' />
-		
 		<animation name='gardia_idle' class='gardia-dialog' sheet='gardia_idle' />
 		<animation name='season_idle' class='season-dialog' sheet='season_idle' />
 		<animation name='asceli_idle' class='asceli-dialog' sheet='asceli_idle' />
@@ -315,30 +318,6 @@
 	<action class='aradiaTalk3'/>
 	<action class='aradiaTalk4'/>    
     </sprite>
-	
-   <character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
-		sheet='lysdiaSheet' state='walkFront' facing='Front'>
-		<action class='lysdiaTalk1'>
-			<action command='changeChar'>
-				<args>lysdia</args>
-			</action>
-		</action>
-		<action class='lysdiaTalk2' />
-   </character>
-	  
-   <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
-		sheet='gardiaSheet' state='walkLeft' facing='Left'>
-		<action class='gardiaTalk1' />
-		<action class='gardiaTalk2'>
-			<action command='addAction' noWait='true'>
-				<args>gardia,
-					<action command='changeChar' name='Devenir Gardia.'>
-						<args>gardia</args>
-					</action>	
-				</args>
-			</action>
-		</action>
-   </character> 
 	  
    <character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asceliSheet' state='walkLeft' facing='Left'>
@@ -376,6 +355,38 @@
 				<args>ruvvik</args>
 		</action>
    </character>
+	  
+   <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='eliseoSheet' state='walkRight' facing='Right'>
+		<action class='eliseoTalk1'/>
+		<action name='Deviens Éliséo.' command='changeChar'>
+				<args>eliseo</args>
+		</action>
+   </character>
+	
+   <character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='lysdiaSheet' state='walkFront' facing='Front'>
+		<action class='lysdiaTalk1'>
+			<action command='changeChar'>
+				<args>lysdia</args>
+			</action>
+		</action>
+		<action class='lysdiaTalk2' />
+   </character>
+	  
+   <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='gardiaSheet' state='walkLeft' facing='Left'>
+		<action class='gardiaTalk1' />
+		<action class='gardiaTalk2'>
+			<action command='addAction' noWait='true'>
+				<args>gardia,
+					<action command='changeChar' name='Devenir Gardia.'>
+						<args>gardia</args>
+					</action>	
+				</args>
+			</action>
+		</action>
+   </character> 
 	  
    <character name='arkeah' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arkeahSheet' state='walkRight' facing='Right'>
