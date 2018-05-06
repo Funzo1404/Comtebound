@@ -112,6 +112,7 @@
 	<asset name='sollas_idle' type='graphic'>dialogs/sollas_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
+	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
