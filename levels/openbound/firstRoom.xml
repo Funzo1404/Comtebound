@@ -276,7 +276,7 @@
       	<args>meenah</args>
       	<action command='playSong'>
 		<args>fusciaRuler, 32.0830</args>
-		<action command='moveSprite'>
+		<action command='moveSpriteButton'>
     			<args>beMeenah,531,-100</args>
 		</action>	
 	</action>		
@@ -298,7 +298,7 @@
 											<args>karkat,
 												<action class='karkatTalk2'/>
 											</args>
-											<action command='moveSprite'>
+											<action command='moveSpriteButton'>
     												<args>beMeenah,531,-100</args>
 											</action>	
 										</action> 
@@ -394,7 +394,7 @@
 		<action class='ruvvikTalk1'/>
 		<action name='Deviens Ruvvik.' command='changeChar'>
 				<args>ruvvik</args>
-				<action command='moveButton'>
+				<action command='moveSpriteButton'>
     					<args>beMeenah,531,9</args>
 				</action>	
 		</action>
