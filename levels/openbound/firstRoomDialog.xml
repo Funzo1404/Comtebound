@@ -247,8 +247,8 @@
 	</args></action>
 	
 <action class='eliseoTalk1' command='talk' name='Parler à Éliséo.'><args>
-	@eliseo_idle ÉLISÉO: &lt; ï > ~Ceci est un test
-	@eliseo_idle ÉLISÉO: &lt; ï > ~Portez ce ^ieux whisky au juge blond qui fume
+	@eliseo_happytalk ÉLISÉO: &lt; ï > ~Ceci est un test
+	@eliseo_happytalk2 ÉLISÉO: &lt; ï > ~Portez ce ^ieux whisky au juge blond qui fume
 	</args></action>
 	
 <action class='lysdiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
