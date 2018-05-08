@@ -100,6 +100,8 @@
 	<asset name='aradia_wink' type='graphic'>dialogs/aradia_wink.png</asset>
 	
 	<asset name='eliseo_idle' type='graphic'>dialogs/eliseo_idle.png</asset>
+	<asset name='eliseo_happytalk2' type='graphic'>dialogs/eliseo_happytalk.png</asset>
+	<asset name='eliseo_happytalk' type='graphic'>dialogs/eliseo_happytalk2.png</asset>
 	<asset name='lysdia_idle' type='graphic'>dialogs/lysdia_idle.png</asset>
 	<asset name='gardia_idle' type='graphic'>dialogs/gardia_idle.png</asset>
 	<asset name='season_idle' type='graphic'>dialogs/season_idle.png</asset>
@@ -141,6 +143,8 @@
 		<animation name='aradia_wink' class='aradia-dialog' sheet='aradia_wink' />
 		
 		<animation name='eliseo_idle' class='eliseo-dialog' sheet='eliseo_idle' />
+		<animation name='eliseo_happytalk' class='eliseo-dialog' sheet='eliseo_happytalk' length='2' />
+		<animation name='eliseo_happytalk2' class='eliseo-dialog' sheet='eliseo_happytalk2' length='2' />
 		<animation name='lysdia_idle' class='lysdia-dialog' sheet='lysdia_idle' />
 		<animation name='gardia_idle' class='gardia-dialog' sheet='gardia_idle' />
 		<animation name='season_idle' class='season-dialog' sheet='season_idle' />
