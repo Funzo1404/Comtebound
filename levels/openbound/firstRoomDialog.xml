@@ -295,6 +295,11 @@
 	@arkeah_idle ARKEAH: Portez ce X vieux whisky X au XXX juge blond qui fume
 	</args></action>
 	
+<action class='dultewTalk1' command='talk' name='Parler à Dultew.'><args>
+	@dultew_idle DULTEW: ¤ Ceci est un test ¤
+	@dultew_idle DULTEW: ¤ Portez ce vieux whisky au juge blond qui fume ¤
+	</args></action>
+	
 <action class='viveilTalk1' command='talk' name='Parler à Viveil.'><args>
 	@viveil_idle VIVEIL: Ceci est un test.
 	@viveil_idle VIVEIL: P>o&lt;rtez ce vieux whisky au juge bl>o&lt;nd qui fume.
