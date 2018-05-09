@@ -391,6 +391,25 @@
 				<args>ruvvik</args>
 		</action>
    </character>
+	  
+   <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='eliseoSheet' state='walkRight' facing='Right'>
+		<action class='eliseoTalk1'/>
+		<action class='eliseoTalk2'>
+			<action command='openChest'>
+				<args>eliseo,photoUn,@!:#cute Vous obtenez la PHOTO D'ÉLISÉO !</args>
+				<action command='playAnimation'>
+					<args>eliseo,walkFront</args>
+					<action command='removeAction'>
+						<args>eliseo,Demande une photo.</args>	
+					</action>
+				</action>
+			</action>
+	   	</action>
+		<action name='Deviens Éliséo.' command='changeChar'>
+				<args>eliseo</args>
+		</action>
+   </character>
 	
    <character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkFront' facing='Front'>
