@@ -43,6 +43,10 @@
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
   <!--<asset name='firstRoomBG' type='graphic'>backgrounds/firstRoomBG.png</asset>-->
   <!--<asset name='firstRoomFG' type='graphic'>backgrounds/firstRoomFG.png</asset>-->
+	
+  <asset name='photo1ol' type='graphic'>backgrounds/photo1ol.png</asset>
+  <asset name='photo2ol' type='graphic'>backgrounds/photo2ol.png</asset>
+  <asset name='photo3ol' type='graphic'>backgrounds/photo3ol.png</asset>
   
   <asset name='bg1_11' type='graphic'>backgrounds/firstRoomBG/MAP1_11.png</asset>
 <asset name='bg1_12' type='graphic'>backgrounds/firstRoomBG/MAP1_12.png</asset>
@@ -87,6 +91,7 @@
 <asset name='fg1_45' type='graphic'>backgrounds/firstRoomFG/MAP1o_45.png</asset>
 	
 	<asset name='blueBubbleSheet' type='graphic'>objects/bluebubble.png</asset>
+	<asset name='tableauSheet' type='graphic'>objects/tableau.png</asset>
   
   <asset name='firstRoomStairs1' type='path'>1574,1372;1990,1696;1980,1760;1580,1448</asset>
   <asset name='firstRoomStairs2' type='path'>876,2710;1474,3156;1482,3288;868,2796</asset>
@@ -126,6 +131,9 @@
 	<asset name='obj08' type='graphic'>objects/08.png</asset>
 	<asset name='obj09' type='graphic'>objects/09.png</asset>
 	<asset name='obj10' type='graphic'>objects/10.png</asset>
+	<asset name='pht1' type='graphic'>objects/pht1.png</asset>
+	<asset name='pht2' type='graphic'>objects/pht2.png</asset>
+	<asset name='pht3' type='graphic'>objects/pht3.png</asset>
 	
 	<asset name='andrewSheet' type='graphic'>chars/andrew.png</asset>
 	<asset name='andrewSitSheet' type='graphic'>chars/ah_sit.png</asset>
@@ -195,6 +203,15 @@
 </sprite>
 <sprite depthing='2' name='obj10'>
 <animation x='-50' y='-50' sheet='obj10'/>
+</sprite>
+<sprite depthing='2' name='pht1'>
+<animation x='-50' y='-50' sheet='pht1'/>
+</sprite>
+<sprite depthing='2' name='pht2'>
+<animation x='-50' y='-50' sheet='pht2'/>
+</sprite>
+<sprite depthing='2' name='pht3'>
+<animation x='-50' y='-50' sheet='pht3'/>
 </sprite>
 
 <rooms>
@@ -356,6 +373,14 @@
    <character name='ruvvik' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
 		<action class='ruvvikTalk1'/>
+		<action class='ruvvikTalk2'>
+			<action command='openChest'>
+				<args>ruvvik,pht2,@! Vous obtenez la PHOTO DE RUVVIK !</args>
+				<action command='removeAction'>
+					<args>ruvvik,Demande une photo.</args>	
+				</action>
+			</action>
+	   	</action>
 		<action name='Deviens Ruvvik.' command='changeChar'>
 				<args>ruvvik</args>
 		</action>
@@ -364,6 +389,14 @@
    <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='eliseoSheet' state='walkRight' facing='Right'>
 		<action class='eliseoTalk1'/>
+		<action class='eliseoTalk2'>
+			<action command='openChest'>
+				<args>eliseo,pht1,@! Vous obtenez la PHOTO D'ÉLISÉO !</args>
+				<action command='removeAction'>
+					<args>eliseo,Demande une photo.</args>	
+				</action>
+			</action>
+	   	</action>
 		<action name='Deviens Éliséo.' command='changeChar'>
 				<args>eliseo</args>
 		</action>
@@ -433,6 +466,14 @@
    <character name='sollas' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
+		<action class='sollasTalk2'>
+			<action command='openChest'>
+				<args>sollas,pht3,@! Vous obtenez la PHOTO DE SOLLAS !</args>
+				<action command='removeAction'>
+					<args>sollas,Demande une photo.</args>	
+				</action>
+			</action>
+	   	</action>
 		<action name='Deviens Sollas.' command='changeChar'>
 				<args>sollas</args>
 		</action>
