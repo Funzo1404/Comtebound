@@ -376,7 +376,20 @@
 				<args>lysdia</args>
 			</action>
 		</action>
-		<action class='lysdiaTalk2' />
+		<action class='lysdiaTalk2' >
+			<action command='talk'>
+      				<args>@! Devenir Lysdia ?</args>
+		    		<action command='presentActions'>
+		    			<args>
+		    				<action name='Oui' command='changeChar'>
+							<args>lysdia</args>
+						</action>
+						<action name='Non' command='cancel'>
+						</action>
+		    			</args>
+		    		</action>
+		    	</action>
+	       </action>
    </character>
 	  
    <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
