@@ -256,7 +256,7 @@
 	</args></action>
 	
 <action class='eliseoTalk2' command='talk' name='Demande une photo.'><args>
-	@eliseo_happytalk ÉLISÉO: &lt;>ï&lt;> ~D'accord tu m'as l'air d'être quelqu'un de confiance. :>
+	@eliseo_happytalk ÉLISÉO: &lt;>ï&lt;> ~D'accord tu m'as l'air d'être quelqu'un de confiance. =>
 	</args></action>
 	
 <action class='lysdiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
