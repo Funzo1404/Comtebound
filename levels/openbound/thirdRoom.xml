@@ -505,7 +505,7 @@
 	<action class='kankriTalk4'/>
     </character>
     
-    <character name='latula' x='2402' y='1720' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+    <character name='latula' x='1200' y='1600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='latulaSheet' state='ollie' facing='Front'>
 			<animation name='ollie' sheet='latulaOllieSheet' x='-60' y='-110' />
 			<animation name='skate' sheet='latulaSkateSheet' x='-60' y='-110' />
