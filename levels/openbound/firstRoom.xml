@@ -389,6 +389,14 @@
 						<args>gardia</args>
 					</action>	
 				</args>
+				<action command='removeActions'>
+					<args>gardia,Parler à Gardia.</args>
+					<action command='addAction' noWait='true'>
+						<args>gardia,
+							<action class='gardiaTalk3'/>
+						</args>
+					</action>
+				</action>	
 			</action>
 		</action>
    </character> 
