@@ -131,9 +131,9 @@
 	<asset name='obj08' type='graphic'>objects/08.png</asset>
 	<asset name='obj09' type='graphic'>objects/09.png</asset>
 	<asset name='obj10' type='graphic'>objects/10.png</asset>
-	<asset name='pht1' type='graphic'>objects/pht1.png</asset>
-	<asset name='pht2' type='graphic'>objects/pht2.png</asset>
-	<asset name='pht3' type='graphic'>objects/pht3.png</asset>
+	<asset name='pht1' type='graphic'>objects/photo1.png</asset>
+	<asset name='pht2' type='graphic'>objects/photo2.png</asset>
+	<asset name='pht3' type='graphic'>objects/photo3.png</asset>
 	
 	<asset name='andrewSheet' type='graphic'>chars/andrew.png</asset>
 	<asset name='andrewSitSheet' type='graphic'>chars/ah_sit.png</asset>
