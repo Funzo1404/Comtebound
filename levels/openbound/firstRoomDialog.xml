@@ -246,9 +246,17 @@
 	@ruvvik_idle RUVVIK: porté ce vieu wiski o juj blon ki fum (*^ω^*) 
 	</args></action>
 	
+<action class='ruvvikTalk1' command='talk' name='Demande une photo.'><args>
+	@ruvvik_idle RUVVIK: ok ti1 c pr toa ( ´ ▽ ` )ﾉ 
+	</args></action>
+	
 <action class='eliseoTalk1' command='talk' name='Parler à Éliséo.'><args>
-	@eliseo_happytalk ÉLISÉO: &lt; ï > ~Ceci est un test
-	@eliseo_happytalk2 ÉLISÉO: &lt; ï > ~Portez ce ^ieux whisky au juge blond qui fume
+	@eliseo_happytalk ÉLISÉO: &lt;>ï&lt;> ~Ceci est un test
+	@eliseo_happytalk2 ÉLISÉO: &lt;>ï&lt;> ~Portez ce ^ieux whisky au juge blond qui fume
+	</args></action>
+	
+<action class='eliseoTalk1' command='talk' name='Demande une photo.'><args>
+	@eliseo_happytalk ÉLISÉO: &lt;>ï&lt;> ~D'accord tu m'as l'air d'être quelqu'un de confiance. :>
 	</args></action>
 	
 <action class='lysdiaTalk1' sprite='meenah' command='talk' name='Parle à cette belle inconnue.'><args>
@@ -316,6 +324,10 @@
 <action class='sollasTalk1' command='talk' name='Parler à Sollas.'><args>
 	@sollas_idle SOLLAS: Ceci est un test :>
 	@sollas_idle SOLLAS: Portez ce vieux whisky au juge blond qui fume :v
+	</args></action>
+	
+<action class='sollasTalk1' command='talk' name='Demande une photo.'><args>
+	@sollas_idle SOLLAS: Heum okay pas de soucis :v
 	</args></action>
 	
 <action class='andrewTalk1' command='talk' name='Parler.'>
