@@ -290,6 +290,14 @@
 	@!:#trop-dément Vous pouvez maintenant devenir Lysdia sous forme de Gardien !
 </args></action>
 	
+<action class='gardiaTalk3' sprite='lysdia' command='talk' name='Parler à Gardia.'><args>
+        @gardia_idle LYSDIA: bonjour. 
+	@lysdia_idle LYSDIA: bonjour. 
+	@gardia_idle LYSDIA:   
+	@lysdia_idle LYSDIA:  
+	@gardia_idle LYSDIA: :>
+</args></action>
+	
 <action class='arkeahTalk1' command='talk' name='Parler à Arkeah.'><args>
 	@arkeah_idle ARKEAH: Ceci est un X test X 
 	@arkeah_idle ARKEAH: Portez ce X vieux whisky X au XXX juge blond qui fume
