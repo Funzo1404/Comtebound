@@ -290,7 +290,7 @@
 	@!:#trop-dément Vous pouvez maintenant devenir Lysdia sous forme de Gardien !
 </args></action>
 	
-<action class='gardiaTalk3' sprite='lysdia' command='talk' name='Parler à Gardia.'><args>
+<action class='gardiaTalk3' sprite='lysdia' command='talk' name='Reparler à Gardia.'><args>
         @gardia_idle LYSDIA: bonjour. 
 	@lysdia_idle LYSDIA: bonjour. 
 	@gardia_idle LYSDIA:   
