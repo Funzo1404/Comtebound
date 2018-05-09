@@ -204,14 +204,17 @@
 <sprite depthing='2' name='obj10'>
 <animation x='-50' y='-50' sheet='obj10'/>
 </sprite>
-<sprite depthing='2' name='pht1'>
-<animation x='-50' y='-50' sheet='pht1'/>
+
+<sprite name='photoUn' depthing='2'>
+	<animation sheet='pht1' x='-30' y='-40'/>
 </sprite>
-<sprite depthing='2' name='pht2'>
-<animation x='-50' y='-50' sheet='pht2'/>
+
+<sprite name='photoDeux' depthing='2'>
+	<animation sheet='pht2' x='-30' y='-40'/>
 </sprite>
-<sprite depthing='2' name='pht3'>
-<animation x='-50' y='-50' sheet='pht3'/>
+
+<sprite name='photoTrois' depthing='2'>
+	<animation sheet='pht3' x='-30' y='-40'/>
 </sprite>
 
 <rooms>
@@ -375,7 +378,7 @@
 		<action class='ruvvikTalk1'/>
 		<action class='ruvvikTalk2'>
 			<action command='openChest'>
-				<args>ruvvik,pht2,@! Vous obtenez la PHOTO DE RUVVIK !</args>
+				<args>ruvvik,photoDeux,@!:#hum Vous obtenez la PHOTO DE RUVVIK !</args>
 				<action command='removeAction'>
 					<args>ruvvik,Demande une photo.</args>	
 				</action>
@@ -391,7 +394,7 @@
 		<action class='eliseoTalk1'/>
 		<action class='eliseoTalk2'>
 			<action command='openChest'>
-				<args>eliseo,pht1,@! Vous obtenez la PHOTO D'ÉLISÉO !</args>
+				<args>eliseo,photoUn,@!:#cute Vous obtenez la PHOTO D'ÉLISÉO !</args>
 				<action command='removeAction'>
 					<args>eliseo,Demande une photo.</args>	
 				</action>
@@ -468,7 +471,7 @@
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
 			<action command='openChest'>
-				<args>sollas,pht3,@! Vous obtenez la PHOTO DE SOLLAS !</args>
+				<args>sollas,photoTrois,@!:#cool Vous obtenez la PHOTO DE SOLLAS !</args>
 				<action command='removeAction'>
 					<args>sollas,Demande une photo.</args>	
 				</action>
