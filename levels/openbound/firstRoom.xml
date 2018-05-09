@@ -379,8 +379,11 @@
 		<action class='ruvvikTalk2'>
 			<action command='openChest'>
 				<args>ruvvik,photoDeux,@!:#hum Vous obtenez la PHOTO DE RUVVIK !</args>
-				<action command='removeAction'>
-					<args>ruvvik,Demande une photo.</args>	
+				<action command='playAnimation'>
+					<args>ruvvik,walkFront</args>
+					<action command='removeAction'>
+						<args>ruvvik,Demande une photo.</args>
+					</action>	
 				</action>
 			</action>
 	   	</action>
@@ -395,8 +398,11 @@
 		<action class='eliseoTalk2'>
 			<action command='openChest'>
 				<args>eliseo,photoUn,@!:#cute Vous obtenez la PHOTO D'ÉLISÉO !</args>
-				<action command='removeAction'>
-					<args>eliseo,Demande une photo.</args>	
+				<action command='playAnimation'>
+					<args>eliseo,walkFront</args>
+					<action command='removeAction'>
+						<args>eliseo,Demande une photo.</args>	
+					</action>
 				</action>
 			</action>
 	   	</action>
@@ -472,8 +478,11 @@
 		<action class='sollasTalk2'>
 			<action command='openChest'>
 				<args>sollas,photoTrois,@!:#cool Vous obtenez la PHOTO DE SOLLAS !</args>
-				<action command='removeAction'>
-					<args>sollas,Demande une photo.</args>	
+				<action command='playAnimation'>
+					<args>sollas,walkFront</args>
+					<action command='removeAction'>
+						<args>sollas,Demande une photo.</args>
+					</action>	
 				</action>
 			</action>
 	   	</action>
