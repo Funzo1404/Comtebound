@@ -475,7 +475,6 @@
 					<action command='removeAction'>
 						<args>sollas,Demande une photo.</args>
 					</action>	
-				</action>
 			</action>
 	   	</action>
 		<action name='Deviens Sollas.' command='changeChar'>
