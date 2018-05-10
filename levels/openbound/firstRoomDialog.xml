@@ -340,7 +340,7 @@
 	</args>
 	<action command='presentActions'>
 		<args>
-			<action command='removeOverlay' name='Allez, j'en ai assez vu.'>
+			<action command='removeOverlay' name="Allez, j'en ai assez vu.">
 				<args>photo1ol</args>
 			</action>
 		</args>
@@ -353,7 +353,7 @@
 	</args>
 	<action command='presentActions'>
 		<args>
-			<action command='removeOverlay' name='Allez, j'en ai assez vu.'>
+			<action command='removeOverlay' name="Allez, j'en ai assez vu.">
 				<args>photo2ol</args>
 			</action>
 		</args>
@@ -366,7 +366,7 @@
 	</args>
 	<action command='presentActions'>
 		<args>
-			<action command='removeOverlay' name='Allez, j'en ai assez vu.'>
+			<action command='removeOverlay' name="Allez, j'en ai assez vu.">
 				<args>photo3ol</args>
 			</action>
 		</args>
