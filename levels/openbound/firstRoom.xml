@@ -319,11 +319,6 @@
    			<action class='tabCheck2'>
 				</action>
    		</action>
-   		<action command='addOverlay' name='Examine la deuxième photo.'>
-   			<args>photo2ol</args>
-   			<action class='tabCheck3'>
-				</action>
-   		</action>
    		<action command='addOverlay' name='Examine la troisième photo.'>
    			<args>photo3ol</args>
    			<action class='tabCheck4'>
@@ -411,9 +406,21 @@
 		<action class='ruvvikTalk2'>
 			<action command='setGameState'>
 				<args>gotPht2,true</args>
-					<action command='removeAction'>
-						<args>ruvvik,Demande une photo.</args>
+				<action command='removeAction'>
+					<args>ruvvik,Demande une photo.</args>
+					<action command='addAction' noWait='true'>
+						<args>tableau,
+							<action command='addOverlay' name='Examine la première photo.'>
+								<args>photo2ol</args>
+								<action class='tabCheck3'>
+								</action>
+							</action>
+						</args>
+						<action command='moveSprite'>
+							<args>pht2,1975,400</args>
+						</action>
 					</action>
+				</action>
 			</action>
 	   	</action>
 		<action name='Deviens Ruvvik.' command='changeChar'>
