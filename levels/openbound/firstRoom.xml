@@ -416,9 +416,12 @@
 								</action>
 							</action>
 						</args>
+						<action command='addSprite'>
+							<args>pht2,firstRoom</args>
 							<action command='moveSprite'>
 								<args>pht2,1730,785</args>
 							</action>
+						</action>
 					</action>
 				</action>
 			</action>
