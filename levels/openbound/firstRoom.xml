@@ -13,6 +13,8 @@
 	<animation class='asceli-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='arseck-dialog' frameInterval='6' x='-210' y='-434'/>
 	<animation class='ruvvik-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='seferi-dialog' frameInterval='6' x='-195' y='-504'/>
+	<animation class='sophia-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='arkeah-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='dultew-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='viveil-dialog' frameInterval='6' x='-180' y='-524'/>
@@ -36,6 +38,8 @@
 	<asset name='sollasSheet' type='graphic'>chars/sollas.png</asset>
 	<asset name='arseckSheet' type='graphic'>chars/arseck.png</asset>
 	<asset name='ruvvikSheet' type='graphic'>chars/ruvvik.png</asset>
+	<asset name='seferiSheet' type='graphic'>chars/seferi.png</asset>
+	<asset name='sophiaSheet' type='graphic'>chars/sophia.png</asset>
 	<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
 	<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>
 	
@@ -113,13 +117,20 @@
 	<asset name='asceli_idle' type='graphic'>dialogs/asceli_idle.png</asset>
 	<asset name='arseck_idle' type='graphic'>dialogs/arseck_idle.png</asset>
 	<asset name='ruvvik_idle' type='graphic'>dialogs/ruvvik_idle.png</asset>
+	
+	<asset name='seferi_idle' type='graphic'>dialogs/seferi_idle.png</asset>
+	<asset name='seferi_talk' type='graphic'>dialogs/seferi_talk.png</asset>
+	<asset name='seferi_meh' type='graphic'>dialogs/seferi_meh.png</asset>
+	
+	<asset name='sophia_idle' type='graphic'>dialogs/sophia_idle.png</asset>
 	<asset name='arkeah_idle' type='graphic'>dialogs/arkeah_idle.png</asset>
 	<asset name='dultew_idle' type='graphic'>dialogs/dultew_idle.png</asset>
 	<asset name='viveil_idle' type='graphic'>dialogs/viveil_idle.png</asset>
 	<asset name='sollas_idle' type='graphic'>dialogs/sollas_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
-	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
+	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
+	<asset name='anEnding' type='audio'>audio/music/anEnding.ogg;audio/music/anEnding.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -153,12 +164,19 @@
 		<animation name='eliseo_idle' class='eliseo-dialog' sheet='eliseo_idle' />
 		<animation name='eliseo_happytalk' class='eliseo-dialog' sheet='eliseo_happytalk' length='2' />
 		<animation name='eliseo_happytalk2' class='eliseo-dialog' sheet='eliseo_happytalk2' length='2' />
+		
 		<animation name='lysdia_idle' class='lysdia-dialog' sheet='lysdia_idle' />
 		<animation name='gardia_idle' class='gardia-dialog' sheet='gardia_idle' />
 		<animation name='season_idle' class='season-dialog' sheet='season_idle' />
 		<animation name='asceli_idle' class='asceli-dialog' sheet='asceli_idle' />
 		<animation name='arseck_idle' class='arseck-dialog' sheet='arseck_idle' />
 		<animation name='ruvvik_idle' class='ruvvik-dialog' sheet='ruvvik_idle' />
+		
+		<animation name='seferi_talk' class='seferi-dialog' sheet='seferi_talk' length='2'/>
+		<animation name='seferi_idle' class='seferi-dialog' sheet='seferi_idle' />
+		<animation name='seferi_meh' class='seferi-dialog' sheet='seferi_meh' />
+		
+		<animation name='sophia_idle' class='sophia-dialog' sheet='sophia_idle' />
 		<animation name='arkeah_idle' class='arkeah-dialog' sheet='arkeah_idle' />
 		<animation name='dultew_idle' class='dultew-dialog' sheet='dultew_idle' />
 		<animation name='viveil_idle' class='viveil-dialog' sheet='viveil_idle' />
@@ -365,8 +383,7 @@
     <sprite name='aradia' x='1650' y='1705' width='40' height='20' collidable='true'>
     	<animation sheet='aradiaSheet' x='-40' y='-100'/>
     	<action class='aradiaTalk1'/>
-	<action class='aradiaTalk3'/>
-	<action class='aradiaTalk4'/>    
+	<action class='aradiaTalk3'/>   
     </sprite>
 	  
    <character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
@@ -429,6 +446,28 @@
 		</action>
    </character>
 	  
+   <character name='seferi' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='seferiSheet' state='walkRight' facing='Right'>
+		<action class='seferiTalk1'/>
+		<action name='Deviens Seferi.' command='changeChar'>
+			<args>seferi</args>
+			<action command='playSong'>
+				<args>anEnding</args>
+			</action>	
+		</action>
+   </character>
+	  
+   <character name='sophia' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
+		<action class='sophiaTalk1'/>
+		<action name='Deviens Sophia.' command='changeChar'>
+			<args>sophia</args>
+			<action command='playSong'>
+				<args>TruerthanFic,18.19</args>
+			</action>
+		</action>
+   </character>
+	  
    <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='eliseoSheet' state='walkRight' facing='Right'>
 		<action class='eliseoTalk1'/>
@@ -460,48 +499,19 @@
 		</action>
    </character>
 	
-   <character name='lysdia' x='1250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
-		sheet='lysdiaSheet' state='walkFront' facing='Front'>
-		<action class='lysdiaTalk1'>
-			<action command='changeChar'>
+   <character name='lysdia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
+		<action class='lysdiaTalk1' />
+		<action name='Deviens Lysdia.' command='changeChar'>
 				<args>lysdia</args>
-			</action>
 		</action>
-		<action class='lysdiaTalk2' >
-			<action command='talk'>
-      				<args>@! Devenir Lysdia ?</args>
-		    		<action command='presentActions'>
-		    			<args>
-		    				<action name='Oui' command='changeChar'>
-							<args>lysdia</args>
-						</action>
-						<action name='Non' command='cancel'>
-						</action>
-		    			</args>
-		    		</action>
-		    	</action>
-	       </action>
    </character>
 	  
-   <character name='gardia' x='2250' y='1705' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
-		sheet='gardiaSheet' state='walkLeft' facing='Left'>
+   <character name='gardia' x='1165' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='gardiaSheet' state='walkRight' facing='Right'>
 		<action class='gardiaTalk1' />
-		<action class='gardiaTalk2'>
-			<action command='addAction' noWait='true'>
-				<args>gardia,
-					<action command='changeChar' name='Devenir Gardia.'>
-						<args>gardia</args>
-					</action>	
-				</args>
-				<action command='removeActions'>
-					<args>gardia,Parler à Gardia.</args>
-					<action command='addAction' noWait='true'>
-						<args>gardia,
-							<action class='gardiaTalk3'/>
-						</args>
-					</action>
-				</action>	
-			</action>
+		<action name='Deviens Gardia.' command='changeChar'>
+				<args>gardia</args>
 		</action>
    </character> 
 	  
