@@ -402,22 +402,22 @@
 	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
 		<action class='ruvvikTalk1'/>
 		<action class='ruvvikTalk2'>
-			<action command='setGameState'>
-				<args>gotPht2,true</args>
-				<action command='removeAction'>
-					<args>ruvvik,Demande une photo.</args>
-					<action command='addAction' noWait='true'>
-						<args>tableau,
-							<action command='addOverlay' name='Examine la photo creepy.'>
-								<args>photo2ol</args>
-								<action class='tabCheck3'>
-								</action>
+			<action command='removeAction'>
+				<args>ruvvik,Demande une photo.</args>
+				<action command='addAction' noWait='true'>
+					<args>tableau,
+						<action command='addOverlay' name='Examine la photo creepy.'>
+							<args>photo2ol</args>
+							<action class='tabCheck3'>
 							</action>
-						</args>
-						<action command='addSprite'>
-							<args>pht2,firstRoom</args>
-							<action command='moveSprite'>
-								<args>pht2,1961,490</args>
+						</action>
+					</args>
+					<action command='addSprite'>
+						<args>pht2,firstRoom</args>
+						<action command='moveSprite'>
+							<args>pht2,1961,490</args>
+							<action command='setGameState'>
+								<args>gotPht2,true</args>
 							</action>
 						</action>
 					</action>
@@ -433,8 +433,6 @@
 	       sheet='eliseoSheet' state='walkRight' facing='Right'>
 		<action class='eliseoTalk1'/>
 		<action class='eliseoTalk2'>
-			<action command='setGameState'>
-				<args>gotPht1,true</args>
 				<action command='removeAction'>
 					<args>eliseo,Demande une photo.</args>
 					<action command='addAction' noWait='true'>
@@ -449,6 +447,8 @@
 							<args>pht1,firstRoom</args>
 							<action command='moveSprite'>
 								<args>pht1,1961,490</args>
+			<action command='setGameState'>
+				<args>gotPht1,true</args>
 							</action>
 						</action>
 					</action>	
@@ -525,8 +525,6 @@
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
-			<action command='setGameState'>
-				<args>gotPht3,true</args>
 				<action command='removeAction'>
 					<args>sollas,Demande une photo.</args>
 					<action command='addAction' noWait='true'>
@@ -541,6 +539,8 @@
 							<args>pht3,firstRoom</args>
 							<action command='moveSprite'>
 								<args>pht3,1961,490</args>
+			<action command='setGameState'>
+				<args>gotPht3,true</args>
 							</action>
 						</action>
 					</action>
