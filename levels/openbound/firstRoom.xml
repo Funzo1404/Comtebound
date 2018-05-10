@@ -19,6 +19,7 @@
 	<animation class='dultew-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='viveil-dialog' frameInterval='6' x='-180' y='-524'/>
 	<animation class='sollas-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='ahvili-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -42,6 +43,7 @@
 	<asset name='sophiaSheet' type='graphic'>chars/sophia.png</asset>
 	<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
 	<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>
+	<asset name='ahviliSheet' type='graphic'>chars/ahvili.png</asset>
 	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
@@ -111,6 +113,7 @@
 	<asset name='eliseo_idle' type='graphic'>dialogs/eliseo_idle.png</asset>
 	<asset name='eliseo_happytalk2' type='graphic'>dialogs/eliseo_happytalk.png</asset>
 	<asset name='eliseo_happytalk' type='graphic'>dialogs/eliseo_happytalk2.png</asset>
+	
 	<asset name='lysdia_idle' type='graphic'>dialogs/lysdia_idle.png</asset>
 	<asset name='gardia_idle' type='graphic'>dialogs/gardia_idle.png</asset>
 	<asset name='season_idle' type='graphic'>dialogs/season_idle.png</asset>
@@ -127,10 +130,13 @@
 	<asset name='dultew_idle' type='graphic'>dialogs/dultew_idle.png</asset>
 	<asset name='viveil_idle' type='graphic'>dialogs/viveil_idle.png</asset>
 	<asset name='sollas_idle' type='graphic'>dialogs/sollas_idle.png</asset>
+	<asset name='ahvili_idle' type='graphic'>dialogs/ahvili_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
 	<asset name='anEnding' type='audio'>audio/music/anEnding.ogg;audio/music/anEnding.mp3</asset>
+	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
+	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -181,6 +187,7 @@
 		<animation name='dultew_idle' class='dultew-dialog' sheet='dultew_idle' />
 		<animation name='viveil_idle' class='viveil-dialog' sheet='viveil_idle' />
 		<animation name='sollas_idle' class='sollas-dialog' sheet='sollas_idle' />
+		<animation name='ahvili_idle' class='ahvili-dialog' sheet='ahvili_idle' />
 	</dialogsprites>
 </hud>
 
@@ -503,7 +510,10 @@
 		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
 		<action class='lysdiaTalk1' />
 		<action name='Deviens Lysdia.' command='changeChar'>
-				<args>lysdia</args>
+			<args>lysdia</args>
+			<action command='playSong'>
+				<args>badManors</args>
+			</action>
 		</action>
    </character>
 	  
@@ -511,7 +521,7 @@
 		sheet='gardiaSheet' state='walkRight' facing='Right'>
 		<action class='gardiaTalk1' />
 		<action name='Deviens Gardia.' command='changeChar'>
-				<args>gardia</args>
+			<args>gardia</args>
 		</action>
    </character> 
 	  
@@ -567,6 +577,17 @@
 		<action class='viveilTalk1'/>
 		<action name='Deviens Viveil.' command='changeChar'>
 				<args>viveil</args>
+		</action>
+   </character>
+	  
+   <character name='ahvili' x='2780' y='200' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='ahviliSheet' state='walkFront' facing='Front'>
+		<action class='ahviliTalk1'/>
+		<action name='Deviens Ahvili.' command='changeChar'>
+			<args>ahvili</args>
+			<action command='playSong'>
+				<args>ahviTh</args>
+			</action>
 		</action>
    </character>
 	  
