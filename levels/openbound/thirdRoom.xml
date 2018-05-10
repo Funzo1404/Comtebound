@@ -9,7 +9,6 @@
 	<animation class='kankri-dialog' frameInterval='6' x='-180' y='-454'/>
 	<animation class='porrim-dialog' frameInterval='6' x='-180' y='-444'/>
 	<animation class='latula-dialog' frameInterval='6' x='-200' y='-524'/>
-	<animation class='seferi-dialog' frameInterval='6' x='-195' y='-504'/>
   
   <action class='snoop' sprite='meenah' command='talk' name='Parle.'>
 		<args>
@@ -74,11 +73,10 @@
 </classes>
 
 <assets>
-	<asset name='porrimSheet' type='graphic'>chars/seferi.png</asset>
+	<asset name='porrimSheet' type='graphic'>chars/porrim.png</asset>
 	<asset name='kankriSheet' type='graphic'>chars/kankri.png</asset>
 	<asset name='karkatSheet' type='graphic'>chars/karkat.png</asset>
-
-	<asset name='latulaSheet' type='graphic'>chars/sophia.png</asset>
+	<asset name='latulaSheet' type='graphic'>chars/latula.png</asset>
 	<asset name='latulaOllieSheet' type='graphic'>chars/latula_ollie.png</asset>
 	<asset name='latulaSkateSheet' type='graphic'>chars/latula_skate.png</asset>
 	<asset name='latulaBoardSheet' type='graphic'>chars/latula_withboard.png</asset>
@@ -195,10 +193,6 @@
 	<asset name='porrim_surprisetalk' type='graphic'>dialogs/porrim_surprisetalk.png</asset>
 	<asset name='porrim_talk' type='graphic'>dialogs/porrim_talk.png</asset>
 	
-	<asset name='seferi_idle' type='graphic'>dialogs/seferi_idle.png</asset>
-	<asset name='seferi_talk' type='graphic'>dialogs/seferi_talk.png</asset>
-	<asset name='seferi_meh' type='graphic'>dialogs/seferi_meh.png</asset>
-	
 	<asset name='dialogimg_kankri1' type='graphic'>dialogs/dialogimg_kankri1.png</asset>
 	<asset name='dialogimg_kankri2' type='graphic'>dialogs/dialogimg_kankri2.png</asset>
 	<asset name='dialogimg_karkat1' type='graphic'>dialogs/dialogimg_karkat1.png</asset>
@@ -206,8 +200,7 @@
 	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='gameGlare' type='audio'>audio/music/GameGlare.oga;audio/music/GameGlare.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
-	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
-	<asset name='anEnding' type='audio'>audio/music/anEnding.ogg;audio/music/anEnding.mp3</asset>
+	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	
 	
 	
@@ -281,10 +274,6 @@
 		<animation name='porrim_surprise' class='porrim-dialog' sheet='porrim_surprise' />
 		<animation name='porrim_surprisetalk' class='porrim-dialog' sheet='porrim_surprisetalk' length='2'/>
 		<animation name='porrim_talk' class='porrim-dialog' sheet='porrim_talk' length='2'/>
-		
-		<animation name='seferi_talk' class='seferi-dialog' sheet='seferi_talk' length='2'/>
-		<animation name='seferi_idle' class='seferi-dialog' sheet='seferi_idle' />
-		<animation name='seferi_meh' class='seferi-dialog' sheet='seferi_meh' />
 	</dialogsprites>
 </hud>
 
