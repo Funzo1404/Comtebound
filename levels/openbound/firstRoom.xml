@@ -233,6 +233,15 @@
   <room name='firstRoom' width='4800' height='3872' walkableMap='firstRoomMap'>
   	
   	<triggers>
+		<trigger detonate='true'>
+  			<args>gameState,gotPht1=true</args>
+  			<args>gameState,gotPht2=true</args>
+  			<args>gameState,gotPht3=true</args>
+			<action command='talk'><args>
+				@! woaw vous avez eu toutes les photos, vous gagnez un sourire
+				@! :)
+				</args></action>
+		</trigger>
   		<trigger>
   			<args>spriteProperty,char,x>4650</args>
   			<action command='deltaSprite'>
