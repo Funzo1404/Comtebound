@@ -233,7 +233,7 @@
 	
 <action class='seferiTalk1' command='talk' name='Parler à Seferi.'><args>
 	@seferi_idle SEFERI: Ceci est un test.
-	@seferi_talk SEFERI: Portez ce vieux whisky au juge blond qui funne. 
+	@seferi_talk SEFERI: Portez ce vieuX whisky au juge blond qui funne. 
 	</args></action>
 	
 <action class='sophiaTalk1' command='talk' name='Parler à Sophia.'><args>
