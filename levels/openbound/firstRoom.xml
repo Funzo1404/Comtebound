@@ -217,6 +217,18 @@
 	<animation sheet='pht3' x='-30' y='-40'/>
 </sprite>
 
+<sprite name='photo1ol' depthing='2'>
+	<animation sheet='photo1ol'/>
+</sprite>
+
+<sprite name='photo2ol' depthing='2'>
+	<animation sheet='photo2ol'/>
+</sprite>
+
+<sprite name='photo3ol' depthing='2'>
+	<animation sheet='photo3ol'/>
+</sprite>
+
 <rooms>
   <room name='firstRoom' width='4800' height='3872' walkableMap='firstRoomMap'>
   	
