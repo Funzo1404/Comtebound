@@ -330,6 +330,22 @@
 	@sollas_idle SOLLAS: Heum okay pas de soucis :v
 	</args></action>
 	
+<action class='tabCheck1' command='talk' name='Examine le tableau.'><args>
+	@! woaw quel beau tableau
+	</args></action>
+	
+<action class='tabCheck2' command='talk'><args>
+	@! woaw quelle belle photo d'éliséo
+	</args></action>
+	
+<action class='tabCheck3' command='talk'><args>
+	@! woaw quelle belle photo de ruvvik
+	</args></action>
+	
+<action class='tabCheck4' command='talk'><args>
+	@! woaw quelle belle photo de sollas
+	</args></action>
+	
 <action class='andrewTalk1' command='talk' name='Parler.'>
 	<args>
 			@meenah_idle MEENAH: yo le type orange
