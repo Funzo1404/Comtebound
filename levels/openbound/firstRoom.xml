@@ -410,15 +410,15 @@
 					<args>ruvvik,Demande une photo.</args>
 					<action command='addAction' noWait='true'>
 						<args>tableau,
-							<action command='addOverlay' name='Examine la première photo.'>
+							<action command='addOverlay' name='Examine la photo creepy.'>
 								<args>photo2ol</args>
 								<action class='tabCheck3'>
 								</action>
 							</action>
 						</args>
-						<action command='moveSprite'>
-							<args>pht2,1975,400</args>
-						</action>
+							<action command='moveSprite'>
+								<args>pht2,1730,785</args>
+							</action>
 					</action>
 				</action>
 			</action>
