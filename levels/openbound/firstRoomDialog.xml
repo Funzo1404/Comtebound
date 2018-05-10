@@ -334,17 +334,44 @@
 	@! woaw quel beau tableau
 	</args></action>
 	
-<action class='tabCheck2' command='talk'><args>
+<action class='tabCheck2' command='talk'>
+	<args>
 	@! woaw quelle belle photo d'éliséo
-	</args></action>
+	</args>
+	<action command='presentActions'>
+		<args>
+			<action command='removeOverlay' name='Allez, j'en ai assez vu.'>
+				<args>photo1ol</args>
+			</action>
+		</args>
+	</action>
+</action>
 	
-<action class='tabCheck3' command='talk'><args>
+<action class='tabCheck3' command='talk'>
+	<args>
 	@! woaw quelle belle photo de ruvvik
-	</args></action>
+	</args>
+	<action command='presentActions'>
+		<args>
+			<action command='removeOverlay' name='Allez, j'en ai assez vu.'>
+				<args>photo2ol</args>
+			</action>
+		</args>
+	</action>
+</action>
 	
-<action class='tabCheck4' command='talk'><args>
+<action class='tabCheck4' command='talk'>
+	<args>
 	@! woaw quelle belle photo de sollas
-	</args></action>
+	</args>
+	<action command='presentActions'>
+		<args>
+			<action command='removeOverlay' name='Allez, j'en ai assez vu.'>
+				<args>photo3ol</args>
+			</action>
+		</args>
+	</action>
+</action>
 	
 <action class='andrewTalk1' command='talk' name='Parler.'>
 	<args>
