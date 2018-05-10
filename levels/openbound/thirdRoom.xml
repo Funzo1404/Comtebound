@@ -200,7 +200,6 @@
 	<asset name='darlingDolorosa' type='audio'>audio/music/Dolorosa.oga;audio/music/Dolorosa.mp3</asset>
 	<asset name='gameGlare' type='audio'>audio/music/GameGlare.oga;audio/music/GameGlare.mp3</asset>
 	<asset name='ironInfidel' type='audio'>audio/music/IronInfidelCut.oga;audio/music/IronInfidelCut.mp3</asset>
-	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	
 	
 	
@@ -480,7 +479,7 @@
 		<action command='changeChar'>
 			<args>kankri</args>
 			<action command='playSong'>
-				<args>ahviTh</args>
+				<args>ironInfidel</args>
 				<action command='removeAction'>
 					<args>kankri,Parle.</args>
 					<action command='removeAction'>
