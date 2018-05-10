@@ -327,6 +327,11 @@
 	</action>
 </action>
 	
+<action class='ahviliTalk1' command='talk' name='Trouvé !'><args>
+	@ahvili_idle AHVILI: Wow génial, 7u m'as 7rouvé.
+	@ahvili_idle AHVILI: 7u gagnes une pu7ain de médaille.
+	</args></action>
+	
 <action class='andrewTalk1' command='talk' name='Parler.'>
 	<args>
 			@meenah_idle MEENAH: yo le type orange
