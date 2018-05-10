@@ -419,7 +419,7 @@
 						<action command='addSprite'>
 							<args>pht2,firstRoom</args>
 							<action command='moveSprite'>
-								<args>pht2,1730,785</args>
+								<args>pht2,1975,550</args>
 							</action>
 						</action>
 					</action>
