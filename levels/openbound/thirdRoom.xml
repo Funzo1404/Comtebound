@@ -430,7 +430,7 @@
 																												<action command='changeChar' name='Deviens Latula.'>
 																													<args>latula</args>
 																													<action command='playSong'>
-																														<args>TruerthanFic,18.19</args>
+																														<args>gameGlare,18.19</args>
 																														<action class='fix-twins'/>
 																													</action>
 																												</action>
@@ -526,7 +526,7 @@
 			<action name='Deviens Porrim.' command='changeChar'>
 				<args>porrim</args>
 				<action command='playSong'>
-					<args>anEnding</args>
+					<args>darlingDolorosa</args>
 					<action class='fix-twins'/>
 					
 				</action>
