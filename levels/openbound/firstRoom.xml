@@ -324,7 +324,7 @@
    			<action class='tabCheck3'>
 				</action>
    		</action>
-   		<action command='addOverlay' name='Examine la première photo.'>
+   		<action command='addOverlay' name='Examine la troisième photo.'>
    			<args>photo3ol</args>
    			<action class='tabCheck4'>
 				</action>
