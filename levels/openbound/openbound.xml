@@ -22,6 +22,7 @@
 
 	
   <asset name='dialogBox' type='graphic'>interface/dialogBoxBig.png</asset>
+  <asset name='dialogBoxBigGardia' type='graphic'>interface/dialogBoxBigGardia.png</asset>
   <asset name='alttextbox_twitter' type='graphic'>interface/alttextbox_twitter.png</asset>
   <asset name='hashTagBarSheet' type='graphic'>interface/hashtagbar.png</asset>
   <asset name='heartButtonSheet' type='graphic'>interface/icons_heart.png</asset>
