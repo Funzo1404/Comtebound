@@ -133,9 +133,10 @@
 	<asset name='ahvili_idle' type='graphic'>dialogs/ahvili_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
-	<asset name='TruerthanFic' type='audio'>audio/music/TruerThanFiction.ogg;audio/music/TruerThanFiction.mp3</asset>
-	<asset name='anEnding' type='audio'>audio/music/anEnding.ogg;audio/music/anEnding.mp3</asset>
 	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
+	<asset name='hOH' type='audio'>audio/music/heirOfHeart.ogg;audio/music/heirOfHeart.mp3</asset>
+	<asset name='deservedLife' type='audio'>audio/music/theLifeWeDeserve.ogg;audio/music/theLifeWeDeserve.mp3</asset>
+	<asset name='starvingArtist' type='audio'>audio/music/starvingArtist.ogg;audio/music/starvingArtist.mp3</asset>
 	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
@@ -459,7 +460,7 @@
 		<action name='Deviens Seferi.' command='changeChar'>
 			<args>seferi</args>
 			<action command='playSong'>
-				<args>anEnding</args>
+				<args>deservedLife</args>
 			</action>	
 		</action>
    </character>
@@ -470,7 +471,7 @@
 		<action name='Deviens Sophia.' command='changeChar'>
 			<args>sophia</args>
 			<action command='playSong'>
-				<args>TruerthanFic,18.19</args>
+				<args>starvingArtist</args>
 			</action>
 		</action>
    </character>
@@ -503,6 +504,9 @@
 	   	</action>
 		<action name='Deviens Éliséo.' command='changeChar'>
 				<args>eliseo</args>
+				<action command='playSong'>
+					<args>hOH</args>
+				</action>
 		</action>
    </character>
 	
