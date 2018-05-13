@@ -332,6 +332,10 @@
 	@ahvili_idle AHVILI: 7u gagnes une pu7ain de médaille.
 	</args></action>
 	
+<action class='dirkTalk1' command='talk' name='Trouvé !'><args>
+	@dirk_idle DIRK: Yo.
+	</args></action>
+	
 <action class='andrewTalk1' command='talk' name='Parler.'>
 	<args>
 			@meenah_idle MEENAH: yo le type orange
