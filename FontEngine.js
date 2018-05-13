@@ -75,7 +75,7 @@ Sburb.FontEngine.prototype.prefixColours = {
 	lysdia: "#008141",gardia: "#004121",
 	arkeah:"#005682",dultew:"#005682",
 	viveil:"#000056",sollas:"#000056",
-	ahvili:"#658200"
+	ahvili:"#658200",dirk:"#f2a400"
 	
 };
 
