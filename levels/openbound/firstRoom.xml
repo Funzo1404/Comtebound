@@ -607,7 +607,7 @@
 		</action>
    </character>
 	  
-   <character name='dirk' x='2800' y='200' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='dirk' x='2815' y='200' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dirkSheet' state='walkFront' facing='Front'>
 		<action class='dirkTalk1'/>
 		<action name='Deviens Dirk.' command='changeChar'>
