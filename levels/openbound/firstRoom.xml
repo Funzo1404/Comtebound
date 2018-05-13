@@ -20,6 +20,7 @@
 	<animation class='viveil-dialog' frameInterval='6' x='-180' y='-524'/>
 	<animation class='sollas-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='ahvili-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='dirk-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -44,6 +45,7 @@
 	<asset name='arkeahSheet' type='graphic'>chars/arkeah.png</asset>
 	<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>
 	<asset name='ahviliSheet' type='graphic'>chars/ahvili.png</asset>
+	<asset name='dirkSheet' type='graphic'>chars/dirk.png</asset>
 	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
@@ -131,6 +133,7 @@
 	<asset name='viveil_idle' type='graphic'>dialogs/viveil_idle.png</asset>
 	<asset name='sollas_idle' type='graphic'>dialogs/sollas_idle.png</asset>
 	<asset name='ahvili_idle' type='graphic'>dialogs/ahvili_idle.png</asset>
+	<asset name='dirk_idle' type='graphic'>dialogs/dirk_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
@@ -138,6 +141,8 @@
 	<asset name='deservedLife' type='audio'>audio/music/theLifeWeDeserve.ogg;audio/music/theLifeWeDeserve.mp3</asset>
 	<asset name='starvingArtist' type='audio'>audio/music/starvingArtist.ogg;audio/music/starvingArtist.mp3</asset>
 	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
+	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
+	<asset name='mayasTheme' type='audio'>audio/music/mayasTheme.ogg;audio/music/mayasTheme.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -189,6 +194,7 @@
 		<animation name='viveil_idle' class='viveil-dialog' sheet='viveil_idle' />
 		<animation name='sollas_idle' class='sollas-dialog' sheet='sollas_idle' />
 		<animation name='ahvili_idle' class='ahvili-dialog' sheet='ahvili_idle' />
+		<animation name='dirk_idle' class='dirk-dialog' sheet='dirk_idle' />
 	</dialogsprites>
 </hud>
 
@@ -408,10 +414,10 @@
 	       sheet='seasonSheet' state='walkRight' facing='Right'>
 		<action class='seasonTalk1'/>
 		<action name='Deviens Season.' command='changeChar'>
-				<args>season</args>
-				<action command='playSong'>
-					<args>jpVania</args>
-				</action>
+			<args>season</args>
+			<action command='playSong'>
+				<args>jpVania</args>
+			</action>
 		</action>
    </character>
 	  
@@ -533,7 +539,10 @@
 	       sheet='arkeahSheet' state='walkRight' facing='Right'>
 		<action class='arkeahTalk1'/>
 		<action name='Deviens Arkeah.' command='changeChar'>
-				<args>arkeah</args>
+			<args>arkeah</args>
+			<action command='playSong'>
+				<args>mayasTheme</args>
+			</action>
 		</action>
    </character>
 	  
@@ -541,7 +550,10 @@
 	       sheet='dultewSheet' state='walkLeft' facing='Left'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
-				<args>dultew</args>
+			<args>dultew</args>
+			<action command='playSong'>
+				<args>flowerCountry</args>
+			</action>
 		</action>
    </character>
 	  
@@ -592,6 +604,14 @@
 			<action command='playSong'>
 				<args>ahviTh</args>
 			</action>
+		</action>
+   </character>
+	  
+   <character name='dirk' x='2800' y='200' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='dirkSheet' state='walkFront' facing='Front'>
+		<action class='dirkTalk1'/>
+		<action name='Deviens Dirk.' command='changeChar'>
+			<args>dirk</args>
 		</action>
    </character>
 	  
