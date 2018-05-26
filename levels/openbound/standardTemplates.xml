@@ -54,9 +54,9 @@
 				<animation name='opened' sheet='chest6OpenSheet' x='-48' y='-40' loopNum='0'/>
 		</sprite>
 		<sprite class='chestaz' width='40' height='40' depthing='1' collidable='true'>
-				<animation name='closed' sheet='chestazClosedSheet' x='-48' y='-40' />
-				<animation name='open' sheet='chestazOpenSheet' x='-48' y='-40'  loopNum='0' followUp='opened'/>
-				<animation name='opened' sheet='chestazOpenSheet' x='-48' y='-40' loopNum='0'/>
+				<animation name='closed' sheet='chestazClosedSheet' x='-48' y='-60' />
+				<animation name='open' sheet='chestazOpenSheet' x='-48' y='-60'  loopNum='0' followUp='opened'/>
+				<animation name='opened' sheet='chestazOpenSheet' x='-48' y='-60' loopNum='0'/>
 		</sprite>
 		
 		
