@@ -64,6 +64,10 @@
 	   
     <sprite name='hifi' x='810' y='430' width='51' height='86' collidable='false' depthing='1'>
 	    <action class='hifiCheck'/>
+	    <action class='hifiChange1'/>
+	    <action class='hifiChange2'/>
+	    <action class='hifiChange3'/>
+	    <action class='hifiChange4'/>
 	   </sprite>
 	   
 	   
