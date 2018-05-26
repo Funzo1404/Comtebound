@@ -607,7 +607,7 @@
 		</action>
    </character>
 	  
-   <character name='dirk' x='2825' y='200' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='dirk' x='2831' y='200' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dirkSheet' state='walkFront' facing='Front'>
 		<action class='dirkTalk1'/>
 		<action name='Deviens Dirk.' command='changeChar'>
@@ -637,7 +637,7 @@
 	 </action>
    </sprite>
 	  
-   <sprite name='azBubble' x='240' y='1900' width='20' height='250' depthing='1' collidable='true'>
+   <sprite name='azBubble' x='240' y='1870' width='20' height='250' depthing='1' collidable='true'>
   	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-100' />
   	<action command='talk' sprite='dirk' name='Examine la bulle.'>
 			<args>
