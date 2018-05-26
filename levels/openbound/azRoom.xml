@@ -50,7 +50,7 @@
       @!:#un-choix-judicieux N'importe quel aventurier sain d’esprit jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un vient de le faire ?</args>
     	</action>
     </sprite>
-    <sprite class='chestaz' name='azRoomChest3' x='616' y='467' height='80'>
+    <sprite class='chestaz' name='azRoomChest3' x='616' y='447' height='80'>
     	<action command='openChest' name='ouvrir'>
     		<args>azRoomChest3,cad3,@!#dirkmakura-? Vous trouvez un DAKIMAKURA À VOTRE EFFIGIE ?
       @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Wahou ils ont l'air géniaux. Peut-être que vous en garderez quelques-uns au lieu de tous les vendre.</args>
