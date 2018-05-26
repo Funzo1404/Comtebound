@@ -1,6 +1,6 @@
 <sburb>
   <classes>
-    <action class='hifiCheck' name='Examine cette machine.'>
+    <action class='hifiCheck' command='talk' name='Examine cette machine.'>
       <args>
           @! Bah, c'est une chaîne hi-fi.
       </args>
