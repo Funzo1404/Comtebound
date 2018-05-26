@@ -35,6 +35,14 @@
 	  		</action>
   		</trigger>
      </triggers>
+	   
+     <sprite name='hifi' x='405' y='215' width='51' height='81'>
+	  <action class='hifiCheck'/>
+	  <action class='hifiChange1'/>
+	  <action class='hifiChange2'/>
+	  <action class='hifiChange3'/>
+	  <action class='hifiChange4'/>
+	</sprite>
      
      <sprite class='chestaz' name='azRoomChest1' x='509' y='665'>
     	<action command='openChest' name='ouvrir'>
