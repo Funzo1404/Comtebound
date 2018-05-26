@@ -3,5 +3,64 @@
 <dependencies>
   <dependency>azRoomDialog.xml</dependency>
 </dependencies>
+  
+
+<assets>
+  <asset name='azRoomMap' type='graphic'>backgrounds/azRoomMap.png</asset>
+  <asset name='azRoomBG' type='graphic'>backgrounds/azRoomBG.png</asset>
+  
+  <asset name='cad1' type='graphic'>objects/cad1.png</asset>
+  <asset name='cad2' type='graphic'>objects/cad2.png</asset>
+  <asset name='cad3' type='graphic'>objects/cad3.png</asset>
+  
+</assets>
+
+<sprite depthing='2' name='cad1'>
+<animation x='-50' y='-50' sheet='cad1'/>
+</sprite>
+<sprite depthing='2' name='cad2'>
+<animation x='-50' y='-50' sheet='cad2'/>
+</sprite>
+<sprite depthing='2' name='cad3'>
+<animation x='-50' y='-50' sheet='cad3'/>
+</sprite>
+
+<rooms>
+   <room name='azRoom' width='1268' height='1222' walkableMap='azRoomMap'>
+     <triggers>
+  		<trigger>spriteProperty,char,x&gt;990
+	  		<action command='deltaSprite'>
+	  			<args>char,12,0</args>
+	  			<action command='changeRoomRemote'>firstRoom.xml,firstRoom,260,1800</action>
+	  		</action>
+  		</trigger>
+     </triggers>
+     
+     <sprite class='chestaz' name='azRoomChest1' x='509' y='665'>
+    	<action command='openChest' name='ouvrir'>
+    		<args>azRoomChest1,obj1,@! Vous trouvez un JUJU !
+      @!:#Vous-allez-juste-la-mettre-en-gage-à-n'importe-quel-idiot Une EFFIGIE, pour être précis. Elle possède des propriétés magiques la liant à la vie d'une personne, en fonction du chapeau que celle-ci porte. Hé, peut-être allez-vous la pendre à cet arbre ? Nan, c'est un peu morbide.</args>
+    	</action>
+    </sprite>
+    <sprite class='chestaz' name='azRoomChest2' x='509' y='540'>
+    	<action command='openChest' name='ouvrir'>
+    		<args>azRoomChest2,obj2,@! Vous trouvez les ÉPINES D'OGLOGOTH ! 
+      @!:#un-choix-judicieux N'importe quel aventurier sain d’esprit jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un vient de le faire ?</args>
+    	</action>
+    </sprite>
+    <sprite class='chestaz' name='azRoomChest3' x='616' y='457'>
+    	<action command='openChest' name='ouvrir'>
+    		<args>azRoomChest3,obj3,@! Vous trouvez un paquet de SHURIKENS !
+      @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Wahou ils ont l'air géniaux. Peut-être que vous en garderez quelques-uns au lieu de tous les vendre.</args>
+    	</action>
+    </sprite>
+     
+     <sprite name='azRoomBG' x='0' y='0'><animation sheet='azRoomBG' /></sprite>
+     
+  </room>
+</rooms>
+  
 
 </sburb>
+
+  	
