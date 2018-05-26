@@ -1,1 +1,49 @@
-
+<sburb>
+  <classes>
+    <action class='hifiCheck' name='Examine cette machine.'>
+      <args>
+          @! Bah, c'est une chaîne hi-fi.
+      </args>
+    </action>
+    
+    
+    <action class='hifiChange1' command='playSong' name='Met une musique calme.'>
+      <args>lifeAtSea</args>
+      <action command='talk'>
+        <args>
+          @! Wow quelle belle musique calme.
+        </args>
+      </action>
+    </action>
+    
+    
+    <action class='hifiChange2' command='playSong' name='Met une musique mystérieuse.'>
+      <args>bewareForest</args>
+      <action command='talk'>
+        <args>
+          @! Wow quelle belle musique mystérieuse.
+        </args>
+      </action>
+    </action>
+    
+    
+    <action class='hifiChange3' command='playSong' name='Met une musique entrainante.'>
+      <args>jumpUp</args>
+      <action command='talk'>
+        <args>
+          @! Wow quelle belle musique entrainante.
+        </args>
+      </action>
+    </action>
+    
+    
+    <action class='hifiChange4' command='playSong' name='Met une musique émouvante... ?'>
+      <args>hisBirthday</args>
+      <action command='talk'>
+        <args>
+          @! Wow quelle belle musique émouvante... ?
+        </args>
+      </action>
+    </action>
+  </classes>
+</sburb>
