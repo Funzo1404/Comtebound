@@ -21,6 +21,8 @@
   		<asset name='chest5ClosedSheet' type='graphic'>objects/chest5.png</asset>
   		<asset name='chest6OpenSheet' type='graphic'>objects/chest6o.png</asset>
   		<asset name='chest6ClosedSheet' type='graphic'>objects/chest6.png</asset>
+  		<asset name='chestazOpenSheet' type='graphic'>objects/chestazo.png</asset>
+  		<asset name='chestazClosedSheet' type='graphic'>objects/chestaz.png</asset>
   		
 
   		<asset name='redBubbleSheet' type='graphic'>objects/redbubble.png</asset>
@@ -50,6 +52,11 @@
 				<animation name='closed' sheet='chest6ClosedSheet' x='-48' y='-40' />
 				<animation name='open' sheet='chest6OpenSheet' x='-48' y='-40'  loopNum='0' followUp='opened'/>
 				<animation name='opened' sheet='chest6OpenSheet' x='-48' y='-40' loopNum='0'/>
+		</sprite>
+		<sprite class='chestaz' width='40' height='20' depthing='1' collidable='true'>
+				<animation name='closed' sheet='chestazClosedSheet' x='-48' y='-40' />
+				<animation name='open' sheet='chestazOpenSheet' x='-48' y='-40'  loopNum='0' followUp='opened'/>
+				<animation name='opened' sheet='chestazOpenSheet' x='-48' y='-40' loopNum='0'/>
 		</sprite>
 		
 		
