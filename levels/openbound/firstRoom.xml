@@ -637,6 +637,29 @@
 	 </action>
    </sprite>
 	  
+   <sprite name='azBubble' x='240' y='1800' width='20' height='20' depthing='1' collidable='true'>
+  	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
+  	<action command='talk' sprite='dirk' name='Examine la bulle.'>
+			<args>
+			@! C'est une bulle de rêve... 
+			@! Elle vous rappelle quelque chose... C'est dur de dire quoi, mais vous vous sentez comme attiré par ce chemin derrière.
+			@! Cette bulle vous bloque le passage. Vous la détruisez d'un rapide coup de katana.	
+			</args>
+			<action command='removeSprite'>
+				<args>azBubble,firstRoom</args>
+				<action command='playSound' noDelay='true'>
+					<args>stairSound</args>
+				</action>
+			</action>
+	 </action>
+	 <action command='talk' sprite='!dirk' name='Examine la bulle.'>
+		<args>
+		@! C'est une bulle de rêve...
+		@!:#cette-flèche-indique-t-elle-autre-chose-que-la-direction-? Elle ne vous rappelle rien. Vous vous demandez qui pourrait bien avoir les souvenirs correspondant.
+		 </args>
+	   </action>
+   </sprite>
+	  
 			
     
     <sprite class='chest1' name='firstRoomChest1' x='2913' y='208'>
