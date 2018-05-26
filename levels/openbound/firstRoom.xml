@@ -135,14 +135,14 @@
 	<asset name='ahvili_idle' type='graphic'>dialogs/ahvili_idle.png</asset>
 	<asset name='dirk_idle' type='graphic'>dialogs/dirk_idle.png</asset>
 	
-	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
+	<!--<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
 	<asset name='hOH' type='audio'>audio/music/heirOfHeart.ogg;audio/music/heirOfHeart.mp3</asset>
 	<asset name='deservedLife' type='audio'>audio/music/theLifeWeDeserve.ogg;audio/music/theLifeWeDeserve.mp3</asset>
 	<asset name='starvingArtist' type='audio'>audio/music/starvingArtist.ogg;audio/music/starvingArtist.mp3</asset>
 	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
-	<asset name='mayasTheme' type='audio'>audio/music/mayasTheme.ogg;audio/music/mayasTheme.mp3</asset>
+	<asset name='mayasTheme' type='audio'>audio/music/mayasTheme.ogg;audio/music/mayasTheme.mp3</asset>!-->
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -281,7 +281,7 @@
   				<action command='changeRoomRemote'>secondRoom.xml,secondRoom,800,790</action>
   			</action>
   		</trigger>
-  		<!--<trigger>
+  		<trigger>
   			<args>spriteProperty,char,x&lt;80</args>
 				<trigger>spriteProperty,char,name=dirk
   				<action command='deltaSprite'>
@@ -289,7 +289,7 @@
   					<action command='changeRoomRemote'>azRoom.xml,azRoom,915,675</action>
   				</action>
 			</trigger>
-  		</trigger>!-->
+  		</trigger>
   		<trigger>inBox,char,1056,1773,60,150
   			<action command='moveSprite'>
 						<args>firstRoomToggle,0,50</args>
@@ -646,7 +646,7 @@
 	 </action>
    </sprite>
 	  
-   <!--<sprite name='azBubble' x='240' y='1870' width='20' height='250' depthing='1' collidable='true'>
+   <sprite name='azBubble' x='240' y='1870' width='20' height='250' depthing='1' collidable='true'>
   	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-100' />
   	<action command='talk' sprite='dirk' name='Examine la bulle.'>
 			<args>
@@ -667,7 +667,7 @@
 		@!:#cette-flèche-indique-t-elle-autre-chose-que-la-direction-? Elle ne vous rappelle rien. Vous vous demandez qui pourrait bien avoir les souvenirs correspondant.
 		 </args>
 	   </action>
-   </sprite>!-->
+   </sprite>
 	  
 			
     
