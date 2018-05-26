@@ -1,0 +1,7 @@
+<sburb description="az room">
+
+<dependencies>
+  <dependency>azRoomDialog.xml</dependency>
+</dependencies>
+
+</sburb>
