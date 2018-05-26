@@ -637,8 +637,8 @@
 	 </action>
    </sprite>
 	  
-   <sprite name='azBubble' x='240' y='1800' width='20' height='20' depthing='1' collidable='true'>
-  	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-40' />
+   <sprite name='azBubble' x='240' y='1900' width='20' height='200' depthing='1' collidable='true'>
+  	<animation name='image' sheet='blueBubbleSheet' x='-100' y='-40' />
   	<action command='talk' sprite='dirk' name='Examine la bulle.'>
 			<args>
 			@! C'est une bulle de rêve... 
