@@ -80,14 +80,10 @@
 	    <action class='hifiChange4'/>
 	   </sprite>
 		
-     <sprite name='cake' x='642' y='424' width='64' height='56' collidable='true'>
+     <sprite name='cake' x='682' y='434' width='64' height='56' collidable='true'>
 	     <animation sheet='cake' x='-40' y='-20'/>
+	     <action class='cakeCheck'/>
 	     <action command='talk' name='Examine le gâteau.'>
-		     <args>
-			     @! Tiens c'est un gâteau, il y a un papier.
-			     @!~carteanniv
-			     @! How cute.
-		     </args>
 	     </action>
       </sprite>
 	   
