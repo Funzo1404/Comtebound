@@ -19,6 +19,7 @@
   <asset name='cad2' type='graphic'>objects/cad2.png</asset>
   <asset name='cad3' type='graphic'>objects/cad3.png</asset>
   <asset name='hifi' type='graphic'>objects/hifi.png</asset>
+  <asset name='corbeille' type='graphic'>objects/corbeille.png</asset>
   
 </assets>
 
@@ -76,6 +77,17 @@
 	    <action class='hifiChange3'/>
 	    <action class='hifiChange4'/>
 	   </sprite>
+		
+     <sprite> name='bin' x='500' y='390' width='28' height='28' collidable='true'>
+	     <animation sheet='corbeille'/>
+	     <action command='talk' name='Examine la corbeille.'>
+		     <args>
+			     @! Tiens c'est une corbeille, il y a un papier.
+			     @!~carteanniv
+			     @! How cute.
+		     </args>
+	     </action>
+      </sprite>
 	   
 	   
      
