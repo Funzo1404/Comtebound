@@ -286,7 +286,10 @@
 				<trigger>spriteProperty,char,name=dirk
   				<action command='deltaSprite'>
   					<args>char,-12,0</args>
-  					<action command='changeRoomRemote'>azRoom.xml,azRoom,915,675</action>
+  					<action command='changeRoomRemote'>
+						<args>azRoom.xml,azRoom,915,675</args>
+      						<action command='playSong'>lifeAtSea</action>
+					</action>
   				</action>
 			</trigger>
   		</trigger>!-->
