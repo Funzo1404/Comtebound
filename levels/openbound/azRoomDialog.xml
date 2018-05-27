@@ -1,9 +1,18 @@
 <sburb>
   <classes>
-    <action class='hifiCheck' command='talk' name='Examine cette machine.'>
+    <action class='hifiCheck' command='talk' name='Examine la radio.'>
       <args>
           @! Bah, c'est une chaîne hi-fi.
       </args>
+    </action>
+    
+    
+    <action class='cakeCheck' command='talk' name='Examine le gâteau.'>
+		     <args>
+			     @! Tiens c'est un gâteau, il y a un papier.
+			     @!~carteanniv
+			     @! How cute.
+		     </args>
     </action>
     
     
