@@ -19,7 +19,7 @@
   <asset name='cad2' type='graphic'>objects/cad2.png</asset>
   <asset name='cad3' type='graphic'>objects/cad3.png</asset>
   <asset name='hifi' type='graphic'>objects/hifi.png</asset>
-  <asset name='corbeille' type='graphic'>objects/corbeille.png</asset>
+  <asset name='cake' type='graphic'>objects/gateau.png</asset>
 	
   <asset name='carteanniv' type='graphic'>objects/carteanniv.png</asset>
   
@@ -59,7 +59,7 @@
       @!:#Vous-allez-juste-la-mettre-en-gage-à-n'importe-quel-idiot Une EFFIGIE, pour être précis. Elle possède des propriétés magiques la liant à la vie d'une personne, en fonction du chapeau que celle-ci porte. Hé, peut-être allez-vous la pendre à cet arbre ? Nan, c'est un peu morbide.</args>
     	</action>
     </sprite>
-    <sprite class='chestaz' name='azRoomChest2' x='514' y='540'>
+    <sprite class='chestaz' name='azRoomChest2' x='510' y='546'>
     	<action command='openChest' name='ouvrir'>
     		<args>azRoomChest2,cad2,@! Vous trouvez une POIRE À LAVEMENT GRENOUILLE ! 
       @!:#vous-la-gardez-précieusement#le-jeu-jouons-à-la-pétanque-avec-dédé-peut-rester-au-fond-par-contre N'importe quel aventurier sain d’esprit jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un vient de le faire ?</args>
@@ -67,7 +67,7 @@
     </sprite>
     <sprite class='chestaz' name='azRoomChest3' x='616' y='447'>
     	<action command='openChest' name='ouvrir'>
-    		<args>azRoomChest3,cad3,@!#dirkmakura-? Vous trouvez un DAKIMAKURA À VOTRE EFFIGIE ?
+    		<args>azRoomChest3,cad3,@! Vous trouvez un DAKIMAKURA !
       @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Wahou ils ont l'air géniaux. Peut-être que vous en garderez quelques-uns au lieu de tous les vendre.</args>
     	</action>
     </sprite>
@@ -80,11 +80,11 @@
 	    <action class='hifiChange4'/>
 	   </sprite>
 		
-     <sprite name='bin' x='500' y='390' width='28' height='28' collidable='true'>
-	     <animation sheet='corbeille'/>
-	     <action command='talk' name='Examine la corbeille.'>
+     <sprite name='cake' x='642' y='224' width='64' height='56' collidable='false'>
+	     <animation sheet='cake'/>
+	     <action command='talk' name='Examine le gâteau.'>
 		     <args>
-			     @! Tiens c'est une corbeille, il y a un papier.
+			     @! Tiens c'est un gâteau, il y a un papier.
 			     @!~carteanniv
 			     @! How cute.
 		     </args>
