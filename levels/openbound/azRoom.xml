@@ -69,16 +69,16 @@
 		@! Bordel de merde.
 		@! Quelle horreur ce truc. Sérieusement, regardez comment cette grenouille à l'air de souffir.
 		@! Et puis quelle idée d'offrir ça ? C'est vulgaire, sans oublier le sous-entendu peu subtil derrière.
-      		@!:#vous-la-gardez-précieusement#pour-le-larversaire-d-ahvi Vraiment, ce cadeau vous révulse.
-		@!:#le-jeu-peut-rester-au-fond-par-contre Ah, et il y a aussi une copie du jeu JOUONS À LA PÉTANQUE AVEC DÉDÉ, l'édition sur PC. C'est vraiment un jeu qui existe ça ? Et pourquoi il y a eu deux cadeau dans cette boîte ? Autant de questions qui resteront probablement à jamais sans réponse.</args>
+      		@!:#vous-la-gardez-précieusement#pour-le-larversaire-d'ahvi Vraiment, ce cadeau vous révulse.
+		@!:#le-jeu-peut-rester-dans-la-boîte-par-contre Ah, et il y a aussi une copie du jeu JOUONS À LA PÉTANQUE AVEC DÉDÉ, l'édition sur PC. C'est vraiment un jeu qui existe ça ? Et pourquoi il y a eu deux cadeau dans cette boîte ? Autant de questions qui resteront probablement à jamais sans réponse.</args>
     	</action>
     </sprite>
     <sprite class='chestaz' name='azRoomChest3' x='616' y='447'>
     	<action command='openChest' name='ouvrir'>
     		<args>azRoomChest3,cad3,@! Vous trouvez un DAKIMAKURA !
-      		@!:#mais-alors...#est-ce-qu-on-devrait-appeler-ça#un-dirkmakura-? Heu... Mais c'est vous dessus ? Enfin peut-être un peu plus vieux, mais vous ne connaissez personne d'autre que vous pour poser avec ces poupées.
-		@!:#à-part-roxy C'est assez troublant, vraiment. Qui pourait bien vouloir ça pour son anniversaire ?
-		@!:#vous-le-gardez-précieusement#pour-le-larversaire-d-ahvi Honnêtement, vous trouver l'idée de dormir avec des body pillow de personne réélles tordues. En plus, recevoir ça pour son anniversaire doit être assez gênant.</args>
+      		@!:#mais-alors...#est-ce-qu'on-devrait-appeler-ça#un-dirkmakura-? Heu... Mais c'est vous dessus ? Enfin peut-être un peu plus vieux, mais vous ne connaissez personne d'autre que vous pour poser avec ces poupées.
+		@!:#à-part-peut-être-roxy C'est assez troublant, vraiment. Qui pourait bien vouloir ça pour son anniversaire ?
+		@!:#vous-le-gardez-précieusement#pour-le-larversaire-d'ahvi Honnêtement, vous trouver l'idée de dormir avec des body pillow de personne réélles tordues. En plus, recevoir ça pour son anniversaire doit être assez gênant.</args>
     	</action>
     </sprite>
 	   
