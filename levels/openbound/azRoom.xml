@@ -10,10 +10,10 @@
   <asset name='azRoomBG' type='graphic'>backgrounds/azRoomBG.png</asset>
   <asset name='azRoomFG' type='graphic'>backgrounds/azRoomFG.png</asset>
 	
-	<asset name='lifeAtSea' type='audio'>audio/music/lifeAndDeathAtSea.oga;audio/music/lifeAndDeathAtSea.mp3</asset>
-	<asset name='hisBirthday' type='audio'>audio/music/hisAnniversary.oga;audio/music/hisAnniversary.mp3</asset>
-	<asset name='bewareForest' type='audio'>audio/music/bewareTheForestMushrooms.oga;audio/music/bewareTheForestMushrooms.mp3</asset>
-	<asset name='jumpUp' type='audio'>audio/music/jumpUpSuperStar.oga;audio/music/jumpUpSuperStar.mp3</asset>
+	<asset name='lifeAtSea' type='audio'>audio/music/lifeAndDeathAtSea.ogg;audio/music/lifeAndDeathAtSea.mp3</asset>
+	<asset name='hisBirthday' type='audio'>audio/music/hisAnniversary.ogg;audio/music/hisAnniversary.mp3</asset>
+	<asset name='bewareForest' type='audio'>audio/music/bewareTheForestMushrooms.ogg;audio/music/bewareTheForestMushrooms.mp3</asset>
+	<asset name='jumpUp' type='audio'>audio/music/jumpUpSuperStar.ogg;audio/music/jumpUpSuperStar.mp3</asset>
   
   <asset name='cad1' type='graphic'>objects/cad1.png</asset>
   <asset name='cad2' type='graphic'>objects/cad2.png</asset>
