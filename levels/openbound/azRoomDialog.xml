@@ -12,7 +12,8 @@
 	     @!:#miam C'est un gâteau au chocolat. 
 	     @! Il y a un petit carton posé à côté avec inscrit quelque chose dessus. Vous le lisez.
 	     @!~carteanniv
-	     @! Comme c'est mignon.
+	     @! Mow. Comme c'est mignon.
+	     @! On dirait que c'est un enfant qui a écrit.
 	</args>
     </action>
     
@@ -33,7 +34,7 @@
       <args>bewareForest</args>
       <action command='talk'>
         <args>
-          	@! Ah, cette musique vous dit quelque chose. Roxy vous l'a déjà faite écouter, elle qui est fan de console Nintendo.
+          	@! Ah, cette musique vous dit quelque chose. Roxy vous l'a déjà faite écouter, elle qui est fan de consoles Nintendo.
 		@! "Beware the Forest's Mushrooms"... Ça vous revient, c'était un jeu Mario. C'est drôle on ne dirait pas comme ça, ce jeu devait être particulier.
 		@!:#vous-devriez-le-faire-avec-ahvi#ça-vous-motivera Encore un auquel vous devriez peut-être jouer. Il y en a trop décidement.
         </args>
@@ -59,9 +60,9 @@
           	@!:#youpi Ah. Du Undertale.
 		@! Vous l'avez reconnu directement. À vrai dire vous aimez bien ce jeu, mais même après l'extermination de l'humanité, le cancer de la fandom reste sur Internet, et ça vous dégoûte un peu.
 		@! Ceci dit, c'est vrai que cette musique est émouvante, mais c'est un peu bizarre de mettre ça à un ann-... Oh.
-		@! Mais... ça alors, vous n'aviez jamais remarqué que cette musique ressemblait autant à la musique d'anniversaire ! Mais, elle ne ressemble pas, c'est exactement la même ! Vous êtes incroyablement choqué d'apprendre que Toby Fox a simplement repris un air mondialement connu pour son jeu ! Ah vraiment, vous sentez la colère monter en vous fasse à cette supercherie qui est passée inaperçue durant tout ce temps ! Le monde doit savoir, vous allez envoyé un message à travers les années pour mettre au grand jour ce méfait ! 
+		@! Mais... ça alors, vous n'aviez jamais remarqué que cette musique ressemblait autant à la musique d'anniversaire ! Mais, elle ne ressemble pas, c'est exactement la même ! Vous êtes incroyablement choqué d'apprendre que Toby Fox a simplement repris un air mondialement connu pour son jeu ! Ah vraiment, vous sentez la colère monter en vous face à cette supercherie qui est passée inaperçue durant tout ce temps ! Le monde doit savoir, vous allez envoyer un message à travers les années pour mettre au grand jour ce méfait ! 
 		@!:#siivagunner#ou-plutôt#siivamateur Non en fait c'est juste un HQ rip tiré d'une chaîne YouTube. Woah, l'ironie est palpable.
-		@! Enfin, vous supposez que c'est touchant comme musique pour un anniversaire, après tout cette musique transmet vraiment beaucoup d'émotion même sans connaître le contexte.
+		@! Enfin, vous supposez que c'est touchant comme musique pour un anniversaire, après tout cette musique transmet vraiment beaucoup d'émotions même sans connaître le contexte.
         </args>
       </action>
     </action>
