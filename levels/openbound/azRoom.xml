@@ -20,6 +20,8 @@
   <asset name='cad3' type='graphic'>objects/cad3.png</asset>
   <asset name='hifi' type='graphic'>objects/hifi.png</asset>
   <asset name='corbeille' type='graphic'>objects/corbeille.png</asset>
+	
+  <asset name='carteanniv' type='graphic'>objects/carteanniv.png</asset>
   
 </assets>
 
