@@ -47,7 +47,8 @@
 	     		<trigger detonate='true'>spriteProperty,char,x&lt;840
 	  			<action command='talk'>
 					<args>
-						@! Tiens, vous êtes dans une salle d'anniv'.
+						@!:#chelou#mais-la-musique-est-chill Tiens, on dirait qu'il y a une fête ici ? D'après le gâteau c'est un anniversaire, mais il n'y a personne.
+						@! Vous décidez d'aller voir tout ça de plus près.
 					</args>
 	  			</action>
 			</trigger>
@@ -56,19 +57,28 @@
      <sprite class='chestaz' name='azRoomChest1' x='509' y='670'>
     	<action command='openChest' name='ouvrir'>
     		<args>azRoomChest1,cad1,@! Vous trouvez une BATTE DE BASEBALL !
-      @!:#Vous-allez-juste-la-mettre-en-gage-à-n'importe-quel-idiot Une EFFIGIE, pour être précis. Elle possède des propriétés magiques la liant à la vie d'une personne, en fonction du chapeau que celle-ci porte. Hé, peut-être allez-vous la pendre à cet arbre ? Nan, c'est un peu morbide.</args>
+      		@! Elle ressemble à celle du batteur dans OFF, dont il se sert pour purifier le mal des terres qu'il parcourt.
+      		@!:#attends-quoi-? Mais non, il ne RESSEMBLE pas à cette batte. Selon son CERTIFICAT D'AUTHENTICITÉ c'est la MÊME BATTE.
+      		@!:#et-encore#tout-les-sprites-sont-en-noirs-et-blanc Bon, de toute évidence ce certificat est faux, mais il faut admettre qu'il y a une certaine ressemblence ? Enfin, c'est pas comme si c'était compliqué, dans le jeu elle est juste en argent, et il n'y a pas vraiment plus de signes distinctif que ça.
+		@!:#strider-approuved Enfin, ça reste une chouette batte, et le coup du certificat est quand même sympa.</args>
     	</action>
     </sprite>
     <sprite class='chestaz' name='azRoomChest2' x='510' y='546'>
     	<action command='openChest' name='ouvrir'>
-    		<args>azRoomChest2,cad2,@! Vous trouvez une POIRE À LAVEMENT GRENOUILLE ! 
-      @!:#vous-la-gardez-précieusement#le-jeu-jouons-à-la-pétanque-avec-dédé-peut-rester-au-fond-par-contre N'importe quel aventurier sain d’esprit jetterait ces instruments occultes au coeur du cercle extérieur et oublierait jusqu'à leur existence. Et... on dirait que quelqu'un vient de le faire ?</args>
+    		<args>azRoomChest2,cad2,@! Vous trouvez une POIRE À LAVEMENT GRENOUILLE !
+		@! Bordel de merde.
+		@! Quelle horreur ce truc. Sérieusement, regardez comment cette grenouille à l'air de souffir.
+		@! Et puis quelle idée d'offrir ça ? C'est vulgaire, sans oublier le sous-entendu peu subtil derrière.
+      		@!:#vous-la-gardez-précieusement#pour-le-larversaire-d-ahvi Vraiment, ce cadeau vous révulse.
+		@!:#le-jeu-peut-rester-au-fond-par-contre Ah, et il y a aussi une copie du jeu JOUONS À LA PÉTANQUE AVEC DÉDÉ, l'édition sur PC. C'est vraiment un jeu qui existe ça ? Et pourquoi il y a eu deux cadeau dans cette boîte ? Autant de questions qui resteront probablement à jamais sans réponse.</args>
     	</action>
     </sprite>
     <sprite class='chestaz' name='azRoomChest3' x='616' y='447'>
     	<action command='openChest' name='ouvrir'>
     		<args>azRoomChest3,cad3,@! Vous trouvez un DAKIMAKURA !
-      @!:#sauf-si-on-vous-propose-une-offre-en-or-bien-sûr Wahou ils ont l'air géniaux. Peut-être que vous en garderez quelques-uns au lieu de tous les vendre.</args>
+      		@!:#mais-alors...#est-ce-qu-on-devrait-appeler-ça#un-dirkmakura-? Heu... Mais c'est vous dessus ? Enfin peut-être un peu plus vieux, mais vous ne connaissez personne d'autre que vous pour poser avec ces poupées.
+		@!:#à-part-roxy C'est assez troublant, vraiment. Qui pourait bien vouloir ça pour son anniversaire ?
+		@!:#vous-le-gardez-précieusement#pour-le-larversaire-d-ahvi Honnêtement, vous trouver l'idée de dormir avec des body pillow de personne réélles tordues. En plus, recevoir ça pour son anniversaire doit être assez gênant.</args>
     	</action>
     </sprite>
 	   
