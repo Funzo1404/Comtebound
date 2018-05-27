@@ -72,7 +72,7 @@
     	</action>
     </sprite>
 	   
-    <sprite name='hifi' x='814' y='398' width='66' height='72' collidable='true' depthing='1'>
+    <sprite name='hifi' x='847' y='365' width='66' height='72' collidable='true' depthing='1'>
 	    <action class='hifiCheck'/>
 	    <action class='hifiChange1'/>
 	    <action class='hifiChange2'/>
