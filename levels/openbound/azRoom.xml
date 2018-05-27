@@ -72,7 +72,7 @@
     	</action>
     </sprite>
 	   
-    <sprite name='hifi' x='810' y='430' width='102' height='86' collidable='false' depthing='1'>
+    <sprite name='hifi' x='814' y='328' width='66' height='72' collidable='true' depthing='1'>
 	    <action class='hifiCheck'/>
 	    <action class='hifiChange1'/>
 	    <action class='hifiChange2'/>
@@ -80,8 +80,8 @@
 	    <action class='hifiChange4'/>
 	   </sprite>
 		
-     <sprite name='cake' x='642' y='424' width='64' height='56' collidable='false'>
-	     <animation sheet='cake'/>
+     <sprite name='cake' x='642' y='424' width='64' height='56' collidable='true'>
+	     <animation sheet='cake' x='-40' y='-20'/>
 	     <action command='talk' name='Examine le gâteau.'>
 		     <args>
 			     @! Tiens c'est un gâteau, il y a un papier.
