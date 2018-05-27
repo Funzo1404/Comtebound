@@ -2,25 +2,28 @@
   <classes>
     <action class='hifiCheck' command='talk' name='Examine la radio.'>
       <args>
-          @! Bah, c'est une chaîne hi-fi.
+          @!:#par-contre-il-ne-faut-pas-devenir-quelqu'un-d'autre#rip C'est une radio, et elle semble équipée d'une système qui vous permet d'écouter la musique qu'elle joue, même en dehors de cette bulle ! Incroyable.
       </args>
     </action>
     
     
     <action class='cakeCheck' command='talk' name='Examine le gâteau.'>
-		     <args>
-			     @! Tiens c'est un gâteau, il y a un papier.
-			     @!~carteanniv
-			     @! How cute.
-		     </args>
+	<args>
+	     @!:#miam C'est un gâteau au chocolat. 
+	     @! Il y a un petit carton posé à côté avec inscrit quelque chose dessus. Vous le lisez.
+	     @!~carteanniv
+	     @! Comme c'est mignon.
+	</args>
     </action>
     
     
-    <action class='hifiChange1' command='playSong' name='Met une musique calme.'>
+    <action class='hifiChange1' command='playSong' name='Met une musique tranquille.'>
       <args>lifeAtSea</args>
       <action command='talk'>
         <args>
-          @! Wow quelle belle musique calme.
+          	@! Cette petite musique est sympa.
+		@! Vous ne savez pas d'où elle vient, mais vous pouvez deviner qu'il s'agit d'un jeu vu les sonorités 8-bit.
+		@! Apparement elle s'appelle "Life And Death At Sea". Hum. C'est bizarre de parler de mort pour une musique si joyeuse ? Vous allez peut-être voir de quel jeu elle vient précisement.
         </args>
       </action>
     </action>
@@ -30,7 +33,9 @@
       <args>bewareForest</args>
       <action command='talk'>
         <args>
-          @! Wow quelle belle musique mystérieuse.
+          	@! Ah, cette musique vous dit quelque chose. Roxy vous l'a déjà faite écouter, elle qui est fan de console Nintendo.
+		@! "Beware the Forest's Mushrooms"... Ça vous revient, c'était un jeu Mario. C'est drôle on ne dirait pas comme ça, ce jeu devait être particulier.
+		@!:#vous-devriez-le-faire-avec-ahvi#ça-vous-motivera Encore un auquel vous devriez peut-être jouer. Il y en a trop décidement.
         </args>
       </action>
     </action>
@@ -40,7 +45,8 @@
       <args>jumpUp</args>
       <action command='talk'>
         <args>
-          @! Wow quelle belle musique entrainante.
+         	@! Ah, celle-là, vous la reconnaissez. "Jump up, Super Star!" dans Super Mario Odyssey. Nice. Encore une musique de Nintendo.
+		@! Oh, on dirait que c'est un mix particulier, ce n'est pas la chanteuse habituelle. C'est même un chanteur en fait. Hey, c'est pas mal du tout, ça change un peu.
         </args>
       </action>
     </action>
@@ -50,7 +56,12 @@
       <args>hisBirthday</args>
       <action command='talk'>
         <args>
-          @! Wow quelle belle musique émouvante... ?
+          	@!:#youpi Ah. Du Undertale.
+		@! Vous l'avez reconnu directement. À vrai dire vous aimez bien ce jeu, mais même après l'extermination de l'humanité, le cancer de la fandom reste sur Internet, et ça vous dégoûte un peu.
+		@! Ceci dit, c'est vrai que cette musique est émouvante, mais c'est un peu bizarre de mettre ça à un ann-... Oh.
+		@! Mais... ça alors, vous n'aviez jamais remarqué que cette musique ressemblait autant à la musique d'anniversaire ! Mais, elle ne ressemble pas, c'est exactement la même ! Vous êtes incroyablement choqué d'apprendre que Toby Fox a simplement repris un air mondialement connu pour son jeu ! Ah vraiment, vous sentez la colère monter en vous fasse à cette supercherie qui est passée inaperçue durant tout ce temps ! Le monde doit savoir, vous allez envoyé un message à travers les années pour mettre au grand jour ce méfait ! 
+		@!:#siivagunner#ou-plutôt#siivamateur Non en fait c'est juste un HQ rip tiré d'une chaîne YouTube. Woah, l'ironie est palpable.
+		@! Enfin, vous supposez que c'est touchant comme musique pour un anniversaire, après tout cette musique transmet vraiment beaucoup d'émotion même sans connaître le contexte.
         </args>
       </action>
     </action>
