@@ -80,7 +80,7 @@
 	    <action class='hifiChange4'/>
 	   </sprite>
 		
-     <sprite> name='bin' x='500' y='390' width='28' height='28' collidable='true'>
+     <sprite name='bin' x='500' y='390' width='28' height='28' collidable='true'>
 	     <animation sheet='corbeille'/>
 	     <action command='talk' name='Examine la corbeille.'>
 		     <args>
