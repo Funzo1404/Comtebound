@@ -12,9 +12,8 @@
 	     @!:#miam C'est un gâteau au chocolat. 
 	     @! Il y a un petit carton posé à côté avec inscrit quelque chose dessus. Vous le lisez.
 	     @!~carteanniv
-	     @! Mow. Comme c'est mignon.
-	     @! On dirait que c'est un enfant qui a écrit.
-	</args>
+	     @!:#on-dirait-que-c'est-un-enfant-qui-a-écrit Mow. Comme c'est mignon.
+	    </args>
     </action>
     
     
