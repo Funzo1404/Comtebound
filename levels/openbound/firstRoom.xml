@@ -281,7 +281,7 @@
   				<action command='changeRoomRemote'>secondRoom.xml,secondRoom,800,790</action>
   			</action>
   		</trigger>
-  		<!--<trigger>
+  		<trigger>
   			<args>spriteProperty,char,x&lt;80</args>
 				<trigger>spriteProperty,char,name=dirk
   				<action command='deltaSprite'>
@@ -292,7 +292,7 @@
 					</action>
   				</action>
 			</trigger>
-  		</trigger>!-->
+  		</trigger>
   		<trigger>inBox,char,1056,1773,60,150
   			<action command='moveSprite'>
 						<args>firstRoomToggle,0,50</args>
@@ -649,7 +649,7 @@
 	 </action>
    </sprite>
 	  
-   <!--<sprite name='azBubble' x='240' y='1870' width='20' height='250' depthing='1' collidable='true'>
+   <sprite name='azBubble' x='240' y='1870' width='20' height='250' depthing='1' collidable='true'>
   	<animation name='image' sheet='blueBubbleSheet' x='-20' y='-100' />
   	<action command='talk' sprite='dirk' name='Examine la bulle.'>
 			<args>
@@ -670,7 +670,7 @@
 		@!:#cette-flèche-indique-t-elle-autre-chose-que-la-direction-? Elle ne vous rappelle rien. Vous vous demandez qui pourrait bien avoir les souvenirs correspondant.
 		 </args>
 	   </action>
-   </sprite>!-->
+   </sprite>
 	  
 			
     
