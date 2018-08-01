@@ -143,6 +143,8 @@
 	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
 	<asset name='mayasTheme' type='audio'>audio/music/mayasTheme.ogg;audio/music/mayasTheme.mp3</asset>
+	<asset name='mask' type='audio'>audio/music/Masquerade.ogg;audio/music/Masquerade.mp3</asset>
+	<asset name='stellar' type='audio'>audio/music/Stellar.ogg;audio/music/Stellar.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -596,7 +598,10 @@
 			</action>
 	   	</action>
 		<action name='Deviens Sollas.' command='changeChar'>
-				<args>sollas</args>
+			<args>sollas</args>
+			<action command='playSong'>
+				<args>stellar</args>
+			</action>
 		</action>
    </character>
 	  
@@ -604,7 +609,10 @@
 	       sheet='viveilSheet' state='walkRight' facing='Right'>
 		<action class='viveilTalk1'/>
 		<action name='Deviens Viveil.' command='changeChar'>
-				<args>viveil</args>
+			<args>viveil</args>
+			<action command='playSong'>
+				<args>mask</args>
+			</action>
 		</action>
    </character>
 	  
