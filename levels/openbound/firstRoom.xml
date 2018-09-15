@@ -21,6 +21,8 @@
 	<animation class='sollas-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='ahvili-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='dirk-dialog' frameInterval='6' x='-245' y='-504'/>
+	<!--<animation class='akuuma-dialog' frameInterval='6' x='-245' y='-504'/>!-->
+	<!--<animation class='asarin-dialog' frameInterval='6' x='-245' y='-504'/>!-->
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -46,6 +48,8 @@
 	<asset name='dultewSheet' type='graphic'>chars/dultew.png</asset>
 	<asset name='ahviliSheet' type='graphic'>chars/ahvili.png</asset>
 	<asset name='dirkSheet' type='graphic'>chars/dirk.png</asset>
+	<asset name='akuumaSheet' type='graphic'>chars/akuuma.png</asset>
+	<asset name='asarinSheet' type='graphic'>chars/asarin.png</asset>
 	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
@@ -134,6 +138,8 @@
 	<asset name='sollas_idle' type='graphic'>dialogs/sollas_idle.png</asset>
 	<asset name='ahvili_idle' type='graphic'>dialogs/ahvili_idle.png</asset>
 	<asset name='dirk_idle' type='graphic'>dialogs/dirk_idle.png</asset>
+	<!--<asset name='akuuma_idle' type='graphic'>dialogs/akuuma_idle.png</asset>
+	<asset name='asarin_idle' type='graphic'>dialogs/asarin_idle.png</asset>!-->
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
@@ -197,6 +203,8 @@
 		<animation name='sollas_idle' class='sollas-dialog' sheet='sollas_idle' />
 		<animation name='ahvili_idle' class='ahvili-dialog' sheet='ahvili_idle' />
 		<animation name='dirk_idle' class='dirk-dialog' sheet='dirk_idle' />
+		<!--<animation name='akuuma_idle' class='akuuma-dialog' sheet='akuuma_idle' />
+		<animation name='asarin_idle' class='asarin-dialog' sheet='asarin_idle' />!-->
 	</dialogsprites>
 </hud>
 
@@ -435,7 +443,20 @@
 		</action>
    </character>
 	  
-   <character name='arseck' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	  
+	  
+   <character name='akuuma' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='akuumaSheet' state='walkRight' facing='Right'>
+		<!--<action class='seasonTalk1'/>!-->
+		<action name='Deviens Akuuma.' command='changeChar'>
+			<args>akuuma</args>
+			<action command='playSong'>
+				<args>jpVania</args>
+			</action>
+		</action>
+   </character>
+	  
+   <character name='arseck' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arseckSheet' state='walkRight' facing='Right'>
 		<action class='arseckTalk1'/>
 		<action name='Deviens Arseck.' command='changeChar'>
@@ -443,7 +464,7 @@
 		</action>
    </character>
 	  
-   <character name='ruvvik' x='1730' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='ruvvik' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
 		<action class='ruvvikTalk1'/>
 		<action class='ruvvikTalk2'>
@@ -474,7 +495,7 @@
 		</action>
    </character>
 	  
-   <character name='seferi' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='seferi' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seferiSheet' state='walkRight' facing='Right'>
 		<action class='seferiTalk1'/>
 		<action name='Deviens Seferi.' command='changeChar'>
@@ -485,7 +506,7 @@
 		</action>
    </character>
 	  
-   <character name='sophia' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sophia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
 		<action class='sophiaTalk1'/>
 		<action name='Deviens Sophia.' command='changeChar'>
@@ -496,7 +517,7 @@
 		</action>
    </character>
 	  
-   <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='eliseo' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='eliseoSheet' state='walkRight' facing='Right'>
 		<action class='eliseoTalk1'/>
 		<action class='eliseoTalk2'>
@@ -530,7 +551,7 @@
 		</action>
    </character>
 	
-   <character name='lysdia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='lysdia' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
 		<action class='lysdiaTalk1' />
 		<action name='Deviens Lysdia.' command='changeChar'>
@@ -541,7 +562,7 @@
 		</action>
    </character>
 	  
-   <character name='gardia' x='1165' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='gardia' x='1165' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkRight' facing='Right'>
 		<action class='gardiaTalk1' />
 		<action name='Deviens Gardia.' command='changeChar'>
@@ -549,7 +570,20 @@
 		</action>
    </character> 
 	  
-   <character name='arkeah' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	  
+	  
+   <character name='asarin' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='asarinSheet' state='walkRight' facing='Right'>
+		<!--<action class='seasonTalk1'/>!-->
+		<action name='Deviens Asarin.' command='changeChar'>
+			<args>asarin</args>
+			<!--<action command='playSong'>
+				<args>jpVania</args>
+			</action>!-->
+		</action>
+   </character>
+	  
+   <character name='arkeah' x='1245' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arkeahSheet' state='walkRight' facing='Right'>
 		<action class='arkeahTalk1'/>
 		<action name='Deviens Arkeah.' command='changeChar'>
@@ -560,7 +594,7 @@
 		</action>
    </character>
 	  
-   <character name='dultew' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='dultew' x='1730' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dultewSheet' state='walkLeft' facing='Left'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
@@ -571,7 +605,7 @@
 		</action>
    </character>
 	  
-   <character name='sollas' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sollas' x='1730' y='1105' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
@@ -605,7 +639,7 @@
 		</action>
    </character>
 	  
-   <character name='viveil' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='viveil' x='1245' y='1105' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='viveilSheet' state='walkRight' facing='Right'>
 		<action class='viveilTalk1'/>
 		<action name='Deviens Viveil.' command='changeChar'>
