@@ -495,7 +495,7 @@
 		</action>
    </character>
 	  
-   <character name='seferi' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='seferi' x='1245' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seferiSheet' state='walkRight' facing='Right'>
 		<action class='seferiTalk1'/>
 		<action name='Deviens Seferi.' command='changeChar'>
@@ -506,7 +506,7 @@
 		</action>
    </character>
 	  
-   <character name='sophia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sophia' x='1730' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
 		<action class='sophiaTalk1'/>
 		<action name='Deviens Sophia.' command='changeChar'>
@@ -517,7 +517,7 @@
 		</action>
    </character>
 	  
-   <character name='eliseo' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='eliseoSheet' state='walkRight' facing='Right'>
 		<action class='eliseoTalk1'/>
 		<action class='eliseoTalk2'>
@@ -551,7 +551,7 @@
 		</action>
    </character>
 	
-   <character name='lysdia' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='lysdia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
 		<action class='lysdiaTalk1' />
 		<action name='Deviens Lysdia.' command='changeChar'>
@@ -562,7 +562,7 @@
 		</action>
    </character>
 	  
-   <character name='gardia' x='1165' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='gardia' x='1165' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkRight' facing='Right'>
 		<action class='gardiaTalk1' />
 		<action name='Deviens Gardia.' command='changeChar'>
@@ -572,7 +572,7 @@
 	  
 	  
 	  
-   <character name='asarin' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='asarin' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asarinSheet' state='walkRight' facing='Right'>
 		<!--<action class='seasonTalk1'/>!-->
 		<action name='Deviens Asarin.' command='changeChar'>
@@ -583,7 +583,7 @@
 		</action>
    </character>
 	  
-   <character name='arkeah' x='1245' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='arkeah' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arkeahSheet' state='walkRight' facing='Right'>
 		<action class='arkeahTalk1'/>
 		<action name='Deviens Arkeah.' command='changeChar'>
@@ -594,7 +594,7 @@
 		</action>
    </character>
 	  
-   <character name='dultew' x='1730' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='dultew' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dultewSheet' state='walkLeft' facing='Left'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
@@ -605,7 +605,7 @@
 		</action>
    </character>
 	  
-   <character name='sollas' x='1730' y='1105' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sollas' x='1730' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
@@ -639,7 +639,7 @@
 		</action>
    </character>
 	  
-   <character name='viveil' x='1245' y='1105' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='viveil' x='1245' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='viveilSheet' state='walkRight' facing='Right'>
 		<action class='viveilTalk1'/>
 		<action name='Deviens Viveil.' command='changeChar'>
