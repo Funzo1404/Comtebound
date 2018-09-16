@@ -219,7 +219,7 @@
 	
 <action class='akuumaTalk1' command='talk' name='Parler à Akuuma.'><args>
 	@akuuma_idle AKUUMA: ceci esI un IesI 
-	@akuuma_idle AKUUMA: porIez ce vieux whisky \\@u juge blond qui fume 
+	@akuuma_idle AKUUMA: porIez ce vieux whisky &#64;u juge blond qui fume 
 	</args></action>
 	
 <action class='arseckTalk1' command='talk' name='Parler à Arseck.'><args>
