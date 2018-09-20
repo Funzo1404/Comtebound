@@ -598,8 +598,8 @@
 		<action name='Deviens Amoneo.' command='changeChar'>
 			<args>amoneo</args>
 			<!--<action command='playSong'>
-				<args>hQuin</args>!-->
-			</action>
+				<args>hQuin</args>
+			</action>!-->
 		</action>
    </character>
 	  
