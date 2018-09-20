@@ -23,6 +23,7 @@
 	<animation class='dirk-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='akuuma-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='asarin-dialog' frameInterval='6' x='-245' y='-504'/>
+	<animation class='amoneo-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -50,6 +51,7 @@
 	<asset name='dirkSheet' type='graphic'>chars/dirk.png</asset>
 	<asset name='akuumaSheet' type='graphic'>chars/akuuma.png</asset>
 	<asset name='asarinSheet' type='graphic'>chars/asarin.png</asset>
+	<asset name='amoneoSheet' type='graphic'>chars/amoneo.png</asset>
 	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
@@ -140,6 +142,7 @@
 	<asset name='dirk_idle' type='graphic'>dialogs/dirk_idle.png</asset>
 	<asset name='akuuma_idle' type='graphic'>dialogs/akuuma_idle.png</asset>
 	<asset name='asarin_idle' type='graphic'>dialogs/asarin_idle.png</asset>
+	<asset name='amoneo_idle' type='graphic'>dialogs/amoneo_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
@@ -152,6 +155,8 @@
 	<asset name='mask' type='audio'>audio/music/Masquerade.ogg;audio/music/Masquerade.mp3</asset>
 	<asset name='stellar' type='audio'>audio/music/Stellar.ogg;audio/music/Stellar.mp3</asset>
 	<asset name='hQuin' type='audio'>audio/music/hollyQuintet.ogg;audio/music/hollyQuintet.mp3</asset>
+	<asset name='sHL' type='audio'>audio/music/snowHalationLyrics.ogg;audio/music/snowHalationLyrics.mp3</asset>
+	<asset name='sHI' type='audio'>audio/music/snowHalationInstrumental.ogg;audio/music/snowHalationInstrumental.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
@@ -206,6 +211,7 @@
 		<animation name='dirk_idle' class='dirk-dialog' sheet='dirk_idle' />
 		<animation name='akuuma_idle' class='akuuma-dialog' sheet='akuuma_idle' />
 		<animation name='asarin_idle' class='asarin-dialog' sheet='asarin_idle' />
+		<animation name='amoneo_idle' class='amoneo-dialog' sheet='amoneo_idle' />
 	</dialogsprites>
 </hud>
 
@@ -580,6 +586,19 @@
 			<args>asarin</args>
 			<action command='playSong'>
 				<args>hQuin</args>
+			</action>
+		</action>
+   </character>
+	  
+	  
+	  
+   <character name='amoneo' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='amoneoSheet' state='walkLeft' facing='Left'>
+		<action class='amoneoTalk1'/>
+		<action name='Deviens Amoneo.' command='changeChar'>
+			<args>amoneo</args>
+			<!--<action command='playSong'>
+				<args>hQuin</args>!-->
 			</action>
 		</action>
    </character>
