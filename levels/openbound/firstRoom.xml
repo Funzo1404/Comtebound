@@ -468,6 +468,9 @@
 		<action class='arseckTalk1'/>
 		<action name='Deviens Arseck.' command='changeChar'>
 				<args>arseck</args>
+			<action command='playSong'>
+				<args>sHI</args>
+			</action>	
 		</action>
    </character>
 	  
@@ -499,6 +502,9 @@
 	   	</action>
 		<action name='Deviens Ruvvik.' command='changeChar'>
 				<args>ruvvik</args>
+			<action command='playSong'>
+				<args>sHL</args>
+			</action>	
 		</action>
    </character>
 	  
