@@ -145,18 +145,13 @@
 	<asset name='amoneo_idle' type='graphic'>dialogs/amoneo_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
-	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
 	<asset name='hOH' type='audio'>audio/music/heirOfHeart.ogg;audio/music/heirOfHeart.mp3</asset>
 	<asset name='deservedLife' type='audio'>audio/music/theLifeWeDeserve.ogg;audio/music/theLifeWeDeserve.mp3</asset>
-	<asset name='starvingArtist' type='audio'>audio/music/starvingArtist.ogg;audio/music/starvingArtist.mp3</asset>
 	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
-	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
 	<asset name='mayasTheme' type='audio'>audio/music/mayasTheme.ogg;audio/music/mayasTheme.mp3</asset>
 	<asset name='mask' type='audio'>audio/music/Masquerade.ogg;audio/music/Masquerade.mp3</asset>
-	<asset name='stellar' type='audio'>audio/music/Stellar.ogg;audio/music/Stellar.mp3</asset>
-	<asset name='hQuin' type='audio'>audio/music/hollyQuintet.ogg;audio/music/hollyQuintet.mp3</asset>
+	<!--<asset name='hQuin' type='audio'>audio/music/hollyQuintet.ogg;audio/music/hollyQuintet.mp3</asset>!-->
 	<asset name='wTheater' type='audio'>audio/music/witchTheater.ogg;audio/music/witchTheater.mp3</asset>
-	<asset name='sHL' type='audio'>audio/music/snowHalationLyrics.ogg;audio/music/snowHalationLyrics.mp3</asset>
 	<asset name='sHI' type='audio'>audio/music/snowHalationInstrumental.ogg;audio/music/snowHalationInstrumental.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
@@ -311,6 +306,14 @@
   				</action>
 			</trigger>
   		</trigger>
+  		<trigger>inBox,char,1287,93,400,250
+  				<action command='deltaSprite'>
+  					<args>char,-12,0</args>
+  					<action command='changeRoomRemote'>
+						<args>dancesRoom.xml,dancesRoom,600,820</args>
+					</action>
+  				</action>
+  		</trigger>
   		<trigger>inBox,char,1056,1773,60,150
   			<action command='moveSprite'>
 						<args>firstRoomToggle,0,50</args>
@@ -430,14 +433,6 @@
 	<action class='aradiaTalk3'/>   
     </sprite>
 	  
-   <character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='asceliSheet' state='walkLeft' facing='Left'>
-		<action class='asceliTalk1'/>
-		<action name='Deviens Ascellia.' command='changeChar'>
-			<args>asceli</args>
-		</action>
-   </character>
-	  
 	  
 	  
    <character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
@@ -475,40 +470,6 @@
 		</action>
    </character>
 	  
-   <character name='ruvvik' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
-		<action class='ruvvikTalk1'/>
-		<action class='ruvvikTalk2'>
-			<action command='removeAction'>
-				<args>ruvvik,Demande une photo.</args>
-				<action command='addAction' noWait='true'>
-					<args>tableau,
-						<action command='addOverlay' name='Examine la photo creepy.'>
-							<args>photo2ol</args>
-							<action class='tabCheck3'>
-							</action>
-						</action>
-					</args>
-					<action command='addSprite'>
-						<args>pht2,firstRoom</args>
-						<action command='moveSprite'>
-							<args>pht2,1961,490</args>
-							<action command='setGameState'>
-								<args>gotPht2,true</args>
-							</action>
-						</action>
-					</action>
-				</action>
-			</action>
-	   	</action>
-		<action name='Deviens Ruvvik.' command='changeChar'>
-				<args>ruvvik</args>
-			<action command='playSong'>
-				<args>sHL</args>
-			</action>	
-		</action>
-   </character>
-	  
    <character name='seferi' x='1245' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seferiSheet' state='walkRight' facing='Right'>
 		<action class='seferiTalk1'/>
@@ -517,17 +478,6 @@
 			<action command='playSong'>
 				<args>deservedLife</args>
 			</action>	
-		</action>
-   </character>
-	  
-   <character name='sophia' x='1730' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
-		<action class='sophiaTalk1'/>
-		<action name='Deviens Sophia.' command='changeChar'>
-			<args>sophia</args>
-			<action command='playSong'>
-				<args>starvingArtist</args>
-			</action>
 		</action>
    </character>
 	  
@@ -564,17 +514,6 @@
 				</action>
 		</action>
    </character>
-	
-   <character name='lysdia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
-		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
-		<action class='lysdiaTalk1' />
-		<action name='Deviens Lysdia.' command='changeChar'>
-			<args>lysdia</args>
-			<action command='playSong'>
-				<args>badManors</args>
-			</action>
-		</action>
-   </character>
 	  
    <character name='gardia' x='1165' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkRight' facing='Right'>
@@ -597,19 +536,6 @@
 		</action>
    </character>
 	  
-	  
-	  
-   <character name='amoneo' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='amoneoSheet' state='walkLeft' facing='Left'>
-		<action class='amoneoTalk1'/>
-		<action name='Deviens Amoneo.' command='changeChar'>
-			<args>amoneo</args>
-			<!--<action command='playSong'>
-				<args>hQuin</args>
-			</action>!-->
-		</action>
-   </character>
-	  
    <character name='arkeah' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arkeahSheet' state='walkRight' facing='Right'>
 		<action class='arkeahTalk1'/>
@@ -617,51 +543,6 @@
 			<args>arkeah</args>
 			<action command='playSong'>
 				<args>mayasTheme</args>
-			</action>
-		</action>
-   </character>
-	  
-   <character name='dultew' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='dultewSheet' state='walkLeft' facing='Left'>
-		<action class='dultewTalk1'/>
-		<action name='Deviens Dultew.' command='changeChar'>
-			<args>dultew</args>
-			<action command='playSong'>
-				<args>flowerCountry</args>
-			</action>
-		</action>
-   </character>
-	  
-   <character name='sollas' x='1730' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='sollasSheet' state='walkLeft' facing='Left'>
-		<action class='sollasTalk1'/>
-		<action class='sollasTalk2'>
-				<action command='removeAction'>
-					<args>sollas,Demande une photo.</args>
-					<action command='addAction' noWait='true'>
-						<args>tableau,
-							<action command='addOverlay' name='Examine la photo sympa.'>
-								<args>photo3ol</args>
-								<action class='tabCheck4'>
-								</action>
-							</action>
-						</args>
-						<action command='addSprite'>
-							<args>pht3,firstRoom</args>
-							<action command='moveSprite'>
-								<args>pht3,1961,490</args>
-			<action command='setGameState'>
-				<args>gotPht3,true</args>
-							</action>
-						</action>
-					</action>
-				</action>	
-			</action>
-	   	</action>
-		<action name='Deviens Sollas.' command='changeChar'>
-			<args>sollas</args>
-			<action command='playSong'>
-				<args>stellar</args>
 			</action>
 		</action>
    </character>
