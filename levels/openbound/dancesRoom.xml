@@ -30,8 +30,8 @@
    	  	</triggers>
         
         
-   <character name='asceli' x='370' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='asceliSheet' state='walkLeft' facing='Left'>
+   <character name='asceli' x='370' y='620' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='asceliSheet' state='walkDown' facing='Down'>
 		<action class='asceliTalk1'/>
 		<action name='Deviens Ascellia.' command='changeChar'>
 			<args>asceli</args>
@@ -40,8 +40,8 @@
    
    
 	  
-   <character name='ruvvik' x='470' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
+   <character name='ruvvik' x='460' y='580' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='ruvvikSheet' state='walkDown' facing='Down'>
 		<action class='ruvvikTalk1'/>
 		<action class='ruvvikTalk2'>
 			<action command='removeAction'>
@@ -76,8 +76,8 @@
    
    
 	  
-   <character name='sophia' x='570' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
+   <character name='sophia' x='550' y='620' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='sophiaSheet' state='walkDown' facing='Down'>
 		<action class='sophiaTalk1'/>
 		<action name='Deviens Sophia.' command='changeChar'>
 			<args>sophia</args>
@@ -87,8 +87,8 @@
 		</action>
    </character>
 	
-   <character name='lysdia' x='670' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
-		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
+   <character name='lysdia' x='640' y='580' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='lysdiaSheet' state='walkDown' facing='Down'>
 		<action class='lysdiaTalk1' />
 		<action name='Deviens Lysdia.' command='changeChar'>
 			<args>lysdia</args>
@@ -100,8 +100,8 @@
 	  
 	  
 	  
-   <character name='amoneo' x='770' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='amoneoSheet' state='walkLeft' facing='Left'>
+   <character name='amoneo' x='730' y='620' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='amoneoSheet' state='walkDown' facing='Down'>
 		<action class='amoneoTalk1'/>
 		<action name='Deviens Amoneo.' command='changeChar'>
 			<args>amoneo</args>
@@ -111,8 +111,8 @@
 		</action>
    </character>
 	  
-   <character name='dultew' x='870' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='dultewSheet' state='walkLeft' facing='Left'>
+   <character name='dultew' x='820' y='580' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='dultewSheet' state='walkDown' facing='Down'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
 			<args>dultew</args>
@@ -122,8 +122,8 @@
 		</action>
    </character>
 	  
-   <character name='sollas' x='970' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='sollasSheet' state='walkLeft' facing='Left'>
+   <character name='sollas' x='910' y='620' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='sollasSheet' state='walkDown' facing='Down'>
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
 				<action command='removeAction'>
