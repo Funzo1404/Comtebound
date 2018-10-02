@@ -24,13 +24,13 @@
   			  <trigger>spriteProperty,char,y>880
 	  			<action command='deltaSprite'>
 	  				<args>char,12,0</args>
-	  				<action command='changeRoomRemote'>firstRoom.xml,firstRoom,1460,580</action>
+	  				<action command='changeRoomRemote'>firstRoom.xml,firstRoom,1490,630</action>
 	  			</action>
 			    </trigger>
    	  	</triggers>
         
         
-   <character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='asceli' x='370' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asceliSheet' state='walkLeft' facing='Left'>
 		<action class='asceliTalk1'/>
 		<action name='Deviens Ascellia.' command='changeChar'>
@@ -40,7 +40,7 @@
    
    
 	  
-   <character name='ruvvik' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='ruvvik' x='470' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
 		<action class='ruvvikTalk1'/>
 		<action class='ruvvikTalk2'>
@@ -76,7 +76,7 @@
    
    
 	  
-   <character name='sophia' x='1730' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sophia' x='570' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
 		<action class='sophiaTalk1'/>
 		<action name='Deviens Sophia.' command='changeChar'>
@@ -87,7 +87,7 @@
 		</action>
    </character>
 	
-   <character name='lysdia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='lysdia' x='670' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
 		<action class='lysdiaTalk1' />
 		<action name='Deviens Lysdia.' command='changeChar'>
@@ -100,7 +100,7 @@
 	  
 	  
 	  
-   <character name='amoneo' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='amoneo' x='770' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='amoneoSheet' state='walkLeft' facing='Left'>
 		<action class='amoneoTalk1'/>
 		<action name='Deviens Amoneo.' command='changeChar'>
@@ -111,7 +111,7 @@
 		</action>
    </character>
 	  
-   <character name='dultew' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='dultew' x='870' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dultewSheet' state='walkLeft' facing='Left'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
@@ -122,7 +122,7 @@
 		</action>
    </character>
 	  
-   <character name='sollas' x='1730' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sollas' x='970' y='600' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkLeft' facing='Left'>
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
