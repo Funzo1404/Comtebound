@@ -306,11 +306,12 @@
   				</action>
 			</trigger>
   		</trigger>
-  		<trigger>inBox,char,1287,93,400,250
+  		<trigger>
+  			<args>spriteProperty,char,y&lt;90</args>
   				<action command='deltaSprite'>
   					<args>char,-12,0</args>
   					<action command='changeRoomRemote'>
-						<args>dancesRoom.xml,dancesRoom,600,780</args>
+						<args>dancesRoom.xml,dancesRoom,600,700</args>
 					</action>
   				</action>
   		</trigger>
