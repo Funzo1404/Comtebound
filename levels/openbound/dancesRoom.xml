@@ -1,0 +1,162 @@
+<sburb description="dances room">
+
+<dependencies>
+	<dependency>firstRoomDialog.xml</dependency>
+</dependencies>
+
+<assets>
+
+  <asset name='dancesRoomMap' type='graphic'>backgrounds/rangementDancesMap.png</asset>
+  <asset name='dancesRoomBG' type='graphic'>backgrounds/rangementDancesBG.png</asset>
+  
+  
+	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
+	<asset name='starvingArtist' type='audio'>audio/music/starvingArtist.ogg;audio/music/starvingArtist.mp3</asset>
+	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
+	<asset name='stellar' type='audio'>audio/music/Stellar.ogg;audio/music/Stellar.mp3</asset>
+	<asset name='sHL' type='audio'>audio/music/snowHalationLyrics.ogg;audio/music/snowHalationLyrics.mp3</asset>
+</assets>
+
+
+<rooms>
+	<room name='dancesRoom' width='1268' height='1222' walkableMap='dancesRoomMap'>
+     		<triggers>
+  			  <trigger>spriteProperty,char,y>880
+	  			<action command='deltaSprite'>
+	  				<args>char,12,0</args>
+	  				<action command='changeRoomRemote'>firstRoom.xml,firstRoom,1460,580</action>
+	  			</action>
+			    </trigger>
+   	  	</triggers>
+        
+        
+   <character name='asceli' x='1730' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='asceliSheet' state='walkLeft' facing='Left'>
+		<action class='asceliTalk1'/>
+		<action name='Deviens Ascellia.' command='changeChar'>
+			<args>asceli</args>
+		</action>
+   </character>
+   
+   
+	  
+   <character name='ruvvik' x='1730' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='ruvvikSheet' state='walkLeft' facing='Left'>
+		<action class='ruvvikTalk1'/>
+		<action class='ruvvikTalk2'>
+			<action command='removeAction'>
+				<args>ruvvik,Demande une photo.</args>
+				<action command='addAction' noWait='true'>
+					<args>tableau,
+						<action command='addOverlay' name='Examine la photo creepy.'>
+							<args>photo2ol</args>
+							<action class='tabCheck3'>
+							</action>
+						</action>
+					</args>
+					<action command='addSprite'>
+						<args>pht2,firstRoom</args>
+						<action command='moveSprite'>
+							<args>pht2,1961,490</args>
+							<action command='setGameState'>
+								<args>gotPht2,true</args>
+							</action>
+						</action>
+					</action>
+				</action>
+			</action>
+	   	</action>
+		<action name='Deviens Ruvvik.' command='changeChar'>
+				<args>ruvvik</args>
+			<action command='playSong'>
+				<args>sHL</args>
+			</action>	
+		</action>
+   </character>
+   
+   
+	  
+   <character name='sophia' x='1730' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='sophiaSheet' state='walkLeft' facing='Left'>
+		<action class='sophiaTalk1'/>
+		<action name='Deviens Sophia.' command='changeChar'>
+			<args>sophia</args>
+			<action command='playSong'>
+				<args>starvingArtist</args>
+			</action>
+		</action>
+   </character>
+	
+   <character name='lysdia' x='1730' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='lysdiaSheet' state='walkLeft' facing='Left'>
+		<action class='lysdiaTalk1' />
+		<action name='Deviens Lysdia.' command='changeChar'>
+			<args>lysdia</args>
+			<action command='playSong'>
+				<args>badManors</args>
+			</action>
+		</action>
+   </character>
+	  
+	  
+	  
+   <character name='amoneo' x='1730' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='amoneoSheet' state='walkLeft' facing='Left'>
+		<action class='amoneoTalk1'/>
+		<action name='Deviens Amoneo.' command='changeChar'>
+			<args>amoneo</args>
+			<!--<action command='playSong'>
+				<args>hQuin</args>
+			</action>!-->
+		</action>
+   </character>
+	  
+   <character name='dultew' x='1730' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='dultewSheet' state='walkLeft' facing='Left'>
+		<action class='dultewTalk1'/>
+		<action name='Deviens Dultew.' command='changeChar'>
+			<args>dultew</args>
+			<action command='playSong'>
+				<args>flowerCountry</args>
+			</action>
+		</action>
+   </character>
+	  
+   <character name='sollas' x='1730' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='sollasSheet' state='walkLeft' facing='Left'>
+		<action class='sollasTalk1'/>
+		<action class='sollasTalk2'>
+				<action command='removeAction'>
+					<args>sollas,Demande une photo.</args>
+					<action command='addAction' noWait='true'>
+						<args>tableau,
+							<action command='addOverlay' name='Examine la photo sympa.'>
+								<args>photo3ol</args>
+								<action class='tabCheck4'>
+								</action>
+							</action>
+						</args>
+						<action command='addSprite'>
+							<args>pht3,firstRoom</args>
+							<action command='moveSprite'>
+								<args>pht3,1961,490</args>
+			<action command='setGameState'>
+				<args>gotPht3,true</args>
+							</action>
+						</action>
+					</action>
+				</action>	
+			</action>
+	   	</action>
+		<action name='Deviens Sollas.' command='changeChar'>
+			<args>sollas</args>
+			<action command='playSong'>
+				<args>stellar</args>
+			</action>
+		</action>
+   </character>
+   
+   
+     <sprite name='dancesRoomBG' x='0' y='0'><animation sheet='dancesRoomBG' /></sprite>
+        
+</sburb>
