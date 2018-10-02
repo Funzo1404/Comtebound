@@ -158,5 +158,7 @@
    
    
      <sprite name='dancesRoomBG' x='0' y='0'><animation sheet='dancesRoomBG' /></sprite>
+	</room>
+	</rooms>
         
 </sburb>
