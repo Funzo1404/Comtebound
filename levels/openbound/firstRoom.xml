@@ -310,7 +310,7 @@
   				<action command='deltaSprite'>
   					<args>char,-12,0</args>
   					<action command='changeRoomRemote'>
-						<args>dancesRoom.xml,dancesRoom,600,820</args>
+						<args>dancesRoom.xml,dancesRoom,600,780</args>
 					</action>
   				</action>
   		</trigger>
