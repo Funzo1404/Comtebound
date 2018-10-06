@@ -152,6 +152,7 @@
 	<asset name='mask' type='audio'>audio/music/Masquerade.ogg;audio/music/Masquerade.mp3</asset>
 	<!--<asset name='hQuin' type='audio'>audio/music/hollyQuintet.ogg;audio/music/hollyQuintet.mp3</asset>!-->
 	<asset name='wTheater' type='audio'>audio/music/witchTheater.ogg;audio/music/witchTheater.mp3</asset>
+	<asset name='gameOn' type='audio'>audio/music/theGameIsOn.ogg;audio/music/theGameIsOn.mp3</asset>
 	<asset name='sHI' type='audio'>audio/music/snowHalationInstrumental.ogg;audio/music/snowHalationInstrumental.mp3</asset>
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
@@ -466,7 +467,7 @@
 		<action name='Deviens Arseck.' command='changeChar'>
 				<args>arseck</args>
 			<action command='playSong'>
-				<args>sHI</args>
+				<args>gameOn</args>
 			</action>	
 		</action>
    </character>
