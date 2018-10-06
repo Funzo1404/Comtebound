@@ -153,7 +153,7 @@
 	<!--<asset name='hQuin' type='audio'>audio/music/hollyQuintet.ogg;audio/music/hollyQuintet.mp3</asset>!-->
 	<asset name='wTheater' type='audio'>audio/music/witchTheater.ogg;audio/music/witchTheater.mp3</asset>
 	<asset name='gameOn' type='audio'>audio/music/theGameIsOn.ogg;audio/music/theGameIsOn.mp3</asset>
-	<asset name='sHI' type='audio'>audio/music/snowHalationInstrumental.ogg;audio/music/snowHalationInstrumental.mp3</asset>
+	<!--<asset name='sHI' type='audio'>audio/music/snowHalationInstrumental.ogg;audio/music/snowHalationInstrumental.mp3</asset>!-->
 	
 	<asset name='obj01' type='graphic'>objects/01.png</asset>
 	<asset name='obj02' type='graphic'>objects/02.png</asset>
