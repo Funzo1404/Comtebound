@@ -74,6 +74,7 @@ Sburb.FontEngine.prototype.prefixColours = {
 	ruvvik: "#d26912",seferi: "#b69c00",
 	sophia:"#b68c00",eliseo:"#658200",
 	lysdia: "#008141",gardia: "#004121",
+	asyyce: "#008141",ipaney:"#008141",
 	asarin:"#00cc66",amoneo:"#00cc66",
 	arkeah:"#005682",dultew:"#005682",
 	viveil:"#000056",sollas:"#000056",
