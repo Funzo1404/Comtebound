@@ -265,6 +265,16 @@
 	@gardia_idle%dialogBoxBigGardia LYSDIA: &lt;>ï&lt;> ~Portez ce vieux whisky ♥u juge blond qui fume.
 </args></action>
 	
+<action class='asyyceTalk1' command='talk' name='Parler à Asyyce.'><args>
+	@asyyce_idle ASYYCE: Ceci est un †es† 
+	@asyyce_idle ASYYCE: Pφr†ez ce vieux whisky (a)u juge blφnd qui fuΩe 
+	</args></action>
+	
+<!--<action class='ipaneyTalk1' command='talk' name='Parler à Ipaney.'><args>
+	@ipaney_idle IPANEY: ... cΔci Δst un tΔst ... 
+	@ipaney_idle IPANEY: ... pθrtΔz cΔ viΔux whisky au jugΔ blθnd qui fumΔ ...
+	</args></action>!-->
+	
 <action class='asarinTalk1' command='talk' name='Parler à Asarin.'><args>
 	@asarin_idle ASARIN: cEci EsT uN TEsT 
 	@asarin_idle ASARIN: PoRTEZ cE ViEuX WHisKY Au juGE bLoND qui FuME 
