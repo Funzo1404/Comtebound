@@ -97,6 +97,17 @@
 			</action>
 		</action>
    </character>
+	
+   <!--<character name='ipaney' x='640' y='740' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+		sheet='ipaneySheet' state='walkDown' facing='Down'>
+		<action class='ipaneyTalk1' />
+		<action name='Deviens Ipaney.' command='changeChar'>
+			<args>ipaney</args>
+			<!--<action command='playSong'>
+				<args>badManors</args>
+			</action>!-->
+		<!--</action>
+   </character>!-->
 	  
 	  
 	  
