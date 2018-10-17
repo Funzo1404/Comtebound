@@ -215,7 +215,7 @@
 		<animation name='akuuma_idle' class='akuuma-dialog' sheet='akuuma_idle' />
 		<animation name='asarin_idle' class='asarin-dialog' sheet='asarin_idle' />
 		<animation name='amoneo_idle' class='amoneo-dialog' sheet='amoneo_idle' />
-		<animation name='assyce_idle' class='assyce-dialog' sheet='assyce_idle' />
+		<animation name='asyyce_idle' class='asyyce-dialog' sheet='asyyce_idle' />
 		<!--<animation name='ipaney_idle' class='ipaney-dialog' sheet='ipaney_idle' />!-->
 	</dialogsprites>
 </hud>
@@ -535,7 +535,7 @@
 	  
 	  
 	  
-   <character name='assyce' x='1495' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='asyyce' x='1495' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asyyceSheet' state='walkLeft' facing='Left'>
 		<action class='asyyceTalk1'/>
 		<action name='Deviens Asyyce.' command='changeChar'>
