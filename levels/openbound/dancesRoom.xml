@@ -103,10 +103,10 @@
 		<action class='ipaneyTalk1' />
 		<action name='Deviens Ipaney.' command='changeChar'>
 			<args>ipaney</args>
-			<!--<action command='playSong'>
+			<action command='playSong'>
 				<args>badManors</args>
-			</action>!-->
-		<!--</action>
+			</action>
+		</action>
    </character>!-->
 	  
 	  
