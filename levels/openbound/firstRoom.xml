@@ -152,6 +152,7 @@
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='hOH' type='audio'>audio/music/heirOfHeart.ogg;audio/music/heirOfHeart.mp3</asset>
+	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
 	<asset name='deservedLife' type='audio'>audio/music/theLifeWeDeserve.ogg;audio/music/theLifeWeDeserve.mp3</asset>
 	<asset name='ahviTh' type='audio'>audio/music/ahviliTheme.ogg;audio/music/ahviliTheme.mp3</asset>
 	<asset name='mayasTheme' type='audio'>audio/music/mayasTheme.ogg;audio/music/mayasTheme.mp3</asset>
@@ -530,6 +531,9 @@
 		<action class='gardiaTalk1' />
 		<action name='Deviens Gardia.' command='changeChar'>
 			<args>gardia</args>
+			<action command='playSong'>
+				<args>badManors</args>
+			</action>
 		</action>
    </character> 
 	  
