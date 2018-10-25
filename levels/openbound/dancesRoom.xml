@@ -10,7 +10,7 @@
   <asset name='dancesRoomBG' type='graphic'>backgrounds/rangementDancesBG.png</asset>
   
   
-	<asset name='badManors' type='audio'>audio/music/badManors.ogg;audio/music/badManors.mp3</asset>
+	<asset name='lysdiaTh' type='audio'>audio/music/themeLysdia.ogg;audio/music/themeLysdia.mp3</asset>
 	<asset name='starvingArtist' type='audio'>audio/music/starvingArtist.ogg;audio/music/starvingArtist.mp3</asset>
 	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
 	<asset name='stellar' type='audio'>audio/music/Stellar.ogg;audio/music/Stellar.mp3</asset>
@@ -93,7 +93,7 @@
 		<action name='Deviens Lysdia.' command='changeChar'>
 			<args>lysdia</args>
 			<action command='playSong'>
-				<args>badManors</args>
+				<args>lysdiaTh</args>
 			</action>
 		</action>
    </character>
