@@ -122,7 +122,7 @@
 		</action>
    </character>
 	  
-   <character name='dultew' x='820' y='580' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='dultew' x='820' y='540' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='dultewSheet' state='walkDown' facing='Down'>
 		<action class='dultewTalk1'/>
 		<action name='Deviens Dultew.' command='changeChar'>
@@ -133,7 +133,7 @@
 		</action>
    </character>
 	  
-   <character name='sollas' x='910' y='620' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='sollas' x='870' y='620' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='sollasSheet' state='walkDown' facing='Down'>
 		<action class='sollasTalk1'/>
 		<action class='sollasTalk2'>
