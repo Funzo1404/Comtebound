@@ -25,7 +25,7 @@
 	<animation class='asarin-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='amoneo-dialog' frameInterval='6' x='-245' y='-504'/>
 	<animation class='asyyce-dialog' frameInterval='6' x='-245' y='-504'/>
-	<!--<animation class='ipaney-dialog' frameInterval='6' x='-245' y='-504'/>!-->
+	<animation class='ipaney-dialog' frameInterval='6' x='-245' y='-504'/>
 	<character class='andrew' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20' 
 	       sheet='andrewSheet' state='walkLeft' facing='Left'>
 		<animation name='sit' sheet='andrewSitSheet' x='-30' y='-65'/>
@@ -55,7 +55,7 @@
 	<asset name='asarinSheet' type='graphic'>chars/asarin.png</asset>
 	<asset name='amoneoSheet' type='graphic'>chars/amoneo.png</asset>
 	<asset name='asyyceSheet' type='graphic'>chars/asyyce.png</asset>
-	<!--<asset name='ipaneySheet' type='graphic'>chars/ipaney.png</asset>!-->
+	<asset name='ipaneySheet' type='graphic'>chars/ipaney.png</asset>
 	
   
   <asset name='firstRoomMap' type='graphic'>backgrounds/firstRoomMap.png</asset>
@@ -148,7 +148,7 @@
 	<asset name='asarin_idle' type='graphic'>dialogs/asarin_idle.png</asset>
 	<asset name='amoneo_idle' type='graphic'>dialogs/amoneo_idle.png</asset>
 	<asset name='asyyce_idle' type='graphic'>dialogs/asyyce_idle.png</asset>
-	<!--<asset name='ipaney_idle' type='graphic'>dialogs/ipaney_idle.png</asset>!-->
+	<asset name='ipaney_idle' type='graphic'>dialogs/ipaney_idle.png</asset>
 	
 	<asset name='jpVania' type='audio'>audio/music/jpVania.ogg;audio/music/jpVania.mp3</asset>
 	<asset name='hOH' type='audio'>audio/music/heirOfHeart.ogg;audio/music/heirOfHeart.mp3</asset>
@@ -217,7 +217,7 @@
 		<animation name='asarin_idle' class='asarin-dialog' sheet='asarin_idle' />
 		<animation name='amoneo_idle' class='amoneo-dialog' sheet='amoneo_idle' />
 		<animation name='asyyce_idle' class='asyyce-dialog' sheet='asyyce_idle' />
-		<!--<animation name='ipaney_idle' class='ipaney-dialog' sheet='ipaney_idle' />!-->
+		<animation name='ipaney_idle' class='ipaney-dialog' sheet='ipaney_idle' />
 	</dialogsprites>
 </hud>
 
