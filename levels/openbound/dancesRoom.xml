@@ -15,6 +15,7 @@
 	<asset name='flowerCountry' type='audio'>audio/music/theFascinatingFlowerCountry.ogg;audio/music/theFascinatingFlowerCountry.mp3</asset>
 	<asset name='stellar' type='audio'>audio/music/Stellar.ogg;audio/music/Stellar.mp3</asset>
 	<asset name='sHL' type='audio'>audio/music/snowHalationLyrics.ogg;audio/music/snowHalationLyrics.mp3</asset>
+	<asset name='Hurt' type='audio'>audio/music/Hurt.ogg;audio/music/Hurt.mp3</asset>
 </assets>
 
 
@@ -103,9 +104,9 @@
 		<action class='ipaneyTalk1' />
 		<action name='Deviens Ipaney.' command='changeChar'>
 			<args>ipaney</args>
-			<!--<action command='playSong'>
-				<args>badManors</args>
-			</action>!-->
+			<action command='playSong'>
+				<args>Hurt</args>
+			</action>
 		</action>
    </character>
 	  
