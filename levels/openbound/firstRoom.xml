@@ -446,7 +446,7 @@
 	  
 	  
 	  
-   <character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <!--<character name='season' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seasonSheet' state='walkRight' facing='Right'>
 		<action class='seasonTalk1'/>
 		<action name='Deviens Season.' command='changeChar'>
@@ -455,11 +455,11 @@
 				<args>jpVania</args>
 			</action>
 		</action>
-   </character>
+   </character>!-->
 	  
 	  
 	  
-   <character name='akuuma' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='akuuma' x='1245' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='akuumaSheet' state='walkRight' facing='Right'>
 		<action class='akuumaTalk1'/>
 		<action name='Deviens Akuuma.' command='changeChar'>
@@ -470,7 +470,7 @@
 		</action>
    </character>
 	  
-   <character name='arseck' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='arseck' x='1245' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='arseckSheet' state='walkRight' facing='Right'>
 		<action class='arseckTalk1'/>
 		<action name='Deviens Arseck.' command='changeChar'>
@@ -481,7 +481,7 @@
 		</action>
    </character>
 	  
-   <character name='seferi' x='1245' y='905' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='seferi' x='1245' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='seferiSheet' state='walkRight' facing='Right'>
 		<action class='seferiTalk1'/>
 		<action name='Deviens Seferi.' command='changeChar'>
@@ -492,7 +492,7 @@
 		</action>
    </character>
 	  
-   <character name='eliseo' x='1245' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='eliseo' x='1245' y='865' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='eliseoSheet' state='walkRight' facing='Right'>
 		<action class='eliseoTalk1'/>
 		<action class='eliseoTalk2'>
@@ -526,7 +526,7 @@
 		</action>
    </character>
 	  
-   <character name='gardia' x='1165' y='945' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
+   <character name='gardia' x='1165' y='865' sx='-50' sy='-110' sWidth='100' sHeight='130' width='40' height='20'
 		sheet='gardiaSheet' state='walkRight' facing='Right'>
 		<action class='gardiaTalk1' />
 		<action name='Deviens Gardia.' command='changeChar'>
@@ -539,7 +539,7 @@
 	  
 	  
 	  
-   <character name='asyyce' x='1495' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+   <character name='asyyce' x='1670' y='745' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
 	       sheet='asyyceSheet' state='walkLeft' facing='Left'>
 		<action class='asyyceTalk1'/>
 		<action name='Deviens Asyyce.' command='changeChar'>
@@ -552,8 +552,8 @@
 	  
 	  
 	  
-   <character name='asarin' x='1245' y='985' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='asarinSheet' state='walkRight' facing='Right'>
+   <character name='asarin' x='1670' y='785' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='asarinSheet' state='walkLeft' facing='Left'>
 		<action class='asarinTalk1'/>
 		<action name='Deviens Asarin.' command='changeChar'>
 			<args>asarin</args>
@@ -563,8 +563,8 @@
 		</action>
    </character>
 	  
-   <character name='arkeah' x='1245' y='1025' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='arkeahSheet' state='walkRight' facing='Right'>
+   <character name='arkeah' x='1670' y='825' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='arkeahSheet' state='walkLeft' facing='Left'>
 		<action class='arkeahTalk1'/>
 		<action name='Deviens Arkeah.' command='changeChar'>
 			<args>arkeah</args>
@@ -574,8 +574,8 @@
 		</action>
    </character>
 	  
-   <character name='viveil' x='1245' y='1065' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
-	       sheet='viveilSheet' state='walkRight' facing='Right'>
+   <character name='viveil' x='1670' y='865' sx='-50' sy='-110' sWidth='100' sHeight='130' width='48' height='21' 
+	       sheet='viveilSheet' state='walkLeft' facing='Left'>
 		<action class='viveilTalk1'/>
 		<action name='Deviens Viveil.' command='changeChar'>
 			<args>viveil</args>
